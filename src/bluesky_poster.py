@@ -70,14 +70,10 @@ def format_post(game: dict, away_xr: float, home_xr: float) -> str:
         if actual_winner_away != xr_winner_away:
             xr_indicator = " \U0001f534"  # Red circle
 
-    away_tag = _get_hashtag(away_name)
-    home_tag = _get_hashtag(home_name)
-
     post = (
         f"{away_name} ({away_xr:.2f} xR) {away_score} \u2013 "
         f"{home_score} ({home_xr:.2f} xR) {home_name}"
-        f"{xr_indicator}\n\n"
-        f"#MLB #xR #{away_tag} #{home_tag}"
+        f"{xr_indicator}"
     )
 
     # Fall back to abbreviations if too long
@@ -87,8 +83,7 @@ def format_post(game: dict, away_xr: float, home_xr: float) -> str:
         post = (
             f"{away_name} ({away_xr:.2f} xR) {away_score} \u2013 "
             f"{home_score} ({home_xr:.2f} xR) {home_name}"
-            f"{xr_indicator}\n\n"
-            f"#MLB #xR #{away_tag} #{home_tag}"
+            f"{xr_indicator}"
         )
 
     return post
