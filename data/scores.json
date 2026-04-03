@@ -262,5 +262,65 @@
     "home_score": 5,
     "away_xr": 1.45,
     "home_xr": 4.54
+  },
+  {
+    "gamePk": 824621,
+    "date": "2026-04-03",
+    "away_team": "Toronto Blue Jays",
+    "home_team": "Chicago White Sox",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 4,
+    "home_score": 5,
+    "away_xr": 3.21,
+    "home_xr": 3.9
+  },
+  {
+    "gamePk": 822919,
+    "date": "2026-04-03",
+    "away_team": "Cincinnati Reds",
+    "home_team": "Texas Rangers",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 5,
+    "home_score": 3,
+    "away_xr": 5.4,
+    "home_xr": 4.32
+  },
+  {
+    "gamePk": 824458,
+    "date": "2026-04-03",
+    "away_team": "Chicago Cubs",
+    "home_team": "Cleveland Guardians",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 1,
+    "home_score": 4,
+    "away_xr": 0.57,
+    "home_xr": 5.29
+  },
+  {
+    "gamePk": 824377,
+    "date": "2026-04-03",
+    "away_team": "Philadelphia Phillies",
+    "home_team": "Colorado Rockies",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 10,
+    "home_score": 1,
+    "away_xr": 10.17,
+    "home_xr": 1.02
+  },
+  {
+    "gamePk": 823406,
+    "date": "2026-04-03",
+    "away_team": "Baltimore Orioles",
+    "home_team": "Pittsburgh Pirates",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 4,
+    "home_score": 5,
+    "away_xr": 3.9,
+    "home_xr": 5.84
   }
 ]
