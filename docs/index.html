@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>xR Philosophy</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --surface: #f5f5f5;
+  --text: #111111;
+  --text-secondary: #666666;
+  --border: #e0e0e0;
+  --red: #dc2f1f;
+  --red-bg: #fff0f0;
+  --accent: #333333;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d0d0d;
+    --surface: #1a1a1a;
+    --text: #e8e8e8;
+    --text-secondary: #999999;
+    --border: #2a2a2a;
+    --red: #ef4432;
+    --red-bg: #2a1010;
+    --accent: #cccccc;
+  }
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  line-height: 1.5;
+}
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--red);
+  padding-bottom: 1.5rem;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+h1 span { color: var(--red); }
+.subtitle {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+.stats {
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--bg);
+}
+th {
+  text-align: left;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  padding: 0.5rem 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+td {
+  padding: 0.6rem 0.4rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.95rem;
+}
+.date-header td {
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  background: var(--surface);
+  padding: 0.4rem;
+}
+.score {
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  text-align: center;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.xr {
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+.team { font-weight: 500; }
+.team.away { text-align: right; }
+.team.home { text-align: left; }
+tr.mismatch {
+  background: var(--red-bg);
+}
+tr.mismatch .score::after {
+  content: " \1f534";
+  font-size: 0.7rem;
+}
+footer {
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+  line-height: 1.6;
+}
+footer strong { color: var(--text); }
+</style>
+</head>
+<body>
+<header>
+  <h1><span>x</span>R Philosophy</h1>
+  <div class="subtitle">Expected Runs | MLB 2026</div>
+  <div class="stats">22 games &middot; 2 xR mismatches (9.1%)</div>
+</header>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:right">Away</th>
+      <th style="text-align:center">xR</th>
+      <th style="text-align:center">Score</th>
+      <th style="text-align:center">xR</th>
+      <th>Home</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="date-header"><td colspan="5">2026-04-03</td></tr>
+<tr><td class="team away">Los Angeles Dodgers</td><td class="xr">13.76</td><td class="score">13 &ndash; 6</td><td class="xr">6.31</td><td class="team home">Washington Nationals</td></tr>
+<tr><td class="team away">St. Louis Cardinals</td><td class="xr">0.30</td><td class="score">0 &ndash; 4</td><td class="xr">3.89</td><td class="team home">Detroit Tigers</td></tr>
+<tr><td class="team away">Miami Marlins</td><td class="xr">2.45</td><td class="score">2 &ndash; 8</td><td class="xr">6.73</td><td class="team home">New York Yankees</td></tr>
+<tr><td class="team away">San Diego Padres</td><td class="xr">1.45</td><td class="score">2 &ndash; 5</td><td class="xr">4.54</td><td class="team home">Boston Red Sox</td></tr>
+<tr class="date-header"><td colspan="5">2026-04-02</td></tr>
+<tr><td class="team away">Minnesota Twins</td><td class="xr">5.26</td><td class="score">5 &ndash; 1</td><td class="xr">1.77</td><td class="team home">Kansas City Royals</td></tr>
+<tr><td class="team away">Atlanta Braves</td><td class="xr">17.32</td><td class="score">17 &ndash; 2</td><td class="xr">1.38</td><td class="team home">Arizona Diamondbacks</td></tr>
+<tr><td class="team away">New York Mets</td><td class="xr">1.78</td><td class="score">2 &ndash; 7</td><td class="xr">7.40</td><td class="team home">San Francisco Giants</td></tr>
+<tr class="date-header"><td colspan="5">2026-04-01</td></tr>
+<tr><td class="team away">Athletics</td><td class="xr">1.04</td><td class="score">1 &ndash; 5</td><td class="xr">5.08</td><td class="team home">Atlanta Braves</td></tr>
+<tr><td class="team away">Texas Rangers</td><td class="xr">3.71</td><td class="score">3 &ndash; 8</td><td class="xr">9.11</td><td class="team home">Baltimore Orioles</td></tr>
+<tr><td class="team away">Pittsburgh Pirates</td><td class="xr">6.88</td><td class="score">8 &ndash; 3</td><td class="xr">3.07</td><td class="team home">Cincinnati Reds</td></tr>
+<tr><td class="team away">Washington Nationals</td><td class="xr">3.26</td><td class="score">5 &ndash; 6</td><td class="xr">8.03</td><td class="team home">Philadelphia Phillies</td></tr>
+<tr class="mismatch"><td class="team away">Colorado Rockies</td><td class="xr">0.48</td><td class="score">2 &ndash; 1</td><td class="xr">1.03</td><td class="team home">Toronto Blue Jays</td></tr>
+<tr><td class="team away">Chicago White Sox</td><td class="xr">0.03</td><td class="score">0 &ndash; 10</td><td class="xr">10.72</td><td class="team home">Miami Marlins</td></tr>
+<tr class="mismatch"><td class="team away">New York Mets</td><td class="xr">2.18</td><td class="score">1 &ndash; 2</td><td class="xr">1.57</td><td class="team home">St. Louis Cardinals</td></tr>
+<tr><td class="team away">Tampa Bay Rays</td><td class="xr">2.38</td><td class="score">2 &ndash; 8</td><td class="xr">6.16</td><td class="team home">Milwaukee Brewers</td></tr>
+<tr><td class="team away">Boston Red Sox</td><td class="xr">3.98</td><td class="score">4 &ndash; 6</td><td class="xr">6.75</td><td class="team home">Houston Astros</td></tr>
+<tr><td class="team away">Los Angeles Angels</td><td class="xr">2.78</td><td class="score">2 &ndash; 6</td><td class="xr">7.09</td><td class="team home">Chicago Cubs</td></tr>
+<tr><td class="team away">Detroit Tigers</td><td class="xr">0.09</td><td class="score">0 &ndash; 1</td><td class="xr">1.30</td><td class="team home">Arizona Diamondbacks</td></tr>
+<tr><td class="team away">San Francisco Giants</td><td class="xr">0.81</td><td class="score">1 &ndash; 7</td><td class="xr">5.66</td><td class="team home">San Diego Padres</td></tr>
+<tr><td class="team away">New York Yankees</td><td class="xr">5.13</td><td class="score">5 &ndash; 3</td><td class="xr">2.13</td><td class="team home">Seattle Mariners</td></tr>
+<tr><td class="team away">Minnesota Twins</td><td class="xr">8.12</td><td class="score">9 &ndash; 13</td><td class="xr">12.50</td><td class="team home">Kansas City Royals</td></tr>
+<tr><td class="team away">Cleveland Guardians</td><td class="xr">4.13</td><td class="score">4 &ndash; 1</td><td class="xr">1.48</td><td class="team home">Los Angeles Dodgers</td></tr>
+
+  </tbody>
+</table>
+<footer>
+  <p><strong>What is xR?</strong> Expected Runs (xR) measures how many runs a team's
+  events &mdash; hits, walks, outs &mdash; typically produce in each base-out context,
+  based on historical MLB averages. Unlike actual runs, xR is independent of
+  sequencing luck. A red row means the team with higher xR lost the game.</p>
+  <p style="margin-top:0.5rem">Data from MLB Stats API. Updated automatically.</p>
+</footer>
+</body>
+</html>
