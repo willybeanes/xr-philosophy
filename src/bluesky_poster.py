@@ -115,8 +115,9 @@ def format_post(game: dict, away_xr: float, home_xr: float) -> str:
     return post
 
 
-def post_game_result(game: dict, away_xr: float, home_xr: float) -> str | None:
-    """Post a game result to Bluesky.
+def post_game_result(game: dict, away_xr: float, home_xr: float,
+                     chart_png: bytes | None = None) -> str | None:
+    """Post a game result to Bluesky, optionally with a chart image.
 
     Returns the post URI if successful, None otherwise.
     """
@@ -132,7 +133,22 @@ def post_game_result(game: dict, away_xr: float, home_xr: float) -> str | None:
     try:
         client = Client()
         client.login(handle, app_password)
-        response = client.send_post(text=text)
+
+        if chart_png:
+            away_abbr = TEAM_ABBR.get(game["away_team"], "Away")
+            home_abbr = TEAM_ABBR.get(game["home_team"], "Home")
+            alt_text = (
+                f"Cumulative xR chart: {away_abbr} {away_xr:.2f} xR "
+                f"vs {home_abbr} {home_xr:.2f} xR"
+            )
+            response = client.send_image(
+                text=text,
+                image=chart_png,
+                image_alt=alt_text,
+            )
+        else:
+            response = client.send_post(text=text)
+
         return response.uri
     except Exception as e:
         print(f"  ERROR posting to Bluesky: {e}")

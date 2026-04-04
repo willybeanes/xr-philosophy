@@ -8,6 +8,7 @@ from datetime import date
 from src.mlb_fetcher import get_todays_games, get_play_by_play
 from src.re24_engine import calculate_xr
 from src.bluesky_poster import post_game_result, format_post
+from src.chart_renderer import render_chart_png
 from src.site_updater import save_score, regenerate_site
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
@@ -78,10 +79,21 @@ def main():
             post_text = format_post(game, away_xr, home_xr)
             print(f"  Post: {post_text}")
 
+            # Generate chart image for Bluesky post
+            score_entry = {
+                **game,
+                "away_xr": away_xr,
+                "home_xr": home_xr,
+                "chart_data": xr.get("cumulative"),
+            }
+            chart_png = render_chart_png(score_entry)
+            if chart_png:
+                print(f"  Chart: {len(chart_png) // 1024} KB")
+
             if DRY_RUN:
                 print("  [DRY RUN] Skipping Bluesky post")
             else:
-                uri = post_game_result(game, away_xr, home_xr)
+                uri = post_game_result(game, away_xr, home_xr, chart_png=chart_png)
                 if uri:
                     print(f"  Posted: {uri}")
                 else:
