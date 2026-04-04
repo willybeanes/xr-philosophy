@@ -377,6 +377,7 @@ def regenerate_site() -> None:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>xR Philosophy</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='80' font-size='80'>&#9918;</text></svg>">
 <style>
 :root {{
   --bg: #ffffff; --surface: #f5f5f5; --text: #111111;
