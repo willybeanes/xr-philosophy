@@ -6,6 +6,10 @@ on:
     # During baseball season (April-October)
     - cron: '*/15 19-23,0-6 * 4-10 *'
   workflow_dispatch:
+    inputs:
+      game_date:
+        description: 'Target date (YYYY-MM-DD), defaults to today'
+        required: false
 
 jobs:
   run-bot:
@@ -28,6 +32,7 @@ jobs:
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          GAME_DATE: ${{ inputs.game_date }}
         run: python main.py
 
       - name: Commit updated state and site

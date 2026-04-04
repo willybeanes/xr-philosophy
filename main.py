@@ -3,6 +3,7 @@
 import json
 import os
 import sys
+from datetime import date
 
 from src.mlb_fetcher import get_todays_games, get_play_by_play
 from src.re24_engine import calculate_xr
@@ -36,9 +37,15 @@ def main():
     posted = load_posted()
     print(f"  {len(posted)} games already posted")
 
-    print("Fetching today's final games...")
+    # Support GAME_DATE env var for targeting a specific date
+    game_date = None
+    if os.environ.get("GAME_DATE"):
+        game_date = date.fromisoformat(os.environ["GAME_DATE"])
+        print(f"Targeting date: {game_date}")
+
+    print(f"Fetching {'final' if not game_date else game_date.isoformat()} games...")
     try:
-        games = get_todays_games()
+        games = get_todays_games(game_date=game_date)
     except Exception as e:
         print(f"  ERROR fetching games: {e}")
         return
