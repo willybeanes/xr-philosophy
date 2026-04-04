@@ -183,19 +183,32 @@ def regenerate_site() -> None:
     mismatch_count = sum(1 for s in scores if _is_mismatch(s))
     mismatch_pct = (mismatch_count / total_games * 100) if total_games else 0
 
-    # Build rows
+    # Build rows — most recent 2 dates expanded, rest collapsed
     rows_html = ""
-    for game_date in sorted(by_date.keys(), reverse=True):
-        rows_html += f'<tr class="date-header"><td colspan="5">{game_date}</td></tr>\n'
+    sorted_dates = sorted(by_date.keys(), reverse=True)
+    for date_idx, game_date in enumerate(sorted_dates):
+        collapsed = date_idx >= 2  # collapse all but the 2 most recent dates
+        date_id = game_date.replace("-", "")
+        arrow_char = "&#9656;" if collapsed else "&#9662;"
+        game_count = len(by_date[game_date])
+        count_label = f' <span class="date-count">({game_count})</span>' if collapsed else ""
+
+        rows_html += (
+            f'<tr class="date-header" onclick="toggleDate(\'{date_id}\')">'
+            f'<td colspan="5"><span class="date-arrow" id="arrow-{date_id}">{arrow_char}</span> '
+            f'{game_date}{count_label}</td></tr>\n'
+        )
+
+        hide = ' style="display:none"' if collapsed else ""
         for g in by_date[game_date]:
             gpk = g["gamePk"]
             mismatch = ' class="mismatch"' if _is_mismatch(g) else ""
             has_chart = "chart_data" in g and g["chart_data"]
-            click = f' onclick="toggle({gpk})"' if has_chart else ""
+            click = f' onclick="event.stopPropagation();toggle({gpk})"' if has_chart else ""
             arrow = ' <span class="arrow">&#9656;</span>' if has_chart else ""
 
             rows_html += (
-                f'<tr{mismatch}{click} data-gpk="{gpk}">'
+                f'<tr class="date-group date-{date_id}"{mismatch}{click} data-gpk="{gpk}"{hide}>'
                 f'<td class="team away">{g["away_team"]}{arrow}</td>'
                 f'<td class="xr">{g["away_xr"]:.2f}</td>'
                 f'<td class="score">{g["away_score"]} &ndash; {g["home_score"]}</td>'
@@ -207,7 +220,8 @@ def regenerate_site() -> None:
             if has_chart:
                 svg = _generate_chart_svg(g)
                 rows_html += (
-                    f'<tr class="chart-row" id="chart-{gpk}" style="display:none">'
+                    f'<tr class="chart-row date-group date-{date_id}" id="chart-{gpk}"'
+                    f' style="display:none">'
                     f'<td colspan="5" class="chart-cell">{svg}</td>'
                     f"</tr>\n"
                 )
@@ -261,10 +275,14 @@ th {{
   padding: 0.5rem 0.4rem; border-bottom: 1px solid var(--border);
 }}
 td {{ padding: 0.6rem 0.4rem; border-bottom: 1px solid var(--border); font-size: 0.95rem; }}
+.date-header {{ cursor: pointer; }}
+.date-header:hover {{ background: #eee; }}
 .date-header td {{
   font-weight: 700; font-size: 0.85rem; color: var(--text-secondary);
   background: var(--surface); padding: 0.4rem;
 }}
+.date-arrow {{ display: inline-block; font-size: 0.7rem; width: 1em; transition: transform 0.15s; }}
+.date-count {{ font-weight: 400; font-size: 0.8rem; }}
 .score {{
   font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
   text-align: center; font-weight: 700; white-space: nowrap;
@@ -330,6 +348,22 @@ function toggle(gpk) {{
     chart.style.display = 'none';
     row.classList.remove('expanded');
   }}
+}}
+function toggleDate(dateId) {{
+  var rows = document.querySelectorAll('.date-' + dateId + ':not(.chart-row)');
+  var arrow = document.getElementById('arrow-' + dateId);
+  var isHidden = rows.length > 0 && rows[0].style.display === 'none';
+  rows.forEach(function(r) {{ r.style.display = isHidden ? '' : 'none'; }});
+  // Also hide any open charts in this date group
+  if (!isHidden) {{
+    document.querySelectorAll('.date-' + dateId + '.chart-row').forEach(function(c) {{
+      c.style.display = 'none';
+    }});
+    document.querySelectorAll('.date-' + dateId + '[data-gpk]').forEach(function(r) {{
+      r.classList.remove('expanded');
+    }});
+  }}
+  arrow.innerHTML = isHidden ? '&#9662;' : '&#9656;';
 }}
 </script>
 </body>
