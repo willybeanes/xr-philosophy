@@ -4,6 +4,41 @@ import os
 
 from atproto import Client
 
+# Official MLB team primary colors
+TEAM_COLORS = {
+    "Arizona Diamondbacks": "#A71930",
+    "Atlanta Braves": "#CE1141",
+    "Baltimore Orioles": "#DF4601",
+    "Boston Red Sox": "#BD3039",
+    "Chicago Cubs": "#0E3386",
+    "Chicago White Sox": "#27251F",
+    "Cincinnati Reds": "#C6011F",
+    "Cleveland Guardians": "#00385D",
+    "Colorado Rockies": "#333366",
+    "Detroit Tigers": "#0C2340",
+    "Houston Astros": "#002D62",
+    "Kansas City Royals": "#004687",
+    "Los Angeles Angels": "#BA0021",
+    "Los Angeles Dodgers": "#005A9C",
+    "Miami Marlins": "#00A3E0",
+    "Milwaukee Brewers": "#FFC52F",
+    "Minnesota Twins": "#002B5C",
+    "New York Mets": "#002D72",
+    "New York Yankees": "#003087",
+    "Athletics": "#003831",
+    "Oakland Athletics": "#003831",
+    "Philadelphia Phillies": "#E81828",
+    "Pittsburgh Pirates": "#FDB827",
+    "San Diego Padres": "#2F241D",
+    "San Francisco Giants": "#FD5A1E",
+    "Seattle Mariners": "#0C2C56",
+    "St. Louis Cardinals": "#C41E3A",
+    "Tampa Bay Rays": "#092C5C",
+    "Texas Rangers": "#003278",
+    "Toronto Blue Jays": "#134A8E",
+    "Washington Nationals": "#AB0003",
+}
+
 # Standard MLB team abbreviations (FanGraphs style)
 TEAM_ABBR = {
     "Arizona Diamondbacks": "ARI",

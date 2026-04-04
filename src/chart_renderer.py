@@ -7,7 +7,7 @@ suitable for uploading to Bluesky.
 from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont
 
-from src.bluesky_poster import TEAM_ABBR
+from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS
 
 # Chart dimensions — 1:1 aspect ratio for Bluesky display
 W = 1200
@@ -18,18 +18,36 @@ PW = W - PL - PR
 PH = H - PT - PB
 
 # Colors
-BLUE = (37, 99, 235)       # #2563eb
-RED = (220, 38, 38)        # #dc2626
 GRID = (229, 231, 235)     # #e5e7eb
 LABEL = (156, 163, 175)    # #9ca3af
 AXIS = (209, 213, 219)     # #d1d5db
 BG = (255, 255, 255)
-BLUE_FAINT = (37, 99, 235, 140)   # 55% opacity
-RED_FAINT = (220, 38, 38, 140)
+
+# Defaults if team color not found
+DEFAULT_AWAY = (37, 99, 235)   # #2563eb
+DEFAULT_HOME = (220, 38, 38)   # #dc2626
+
+
+def _hex_to_rgb(hex_color: str) -> tuple:
+    """Convert '#RRGGBB' to (R, G, B) tuple."""
+    h = hex_color.lstrip("#")
+    return tuple(int(h[i:i+2], 16) for i in (0, 2, 4))
+
+
+def _faint(rgb: tuple) -> tuple:
+    """Add alpha for dashed lines."""
+    return (*rgb, 140)
 
 
 def _get_abbr(name: str) -> str:
     return TEAM_ABBR.get(name, name.split()[-1][:3].upper())
+
+
+def _get_color_rgb(name: str, fallback: tuple) -> tuple:
+    hex_color = TEAM_COLORS.get(name)
+    if hex_color:
+        return _hex_to_rgb(hex_color)
+    return fallback
 
 
 def _sx(pa, max_pa):
@@ -101,6 +119,10 @@ def render_chart_png(game: dict) -> bytes | None:
 
     away_abbr = _get_abbr(game["away_team"])
     home_abbr = _get_abbr(game["home_team"])
+    away_rgb = _get_color_rgb(game["away_team"], DEFAULT_AWAY)
+    home_rgb = _get_color_rgb(game["home_team"], DEFAULT_HOME)
+    away_faint = _faint(away_rgb)
+    home_faint = _faint(home_rgb)
 
     # Build point series
     points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1}]
@@ -162,10 +184,10 @@ def render_chart_png(game: dict) -> bytes | None:
         draw.text((mid, PT + PH + 8), str(inn), fill=LABEL, font=font_sm, anchor="ma")
 
     # Draw lines: dashed actuals first (behind), then solid xR
-    _draw_step_line(draw, points, "a_r", max_pa, max_y, BLUE_FAINT, 3, dash=(12, 8))
-    _draw_step_line(draw, points, "h_r", max_pa, max_y, RED_FAINT, 3, dash=(12, 8))
-    _draw_step_line(draw, points, "a_xr", max_pa, max_y, BLUE, 5)
-    _draw_step_line(draw, points, "h_xr", max_pa, max_y, RED, 5)
+    _draw_step_line(draw, points, "a_r", max_pa, max_y, away_faint, 3, dash=(12, 8))
+    _draw_step_line(draw, points, "h_r", max_pa, max_y, home_faint, 3, dash=(12, 8))
+    _draw_step_line(draw, points, "a_xr", max_pa, max_y, away_rgb, 5)
+    _draw_step_line(draw, points, "h_xr", max_pa, max_y, home_rgb, 5)
 
     # Axes
     draw.line([(PL, PT), (PL, PT + PH)], fill=AXIS, width=2)
@@ -175,10 +197,10 @@ def render_chart_png(game: dict) -> bytes | None:
     last = points[-1]
     end_x = W - PR + 8
     for key, color, fmt in [
-        ("a_xr", BLUE, f'{last["a_xr"]:.1f}'),
-        ("a_r", BLUE_FAINT, f'{last["a_r"]}'),
-        ("h_xr", RED, f'{last["h_xr"]:.1f}'),
-        ("h_r", RED_FAINT, f'{last["h_r"]}'),
+        ("a_xr", away_rgb, f'{last["a_xr"]:.1f}'),
+        ("a_r", away_faint, f'{last["a_r"]}'),
+        ("h_xr", home_rgb, f'{last["h_xr"]:.1f}'),
+        ("h_r", home_faint, f'{last["h_r"]}'),
     ]:
         y = _sy(last[key], max_y)
         draw.text((end_x, y - 10), fmt, fill=color, font=font_bold)
@@ -187,22 +209,22 @@ def render_chart_png(game: dict) -> bytes | None:
     ly = PT + 2
     lx = PL + 12
     # Away xR (solid)
-    draw.line([(lx, ly + 8), (lx + 32, ly + 8)], fill=BLUE, width=5)
-    draw.text((lx + 38, ly), f"{away_abbr} xR", fill=BLUE, font=font_bold)
+    draw.line([(lx, ly + 8), (lx + 32, ly + 8)], fill=away_rgb, width=5)
+    draw.text((lx + 38, ly), f"{away_abbr} xR", fill=away_rgb, font=font_bold)
     # Away actual (dashed)
     lx2 = lx + 130
     for dx in range(0, 32, 12):
-        draw.line([(lx2 + dx, ly + 8), (lx2 + dx + 6, ly + 8)], fill=BLUE_FAINT, width=3)
-    draw.text((lx2 + 38, ly), f"{away_abbr} actual", fill=BLUE_FAINT, font=font_sm)
+        draw.line([(lx2 + dx, ly + 8), (lx2 + dx + 6, ly + 8)], fill=away_faint, width=3)
+    draw.text((lx2 + 38, ly), f"{away_abbr} actual", fill=away_faint, font=font_sm)
     # Home xR (solid)
     lx3 = lx + 320
-    draw.line([(lx3, ly + 8), (lx3 + 32, ly + 8)], fill=RED, width=5)
-    draw.text((lx3 + 38, ly), f"{home_abbr} xR", fill=RED, font=font_bold)
+    draw.line([(lx3, ly + 8), (lx3 + 32, ly + 8)], fill=home_rgb, width=5)
+    draw.text((lx3 + 38, ly), f"{home_abbr} xR", fill=home_rgb, font=font_bold)
     # Home actual (dashed)
     lx4 = lx + 450
     for dx in range(0, 32, 12):
-        draw.line([(lx4 + dx, ly + 8), (lx4 + dx + 6, ly + 8)], fill=RED_FAINT, width=3)
-    draw.text((lx4 + 38, ly), f"{home_abbr} actual", fill=RED_FAINT, font=font_sm)
+        draw.line([(lx4 + dx, ly + 8), (lx4 + dx + 6, ly + 8)], fill=home_faint, width=3)
+    draw.text((lx4 + 38, ly), f"{home_abbr} actual", fill=home_faint, font=font_sm)
 
     # Export as PNG bytes
     buf = BytesIO()

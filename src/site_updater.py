@@ -2,16 +2,16 @@
 
 import json
 import os
+from collections import defaultdict
 from datetime import date
 
-from src.bluesky_poster import TEAM_ABBR
+from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
 
 
 def load_scores() -> list[dict]:
-    """Load scores from data/scores.json."""
     if not os.path.exists(SCORES_PATH):
         return []
     with open(SCORES_PATH) as f:
@@ -20,13 +20,10 @@ def load_scores() -> list[dict]:
 
 def save_score(game: dict, away_xr: float, home_xr: float,
                chart_data: list | None = None) -> None:
-    """Append a game score to data/scores.json."""
     scores = load_scores()
-
     existing_pks = {s["gamePk"] for s in scores}
     if game["gamePk"] in existing_pks:
         return
-
     entry = {
         "gamePk": game["gamePk"],
         "date": game.get("game_date", date.today().isoformat()),
@@ -41,7 +38,6 @@ def save_score(game: dict, away_xr: float, home_xr: float,
     }
     if chart_data is not None:
         entry["chart_data"] = chart_data
-
     scores.append(entry)
     os.makedirs(os.path.dirname(SCORES_PATH), exist_ok=True)
     with open(SCORES_PATH, "w") as f:
@@ -49,22 +45,25 @@ def save_score(game: dict, away_xr: float, home_xr: float,
 
 
 def _get_abbr(g: dict, side: str) -> str:
-    """Get proper team abbreviation."""
     name = g[f"{side}_team"]
     abbr = g.get(f"{side}_abbr", "")
     return TEAM_ABBR.get(name, abbr or name.split()[-1][:3].upper())
 
 
+def _get_color(team_name: str, fallback: str) -> str:
+    return TEAM_COLORS.get(team_name, fallback)
+
+
 def _generate_chart_svg(g: dict) -> str:
-    """Generate an inline SVG chart for a game showing cumulative xR vs actual runs."""
     cd = g.get("chart_data")
     if not cd:
         return ""
 
     away_abbr = _get_abbr(g, "away")
     home_abbr = _get_abbr(g, "home")
+    away_color = _get_color(g["away_team"], "#2563eb")
+    home_color = _get_color(g["home_team"], "#dc2626")
 
-    # Build point series
     points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1}]
     for p in cd:
         points.append({
@@ -72,7 +71,6 @@ def _generate_chart_svg(g: dict) -> str:
             "a_r": p["a_r"], "h_r": p["h_r"], "inn": p["inn"],
         })
 
-    # Inning boundaries
     inning_starts = {}
     for p in cd:
         if p["inn"] not in inning_starts:
@@ -91,23 +89,16 @@ def _generate_chart_svg(g: dict) -> str:
         1
     ) * 1.15
 
-    def sx(pa):
-        return PL + (pa / max_pa) * PW
-
-    def sy(val):
-        return PT + PH - (val / max_y) * PH
+    def sx(pa): return PL + (pa / max_pa) * PW
+    def sy(val): return PT + PH - (val / max_y) * PH
 
     def step_path(pts, key):
         parts = []
         for i, p in enumerate(pts):
             x = sx(p["pa"]); y = sy(p[key])
-            if i == 0:
-                parts.append(f"M {x:.1f} {y:.1f}")
-            else:
-                parts.append(f"H {x:.1f} V {y:.1f}")
+            parts.append(f"M {x:.1f} {y:.1f}" if i == 0 else f"H {x:.1f} V {y:.1f}")
         return " ".join(parts)
 
-    # Y gridlines
     step = 2 if max_y > 6 else 1
     y_grid = ""
     for v in range(0, int(max_y) + 1, step):
@@ -115,7 +106,6 @@ def _generate_chart_svg(g: dict) -> str:
         y_grid += f'<line x1="{PL}" y1="{y:.0f}" x2="{W-PR}" y2="{y:.0f}" stroke="#e5e7eb" stroke-width="0.5"/>'
         y_grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#9ca3af" font-size="10">{v}</text>'
 
-    # Inning dividers + labels
     inn_svg = ""
     for inn, pa_start in inning_starts.items():
         x = sx(pa_start)
@@ -124,13 +114,12 @@ def _generate_chart_svg(g: dict) -> str:
         mid = sx((pa_start + next_start) / 2)
         inn_svg += f'<text x="{mid:.0f}" y="{PT+PH+14}" text-anchor="middle" fill="#9ca3af" font-size="10">{inn}</text>'
 
-    # End labels (avoid overlap)
     last = points[-1]
     positions = [
-        ("a_xr", "#2563eb", f'{last["a_xr"]:.1f}', "1"),
-        ("a_r", "#2563eb", f'{last["a_r"]}', "0.6"),
-        ("h_xr", "#dc2626", f'{last["h_xr"]:.1f}', "1"),
-        ("h_r", "#dc2626", f'{last["h_r"]}', "0.6"),
+        ("a_xr", away_color, f'{last["a_xr"]:.1f}', "1"),
+        ("a_r", away_color, f'{last["a_r"]}', "0.6"),
+        ("h_xr", home_color, f'{last["h_xr"]:.1f}', "1"),
+        ("h_r", home_color, f'{last["h_r"]}', "0.6"),
     ]
     labels = ""
     used_y = []
@@ -146,56 +135,99 @@ def _generate_chart_svg(g: dict) -> str:
 
     return f"""<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:{FONT}">
 {y_grid}{inn_svg}
-<path d="{step_path(points, 'a_r')}" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
-<path d="{step_path(points, 'h_r')}" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
-<path d="{step_path(points, 'a_xr')}" fill="none" stroke="#2563eb" stroke-width="2.5"/>
-<path d="{step_path(points, 'h_xr')}" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<path d="{step_path(points, 'a_r')}" fill="none" stroke="{away_color}" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
+<path d="{step_path(points, 'h_r')}" fill="none" stroke="{home_color}" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
+<path d="{step_path(points, 'a_xr')}" fill="none" stroke="{away_color}" stroke-width="2.5"/>
+<path d="{step_path(points, 'h_xr')}" fill="none" stroke="{home_color}" stroke-width="2.5"/>
 {labels}
 <line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
 <line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
-<line x1="{PL+6}" y1="{PT+7}" x2="{PL+22}" y2="{PT+7}" stroke="#2563eb" stroke-width="2.5"/>
-<text x="{PL+25}" y="{PT+10}" fill="#2563eb" font-size="10" font-weight="600">{away_abbr} xR</text>
-<line x1="{PL+72}" y1="{PT+7}" x2="{PL+88}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+91}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">{away_abbr} actual</text>
-<line x1="{PL+160}" y1="{PT+7}" x2="{PL+176}" y2="{PT+7}" stroke="#dc2626" stroke-width="2.5"/>
-<text x="{PL+179}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
-<line x1="{PL+226}" y1="{PT+7}" x2="{PL+242}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+245}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">{home_abbr} actual</text>
+<line x1="{PL+6}" y1="{PT+7}" x2="{PL+22}" y2="{PT+7}" stroke="{away_color}" stroke-width="2.5"/>
+<text x="{PL+25}" y="{PT+10}" fill="{away_color}" font-size="10" font-weight="600">{away_abbr} xR</text>
+<line x1="{PL+72}" y1="{PT+7}" x2="{PL+88}" y2="{PT+7}" stroke="{away_color}" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+91}" y="{PT+10}" fill="{away_color}" font-size="10" opacity="0.5">{away_abbr} actual</text>
+<line x1="{PL+160}" y1="{PT+7}" x2="{PL+176}" y2="{PT+7}" stroke="{home_color}" stroke-width="2.5"/>
+<text x="{PL+179}" y="{PT+10}" fill="{home_color}" font-size="10" font-weight="600">{home_abbr} xR</text>
+<line x1="{PL+226}" y1="{PT+7}" x2="{PL+242}" y2="{PT+7}" stroke="{home_color}" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+245}" y="{PT+10}" fill="{home_color}" font-size="10" opacity="0.5">{home_abbr} actual</text>
 </svg>"""
 
 
 def _is_mismatch(g: dict) -> bool:
-    """Check if the xR winner differs from the actual winner."""
     if g["away_score"] == g["home_score"] or g["away_xr"] == g["home_xr"]:
         return False
     return (g["away_score"] > g["home_score"]) != (g["away_xr"] > g["home_xr"])
 
 
+def _build_teams_table(scores: list) -> str:
+    """Build the Teams tab HTML with sortable per-team stats."""
+    teams = defaultdict(lambda: {
+        "games": 0, "xr": 0.0, "xr_allowed": 0.0,
+        "runs": 0, "runs_allowed": 0,
+    })
+
+    for s in scores:
+        # Away team
+        aw = s["away_team"]
+        teams[aw]["games"] += 1
+        teams[aw]["xr"] += s["away_xr"]
+        teams[aw]["xr_allowed"] += s["home_xr"]
+        teams[aw]["runs"] += s["away_score"]
+        teams[aw]["runs_allowed"] += s["home_score"]
+
+        # Home team
+        hm = s["home_team"]
+        teams[hm]["games"] += 1
+        teams[hm]["xr"] += s["home_xr"]
+        teams[hm]["xr_allowed"] += s["away_xr"]
+        teams[hm]["runs"] += s["home_score"]
+        teams[hm]["runs_allowed"] += s["away_score"]
+
+    rows = ""
+    for name in sorted(teams.keys()):
+        t = teams[name]
+        g = t["games"]
+        if g == 0:
+            continue
+        xr_pg = t["xr"] / g
+        xra_pg = t["xr_allowed"] / g
+        r_pg = t["runs"] / g
+        ra_pg = t["runs_allowed"] / g
+        rows += (
+            f'<tr>'
+            f'<td class="team-name">{name}</td>'
+            f'<td class="num">{g}</td>'
+            f'<td class="num">{xr_pg:.2f}</td>'
+            f'<td class="num">{xra_pg:.2f}</td>'
+            f'<td class="num">{r_pg:.2f}</td>'
+            f'<td class="num">{ra_pg:.2f}</td>'
+            f'</tr>\n'
+        )
+    return rows
+
+
 def regenerate_site() -> None:
-    """Regenerate docs/index.html from scores data."""
     scores = load_scores()
 
-    # Group by date, most recent first
     by_date: dict[str, list] = {}
     for s in scores:
         by_date.setdefault(s["date"], []).append(s)
 
-    # Summary stats
     total_games = len(scores)
     mismatch_count = sum(1 for s in scores if _is_mismatch(s))
     mismatch_pct = (mismatch_count / total_games * 100) if total_games else 0
 
-    # Build rows — most recent 2 dates expanded, rest collapsed
-    rows_html = ""
+    # ── Games tab rows ──
+    games_rows = ""
     sorted_dates = sorted(by_date.keys(), reverse=True)
     for date_idx, game_date in enumerate(sorted_dates):
-        collapsed = date_idx >= 2  # collapse all but the 2 most recent dates
+        collapsed = date_idx >= 2
         date_id = game_date.replace("-", "")
         arrow_char = "&#9656;" if collapsed else "&#9662;"
         game_count = len(by_date[game_date])
         count_label = f' <span class="date-count">({game_count})</span>' if collapsed else ""
 
-        rows_html += (
+        games_rows += (
             f'<tr class="date-header" onclick="toggleDate(\'{date_id}\')">'
             f'<td colspan="5"><span class="date-arrow" id="arrow-{date_id}">{arrow_char}</span> '
             f'{game_date}{count_label}</td></tr>\n'
@@ -209,7 +241,7 @@ def regenerate_site() -> None:
             click = f' onclick="event.stopPropagation();toggle({gpk})"' if has_chart else ""
             arrow = ' <span class="arrow">&#9656;</span>' if has_chart else ""
 
-            rows_html += (
+            games_rows += (
                 f'<tr class="date-group date-{date_id}{mismatch_cls}"{click} data-gpk="{gpk}"{hide}>'
                 f'<td class="team away">{g["away_team"]}{arrow}</td>'
                 f'<td class="xr">{g["away_xr"]:.2f}</td>'
@@ -218,15 +250,15 @@ def regenerate_site() -> None:
                 f'<td class="team home">{g["home_team"]}</td>'
                 f"</tr>\n"
             )
-
             if has_chart:
                 svg = _generate_chart_svg(g)
-                rows_html += (
-                    f'<tr class="chart-row date-group date-{date_id}" id="chart-{gpk}"'
-                    f' style="display:none">'
-                    f'<td colspan="5" class="chart-cell">{svg}</td>'
-                    f"</tr>\n"
+                games_rows += (
+                    f'<tr class="chart-row date-group date-{date_id}" id="chart-{gpk}" style="display:none">'
+                    f'<td colspan="5" class="chart-cell">{svg}</td></tr>\n'
                 )
+
+    # ── Teams tab rows ──
+    teams_rows = _build_teams_table(scores)
 
     stats_html = (
         f'<div class="stats">{total_games} games'
@@ -241,35 +273,52 @@ def regenerate_site() -> None:
 <title>xR Philosophy</title>
 <style>
 :root {{
-  --bg: #ffffff;
-  --surface: #f5f5f5;
-  --text: #111111;
-  --text-secondary: #666666;
-  --border: #e0e0e0;
-  --red: #dc2f1f;
-  --red-bg: #fff0f0;
+  --bg: #ffffff; --surface: #f5f5f5; --text: #111111;
+  --text-secondary: #666666; --border: #e0e0e0;
+  --red: #dc2f1f; --red-bg: #fff0f0; --accent: #333;
 }}
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 body {{
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-  line-height: 1.5;
+  background: var(--bg); color: var(--text);
+  max-width: 720px; margin: 0 auto; padding: 2rem 1rem; line-height: 1.5;
 }}
 header {{
-  text-align: center;
-  margin-bottom: 2rem;
-  border-bottom: 2px solid var(--red);
-  padding-bottom: 1.5rem;
+  text-align: center; margin-bottom: 1rem;
+  border-bottom: 2px solid var(--red); padding-bottom: 1.5rem;
 }}
 h1 {{ font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; }}
 h1 span {{ color: var(--red); }}
 .subtitle {{ color: var(--text-secondary); font-size: 0.9rem; margin-top: 0.25rem; }}
 .stats {{ color: var(--text-secondary); font-size: 0.8rem; margin-top: 0.5rem; }}
-table {{ width: 100%; border-collapse: collapse; margin-bottom: 2rem; }}
+
+/* Tabs */
+.tabs {{
+  display: flex; gap: 0; margin-bottom: 0.75rem; border-bottom: 1px solid var(--border);
+}}
+.tab {{
+  padding: 0.5rem 1.2rem; cursor: pointer; font-size: 0.9rem; font-weight: 600;
+  color: var(--text-secondary); border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}}
+.tab:hover {{ color: var(--text); }}
+.tab.active {{ color: var(--text); border-bottom-color: var(--red); }}
+.tab-content {{ display: none; }}
+.tab-content.active {{ display: block; }}
+
+/* Expand all */
+.toolbar {{
+  display: flex; justify-content: flex-end; margin-bottom: 0.5rem;
+}}
+.expand-btn {{
+  background: none; border: 1px solid var(--border); border-radius: 4px;
+  padding: 0.25rem 0.6rem; font-size: 0.75rem; color: var(--text-secondary);
+  cursor: pointer;
+}}
+.expand-btn:hover {{ background: var(--surface); color: var(--text); }}
+
+/* Games table */
+table {{ width: 100%; border-collapse: collapse; margin-bottom: 1rem; }}
 thead {{ position: sticky; top: 0; z-index: 1; background: var(--bg); }}
 th {{
   text-align: left; font-size: 0.75rem; text-transform: uppercase;
@@ -304,6 +353,19 @@ tr.mismatch[onclick]:hover {{ background: var(--red-bg); }}
 tr.expanded .arrow {{ transform: rotate(90deg); }}
 .chart-row {{ border-bottom: 1px solid var(--border); }}
 .chart-cell {{ padding: 0.5rem 0; background: var(--surface); text-align: center; }}
+
+/* Teams table */
+#teams-tab table {{ margin-top: 0.5rem; }}
+#teams-tab th {{ cursor: pointer; user-select: none; }}
+#teams-tab th:hover {{ color: var(--text); }}
+#teams-tab th.sorted-asc::after {{ content: " \\25B2"; font-size: 0.6rem; }}
+#teams-tab th.sorted-desc::after {{ content: " \\25BC"; font-size: 0.6rem; }}
+.team-name {{ font-weight: 600; }}
+.num {{
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  text-align: center; font-size: 0.85rem;
+}}
+
 footer {{
   color: var(--text-secondary); font-size: 0.8rem;
   border-top: 1px solid var(--border); padding-top: 1rem; line-height: 1.6;
@@ -317,20 +379,50 @@ footer strong {{ color: var(--text); }}
   <div class="subtitle">Expected Runs | MLB {date.today().year}</div>
   {stats_html}
 </header>
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:right">Away</th>
-      <th style="text-align:center">xR</th>
-      <th style="text-align:center">Score</th>
-      <th style="text-align:center">xR</th>
-      <th>Home</th>
-    </tr>
-  </thead>
-  <tbody>
-    {rows_html if rows_html else '<tr><td colspan="5" style="text-align:center;color:var(--text-secondary);padding:2rem">No games recorded yet.</td></tr>'}
-  </tbody>
-</table>
+
+<div class="tabs">
+  <div class="tab active" onclick="switchTab('games',this)">Games</div>
+  <div class="tab" onclick="switchTab('teams',this)">Teams</div>
+</div>
+
+<div id="games-tab" class="tab-content active">
+  <div class="toolbar">
+    <button class="expand-btn" onclick="expandAll()">Expand all</button>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:right">Away</th>
+        <th style="text-align:center">xR</th>
+        <th style="text-align:center">Score</th>
+        <th style="text-align:center">xR</th>
+        <th>Home</th>
+      </tr>
+    </thead>
+    <tbody>
+      {games_rows if games_rows else '<tr><td colspan="5" style="text-align:center;color:var(--text-secondary);padding:2rem">No games recorded yet.</td></tr>'}
+    </tbody>
+  </table>
+</div>
+
+<div id="teams-tab" class="tab-content">
+  <table id="teams-table">
+    <thead>
+      <tr>
+        <th onclick="sortTeams(0)" class="sorted-asc">Team</th>
+        <th onclick="sortTeams(1)" style="text-align:center">G</th>
+        <th onclick="sortTeams(2)" style="text-align:center">xR/G</th>
+        <th onclick="sortTeams(3)" style="text-align:center">xRA/G</th>
+        <th onclick="sortTeams(4)" style="text-align:center">R/G</th>
+        <th onclick="sortTeams(5)" style="text-align:center">RA/G</th>
+      </tr>
+    </thead>
+    <tbody>
+      {teams_rows}
+    </tbody>
+  </table>
+</div>
+
 <footer>
   <p><strong>What is xR?</strong> Expected Runs (xR) uses Statcast exit velocity and
   launch angle to estimate how many runs each team's batted balls <em>deserved</em>
@@ -339,16 +431,15 @@ footer strong {{ color: var(--text); }}
   team with higher xR lost. Click any game to see the cumulative xR chart.</p>
   <p style="margin-top:0.5rem">Data from MLB Stats API &amp; Statcast. Updated automatically.</p>
 </footer>
+
 <script>
 function toggle(gpk) {{
   var chart = document.getElementById('chart-' + gpk);
   var row = document.querySelector('tr[data-gpk="' + gpk + '"]');
   if (chart.style.display === 'none') {{
-    chart.style.display = '';
-    row.classList.add('expanded');
+    chart.style.display = ''; row.classList.add('expanded');
   }} else {{
-    chart.style.display = 'none';
-    row.classList.remove('expanded');
+    chart.style.display = 'none'; row.classList.remove('expanded');
   }}
 }}
 function toggleDate(dateId) {{
@@ -356,16 +447,57 @@ function toggleDate(dateId) {{
   var arrow = document.getElementById('arrow-' + dateId);
   var isHidden = rows.length > 0 && rows[0].style.display === 'none';
   rows.forEach(function(r) {{ r.style.display = isHidden ? '' : 'none'; }});
-  // Also hide any open charts in this date group
   if (!isHidden) {{
-    document.querySelectorAll('.date-' + dateId + '.chart-row').forEach(function(c) {{
-      c.style.display = 'none';
-    }});
-    document.querySelectorAll('.date-' + dateId + '[data-gpk]').forEach(function(r) {{
-      r.classList.remove('expanded');
-    }});
+    document.querySelectorAll('.date-' + dateId + '.chart-row').forEach(function(c) {{ c.style.display = 'none'; }});
+    document.querySelectorAll('.date-' + dateId + '[data-gpk]').forEach(function(r) {{ r.classList.remove('expanded'); }});
   }}
   arrow.innerHTML = isHidden ? '&#9662;' : '&#9656;';
+}}
+function expandAll() {{
+  var btn = document.querySelector('.expand-btn');
+  var expanding = btn.textContent === 'Expand all';
+  document.querySelectorAll('.date-header').forEach(function(hdr) {{
+    var dateId = hdr.querySelector('.date-arrow').id.replace('arrow-', '');
+    var rows = document.querySelectorAll('.date-' + dateId + ':not(.chart-row)');
+    var arrow = document.getElementById('arrow-' + dateId);
+    if (expanding) {{
+      rows.forEach(function(r) {{ r.style.display = ''; }});
+      arrow.innerHTML = '&#9662;';
+    }} else {{
+      rows.forEach(function(r) {{ r.style.display = 'none'; }});
+      document.querySelectorAll('.date-' + dateId + '.chart-row').forEach(function(c) {{ c.style.display = 'none'; }});
+      document.querySelectorAll('.date-' + dateId + '[data-gpk]').forEach(function(r) {{ r.classList.remove('expanded'); }});
+      arrow.innerHTML = '&#9656;';
+    }}
+  }});
+  btn.textContent = expanding ? 'Collapse all' : 'Expand all';
+}}
+function switchTab(tab, el) {{
+  document.querySelectorAll('.tab').forEach(function(t) {{ t.classList.remove('active'); }});
+  document.querySelectorAll('.tab-content').forEach(function(c) {{ c.classList.remove('active'); }});
+  document.querySelector('#' + tab + '-tab').classList.add('active');
+  if (el) el.classList.add('active');
+}}
+var sortDir = {{}};
+function sortTeams(col) {{
+  var table = document.getElementById('teams-table');
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr'));
+  var ths = table.querySelectorAll('th');
+  sortDir[col] = sortDir[col] === 'asc' ? 'desc' : 'asc';
+  var dir = sortDir[col];
+  ths.forEach(function(th) {{ th.classList.remove('sorted-asc', 'sorted-desc'); }});
+  ths[col].classList.add(dir === 'asc' ? 'sorted-asc' : 'sorted-desc');
+  rows.sort(function(a, b) {{
+    var aVal = a.cells[col].textContent.trim();
+    var bVal = b.cells[col].textContent.trim();
+    var aNum = parseFloat(aVal); var bNum = parseFloat(bVal);
+    if (!isNaN(aNum) && !isNaN(bNum)) {{
+      return dir === 'asc' ? aNum - bNum : bNum - aNum;
+    }}
+    return dir === 'asc' ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+  }});
+  rows.forEach(function(r) {{ tbody.appendChild(r); }});
 }}
 </script>
 </body>
@@ -374,5 +506,4 @@ function toggleDate(dateId) {{
     os.makedirs(DOCS_DIR, exist_ok=True)
     with open(os.path.join(DOCS_DIR, "index.html"), "w") as f:
         f.write(html)
-
     print(f"  Site regenerated: docs/index.html ({total_games} games, {mismatch_count} mismatches)")
