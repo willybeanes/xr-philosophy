@@ -202,13 +202,13 @@ def regenerate_site() -> None:
         hide = ' style="display:none"' if collapsed else ""
         for g in by_date[game_date]:
             gpk = g["gamePk"]
-            mismatch = ' class="mismatch"' if _is_mismatch(g) else ""
+            mismatch_cls = " mismatch" if _is_mismatch(g) else ""
             has_chart = "chart_data" in g and g["chart_data"]
             click = f' onclick="event.stopPropagation();toggle({gpk})"' if has_chart else ""
             arrow = ' <span class="arrow">&#9656;</span>' if has_chart else ""
 
             rows_html += (
-                f'<tr class="date-group date-{date_id}"{mismatch}{click} data-gpk="{gpk}"{hide}>'
+                f'<tr class="date-group date-{date_id}{mismatch_cls}"{click} data-gpk="{gpk}"{hide}>'
                 f'<td class="team away">{g["away_team"]}{arrow}</td>'
                 f'<td class="xr">{g["away_xr"]:.2f}</td>'
                 f'<td class="score">{g["away_score"]} &ndash; {g["home_score"]}</td>'
