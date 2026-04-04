@@ -193,6 +193,8 @@ def _build_teams_table(scores: list) -> str:
         xra_pg = t["xr_allowed"] / g
         r_pg = t["runs"] / g
         ra_pg = t["runs_allowed"] / g
+        diff_bat = xr_pg - r_pg    # positive = underperforming (xR > R)
+        diff_pitch = xra_pg - ra_pg  # positive = pitching overperforming (xRA > RA)
         rows += (
             f'<tr>'
             f'<td class="team-name">{name}</td>'
@@ -201,6 +203,8 @@ def _build_teams_table(scores: list) -> str:
             f'<td class="num">{xra_pg:.2f}</td>'
             f'<td class="num">{r_pg:.2f}</td>'
             f'<td class="num">{ra_pg:.2f}</td>'
+            f'<td class="num diff">{diff_bat:+.2f}</td>'
+            f'<td class="num diff">{diff_pitch:+.2f}</td>'
             f'</tr>\n'
         )
     return rows
@@ -361,6 +365,7 @@ tr.expanded .arrow {{ transform: rotate(90deg); }}
 #teams-tab th.sorted-asc::after {{ content: " \\25B2"; font-size: 0.6rem; }}
 #teams-tab th.sorted-desc::after {{ content: " \\25BC"; font-size: 0.6rem; }}
 .team-name {{ font-weight: 600; }}
+.diff {{ font-weight: 600; }}
 .num {{
   font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
   text-align: center; font-size: 0.85rem;
@@ -415,6 +420,8 @@ footer strong {{ color: var(--text); }}
         <th onclick="sortTeams(3)" style="text-align:center">xRA/G</th>
         <th onclick="sortTeams(4)" style="text-align:center">R/G</th>
         <th onclick="sortTeams(5)" style="text-align:center">RA/G</th>
+        <th onclick="sortTeams(6)" style="text-align:center">xR-R/G</th>
+        <th onclick="sortTeams(7)" style="text-align:center">xRA-RA/G</th>
       </tr>
     </thead>
     <tbody>
