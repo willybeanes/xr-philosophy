@@ -4,6 +4,8 @@ import json
 import os
 from datetime import date
 
+from src.bluesky_poster import TEAM_ABBR
+
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
 
@@ -30,8 +32,8 @@ def save_score(game: dict, away_xr: float, home_xr: float,
         "date": game.get("game_date", date.today().isoformat()),
         "away_team": game["away_team"],
         "home_team": game["home_team"],
-        "away_abbr": game.get("away_abbr", ""),
-        "home_abbr": game.get("home_abbr", ""),
+        "away_abbr": TEAM_ABBR.get(game["away_team"], game.get("away_abbr", "")),
+        "home_abbr": TEAM_ABBR.get(game["home_team"], game.get("home_abbr", "")),
         "away_score": game["away_score"],
         "home_score": game["home_score"],
         "away_xr": away_xr,
@@ -46,25 +48,28 @@ def save_score(game: dict, away_xr: float, home_xr: float,
         json.dump(scores, f, indent=2)
 
 
+def _get_abbr(g: dict, side: str) -> str:
+    """Get proper team abbreviation."""
+    name = g[f"{side}_team"]
+    abbr = g.get(f"{side}_abbr", "")
+    return TEAM_ABBR.get(name, abbr or name.split()[-1][:3].upper())
+
+
 def _generate_chart_svg(g: dict) -> str:
     """Generate an inline SVG chart for a game showing cumulative xR vs actual runs."""
     cd = g.get("chart_data")
     if not cd:
         return ""
 
-    away_abbr = g.get("away_abbr") or g["away_team"].split()[-1][:3].upper()
-    home_abbr = g.get("home_abbr") or g["home_team"].split()[-1][:3].upper()
+    away_abbr = _get_abbr(g, "away")
+    home_abbr = _get_abbr(g, "home")
 
-    # Build point series from chart_data (already has cumulative values per PA)
+    # Build point series
     points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1}]
     for p in cd:
         points.append({
-            "pa": p["pa"],
-            "a_xr": p["a_xr"],
-            "h_xr": p["h_xr"],
-            "a_r": p["a_r"],
-            "h_r": p["h_r"],
-            "inn": p["inn"],
+            "pa": p["pa"], "a_xr": p["a_xr"], "h_xr": p["h_xr"],
+            "a_r": p["a_r"], "h_r": p["h_r"], "inn": p["inn"],
         })
 
     # Inning boundaries
@@ -73,7 +78,6 @@ def _generate_chart_svg(g: dict) -> str:
         if p["inn"] not in inning_starts:
             inning_starts[p["inn"]] = p["pa"]
 
-    # Chart dimensions
     W = 720; H = 340
     PL = 42; PR = 40; PT = 14; PB = 36
     PW = W - PL - PR; PH = H - PT - PB
@@ -108,56 +112,61 @@ def _generate_chart_svg(g: dict) -> str:
     y_grid = ""
     for v in range(0, int(max_y) + 1, step):
         y = sy(v)
-        y_grid += f'<line x1="{PL}" y1="{y:.0f}" x2="{W-PR}" y2="{y:.0f}" stroke="var(--chart-grid)" stroke-width="0.5"/>'
-        y_grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="var(--chart-label)" font-size="10">{v}</text>'
+        y_grid += f'<line x1="{PL}" y1="{y:.0f}" x2="{W-PR}" y2="{y:.0f}" stroke="#e5e7eb" stroke-width="0.5"/>'
+        y_grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#9ca3af" font-size="10">{v}</text>'
 
     # Inning dividers + labels
     inn_svg = ""
     for inn, pa_start in inning_starts.items():
         x = sx(pa_start)
-        inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="var(--chart-grid)" stroke-width="0.5" stroke-dasharray="3,3"/>'
+        inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/>'
         next_start = inning_starts.get(inn + 1, max_pa)
         mid = sx((pa_start + next_start) / 2)
-        inn_svg += f'<text x="{mid:.0f}" y="{PT+PH+14}" text-anchor="middle" fill="var(--chart-label)" font-size="10">{inn}</text>'
+        inn_svg += f'<text x="{mid:.0f}" y="{PT+PH+14}" text-anchor="middle" fill="#9ca3af" font-size="10">{inn}</text>'
 
-    # End labels
+    # End labels (avoid overlap)
     last = points[-1]
-    labels = ""
-    # Offset overlapping labels
     positions = [
-        ("a_xr", "#2563eb", f'{last["a_xr"]:.1f}'),
-        ("a_r", "#2563eb", f'{last["a_r"]}'),
-        ("h_xr", "#dc2626", f'{last["h_xr"]:.1f}'),
-        ("h_r", "#dc2626", f'{last["h_r"]}'),
+        ("a_xr", "#2563eb", f'{last["a_xr"]:.1f}', "1"),
+        ("a_r", "#2563eb", f'{last["a_r"]}', "0.6"),
+        ("h_xr", "#dc2626", f'{last["h_xr"]:.1f}', "1"),
+        ("h_r", "#dc2626", f'{last["h_r"]}', "0.6"),
     ]
+    labels = ""
     used_y = []
-    for key, color, text in positions:
+    for key, color, text, opacity in positions:
         y = sy(last[key])
-        # Push away from nearby labels
         for uy in used_y:
             if abs(y - uy) < 12:
                 y = uy - 12 if y < uy else uy + 12
         used_y.append(y)
-        opacity = "0.5" if key.endswith("_r") else "1"
-        dash = " (actual)" if key.endswith("_r") else ""
         labels += f'<text x="{W-PR+4}" y="{y+4:.0f}" fill="{color}" font-size="10" font-weight="600" opacity="{opacity}">{text}</text>'
 
-    return f"""<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:system-ui,sans-serif">
+    FONT = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+
+    return f"""<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:{FONT}">
 {y_grid}{inn_svg}
 <path d="{step_path(points, 'a_r')}" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
 <path d="{step_path(points, 'h_r')}" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
 <path d="{step_path(points, 'a_xr')}" fill="none" stroke="#2563eb" stroke-width="2.5"/>
 <path d="{step_path(points, 'h_xr')}" fill="none" stroke="#dc2626" stroke-width="2.5"/>
 {labels}
-<line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="var(--chart-axis)" stroke-width="1"/>
-<line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="var(--chart-axis)" stroke-width="1"/>
+<line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
+<line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
 <text x="{PL+6}" y="{PT+10}" fill="#2563eb" font-size="10" font-weight="600">{away_abbr} xR</text>
-<line x1="{PL+40}" y1="{PT+7}" x2="{PL+56}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+58}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">actual</text>
-<text x="{PL+105}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
-<line x1="{PL+139}" y1="{PT+7}" x2="{PL+155}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+157}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">actual</text>
+<line x1="{PL+42}" y1="{PT+7}" x2="{PL+58}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+60}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">actual</text>
+<text x="{PL+107}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
+<line x1="{PL+141}" y1="{PT+7}" x2="{PL+157}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+159}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">actual</text>
 </svg>"""
+
+
+def _is_mismatch(g: dict) -> bool:
+    """Check if the xR winner differs from the actual winner."""
+    if g["away_score"] == g["home_score"] or g["away_xr"] == g["home_xr"]:
+        return False
+    return (g["away_score"] > g["home_score"]) != (g["away_xr"] > g["home_xr"])
 
 
 def regenerate_site() -> None:
@@ -171,11 +180,7 @@ def regenerate_site() -> None:
 
     # Summary stats
     total_games = len(scores)
-    mismatch_count = 0
-    for s in scores:
-        if s["away_score"] != s["home_score"] and s["away_xr"] != s["home_xr"]:
-            if (s["away_score"] > s["home_score"]) != (s["away_xr"] > s["home_xr"]):
-                mismatch_count += 1
+    mismatch_count = sum(1 for s in scores if _is_mismatch(s))
     mismatch_pct = (mismatch_count / total_games * 100) if total_games else 0
 
     # Build rows
@@ -184,11 +189,7 @@ def regenerate_site() -> None:
         rows_html += f'<tr class="date-header"><td colspan="5">{game_date}</td></tr>\n'
         for g in by_date[game_date]:
             gpk = g["gamePk"]
-            mismatch = ""
-            if g["away_score"] != g["home_score"] and g["away_xr"] != g["home_xr"]:
-                if (g["away_score"] > g["home_score"]) != (g["away_xr"] > g["home_xr"]):
-                    mismatch = ' class="mismatch"'
-
+            mismatch = ' class="mismatch"' if _is_mismatch(g) else ""
             has_chart = "chart_data" in g and g["chart_data"]
             click = f' onclick="toggle({gpk})"' if has_chart else ""
             arrow = ' <span class="arrow">&#9656;</span>' if has_chart else ""
@@ -231,25 +232,6 @@ def regenerate_site() -> None:
   --border: #e0e0e0;
   --red: #dc2f1f;
   --red-bg: #fff0f0;
-  --chart-grid: #e5e7eb;
-  --chart-label: #9ca3af;
-  --chart-axis: #d1d5db;
-  --chart-bg: #fafafa;
-}}
-@media (prefers-color-scheme: dark) {{
-  :root {{
-    --bg: #0d0d0d;
-    --surface: #1a1a1a;
-    --text: #e8e8e8;
-    --text-secondary: #999999;
-    --border: #2a2a2a;
-    --red: #ef4432;
-    --red-bg: #2a1010;
-    --chart-grid: #333333;
-    --chart-label: #666666;
-    --chart-axis: #444444;
-    --chart-bg: #141414;
-  }}
 }}
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 body {{
@@ -295,17 +277,13 @@ td {{ padding: 0.6rem 0.4rem; border-bottom: 1px solid var(--border); font-size:
 .team.away {{ text-align: right; }}
 .team.home {{ text-align: left; }}
 tr.mismatch {{ background: var(--red-bg); }}
-tr.mismatch .score::after {{ content: " \\1f534"; font-size: 0.7rem; }}
 tr[onclick] {{ cursor: pointer; }}
 tr[onclick]:hover {{ background: var(--surface); }}
 tr.mismatch[onclick]:hover {{ background: var(--red-bg); }}
 .arrow {{ font-size: 0.7rem; color: var(--text-secondary); transition: transform 0.15s; display: inline-block; }}
 tr.expanded .arrow {{ transform: rotate(90deg); }}
 .chart-row {{ border-bottom: 1px solid var(--border); }}
-.chart-cell {{
-  padding: 0.5rem 0; background: var(--chart-bg);
-  text-align: center;
-}}
+.chart-cell {{ padding: 0.5rem 0; background: var(--surface); text-align: center; }}
 footer {{
   color: var(--text-secondary); font-size: 0.8rem;
   border-top: 1px solid var(--border); padding-top: 1rem; line-height: 1.6;

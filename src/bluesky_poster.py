@@ -4,6 +4,41 @@ import os
 
 from atproto import Client
 
+# Standard MLB team abbreviations (FanGraphs style)
+TEAM_ABBR = {
+    "Arizona Diamondbacks": "ARI",
+    "Atlanta Braves": "ATL",
+    "Baltimore Orioles": "BAL",
+    "Boston Red Sox": "BOS",
+    "Chicago Cubs": "CHC",
+    "Chicago White Sox": "CWS",
+    "Cincinnati Reds": "CIN",
+    "Cleveland Guardians": "CLE",
+    "Colorado Rockies": "COL",
+    "Detroit Tigers": "DET",
+    "Houston Astros": "HOU",
+    "Kansas City Royals": "KC",
+    "Los Angeles Angels": "LAA",
+    "Los Angeles Dodgers": "LAD",
+    "Miami Marlins": "MIA",
+    "Milwaukee Brewers": "MIL",
+    "Minnesota Twins": "MIN",
+    "New York Mets": "NYM",
+    "New York Yankees": "NYY",
+    "Athletics": "OAK",
+    "Oakland Athletics": "OAK",
+    "Philadelphia Phillies": "PHI",
+    "Pittsburgh Pirates": "PIT",
+    "San Diego Padres": "SD",
+    "San Francisco Giants": "SF",
+    "Seattle Mariners": "SEA",
+    "St. Louis Cardinals": "STL",
+    "Tampa Bay Rays": "TB",
+    "Texas Rangers": "TEX",
+    "Toronto Blue Jays": "TOR",
+    "Washington Nationals": "WSH",
+}
+
 # Map full team names to hashtag-friendly short names
 TEAM_HASHTAGS = {
     "Arizona Diamondbacks": "Dbacks",
@@ -26,6 +61,7 @@ TEAM_HASHTAGS = {
     "New York Mets": "Mets",
     "New York Yankees": "Yankees",
     "Oakland Athletics": "Athletics",
+    "Athletics": "Athletics",
     "Philadelphia Phillies": "Phillies",
     "Pittsburgh Pirates": "Pirates",
     "San Diego Padres": "Padres",
@@ -62,18 +98,9 @@ def format_post(game: dict, away_xr: float, home_xr: float) -> str:
     away_score = game["away_score"]
     home_score = game["home_score"]
 
-    # Determine if xR result differs from actual result
-    xr_indicator = ""
-    if away_score != home_score and away_xr != home_xr:
-        actual_winner_away = away_score > home_score
-        xr_winner_away = away_xr > home_xr
-        if actual_winner_away != xr_winner_away:
-            xr_indicator = " \U0001f534"  # Red circle
-
     post = (
         f"{away_name} ({away_xr:.2f} xR) {away_score} \u2013 "
         f"{home_score} ({home_xr:.2f} xR) {home_name}"
-        f"{xr_indicator}"
     )
 
     # Fall back to abbreviations if too long
@@ -83,7 +110,6 @@ def format_post(game: dict, away_xr: float, home_xr: float) -> str:
         post = (
             f"{away_name} ({away_xr:.2f} xR) {away_score} \u2013 "
             f"{home_score} ({home_xr:.2f} xR) {home_name}"
-            f"{xr_indicator}"
         )
 
     return post
