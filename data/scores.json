@@ -300,6 +300,18 @@
     "home_xr": 6.75
   },
   {
+    "gamePk": 823732,
+    "date": "2026-04-03",
+    "away_team": "Tampa Bay Rays",
+    "home_team": "Minnesota Twins",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 4,
+    "home_score": 10,
+    "away_xr": 2.19,
+    "home_xr": 5.9
+  },
+  {
     "gamePk": 824377,
     "date": "2026-04-03",
     "away_team": "Philadelphia Phillies",
@@ -322,5 +334,53 @@
     "home_score": 5,
     "away_xr": 3.87,
     "home_xr": 2.88
+  },
+  {
+    "gamePk": 824056,
+    "date": "2026-04-03",
+    "away_team": "Seattle Mariners",
+    "home_team": "Los Angeles Angels",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 3,
+    "home_score": 1,
+    "away_xr": 3.33,
+    "home_xr": 1.62
+  },
+  {
+    "gamePk": 825026,
+    "date": "2026-04-03",
+    "away_team": "Houston Astros",
+    "home_team": "Athletics",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 4,
+    "home_score": 11,
+    "away_xr": 5.18,
+    "home_xr": 6.51
+  },
+  {
+    "gamePk": 825103,
+    "date": "2026-04-03",
+    "away_team": "Atlanta Braves",
+    "home_team": "Arizona Diamondbacks",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 2,
+    "home_score": 0,
+    "away_xr": 3.51,
+    "home_xr": 3.4
+  },
+  {
+    "gamePk": 823240,
+    "date": "2026-04-03",
+    "away_team": "New York Mets",
+    "home_team": "San Francisco Giants",
+    "away_abbr": "",
+    "home_abbr": "",
+    "away_score": 10,
+    "home_score": 3,
+    "away_xr": 9.55,
+    "home_xr": 2.22
   }
 ]

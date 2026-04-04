@@ -1,0 +1,1306 @@
+{
+  "catcher_interf|___|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "catcher_interf||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "catcher_interf||1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "caught_stealing_2b|1_3|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "caught_stealing_2b|1__|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "caught_stealing_2b||": {
+    "avg_runs": 0.25,
+    "n": 4
+  },
+  "caught_stealing_2b||2": {
+    "avg_runs": 0.25,
+    "n": 4
+  },
+  "caught_stealing_3b|12_|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "caught_stealing_3b||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "caught_stealing_3b||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "double_play|12_|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "double_play|1__|0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "double_play|1__|1": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "double_play|_23|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "double_play|__3|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "double_play|___|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "double_play||": {
+    "avg_runs": 0.0,
+    "n": 11
+  },
+  "double_play||0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "double_play||1": {
+    "avg_runs": 0.0,
+    "n": 9
+  },
+  "double|123|0": {
+    "avg_runs": 1.5,
+    "n": 4
+  },
+  "double|123|1": {
+    "avg_runs": 1.5,
+    "n": 6
+  },
+  "double|123|2": {
+    "avg_runs": 1.6,
+    "n": 5
+  },
+  "double|12_|0": {
+    "avg_runs": 1.25,
+    "n": 4
+  },
+  "double|12_|1": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "double|12_|2": {
+    "avg_runs": 1.5,
+    "n": 4
+  },
+  "double|1_3|0": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "double|1_3|1": {
+    "avg_runs": 1.5,
+    "n": 2
+  },
+  "double|1_3|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "double|1__|0": {
+    "avg_runs": 0.3,
+    "n": 20
+  },
+  "double|1__|1": {
+    "avg_runs": 0.4545,
+    "n": 11
+  },
+  "double|1__|2": {
+    "avg_runs": 0.5294,
+    "n": 17
+  },
+  "double|_23|1": {
+    "avg_runs": 2.0,
+    "n": 3
+  },
+  "double|_23|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "double|_2_|0": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "double|_2_|1": {
+    "avg_runs": 1.0,
+    "n": 6
+  },
+  "double|_2_|2": {
+    "avg_runs": 1.0,
+    "n": 4
+  },
+  "double|__3|1": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "double|__3|2": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "double|___|0": {
+    "avg_runs": 0.0,
+    "n": 66
+  },
+  "double|___|1": {
+    "avg_runs": 0.0,
+    "n": 44
+  },
+  "double|___|2": {
+    "avg_runs": 0.0,
+    "n": 32
+  },
+  "double||": {
+    "avg_runs": 0.3487,
+    "n": 238
+  },
+  "double||0": {
+    "avg_runs": 0.2062,
+    "n": 97
+  },
+  "double||1": {
+    "avg_runs": 0.4267,
+    "n": 75
+  },
+  "double||2": {
+    "avg_runs": 0.4697,
+    "n": 66
+  },
+  "field_error|123|2": {
+    "avg_runs": 1.0,
+    "n": 4
+  },
+  "field_error|12_|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "field_error|1_3|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "field_error|1__|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "field_error|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "field_error|___|0": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "field_error|___|1": {
+    "avg_runs": 0.0,
+    "n": 6
+  },
+  "field_error|___|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "field_error||": {
+    "avg_runs": 0.25,
+    "n": 24
+  },
+  "field_error||0": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "field_error||1": {
+    "avg_runs": 0.0,
+    "n": 7
+  },
+  "field_error||2": {
+    "avg_runs": 0.6667,
+    "n": 9
+  },
+  "field_out|123|0": {
+    "avg_runs": 0.6667,
+    "n": 3
+  },
+  "field_out|123|1": {
+    "avg_runs": 0.0714,
+    "n": 14
+  },
+  "field_out|123|2": {
+    "avg_runs": 0.0,
+    "n": 55
+  },
+  "field_out|12_|0": {
+    "avg_runs": 0.0,
+    "n": 28
+  },
+  "field_out|12_|1": {
+    "avg_runs": 0.0,
+    "n": 33
+  },
+  "field_out|12_|2": {
+    "avg_runs": 0.0,
+    "n": 48
+  },
+  "field_out|1_3|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "field_out|1_3|1": {
+    "avg_runs": 0.1429,
+    "n": 7
+  },
+  "field_out|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 22
+  },
+  "field_out|1__|0": {
+    "avg_runs": 0.0,
+    "n": 90
+  },
+  "field_out|1__|1": {
+    "avg_runs": 0.0096,
+    "n": 104
+  },
+  "field_out|1__|2": {
+    "avg_runs": 0.0,
+    "n": 141
+  },
+  "field_out|_23|0": {
+    "avg_runs": 0.4167,
+    "n": 12
+  },
+  "field_out|_23|1": {
+    "avg_runs": 0.3333,
+    "n": 18
+  },
+  "field_out|_23|2": {
+    "avg_runs": 0.0,
+    "n": 21
+  },
+  "field_out|_2_|0": {
+    "avg_runs": 0.0,
+    "n": 26
+  },
+  "field_out|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 45
+  },
+  "field_out|_2_|2": {
+    "avg_runs": 0.0,
+    "n": 53
+  },
+  "field_out|__3|0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "field_out|__3|1": {
+    "avg_runs": 0.2222,
+    "n": 9
+  },
+  "field_out|__3|2": {
+    "avg_runs": 0.0,
+    "n": 20
+  },
+  "field_out|___|0": {
+    "avg_runs": 0.0,
+    "n": 592
+  },
+  "field_out|___|1": {
+    "avg_runs": 0.0,
+    "n": 427
+  },
+  "field_out|___|2": {
+    "avg_runs": 0.0,
+    "n": 332
+  },
+  "field_out||": {
+    "avg_runs": 0.0086,
+    "n": 2103
+  },
+  "field_out||0": {
+    "avg_runs": 0.0093,
+    "n": 754
+  },
+  "field_out||1": {
+    "avg_runs": 0.0167,
+    "n": 657
+  },
+  "field_out||2": {
+    "avg_runs": 0.0,
+    "n": 692
+  },
+  "fielders_choice_out|1__|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "fielders_choice_out|_23|1": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "fielders_choice_out|__3|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "fielders_choice_out||": {
+    "avg_runs": 0.0,
+    "n": 6
+  },
+  "fielders_choice_out||0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "fielders_choice_out||1": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "fielders_choice|123|0": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "fielders_choice|12_|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "fielders_choice|1_3|1": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "fielders_choice|1__|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "fielders_choice|_23|1": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "fielders_choice|_23|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "fielders_choice|_2_|1": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "fielders_choice|__3|1": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "fielders_choice||": {
+    "avg_runs": 0.75,
+    "n": 12
+  },
+  "fielders_choice||0": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "fielders_choice||1": {
+    "avg_runs": 0.75,
+    "n": 8
+  },
+  "fielders_choice||2": {
+    "avg_runs": 0.3333,
+    "n": 3
+  },
+  "force_out|123|0": {
+    "avg_runs": 0.8,
+    "n": 5
+  },
+  "force_out|123|1": {
+    "avg_runs": 0.7143,
+    "n": 14
+  },
+  "force_out|123|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "force_out|12_|0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "force_out|12_|1": {
+    "avg_runs": 0.1,
+    "n": 10
+  },
+  "force_out|12_|2": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "force_out|1_3|1": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "force_out|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "force_out|1__|0": {
+    "avg_runs": 0.0,
+    "n": 23
+  },
+  "force_out|1__|1": {
+    "avg_runs": 0.0,
+    "n": 20
+  },
+  "force_out|1__|2": {
+    "avg_runs": 0.0,
+    "n": 18
+  },
+  "force_out||": {
+    "avg_runs": 0.1574,
+    "n": 108
+  },
+  "force_out||0": {
+    "avg_runs": 0.1333,
+    "n": 30
+  },
+  "force_out||1": {
+    "avg_runs": 0.2826,
+    "n": 46
+  },
+  "force_out||2": {
+    "avg_runs": 0.0,
+    "n": 32
+  },
+  "game_advisory|12_|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "game_advisory||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "game_advisory||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "grounded_into_double_play|123|0": {
+    "avg_runs": 0.5,
+    "n": 2
+  },
+  "grounded_into_double_play|123|1": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "grounded_into_double_play|12_|0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "grounded_into_double_play|12_|1": {
+    "avg_runs": 0.0,
+    "n": 14
+  },
+  "grounded_into_double_play|1_3|1": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "grounded_into_double_play|1__|0": {
+    "avg_runs": 0.0,
+    "n": 26
+  },
+  "grounded_into_double_play|1__|1": {
+    "avg_runs": 0.0,
+    "n": 28
+  },
+  "grounded_into_double_play||": {
+    "avg_runs": 0.0123,
+    "n": 81
+  },
+  "grounded_into_double_play||0": {
+    "avg_runs": 0.0333,
+    "n": 30
+  },
+  "grounded_into_double_play||1": {
+    "avg_runs": 0.0,
+    "n": 51
+  },
+  "hit_by_pitch|123|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|123|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|12_|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "hit_by_pitch|12_|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "hit_by_pitch|1_3|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "hit_by_pitch|1__|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|1__|1": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "hit_by_pitch|1__|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "hit_by_pitch|_23|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|_23|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|_23|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|_2_|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|_2_|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|__3|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "hit_by_pitch|___|0": {
+    "avg_runs": 0.0,
+    "n": 13
+  },
+  "hit_by_pitch|___|1": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "hit_by_pitch|___|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "hit_by_pitch||": {
+    "avg_runs": 0.0,
+    "n": 46
+  },
+  "hit_by_pitch||0": {
+    "avg_runs": 0.0,
+    "n": 17
+  },
+  "hit_by_pitch||1": {
+    "avg_runs": 0.0,
+    "n": 16
+  },
+  "hit_by_pitch||2": {
+    "avg_runs": 0.0,
+    "n": 13
+  },
+  "home_run|123|0": {
+    "avg_runs": 3.5,
+    "n": 2
+  },
+  "home_run|123|1": {
+    "avg_runs": 4.0,
+    "n": 1
+  },
+  "home_run|123|2": {
+    "avg_runs": 4.0,
+    "n": 2
+  },
+  "home_run|12_|0": {
+    "avg_runs": 3.0,
+    "n": 3
+  },
+  "home_run|12_|1": {
+    "avg_runs": 3.0,
+    "n": 1
+  },
+  "home_run|12_|2": {
+    "avg_runs": 2.8,
+    "n": 5
+  },
+  "home_run|1_3|0": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "home_run|1_3|1": {
+    "avg_runs": 2.5,
+    "n": 2
+  },
+  "home_run|1_3|2": {
+    "avg_runs": 2.5,
+    "n": 2
+  },
+  "home_run|1__|0": {
+    "avg_runs": 2.0,
+    "n": 14
+  },
+  "home_run|1__|1": {
+    "avg_runs": 2.0,
+    "n": 14
+  },
+  "home_run|1__|2": {
+    "avg_runs": 2.0,
+    "n": 10
+  },
+  "home_run|_23|0": {
+    "avg_runs": 2.5,
+    "n": 2
+  },
+  "home_run|_23|1": {
+    "avg_runs": 2.0,
+    "n": 2
+  },
+  "home_run|_23|2": {
+    "avg_runs": 2.3333,
+    "n": 3
+  },
+  "home_run|_2_|0": {
+    "avg_runs": 2.0,
+    "n": 3
+  },
+  "home_run|_2_|1": {
+    "avg_runs": 2.0,
+    "n": 7
+  },
+  "home_run|_2_|2": {
+    "avg_runs": 1.8333,
+    "n": 6
+  },
+  "home_run|__3|1": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "home_run|__3|2": {
+    "avg_runs": 2.0,
+    "n": 5
+  },
+  "home_run|___|0": {
+    "avg_runs": 1.0,
+    "n": 41
+  },
+  "home_run|___|1": {
+    "avg_runs": 1.0,
+    "n": 33
+  },
+  "home_run|___|2": {
+    "avg_runs": 1.0,
+    "n": 20
+  },
+  "home_run||": {
+    "avg_runs": 1.5889,
+    "n": 180
+  },
+  "home_run||0": {
+    "avg_runs": 1.4848,
+    "n": 66
+  },
+  "home_run||1": {
+    "avg_runs": 1.5246,
+    "n": 61
+  },
+  "home_run||2": {
+    "avg_runs": 1.7925,
+    "n": 53
+  },
+  "intent_walk|123|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "intent_walk|12_|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "intent_walk|1_3|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "intent_walk|1__|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "intent_walk|_23|1": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "intent_walk|_23|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "intent_walk|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "intent_walk|_2_|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "intent_walk|__3|1": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "intent_walk|__3|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "intent_walk|___|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "intent_walk||": {
+    "avg_runs": 0.0,
+    "n": 24
+  },
+  "intent_walk||1": {
+    "avg_runs": 0.0,
+    "n": 11
+  },
+  "intent_walk||2": {
+    "avg_runs": 0.0,
+    "n": 13
+  },
+  "other_out|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "other_out||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "other_out||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_1b|1__|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "pickoff_1b||": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "pickoff_1b||2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "pickoff_3b|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_3b||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_3b||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_caught_stealing_2b|1__|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_caught_stealing_2b||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_caught_stealing_2b||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_error_1b|12_|2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_error_1b||": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "pickoff_error_1b||2": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "sac_bunt|123|0": {
+    "avg_runs": 0.5,
+    "n": 2
+  },
+  "sac_bunt|12_|0": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "sac_bunt|1__|0": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "sac_bunt|_2_|0": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "sac_bunt|___|0": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "sac_bunt||": {
+    "avg_runs": 0.05,
+    "n": 20
+  },
+  "sac_bunt||0": {
+    "avg_runs": 0.05,
+    "n": 20
+  },
+  "sac_fly|123|0": {
+    "avg_runs": 1.0,
+    "n": 6
+  },
+  "sac_fly|123|1": {
+    "avg_runs": 1.0,
+    "n": 7
+  },
+  "sac_fly|1_3|1": {
+    "avg_runs": 1.0,
+    "n": 4
+  },
+  "sac_fly|_23|0": {
+    "avg_runs": 1.0,
+    "n": 5
+  },
+  "sac_fly|_23|1": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "sac_fly|__3|1": {
+    "avg_runs": 1.0,
+    "n": 7
+  },
+  "sac_fly||": {
+    "avg_runs": 1.0,
+    "n": 30
+  },
+  "sac_fly||0": {
+    "avg_runs": 1.0,
+    "n": 11
+  },
+  "sac_fly||1": {
+    "avg_runs": 1.0,
+    "n": 19
+  },
+  "single|123|0": {
+    "avg_runs": 1.5,
+    "n": 8
+  },
+  "single|123|1": {
+    "avg_runs": 1.0909,
+    "n": 11
+  },
+  "single|123|2": {
+    "avg_runs": 1.3182,
+    "n": 22
+  },
+  "single|12_|0": {
+    "avg_runs": 0.375,
+    "n": 8
+  },
+  "single|12_|1": {
+    "avg_runs": 0.7647,
+    "n": 17
+  },
+  "single|12_|2": {
+    "avg_runs": 0.6087,
+    "n": 23
+  },
+  "single|1_3|0": {
+    "avg_runs": 0.5,
+    "n": 2
+  },
+  "single|1_3|1": {
+    "avg_runs": 0.6,
+    "n": 5
+  },
+  "single|1_3|2": {
+    "avg_runs": 1.0,
+    "n": 5
+  },
+  "single|1__|0": {
+    "avg_runs": 0.0227,
+    "n": 44
+  },
+  "single|1__|1": {
+    "avg_runs": 0.0682,
+    "n": 44
+  },
+  "single|1__|2": {
+    "avg_runs": 0.0938,
+    "n": 32
+  },
+  "single|_23|0": {
+    "avg_runs": 1.3333,
+    "n": 6
+  },
+  "single|_23|1": {
+    "avg_runs": 0.8182,
+    "n": 11
+  },
+  "single|_23|2": {
+    "avg_runs": 1.5,
+    "n": 6
+  },
+  "single|_2_|0": {
+    "avg_runs": 0.5556,
+    "n": 9
+  },
+  "single|_2_|1": {
+    "avg_runs": 0.3333,
+    "n": 12
+  },
+  "single|_2_|2": {
+    "avg_runs": 0.8667,
+    "n": 15
+  },
+  "single|__3|1": {
+    "avg_runs": 1.0,
+    "n": 4
+  },
+  "single|__3|2": {
+    "avg_runs": 0.625,
+    "n": 8
+  },
+  "single|___|0": {
+    "avg_runs": 0.0056,
+    "n": 178
+  },
+  "single|___|1": {
+    "avg_runs": 0.0,
+    "n": 103
+  },
+  "single|___|2": {
+    "avg_runs": 0.0,
+    "n": 87
+  },
+  "single||": {
+    "avg_runs": 0.2379,
+    "n": 660
+  },
+  "single||0": {
+    "avg_runs": 0.1216,
+    "n": 255
+  },
+  "single||1": {
+    "avg_runs": 0.2319,
+    "n": 207
+  },
+  "single||2": {
+    "avg_runs": 0.3939,
+    "n": 198
+  },
+  "strikeout_double_play|12_|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "strikeout_double_play|1__|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "strikeout_double_play|1__|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "strikeout_double_play||": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "strikeout_double_play||0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "strikeout_double_play||1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "strikeout|123|0": {
+    "avg_runs": 0.0,
+    "n": 6
+  },
+  "strikeout|123|1": {
+    "avg_runs": 0.0,
+    "n": 14
+  },
+  "strikeout|123|2": {
+    "avg_runs": 0.0455,
+    "n": 22
+  },
+  "strikeout|12_|0": {
+    "avg_runs": 0.0,
+    "n": 14
+  },
+  "strikeout|12_|1": {
+    "avg_runs": 0.0,
+    "n": 28
+  },
+  "strikeout|12_|2": {
+    "avg_runs": 0.0,
+    "n": 33
+  },
+  "strikeout|1_3|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "strikeout|1_3|1": {
+    "avg_runs": 0.0,
+    "n": 5
+  },
+  "strikeout|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 14
+  },
+  "strikeout|1__|0": {
+    "avg_runs": 0.0,
+    "n": 44
+  },
+  "strikeout|1__|1": {
+    "avg_runs": 0.0,
+    "n": 68
+  },
+  "strikeout|1__|2": {
+    "avg_runs": 0.0,
+    "n": 77
+  },
+  "strikeout|_23|0": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "strikeout|_23|1": {
+    "avg_runs": 0.0,
+    "n": 6
+  },
+  "strikeout|_23|2": {
+    "avg_runs": 0.0,
+    "n": 14
+  },
+  "strikeout|_2_|0": {
+    "avg_runs": 0.0,
+    "n": 17
+  },
+  "strikeout|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 21
+  },
+  "strikeout|_2_|2": {
+    "avg_runs": 0.0,
+    "n": 19
+  },
+  "strikeout|__3|0": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "strikeout|__3|1": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "strikeout|__3|2": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "strikeout|___|0": {
+    "avg_runs": 0.0,
+    "n": 241
+  },
+  "strikeout|___|1": {
+    "avg_runs": 0.0,
+    "n": 199
+  },
+  "strikeout|___|2": {
+    "avg_runs": 0.0,
+    "n": 178
+  },
+  "strikeout||": {
+    "avg_runs": 0.001,
+    "n": 1038
+  },
+  "strikeout||0": {
+    "avg_runs": 0.0,
+    "n": 328
+  },
+  "strikeout||1": {
+    "avg_runs": 0.0,
+    "n": 345
+  },
+  "strikeout||2": {
+    "avg_runs": 0.0027,
+    "n": 365
+  },
+  "triple|12_|1": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "triple|1_3|2": {
+    "avg_runs": 2.0,
+    "n": 1
+  },
+  "triple|1__|0": {
+    "avg_runs": 1.0,
+    "n": 2
+  },
+  "triple|1__|1": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "triple|1__|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "triple|_2_|2": {
+    "avg_runs": 1.0,
+    "n": 1
+  },
+  "triple|___|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "triple|___|2": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "triple||": {
+    "avg_runs": 0.8182,
+    "n": 11
+  },
+  "triple||0": {
+    "avg_runs": 0.6667,
+    "n": 3
+  },
+  "triple||1": {
+    "avg_runs": 1.5,
+    "n": 2
+  },
+  "triple||2": {
+    "avg_runs": 0.6667,
+    "n": 6
+  },
+  "walk|123|0": {
+    "avg_runs": 0.25,
+    "n": 4
+  },
+  "walk|123|1": {
+    "avg_runs": 0.5,
+    "n": 2
+  },
+  "walk|123|2": {
+    "avg_runs": 0.5556,
+    "n": 9
+  },
+  "walk|12_|0": {
+    "avg_runs": 0.0,
+    "n": 7
+  },
+  "walk|12_|1": {
+    "avg_runs": 0.0,
+    "n": 12
+  },
+  "walk|12_|2": {
+    "avg_runs": 0.0,
+    "n": 8
+  },
+  "walk|1_3|0": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "walk|1_3|1": {
+    "avg_runs": 0.0,
+    "n": 1
+  },
+  "walk|1_3|2": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "walk|1__|0": {
+    "avg_runs": 0.0,
+    "n": 33
+  },
+  "walk|1__|1": {
+    "avg_runs": 0.0,
+    "n": 24
+  },
+  "walk|1__|2": {
+    "avg_runs": 0.0,
+    "n": 23
+  },
+  "walk|_23|0": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "walk|_23|1": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "walk|_23|2": {
+    "avg_runs": 0.0,
+    "n": 4
+  },
+  "walk|_2_|0": {
+    "avg_runs": 0.0,
+    "n": 3
+  },
+  "walk|_2_|1": {
+    "avg_runs": 0.0,
+    "n": 15
+  },
+  "walk|_2_|2": {
+    "avg_runs": 0.0,
+    "n": 17
+  },
+  "walk|__3|1": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "walk|__3|2": {
+    "avg_runs": 0.0,
+    "n": 2
+  },
+  "walk|___|0": {
+    "avg_runs": 0.0,
+    "n": 104
+  },
+  "walk|___|1": {
+    "avg_runs": 0.0,
+    "n": 62
+  },
+  "walk|___|2": {
+    "avg_runs": 0.0,
+    "n": 55
+  },
+  "walk||": {
+    "avg_runs": 0.0175,
+    "n": 399
+  },
+  "walk||0": {
+    "avg_runs": 0.0065,
+    "n": 155
+  },
+  "walk||1": {
+    "avg_runs": 0.0082,
+    "n": 122
+  },
+  "walk||2": {
+    "avg_runs": 0.041,
+    "n": 122
+  }
+}
