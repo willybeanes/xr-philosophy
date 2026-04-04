@@ -9,9 +9,9 @@ from PIL import Image, ImageDraw, ImageFont
 
 from src.bluesky_poster import TEAM_ABBR
 
-# Chart dimensions — 16:9 aspect ratio for Bluesky display
-W = 1440
-H = 810
+# Chart dimensions — 1:1 aspect ratio for Bluesky display
+W = 1200
+H = 1200
 SCALE = 2
 PL = 84; PR = 80; PT = 56; PB = 72
 PW = W - PL - PR
