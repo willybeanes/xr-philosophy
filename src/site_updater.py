@@ -144,18 +144,18 @@ def _generate_chart_svg(g: dict) -> str:
 
     return f"""<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:system-ui,sans-serif">
 {y_grid}{inn_svg}
-<path d="{step_path(points, 'a_r')}" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.45"/>
-<path d="{step_path(points, 'h_r')}" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.45"/>
+<path d="{step_path(points, 'a_r')}" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
+<path d="{step_path(points, 'h_r')}" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
 <path d="{step_path(points, 'a_xr')}" fill="none" stroke="#2563eb" stroke-width="2.5"/>
 <path d="{step_path(points, 'h_xr')}" fill="none" stroke="#dc2626" stroke-width="2.5"/>
 {labels}
 <line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="var(--chart-axis)" stroke-width="1"/>
 <line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="var(--chart-axis)" stroke-width="1"/>
 <text x="{PL+6}" y="{PT+10}" fill="#2563eb" font-size="10" font-weight="600">{away_abbr} xR</text>
-<line x1="{PL+40}" y1="{PT+7}" x2="{PL+56}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.45"/>
+<line x1="{PL+40}" y1="{PT+7}" x2="{PL+56}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
 <text x="{PL+58}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">actual</text>
 <text x="{PL+105}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
-<line x1="{PL+139}" y1="{PT+7}" x2="{PL+155}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.45"/>
+<line x1="{PL+139}" y1="{PT+7}" x2="{PL+155}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
 <text x="{PL+157}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">actual</text>
 </svg>"""
 
