@@ -5,7 +5,7 @@ import os
 from collections import defaultdict
 from datetime import date
 
-from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS
+from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS, TEAM_IDS
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
@@ -210,6 +210,104 @@ def _build_teams_table(scores: list) -> str:
     return rows
 
 
+def _build_scatter_svg(scores: list, x_key: str, y_key: str,
+                       x_label: str, y_label: str, title: str) -> str:
+    """Build an SVG scatter plot with team logos as markers."""
+    teams = defaultdict(lambda: {"games": 0, "xr": 0.0, "xr_allowed": 0.0,
+                                  "runs": 0, "runs_allowed": 0})
+    for s in scores:
+        for side, opp in [("away", "home"), ("home", "away")]:
+            name = s[f"{side}_team"]
+            teams[name]["games"] += 1
+            teams[name]["xr"] += s[f"{side}_xr"]
+            teams[name]["xr_allowed"] += s[f"{opp}_xr"]
+            teams[name]["runs"] += s[f"{side}_score"]
+            teams[name]["runs_allowed"] += s[f"{opp}_score"]
+
+    points = []
+    for name, t in teams.items():
+        g = t["games"]
+        if g == 0:
+            continue
+        vals = {
+            "xr_pg": t["xr"] / g, "xra_pg": t["xr_allowed"] / g,
+            "r_pg": t["runs"] / g, "ra_pg": t["runs_allowed"] / g,
+        }
+        team_id = TEAM_IDS.get(name, 0)
+        abbr = TEAM_ABBR.get(name, "???")
+        points.append({"name": name, "abbr": abbr, "id": team_id,
+                        "x": vals[x_key], "y": vals[y_key]})
+
+    if not points:
+        return ""
+
+    W = 680; H = 580
+    PL = 52; PR = 20; PT = 36; PB = 44
+    PW = W - PL - PR; PH = H - PT - PB
+    LOGO = 28  # logo size
+
+    all_x = [p["x"] for p in points]
+    all_y = [p["y"] for p in points]
+    pad = 0.3
+    x_min = min(all_x) - pad; x_max = max(all_x) + pad
+    y_min = min(all_y) - pad; y_max = max(all_y) + pad
+
+    def sx(v): return PL + (v - x_min) / (x_max - x_min) * PW
+    def sy(v): return PT + PH - (v - y_min) / (y_max - y_min) * PH
+
+    FONT = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+
+    # Grid lines
+    import math
+    grid = ""
+    step = 0.5 if (x_max - x_min) < 5 else 1.0
+    v = math.ceil(x_min / step) * step
+    while v <= x_max:
+        x = sx(v)
+        grid += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#eee" stroke-width="0.5"/>'
+        grid += f'<text x="{x:.0f}" y="{PT+PH+16}" text-anchor="middle" fill="#aaa" font-size="10">{v:.1f}</text>'
+        v += step
+
+    v = math.ceil(y_min / step) * step
+    while v <= y_max:
+        y = sy(v)
+        grid += f'<line x1="{PL}" y1="{y:.0f}" x2="{PL+PW}" y2="{y:.0f}" stroke="#eee" stroke-width="0.5"/>'
+        grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#aaa" font-size="10">{v:.1f}</text>'
+        v += step
+
+    # Diagonal reference line (x = y)
+    diag_start_x = max(x_min, y_min)
+    diag_end_x = min(x_max, y_max)
+    diag = ""
+    if diag_start_x < diag_end_x:
+        diag = (
+            f'<line x1="{sx(diag_start_x):.0f}" y1="{sy(diag_start_x):.0f}" '
+            f'x2="{sx(diag_end_x):.0f}" y2="{sy(diag_end_x):.0f}" '
+            f'stroke="#ddd" stroke-width="1" stroke-dasharray="4,4"/>'
+        )
+
+    # Team logos
+    logos = ""
+    for p in points:
+        x = sx(p["x"]) - LOGO / 2
+        y = sy(p["y"]) - LOGO / 2
+        logo_url = f"https://www.mlbstatic.com/team-logos/{p['id']}.svg"
+        logos += (
+            f'<image href="{logo_url}" x="{x:.0f}" y="{y:.0f}" '
+            f'width="{LOGO}" height="{LOGO}"/>'
+        )
+
+    return f"""<div class="scatter-wrap">
+<div class="scatter-title">{title}</div>
+<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:{FONT}">
+{grid}{diag}{logos}
+<line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
+<line x1="{PL}" y1="{PT+PH}" x2="{PL+PW}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
+<text x="{PL+PW/2}" y="{H-4}" text-anchor="middle" fill="#999" font-size="11">{x_label}</text>
+<text x="12" y="{PT+PH/2}" text-anchor="middle" fill="#999" font-size="11" transform="rotate(-90,12,{PT+PH/2})">{y_label}</text>
+</svg></div>"""
+
+
 def regenerate_site() -> None:
     scores = load_scores()
 
@@ -263,6 +361,10 @@ def regenerate_site() -> None:
 
     # ── Teams tab rows ──
     teams_rows = _build_teams_table(scores)
+
+    # ── Graphs tab ──
+    scatter_xr = _build_scatter_svg(scores, "xr_pg", "r_pg", "xR/G", "R/G", "xR vs Actual Runs")
+    scatter_xra = _build_scatter_svg(scores, "xra_pg", "ra_pg", "xRA/G", "RA/G", "xRA vs Actual Runs Allowed")
 
     stats_html = (
         f'<div class="stats">{total_games} games'
@@ -366,6 +468,12 @@ tr.expanded .arrow {{ transform: rotate(90deg); }}
 #teams-tab th.sorted-desc::after {{ content: " \\25BC"; font-size: 0.6rem; }}
 .team-name {{ font-weight: 600; }}
 .diff {{ font-weight: 600; }}
+
+/* Graphs tab */
+.scatter-grid {{ display: flex; flex-direction: column; gap: 2rem; }}
+.scatter-wrap {{ text-align: center; }}
+.scatter-title {{ font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem; }}
+.scatter-note {{ color: var(--text-secondary); font-size: 0.8rem; margin-top: 0.5rem; text-align: center; }}
 .num {{
   font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
   text-align: center; font-size: 0.85rem;
@@ -388,6 +496,7 @@ footer strong {{ color: var(--text); }}
 <div class="tabs">
   <div class="tab active" onclick="switchTab('games',this)">Games</div>
   <div class="tab" onclick="switchTab('teams',this)">Teams</div>
+  <div class="tab" onclick="switchTab('graphs',this)">Graphs</div>
 </div>
 
 <div id="games-tab" class="tab-content active">
@@ -428,6 +537,14 @@ footer strong {{ color: var(--text); }}
       {teams_rows}
     </tbody>
   </table>
+</div>
+
+<div id="graphs-tab" class="tab-content">
+  <div class="scatter-grid">
+    {scatter_xr}
+    {scatter_xra}
+  </div>
+  <p class="scatter-note">Dashed line = xR matches actual. Above the line = scoring more than xR. Below = scoring less.</p>
 </div>
 
 <footer>
