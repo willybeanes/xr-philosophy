@@ -153,12 +153,14 @@ def _generate_chart_svg(g: dict) -> str:
 {labels}
 <line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
 <line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
-<text x="{PL+6}" y="{PT+10}" fill="#2563eb" font-size="10" font-weight="600">{away_abbr} xR</text>
-<line x1="{PL+42}" y1="{PT+7}" x2="{PL+58}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+60}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">actual</text>
-<text x="{PL+107}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
-<line x1="{PL+141}" y1="{PT+7}" x2="{PL+157}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+159}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">actual</text>
+<line x1="{PL+6}" y1="{PT+7}" x2="{PL+22}" y2="{PT+7}" stroke="#2563eb" stroke-width="2.5"/>
+<text x="{PL+25}" y="{PT+10}" fill="#2563eb" font-size="10" font-weight="600">{away_abbr} xR</text>
+<line x1="{PL+72}" y1="{PT+7}" x2="{PL+88}" y2="{PT+7}" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+91}" y="{PT+10}" fill="#2563eb" font-size="10" opacity="0.5">{away_abbr} actual</text>
+<line x1="{PL+160}" y1="{PT+7}" x2="{PL+176}" y2="{PT+7}" stroke="#dc2626" stroke-width="2.5"/>
+<text x="{PL+179}" y="{PT+10}" fill="#dc2626" font-size="10" font-weight="600">{home_abbr} xR</text>
+<line x1="{PL+226}" y1="{PT+7}" x2="{PL+242}" y2="{PT+7}" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="{PL+245}" y="{PT+10}" fill="#dc2626" font-size="10" opacity="0.5">{home_abbr} actual</text>
 </svg>"""
 
 
