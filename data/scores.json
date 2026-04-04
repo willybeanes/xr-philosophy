@@ -284,8 +284,8 @@
     "home_abbr": "",
     "away_score": 5,
     "home_score": 3,
-    "away_xr": 5.4,
-    "home_xr": 4.32
+    "away_xr": 4.24,
+    "home_xr": 4.39
   },
   {
     "gamePk": 824458,
@@ -296,8 +296,8 @@
     "home_abbr": "",
     "away_score": 1,
     "home_score": 4,
-    "away_xr": 0.57,
-    "home_xr": 5.29
+    "away_xr": 0.46,
+    "home_xr": 6.75
   },
   {
     "gamePk": 824377,
@@ -308,8 +308,8 @@
     "home_abbr": "",
     "away_score": 10,
     "home_score": 1,
-    "away_xr": 10.17,
-    "home_xr": 1.02
+    "away_xr": 8.01,
+    "home_xr": 2.2
   },
   {
     "gamePk": 823406,
@@ -320,7 +320,7 @@
     "home_abbr": "",
     "away_score": 4,
     "home_score": 5,
-    "away_xr": 3.9,
-    "home_xr": 5.84
+    "away_xr": 3.87,
+    "home_xr": 2.88
   }
 ]

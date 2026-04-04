@@ -1,23 +1,21 @@
-"""Event-based xR (expected runs) engine — the baseball analog of soccer's xG.
+"""Statcast-enhanced xR (expected runs) engine — the baseball analog of soccer's xG.
 
-For each plate appearance, xR credits the team with the AVERAGE RUN VALUE of
-that event type (single, double, HR, walk, etc.) in that base-out context.
+For batted ball events, xR uses exit velocity and launch angle to compute the
+PROBABILITY DISTRIBUTION over outcomes (single, double, triple, HR, out), then
+credits the probability-weighted average run value. A 110mph lineout gets mostly
+hit-value credit; a bloop single gets mostly out-value credit.
 
-Run value = runs_scored + RE_after - RE_before, averaged across historical
-occurrences of that event in that context. This credits both direct run
-production AND state improvement (e.g., a walk improves RE by ~0.33 even
-though no run scores).
+For non-batted-ball events (walks, HBP, strikeouts), xR uses the historical
+average run value for that event type in the base-out context.
 
-Because we use the AVERAGE run value rather than the ACTUAL outcome, xR can
-diverge from actual runs — measuring what events typically produce, not what
-they produced in this specific game.
+This fully decouples quality of contact from results — measuring what the
+batted ball DESERVED to produce, not what it actually produced.
 """
 
 import json
 import os
 
 # Standard MLB Run Expectancy Matrix (2010-2019 averages)
-# Used for supplementary RE24 calculation and fallback estimates
 RE_MATRIX = {
     ("___", 0): 0.481, ("___", 1): 0.254, ("___", 2): 0.098,
     ("1__", 0): 0.859, ("1__", 1): 0.509, ("1__", 2): 0.224,
@@ -33,13 +31,41 @@ RE_EMPTY_ZERO = RE_MATRIX[("___", 0)]
 
 BASE_MAP = {"1B": 1, "2B": 2, "3B": 3}
 
-# Load event run value table (built from ~5000 PAs of real MLB data)
-# Each entry: avg run value = avg(runs_scored + RE_after - RE_before) for that event+context
+_DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+
+# Load event run value table (235K PAs across 10 seasons)
 _RV_TABLE = {}
-_rv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "event_run_values.json")
+_rv_path = os.path.join(_DATA_DIR, "event_run_values.json")
 if os.path.exists(_rv_path):
     with open(_rv_path) as _f:
         _RV_TABLE = json.load(_f)
+
+# Load batted ball probability table (33K batted balls with Statcast data)
+# Maps (ev_bucket, la_bucket) -> {probs: {single: p, double: p, ...}, n: count}
+_BB_PROBS = {}
+_bb_path = os.path.join(_DATA_DIR, "batted_ball_probs.json")
+if os.path.exists(_bb_path):
+    with open(_bb_path) as _f:
+        _BB_PROBS = json.load(_f)
+
+# Events that involve a batted ball (have hitData in the API)
+_BATTED_BALL_EVENTS = {
+    'single', 'double', 'triple', 'home_run',
+    'field_out', 'force_out', 'grounded_into_double_play', 'double_play',
+    'fielders_choice', 'fielders_choice_out', 'field_error',
+    'sac_fly', 'sac_bunt', 'sac_fly_double_play', 'sac_bunt_double_play',
+    'triple_play',
+}
+
+# Events that don't involve a batted ball (use fixed run values)
+_NON_BATTED_EVENTS = {
+    'strikeout', 'walk', 'hit_by_pitch', 'intent_walk',
+    'catcher_interf', 'caught_stealing_2b', 'caught_stealing_3b',
+    'caught_stealing_home', 'stolen_base_2b', 'stolen_base_3b',
+    'stolen_base_home', 'wild_pitch', 'passed_ball', 'balk',
+    'pickoff_1b', 'pickoff_2b', 'pickoff_3b',
+    'strikeout_double_play',
+}
 
 
 def bases_to_string(occupied: set) -> str:
@@ -47,37 +73,87 @@ def bases_to_string(occupied: set) -> str:
     return "".join(str(b) if b in occupied else "_" for b in (1, 2, 3))
 
 
+def _ev_bucket(speed: float) -> int:
+    """Bucket exit velo into 2mph bins."""
+    return (max(50, min(120, int(speed))) // 2) * 2
+
+
+def _la_bucket(angle: float) -> int:
+    """Bucket launch angle into 5-degree bins."""
+    a = max(-60, min(80, round(angle)))
+    if a >= 0:
+        return (a // 5) * 5
+    else:
+        return -((-a + 4) // 5) * 5
+
+
 def _lookup_run_value(event_type: str, bases_str: str, outs: int) -> float:
-    """Look up average run value for an event in context.
-
-    Run value = avg(runs_scored + RE_after - RE_before) for historical
-    occurrences of this event in this base-out context.
-
-    Uses hierarchical fallback:
-      1. Full context: (event_type, bases, outs) — most specific
-      2. Event + outs: (event_type, *, outs) — when base state is rare
-      3. Event only: (event_type, *, *) — broadest fallback
-      4. Zero — truly unknown event types
-    """
-    # Level 1: full context
+    """Look up average run value for an event in context (non-batted-ball events)."""
     key1 = f"{event_type}|{bases_str}|{outs}"
     entry = _RV_TABLE.get(key1)
     if entry and entry["n"] >= 3:
         return entry["avg_rv"]
 
-    # Level 2: event + outs
     key2 = f"{event_type}||{outs}"
     entry = _RV_TABLE.get(key2)
     if entry and entry["n"] >= 5:
         return entry["avg_rv"]
 
-    # Level 3: event only
     key3 = f"{event_type}||"
     entry = _RV_TABLE.get(key3)
     if entry:
         return entry["avg_rv"]
 
     return 0.0
+
+
+def _statcast_run_value(
+    launch_speed: float, launch_angle: float, bases_str: str, outs: int
+) -> float:
+    """Compute probability-weighted run value from batted ball Statcast data.
+
+    Looks up P(single), P(double), P(triple), P(HR), P(out) for this exit
+    velocity and launch angle, then computes:
+        xR = sum( P(outcome) * avg_run_value(outcome, bases, outs) )
+
+    Falls back to the event-based lookup if the EV/LA bucket is too sparse.
+    """
+    evb = _ev_bucket(launch_speed)
+    lab = _la_bucket(launch_angle)
+    key = f"{evb}|{lab}"
+
+    entry = _BB_PROBS.get(key)
+    if not entry or entry["n"] < 5:
+        return None  # Signal to fall back to event-based
+
+    probs = entry["probs"]
+    weighted_rv = 0.0
+
+    for outcome, prob in probs.items():
+        # Map probability-table outcomes to event_type for run value lookup
+        # "out" in prob table covers field_out, force_out, GIDP, sac_fly, etc.
+        # Use field_out as the representative out type for run value
+        if outcome == "out":
+            rv = _lookup_run_value("field_out", bases_str, outs)
+        elif outcome == "fielders_choice":
+            rv = _lookup_run_value("fielders_choice", bases_str, outs)
+        elif outcome == "field_error":
+            rv = _lookup_run_value("field_error", bases_str, outs)
+        else:
+            rv = _lookup_run_value(outcome, bases_str, outs)
+
+        weighted_rv += prob * rv
+
+    return weighted_rv
+
+
+def _get_hit_data(play: dict) -> dict | None:
+    """Extract hitData (launchSpeed, launchAngle) from a play's events."""
+    for ev in play.get("playEvents", []):
+        hd = ev.get("hitData")
+        if hd and hd.get("launchSpeed") is not None and hd.get("launchAngle") is not None:
+            return hd
+    return None
 
 
 def _apply_runners(current_bases: set, runners: list) -> tuple[set, int]:
@@ -109,28 +185,22 @@ def _apply_runners(current_bases: set, runners: list) -> tuple[set, int]:
 
 
 def calculate_xr(plays: list) -> dict:
-    """Calculate event-based xR for each team from play-by-play data.
+    """Calculate Statcast-enhanced xR for each team.
 
     For each plate appearance:
-    - Look up the average run value (runs_scored + RE_after - RE_before)
-      for that event type in that base-out context
-    - Credit that average to the batting team (this is the xR contribution)
-    - Track actual base-out state changes for subsequent PA context
-    - Add the per-inning baseline (RE at empty/0 outs) so xR is on an
-      absolute scale comparable to actual runs
-
-    This means xR can diverge from actual runs — it measures what the
-    team's events typically produce, not what they produced in this game.
+    - If it's a batted ball with Statcast data: use probability-weighted run
+      value based on exit velocity and launch angle
+    - If it's a non-batted-ball event (walk, K, HBP): use historical average
+      run value for that event type in context
+    - If Statcast data is missing: fall back to event-based run value
 
     Args:
         plays: List of play dicts from MLB API (liveData.plays.allPlays).
 
     Returns:
-        dict with keys:
-            away_xr, home_xr: event-based expected runs (rounded to 1 decimal)
-            away_actual, home_actual: actual runs scored (for comparison)
+        dict with away_xr, home_xr, away_actual, home_actual
     """
-    away_rv = 0.0   # sum of run values (RE24-style, centered around 0)
+    away_rv = 0.0
     home_rv = 0.0
     away_actual = 0
     home_actual = 0
@@ -153,7 +223,6 @@ def calculate_xr(plays: list) -> dict:
         is_top = about.get("isTopInning", True)
         half_inning_key = (about.get("inning"), is_top)
 
-        # Reset state at half-inning boundaries
         if half_inning_key != prev_half_inning:
             current_outs = 0
             current_bases = set()
@@ -165,16 +234,29 @@ def calculate_xr(plays: list) -> dict:
 
         event_type = result.get("eventType", "")
         bases_str = bases_to_string(current_bases)
+        run_value = None
 
-        # Look up average run value for this event in this context
-        run_value = _lookup_run_value(event_type, bases_str, current_outs)
+        # Try Statcast-based calculation for batted ball events
+        if event_type in _BATTED_BALL_EVENTS:
+            hit_data = _get_hit_data(play)
+            if hit_data:
+                run_value = _statcast_run_value(
+                    hit_data["launchSpeed"],
+                    hit_data["launchAngle"],
+                    bases_str,
+                    current_outs,
+                )
+
+        # Fall back to event-based run value if no Statcast data or sparse bucket
+        if run_value is None:
+            run_value = _lookup_run_value(event_type, bases_str, current_outs)
 
         if is_top:
             away_rv += run_value
         else:
             home_rv += run_value
 
-        # Track ACTUAL state changes (so next PA has correct context)
+        # Track ACTUAL state changes for subsequent PA context
         bases_after, actual_runs = _apply_runners(current_bases, runners)
 
         if is_top:
@@ -190,8 +272,6 @@ def calculate_xr(plays: list) -> dict:
             current_outs = outs_after
             current_bases = bases_after
 
-    # Convert from run value (centered ~0) to absolute xR by adding baseline
-    # Each half-inning starts with RE(empty, 0 outs) of expected runs
     away_xr = max(0.0, away_rv + away_innings * RE_EMPTY_ZERO)
     home_xr = max(0.0, home_rv + home_innings * RE_EMPTY_ZERO)
 
