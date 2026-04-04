@@ -88,7 +88,7 @@ def main():
                     print("  WARNING: Post may have failed")
 
             # Save score and mark as posted regardless of post success
-            save_score(game, away_xr, home_xr)
+            save_score(game, away_xr, home_xr, chart_data=xr.get("cumulative"))
             posted.add(str(gpk))
             save_posted(posted)
 

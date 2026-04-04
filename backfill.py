@@ -91,7 +91,7 @@ def main():
                 print(f"  {label}: {game['away_score']}-{game['home_score']} "
                       f"(xR: {away_xr:.2f}-{home_xr:.2f})")
 
-                save_score(game, away_xr, home_xr)
+                save_score(game, away_xr, home_xr, chart_data=xr.get("cumulative"))
                 existing_pks.add(gpk)
                 posted.add(str(gpk))
                 total_new += 1

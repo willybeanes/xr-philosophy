@@ -198,7 +198,7 @@ def calculate_xr(plays: list) -> dict:
         plays: List of play dicts from MLB API (liveData.plays.allPlays).
 
     Returns:
-        dict with away_xr, home_xr, away_actual, home_actual
+        dict with away_xr, home_xr, away_actual, home_actual, cumulative
     """
     away_rv = 0.0
     home_rv = 0.0
@@ -206,6 +206,8 @@ def calculate_xr(plays: list) -> dict:
     home_actual = 0
     away_innings = 0
     home_innings = 0
+    cumulative = []  # per-PA snapshots for chart generation
+    pa_index = 0
 
     prev_half_inning = None
     current_outs = 0
@@ -264,6 +266,18 @@ def calculate_xr(plays: list) -> dict:
         else:
             home_actual += actual_runs
 
+        # Record cumulative snapshot for charts
+        pa_index += 1
+        cumulative.append({
+            "pa": pa_index,
+            "inn": about.get("inning", 1),
+            "top": is_top,
+            "a_xr": round(max(0.0, away_rv + away_innings * RE_EMPTY_ZERO), 2),
+            "h_xr": round(max(0.0, home_rv + home_innings * RE_EMPTY_ZERO), 2),
+            "a_r": away_actual,
+            "h_r": home_actual,
+        })
+
         outs_after = count.get("outs", current_outs)
         if outs_after >= 3:
             current_outs = 0
@@ -280,4 +294,5 @@ def calculate_xr(plays: list) -> dict:
         "home_xr": round(home_xr, 2),
         "away_actual": away_actual,
         "home_actual": home_actual,
+        "cumulative": cumulative,
     }
