@@ -43,14 +43,28 @@ def main():
         game_date = date.fromisoformat(os.environ["GAME_DATE"])
         print(f"Targeting date: {game_date}")
 
-    print(f"Fetching {'final' if not game_date else game_date.isoformat()} games...")
-    try:
-        games = get_todays_games(game_date=game_date)
-    except Exception as e:
-        print(f"  ERROR fetching games: {e}")
-        return
+    # Fetch games for the target date(s)
+    # When no date is specified, check both today AND yesterday (UTC) since
+    # MLB game dates are in ET but GitHub Actions runs in UTC — games finishing
+    # after 8 PM ET are already "tomorrow" in UTC
+    games = []
+    if game_date:
+        dates_to_check = [game_date]
+    else:
+        from datetime import timedelta
+        today = date.today()
+        dates_to_check = [today, today - timedelta(days=1)]
 
-    print(f"  {len(games)} final game(s) found")
+    for d in dates_to_check:
+        print(f"Fetching final games for {d.isoformat()}...")
+        try:
+            day_games = get_todays_games(game_date=d)
+            print(f"  {len(day_games)} final game(s)")
+            games.extend(day_games)
+        except Exception as e:
+            print(f"  ERROR fetching games for {d}: {e}")
+
+    print(f"Total: {len(games)} final game(s) found")
 
     new_games = [g for g in games if str(g["gamePk"]) not in posted]
     if not new_games:
