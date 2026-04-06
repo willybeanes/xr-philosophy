@@ -583,7 +583,7 @@ footer strong {{ color: var(--text); }}
     {scatter_xra}
     {scatter_xr_xra}
   </div>
-  <p class="scatter-note">First two charts: dashed line = xR matches actual. Third chart: top-left = best (high xR, low xRA).</p>
+  <p class="scatter-note">First two charts: dashed line = xR matches actual. Third chart: bottom-right = best (high xR, low xRA).</p>
   {updated_html}
 </div>
 
