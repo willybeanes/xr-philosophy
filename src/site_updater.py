@@ -286,7 +286,7 @@ def _build_scatter_svg(scores: list, x_key: str, y_key: str,
         # Each line represents a "net xR" tier (xR - xRA = constant)
         # Offset 0 = even, positive = good offense outpacing pitching allowed
         import math
-        tier_step = 0.5
+        tier_step = 1.0
         min_offset = math.floor((y_min - x_max) / tier_step) * tier_step
         max_offset = math.ceil((y_max - x_min) / tier_step) * tier_step
         offset = min_offset
