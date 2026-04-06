@@ -70,7 +70,7 @@ def build_tier_chart(scores: list) -> bytes:
         })
 
     W = 1200; H = 1200
-    PL = 80; PR = 60; PT = 100; PB = 70
+    PL = 80; PR = 80; PT = 100; PB = 90
     PW = W - PL - PR; PH = H - PT - PB
     LOGO_SIZE = 40
 
