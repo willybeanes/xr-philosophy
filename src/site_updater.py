@@ -3,7 +3,7 @@
 import json
 import os
 from collections import defaultdict
-from datetime import date
+from datetime import date, datetime, timezone, timedelta
 
 from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS, TEAM_IDS
 
@@ -371,6 +371,11 @@ def regenerate_site() -> None:
         f' &middot; {mismatch_count} xR mismatches ({mismatch_pct:.1f}%)</div>'
     ) if total_games else ""
 
+    # Timestamp in ET
+    et = timezone(timedelta(hours=-4))
+    now_et = datetime.now(et).strftime("%b %d, %Y %I:%M %p ET")
+    updated_html = f'<div class="last-updated">Last updated: {now_et}</div>'
+
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -475,6 +480,7 @@ tr.expanded .arrow {{ transform: rotate(90deg); }}
 .scatter-wrap {{ text-align: center; }}
 .scatter-title {{ font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem; }}
 .scatter-note {{ color: var(--text-secondary); font-size: 0.8rem; margin-top: 0.5rem; text-align: center; }}
+.last-updated {{ color: var(--text-secondary); font-size: 0.75rem; text-align: right; margin-top: 1rem; }}
 .num {{
   font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
   text-align: center; font-size: 0.85rem;
@@ -538,6 +544,7 @@ footer strong {{ color: var(--text); }}
       {teams_rows}
     </tbody>
   </table>
+  {updated_html}
 </div>
 
 <div id="graphs-tab" class="tab-content">
@@ -546,6 +553,7 @@ footer strong {{ color: var(--text); }}
     {scatter_xra}
   </div>
   <p class="scatter-note">Dashed line = xR matches actual. Above the line = scoring more than xR. Below = scoring less.</p>
+  {updated_html}
 </div>
 
 <footer>
