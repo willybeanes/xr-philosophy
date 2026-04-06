@@ -2,3 +2,4 @@ requests>=2.31.0
 atproto>=0.0.54
 python-dateutil>=2.8.2
 Pillow>=10.0.0
+CairoSVG>=2.7.0
