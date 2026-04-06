@@ -212,7 +212,7 @@ def _build_teams_table(scores: list) -> str:
 
 def _build_scatter_svg(scores: list, x_key: str, y_key: str,
                        x_label: str, y_label: str, title: str,
-                       invert_y: bool = False) -> str:
+                       invert_y: bool = False, tier_lines: bool = False) -> str:
     """Build an SVG scatter plot with team logos as markers."""
     teams = defaultdict(lambda: {"games": 0, "xr": 0.0, "xr_allowed": 0.0,
                                   "runs": 0, "runs_allowed": 0})
@@ -279,16 +279,41 @@ def _build_scatter_svg(scores: list, x_key: str, y_key: str,
         grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#aaa" font-size="10">{v:.1f}</text>'
         v += step
 
-    # Diagonal reference line (x = y)
-    diag_start_x = max(x_min, y_min)
-    diag_end_x = min(x_max, y_max)
+    # Diagonal reference lines
     diag = ""
-    if diag_start_x < diag_end_x:
-        diag = (
-            f'<line x1="{sx(diag_start_x):.0f}" y1="{sy(diag_start_x):.0f}" '
-            f'x2="{sx(diag_end_x):.0f}" y2="{sy(diag_end_x):.0f}" '
-            f'stroke="#ddd" stroke-width="1" stroke-dasharray="4,4"/>'
-        )
+    if tier_lines:
+        # Draw parallel tier lines: y = x + offset
+        # Each line represents a "net xR" tier (xR - xRA = constant)
+        # Offset 0 = even, positive = good offense outpacing pitching allowed
+        import math
+        tier_step = 0.5
+        min_offset = math.floor((y_min - x_max) / tier_step) * tier_step
+        max_offset = math.ceil((y_max - x_min) / tier_step) * tier_step
+        offset = min_offset
+        while offset <= max_offset:
+            # Line: y = x + offset, so points are (x, x+offset)
+            lx1 = max(x_min, y_min - offset)
+            lx2 = min(x_max, y_max - offset)
+            if lx1 < lx2:
+                ly1 = lx1 + offset
+                ly2 = lx2 + offset
+                w = "1.2" if abs(offset) < 0.01 else "0.7"
+                diag += (
+                    f'<line x1="{sx(lx1):.0f}" y1="{sy(ly1):.0f}" '
+                    f'x2="{sx(lx2):.0f}" y2="{sy(ly2):.0f}" '
+                    f'stroke="#ccc" stroke-width="{w}" stroke-dasharray="6,4"/>'
+                )
+            offset += tier_step
+    else:
+        # Single diagonal (x = y)
+        diag_start_x = max(x_min, y_min)
+        diag_end_x = min(x_max, y_max)
+        if diag_start_x < diag_end_x:
+            diag = (
+                f'<line x1="{sx(diag_start_x):.0f}" y1="{sy(diag_start_x):.0f}" '
+                f'x2="{sx(diag_end_x):.0f}" y2="{sy(diag_end_x):.0f}" '
+                f'stroke="#ddd" stroke-width="1" stroke-dasharray="4,4"/>'
+            )
 
     # Team logos
     logos = ""
@@ -369,7 +394,7 @@ def regenerate_site() -> None:
     # ── Graphs tab ──
     scatter_xr = _build_scatter_svg(scores, "xr_pg", "r_pg", "xR/G", "R/G", "xR vs Actual Runs")
     scatter_xra = _build_scatter_svg(scores, "xra_pg", "ra_pg", "xRA/G", "RA/G", "xRA vs Actual Runs Allowed")
-    scatter_xr_xra = _build_scatter_svg(scores, "xr_pg", "xra_pg", "xR/G", "xRA/G", "xR vs xRA")
+    scatter_xr_xra = _build_scatter_svg(scores, "xr_pg", "xra_pg", "xR/G", "xRA/G", "xR vs xRA", tier_lines=True)
 
     stats_html = (
         f'<div class="stats">{total_games} games'
