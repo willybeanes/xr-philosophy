@@ -211,7 +211,8 @@ def _build_teams_table(scores: list) -> str:
 
 
 def _build_scatter_svg(scores: list, x_key: str, y_key: str,
-                       x_label: str, y_label: str, title: str) -> str:
+                       x_label: str, y_label: str, title: str,
+                       invert_y: bool = False) -> str:
     """Build an SVG scatter plot with team logos as markers."""
     teams = defaultdict(lambda: {"games": 0, "xr": 0.0, "xr_allowed": 0.0,
                                   "runs": 0, "runs_allowed": 0})
@@ -253,7 +254,10 @@ def _build_scatter_svg(scores: list, x_key: str, y_key: str,
     y_min = min(all_y) - pad; y_max = max(all_y) + pad
 
     def sx(v): return PL + (v - x_min) / (x_max - x_min) * PW
-    def sy(v): return PT + PH - (v - y_min) / (y_max - y_min) * PH
+    if invert_y:
+        def sy(v): return PT + (v - y_min) / (y_max - y_min) * PH  # lower values at top
+    else:
+        def sy(v): return PT + PH - (v - y_min) / (y_max - y_min) * PH
 
     FONT = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
 
@@ -365,6 +369,7 @@ def regenerate_site() -> None:
     # ── Graphs tab ──
     scatter_xr = _build_scatter_svg(scores, "xr_pg", "r_pg", "xR/G", "R/G", "xR vs Actual Runs")
     scatter_xra = _build_scatter_svg(scores, "xra_pg", "ra_pg", "xRA/G", "RA/G", "xRA vs Actual Runs Allowed")
+    scatter_xr_xra = _build_scatter_svg(scores, "xr_pg", "xra_pg", "xR/G", "xRA/G", "xR vs xRA", invert_y=True)
 
     stats_html = (
         f'<div class="stats">{total_games} games'
@@ -551,8 +556,9 @@ footer strong {{ color: var(--text); }}
   <div class="scatter-grid">
     {scatter_xr}
     {scatter_xra}
+    {scatter_xr_xra}
   </div>
-  <p class="scatter-note">Dashed line = xR matches actual. Above the line = scoring more than xR. Below = scoring less.</p>
+  <p class="scatter-note">First two charts: dashed line = xR matches actual. Third chart: top-left = best (high xR, low xRA).</p>
   {updated_html}
 </div>
 
