@@ -369,7 +369,7 @@ def regenerate_site() -> None:
     # ── Graphs tab ──
     scatter_xr = _build_scatter_svg(scores, "xr_pg", "r_pg", "xR/G", "R/G", "xR vs Actual Runs")
     scatter_xra = _build_scatter_svg(scores, "xra_pg", "ra_pg", "xRA/G", "RA/G", "xRA vs Actual Runs Allowed")
-    scatter_xr_xra = _build_scatter_svg(scores, "xr_pg", "xra_pg", "xR/G", "xRA/G", "xR vs xRA", invert_y=True)
+    scatter_xr_xra = _build_scatter_svg(scores, "xr_pg", "xra_pg", "xR/G", "xRA/G", "xR vs xRA")
 
     stats_html = (
         f'<div class="stats">{total_games} games'
