@@ -3,6 +3,7 @@
 import json
 import os
 import sys
+import time
 from datetime import date
 
 from src.mlb_fetcher import get_todays_games, get_play_by_play
@@ -74,7 +75,10 @@ def main():
 
     print(f"  {len(new_games)} new game(s) to process\n")
 
+    POST_DELAY = 60  # seconds between Bluesky posts
+
     errors = 0
+    posted_count = 0
     for game in new_games:
         gpk = game["gamePk"]
         label = f"{game['away_team']} @ {game['home_team']}"
@@ -95,9 +99,15 @@ def main():
             if DRY_RUN:
                 print("  [DRY RUN] Skipping Bluesky post")
             else:
+                # Wait between posts so they don't all fire at once
+                if posted_count > 0:
+                    print(f"  Waiting {POST_DELAY}s before posting...")
+                    time.sleep(POST_DELAY)
+
                 uri = post_game_result(game, away_xr, home_xr)
                 if uri:
                     print(f"  Posted: {uri}")
+                    posted_count += 1
                 else:
                     print("  WARNING: Post may have failed")
 
