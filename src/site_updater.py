@@ -9,6 +9,7 @@ from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS, TEAM_IDS
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
+PLAYER_STATS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "player_stats.json")
 
 
 def load_scores() -> list[dict]:
@@ -210,6 +211,57 @@ def _build_teams_table(scores: list) -> str:
     return rows
 
 
+def _load_player_stats() -> dict:
+    if not os.path.exists(PLAYER_STATS_PATH):
+        return {"batters": {}, "pitchers": {}}
+    with open(PLAYER_STATS_PATH) as f:
+        return json.load(f)
+
+
+def _build_players_html(player_stats: dict) -> str:
+    """Build the Players tab HTML with batting and pitching sub-tables."""
+    batters = player_stats.get("batters", {})
+    pitchers = player_stats.get("pitchers", {})
+
+    # Batting rows — min 10 PA, sorted by xR descending
+    bat_rows = ""
+    bat_list = sorted(
+        [b for b in batters.values() if b["pa"] >= 10],
+        key=lambda b: b["xr"], reverse=True,
+    )
+    for b in bat_list:
+        xr_pa = b["xr"] / b["pa"] if b["pa"] else 0
+        bat_rows += (
+            f'<tr>'
+            f'<td class="player-name">{b["name"]}</td>'
+            f'<td class="team-name">{b["team"]}</td>'
+            f'<td class="num">{b["pa"]}</td>'
+            f'<td class="num">{b["xr"]:.2f}</td>'
+            f'<td class="num">{xr_pa:+.3f}</td>'
+            f'</tr>\n'
+        )
+
+    # Pitching rows — min 15 BF, sorted by xRA/BF ascending (best first)
+    pit_rows = ""
+    pit_list = sorted(
+        [p for p in pitchers.values() if p["bf"] >= 15],
+        key=lambda p: p["xr_allowed"] / p["bf"] if p["bf"] else 0,
+    )
+    for p in pit_list:
+        xra_bf = p["xr_allowed"] / p["bf"] if p["bf"] else 0
+        pit_rows += (
+            f'<tr>'
+            f'<td class="player-name">{p["name"]}</td>'
+            f'<td class="team-name">{p["team"]}</td>'
+            f'<td class="num">{p["bf"]}</td>'
+            f'<td class="num">{p["xr_allowed"]:.2f}</td>'
+            f'<td class="num">{xra_bf:+.3f}</td>'
+            f'</tr>\n'
+        )
+
+    return bat_rows, pit_rows
+
+
 def _build_scatter_svg(scores: list, x_key: str, y_key: str,
                        x_label: str, y_label: str, title: str,
                        invert_y: bool = False, tier_lines: bool = False) -> str:
@@ -391,6 +443,10 @@ def regenerate_site() -> None:
     # ── Teams tab rows ──
     teams_rows = _build_teams_table(scores)
 
+    # ── Players tab ──
+    player_stats = _load_player_stats()
+    bat_rows, pit_rows = _build_players_html(player_stats)
+
     # ── Graphs tab ──
     scatter_xr = _build_scatter_svg(scores, "xr_pg", "r_pg", "xR/G", "R/G", "xR vs Actual Runs")
     scatter_xra = _build_scatter_svg(scores, "xra_pg", "ra_pg", "xRA/G", "RA/G", "xRA vs Actual Runs Allowed")
@@ -505,6 +561,26 @@ tr.expanded .arrow {{ transform: rotate(90deg); }}
 .team-name {{ font-weight: 600; }}
 .diff {{ font-weight: 600; }}
 
+/* Players tab */
+.player-subtabs {{
+  display: flex; gap: 0; margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}}
+.player-subtab {{
+  padding: 0.4rem 1rem; cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  color: var(--text-secondary); border-bottom: 2px solid transparent;
+}}
+.player-subtab:hover {{ color: var(--text); }}
+.player-subtab.active {{ color: var(--text); border-bottom-color: var(--red); }}
+.player-panel {{ display: none; }}
+.player-panel.active {{ display: block; }}
+.player-table {{ margin-top: 0.5rem; }}
+.player-table th {{ cursor: pointer; user-select: none; }}
+.player-table th:hover {{ color: var(--text); }}
+.player-table th.sorted-asc::after {{ content: " \\25B2"; font-size: 0.6rem; }}
+.player-table th.sorted-desc::after {{ content: " \\25BC"; font-size: 0.6rem; }}
+.player-name {{ font-weight: 600; white-space: nowrap; }}
+
 /* Graphs tab */
 .scatter-grid {{ display: flex; flex-direction: column; gap: 2rem; }}
 .scatter-wrap {{ text-align: center; }}
@@ -533,6 +609,7 @@ footer strong {{ color: var(--text); }}
 <div class="tabs">
   <div class="tab active" onclick="switchTab('games',this)">Games</div>
   <div class="tab" onclick="switchTab('teams',this)">Teams</div>
+  <div class="tab" onclick="switchTab('players',this)">Players</div>
   <div class="tab" onclick="switchTab('graphs',this)">Graphs</div>
 </div>
 
@@ -574,6 +651,48 @@ footer strong {{ color: var(--text); }}
       {teams_rows}
     </tbody>
   </table>
+  {updated_html}
+</div>
+
+<div id="players-tab" class="tab-content">
+  <div class="player-subtabs">
+    <span class="player-subtab active" onclick="switchPlayerTab('batting',this)">Batting</span>
+    <span class="player-subtab" onclick="switchPlayerTab('pitching',this)">Pitching</span>
+  </div>
+
+  <div id="batting-panel" class="player-panel active">
+    <table id="batting-table" class="player-table">
+      <thead>
+        <tr>
+          <th onclick="sortPlayerTable('batting-table',0)">Player</th>
+          <th onclick="sortPlayerTable('batting-table',1)">Team</th>
+          <th onclick="sortPlayerTable('batting-table',2)" style="text-align:center">PA</th>
+          <th onclick="sortPlayerTable('batting-table',3)" style="text-align:center" class="sorted-desc">xR</th>
+          <th onclick="sortPlayerTable('batting-table',4)" style="text-align:center">xR/PA</th>
+        </tr>
+      </thead>
+      <tbody>
+        {bat_rows}
+      </tbody>
+    </table>
+  </div>
+
+  <div id="pitching-panel" class="player-panel">
+    <table id="pitching-table" class="player-table">
+      <thead>
+        <tr>
+          <th onclick="sortPlayerTable('pitching-table',0)">Player</th>
+          <th onclick="sortPlayerTable('pitching-table',1)">Team</th>
+          <th onclick="sortPlayerTable('pitching-table',2)" style="text-align:center">BF</th>
+          <th onclick="sortPlayerTable('pitching-table',3)" style="text-align:center">xRA</th>
+          <th onclick="sortPlayerTable('pitching-table',4)" style="text-align:center" class="sorted-asc">xRA/BF</th>
+        </tr>
+      </thead>
+      <tbody>
+        {pit_rows}
+      </tbody>
+    </table>
+  </div>
   {updated_html}
 </div>
 
@@ -650,6 +769,34 @@ function sortTeams(col) {{
   var ths = table.querySelectorAll('th');
   sortDir[col] = sortDir[col] === 'asc' ? 'desc' : 'asc';
   var dir = sortDir[col];
+  ths.forEach(function(th) {{ th.classList.remove('sorted-asc', 'sorted-desc'); }});
+  ths[col].classList.add(dir === 'asc' ? 'sorted-asc' : 'sorted-desc');
+  rows.sort(function(a, b) {{
+    var aVal = a.cells[col].textContent.trim();
+    var bVal = b.cells[col].textContent.trim();
+    var aNum = parseFloat(aVal); var bNum = parseFloat(bVal);
+    if (!isNaN(aNum) && !isNaN(bNum)) {{
+      return dir === 'asc' ? aNum - bNum : bNum - aNum;
+    }}
+    return dir === 'asc' ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+  }});
+  rows.forEach(function(r) {{ tbody.appendChild(r); }});
+}}
+function switchPlayerTab(panel, el) {{
+  document.querySelectorAll('.player-subtab').forEach(function(t) {{ t.classList.remove('active'); }});
+  document.querySelectorAll('.player-panel').forEach(function(p) {{ p.classList.remove('active'); }});
+  document.getElementById(panel + '-panel').classList.add('active');
+  if (el) el.classList.add('active');
+}}
+var playerSortDir = {{}};
+function sortPlayerTable(tableId, col) {{
+  var table = document.getElementById(tableId);
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr'));
+  var ths = table.querySelectorAll('th');
+  var key = tableId + '-' + col;
+  playerSortDir[key] = playerSortDir[key] === 'asc' ? 'desc' : 'asc';
+  var dir = playerSortDir[key];
   ths.forEach(function(th) {{ th.classList.remove('sorted-asc', 'sorted-desc'); }});
   ths[col].classList.add(dir === 'asc' ? 'sorted-asc' : 'sorted-desc');
   rows.sort(function(a, b) {{

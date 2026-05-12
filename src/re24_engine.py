@@ -296,3 +296,76 @@ def calculate_xr(plays: list) -> dict:
         "home_actual": home_actual,
         "cumulative": cumulative,
     }
+
+
+def extract_player_xr(plays: list) -> list[dict]:
+    """Extract per-PA xR contributions with batter and pitcher info.
+
+    Returns a list of dicts, one per plate appearance:
+        batter_id, batter_name, pitcher_id, pitcher_name,
+        is_top (True=away batting), event_type, xr (run value)
+    """
+    prev_half_inning = None
+    current_outs = 0
+    current_bases = set()
+    pa_list = []
+
+    for play in plays:
+        result = play.get("result", {})
+        about = play.get("about", {})
+        count = play.get("count", {})
+        runners = play.get("runners", [])
+        matchup = play.get("matchup", {})
+
+        if result.get("type") != "atBat":
+            continue
+
+        is_top = about.get("isTopInning", True)
+        half_inning_key = (about.get("inning"), is_top)
+
+        if half_inning_key != prev_half_inning:
+            current_outs = 0
+            current_bases = set()
+            prev_half_inning = half_inning_key
+
+        event_type = result.get("eventType", "")
+        bases_str = bases_to_string(current_bases)
+        run_value = None
+
+        if event_type in _BATTED_BALL_EVENTS:
+            hit_data = _get_hit_data(play)
+            if hit_data:
+                run_value = _statcast_run_value(
+                    hit_data["launchSpeed"],
+                    hit_data["launchAngle"],
+                    bases_str,
+                    current_outs,
+                )
+
+        if run_value is None:
+            run_value = _lookup_run_value(event_type, bases_str, current_outs)
+
+        batter = matchup.get("batter", {})
+        pitcher = matchup.get("pitcher", {})
+
+        pa_list.append({
+            "batter_id": batter.get("id"),
+            "batter_name": batter.get("fullName", "Unknown"),
+            "pitcher_id": pitcher.get("id"),
+            "pitcher_name": pitcher.get("fullName", "Unknown"),
+            "is_top": is_top,
+            "event_type": event_type,
+            "xr": round(run_value, 4),
+        })
+
+        # Track state changes for next PA
+        bases_after, _ = _apply_runners(current_bases, runners)
+        outs_after = count.get("outs", current_outs)
+        if outs_after >= 3:
+            current_outs = 0
+            current_bases = set()
+        else:
+            current_outs = outs_after
+            current_bases = bases_after
+
+    return pa_list

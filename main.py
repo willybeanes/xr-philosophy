@@ -7,12 +7,13 @@ import time
 from datetime import date
 
 from src.mlb_fetcher import get_todays_games, get_play_by_play
-from src.re24_engine import calculate_xr
-from src.bluesky_poster import post_game_result, format_post
+from src.re24_engine import calculate_xr, extract_player_xr
+from src.bluesky_poster import post_game_result, format_post, TEAM_ABBR
 from src.site_updater import save_score, regenerate_site
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 POSTED_FILE = os.path.join(DATA_DIR, "posted_games.json")
+PLAYER_STATS_PATH = os.path.join(DATA_DIR, "player_stats.json")
 DRY_RUN = os.environ.get("DRY_RUN", "").lower() in ("true", "1", "yes")
 
 
@@ -28,6 +29,52 @@ def save_posted(posted: set) -> None:
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(POSTED_FILE, "w") as f:
         json.dump({"posted": sorted(posted)}, f, indent=2)
+
+
+def load_player_stats() -> dict:
+    if not os.path.exists(PLAYER_STATS_PATH):
+        return {"batters": {}, "pitchers": {}, "processed_games": []}
+    with open(PLAYER_STATS_PATH) as f:
+        return json.load(f)
+
+
+def save_player_stats(stats: dict) -> None:
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(PLAYER_STATS_PATH, "w") as f:
+        json.dump(stats, f, indent=2)
+
+
+def update_player_stats(game: dict, plays: list, player_stats: dict) -> None:
+    """Accumulate per-player xR from a single game's play-by-play."""
+    pa_list = extract_player_xr(plays)
+    batters = player_stats["batters"]
+    pitchers = player_stats["pitchers"]
+
+    for pa in pa_list:
+        bid = str(pa["batter_id"])
+        pid = str(pa["pitcher_id"])
+        team = game["away_team"] if pa["is_top"] else game["home_team"]
+        opp_team = game["home_team"] if pa["is_top"] else game["away_team"]
+
+        if bid not in batters:
+            batters[bid] = {"name": pa["batter_name"], "team": team,
+                            "pa": 0, "xr": 0.0}
+        b = batters[bid]
+        b["name"] = pa["batter_name"]
+        b["team"] = team
+        b["pa"] += 1
+        b["xr"] = round(b["xr"] + pa["xr"], 4)
+
+        if pid not in pitchers:
+            pitchers[pid] = {"name": pa["pitcher_name"], "team": opp_team,
+                             "bf": 0, "xr_allowed": 0.0}
+        p = pitchers[pid]
+        p["name"] = pa["pitcher_name"]
+        p["team"] = opp_team
+        p["bf"] += 1
+        p["xr_allowed"] = round(p["xr_allowed"] + pa["xr"], 4)
+
+    player_stats["processed_games"].append(game["gamePk"])
 
 
 def main():
@@ -77,6 +124,7 @@ def main():
 
     POST_DELAY = 60  # seconds between Bluesky posts
 
+    player_stats = load_player_stats()
     errors = 0
     posted_count = 0
     for game in new_games:
@@ -111,8 +159,9 @@ def main():
                 else:
                     print("  WARNING: Post may have failed")
 
-            # Save score and mark as posted regardless of post success
+            # Save score, update player stats, and mark as posted
             save_score(game, away_xr, home_xr, chart_data=xr.get("cumulative"))
+            update_player_stats(game, plays, player_stats)
             posted.add(str(gpk))
             save_posted(posted)
 
@@ -122,6 +171,7 @@ def main():
 
         print()
 
+    save_player_stats(player_stats)
     regenerate_site()
 
     if errors:

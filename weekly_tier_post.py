@@ -152,10 +152,10 @@ def build_tier_chart(scores: list) -> bytes:
     draw.line([(PL, PT + PH), (PL + PW, PT + PH)], fill=(200, 200, 200), width=2)
 
     # Axis labels
-    draw.text((PL + PW // 2, H - 12), "xR/G", fill=(150, 150, 150), font=font, anchor="ma")
-    img_txt = Image.new("RGBA", (200, 30), (255, 255, 255, 0))
+    draw.text((PL + PW // 2, H - 40), "xR/G", fill=(150, 150, 150), font=font, anchor="ma")
+    img_txt = Image.new("RGBA", (200, 44), (255, 255, 255, 0))
     txt_draw = ImageDraw.Draw(img_txt)
-    txt_draw.text((100, 15), "xRA/G", fill=(150, 150, 150), font=font, anchor="ma")
+    txt_draw.text((100, 22), "xRA/G", fill=(150, 150, 150), font=font, anchor="mm")
     img_txt = img_txt.rotate(90, expand=True)
     img.paste(img_txt, (4, PT + PH // 2 - 100), img_txt)
 
