@@ -1005,20 +1005,20 @@
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 185,
-      "xr": 13.6559
+      "pa": 189,
+      "xr": 13.4867
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 172,
-      "xr": 12.2096
+      "pa": 176,
+      "xr": 13.266
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 152,
-      "xr": -3.8275
+      "pa": 156,
+      "xr": -4.4271
     },
     "669357": {
       "name": "Nolan Gorman",
@@ -1053,26 +1053,26 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 169,
-      "xr": 9.0851
+      "pa": 173,
+      "xr": 9.0432
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 126,
-      "xr": -1.3326
+      "pa": 129,
+      "xr": -1.101
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 98,
-      "xr": -4.8156
+      "pa": 101,
+      "xr": -5.6036
     },
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 116,
-      "xr": -8.5495
+      "pa": 119,
+      "xr": -8.7661
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -1713,14 +1713,14 @@
     "672580": {
       "name": "Maikel Garcia",
       "team": "Kansas City Royals",
-      "pa": 179,
-      "xr": 1.5808
+      "pa": 183,
+      "xr": 0.8258
     },
     "677951": {
       "name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
-      "pa": 190,
-      "xr": 16.5531
+      "pa": 194,
+      "xr": 17.6991
     },
     "657041": {
       "name": "Lane Thomas",
@@ -1767,20 +1767,20 @@
     "521692": {
       "name": "Salvador Perez",
       "team": "Kansas City Royals",
-      "pa": 176,
-      "xr": -4.1342
+      "pa": 180,
+      "xr": -4.4087
     },
     "686469": {
       "name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
-      "pa": 175,
-      "xr": -2.7791
+      "pa": 179,
+      "xr": -2.6356
     },
     "516782": {
       "name": "Starling Marte",
       "team": "Kansas City Royals",
-      "pa": 46,
-      "xr": -0.1394
+      "pa": 47,
+      "xr": -0.2374
     },
     "663697": {
       "name": "Jonathan India",
@@ -1791,8 +1791,8 @@
     "686555": {
       "name": "Isaac Collins",
       "team": "Kansas City Royals",
-      "pa": 139,
-      "xr": -0.3151
+      "pa": 143,
+      "xr": 0.8242
     },
     "643289": {
       "name": "Mauricio Dub\u00f3n",
@@ -1815,14 +1815,14 @@
     "695600": {
       "name": "Carter Jensen",
       "team": "Kansas City Royals",
-      "pa": 139,
-      "xr": -3.4055
+      "pa": 142,
+      "xr": -3.6497
     },
     "695506": {
       "name": "Jac Caglianone",
       "team": "Kansas City Royals",
-      "pa": 133,
-      "xr": -0.4816
+      "pa": 137,
+      "xr": 1.0534
     },
     "665161": {
       "name": "Jeremy Pe\u00f1a",
@@ -2061,8 +2061,8 @@
     "664728": {
       "name": "Kyle Isbel",
       "team": "Kansas City Royals",
-      "pa": 115,
-      "xr": -2.9646
+      "pa": 119,
+      "xr": -2.8497
     },
     "642086": {
       "name": "Dominic Smith",
@@ -2235,8 +2235,8 @@
     "695336": {
       "name": "Thomas Saggese",
       "team": "St. Louis Cardinals",
-      "pa": 59,
-      "xr": -4.4594
+      "pa": 62,
+      "xr": -4.3592
     },
     "665561": {
       "name": "Rafael March\u00e1n",
@@ -2337,8 +2337,8 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 52,
-      "xr": -0.7745
+      "pa": 56,
+      "xr": -1.6439
     },
     "666160": {
       "name": "Mickey Moniak",
@@ -2439,8 +2439,8 @@
     "686681": {
       "name": "Michael Massey",
       "team": "Kansas City Royals",
-      "pa": 79,
-      "xr": -4.9151
+      "pa": 83,
+      "xr": -4.3208
     },
     "656582": {
       "name": "Connor Joe",
@@ -3419,8 +3419,8 @@
     "677865": {
       "name": "Justin Bruihl",
       "team": "St. Louis Cardinals",
-      "bf": 81,
-      "xr_allowed": 3.702
+      "bf": 84,
+      "xr_allowed": 3.4041
     },
     "688297": {
       "name": "Chris Roycroft",
@@ -3809,8 +3809,8 @@
     "663559": {
       "name": "Bailey Falter",
       "team": "Kansas City Royals",
-      "bf": 20,
-      "xr_allowed": 0.3326
+      "bf": 29,
+      "xr_allowed": 1.1587
     },
     "669276": {
       "name": "Dylan Lee",
@@ -4841,8 +4841,8 @@
     "666277": {
       "name": "George Soriano",
       "team": "St. Louis Cardinals",
-      "bf": 74,
-      "xr_allowed": 2.5992
+      "bf": 78,
+      "xr_allowed": 4.6214
     },
     "690155": {
       "name": "Matt Pushard",
@@ -5069,8 +5069,8 @@
     "681517": {
       "name": "Kyle Leahy",
       "team": "St. Louis Cardinals",
-      "bf": 159,
-      "xr_allowed": 7.3817
+      "bf": 184,
+      "xr_allowed": 9.3515
     },
     "605280": {
       "name": "Clay Holmes",
@@ -5267,8 +5267,8 @@
     "700669": {
       "name": "Gordon Graceffo",
       "team": "St. Louis Cardinals",
-      "bf": 81,
-      "xr_allowed": 4.5943
+      "bf": 85,
+      "xr_allowed": 4.2015
     },
     "678394": {
       "name": "Brayan Bello",
@@ -5333,8 +5333,8 @@
     "702070": {
       "name": "Noah Cameron",
       "team": "Kansas City Royals",
-      "bf": 144,
-      "xr_allowed": 10.875
+      "bf": 167,
+      "xr_allowed": 8.7524
     },
     "689520": {
       "name": "Cody Laweryson",
@@ -7152,6 +7152,7 @@
     824037,
     823140,
     825009,
-    824278
+    824278,
+    823060
   ]
 }
