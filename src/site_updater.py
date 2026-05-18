@@ -65,17 +65,26 @@ def _generate_chart_svg(g: dict) -> str:
     away_color = _get_color(g["away_team"], "#2563eb")
     home_color = _get_color(g["home_team"], "#dc2626")
 
-    points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1}]
+    points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1, "top": True}]
     for p in cd:
         points.append({
             "pa": p["pa"], "a_xr": p["a_xr"], "h_xr": p["h_xr"],
             "a_r": p["a_r"], "h_r": p["h_r"], "inn": p["inn"],
+            "top": p.get("top", True),
         })
 
     inning_starts = {}
     for p in cd:
         if p["inn"] not in inning_starts:
             inning_starts[p["inn"]] = p["pa"]
+
+    # Find half-inning boundaries (where top/bottom switches = 3rd out made)
+    half_inning_breaks = []
+    for i in range(1, len(cd)):
+        prev_half = (cd[i-1]["inn"], cd[i-1].get("top", True))
+        curr_half = (cd[i]["inn"], cd[i].get("top", True))
+        if prev_half != curr_half:
+            half_inning_breaks.append(cd[i]["pa"])
 
     W = 720; H = 340
     PL = 42; PR = 40; PT = 14; PB = 36
@@ -108,6 +117,11 @@ def _generate_chart_svg(g: dict) -> str:
         y_grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#9ca3af" font-size="10">{v}</text>'
 
     inn_svg = ""
+    # Half-inning break lines (3rd out)
+    for pa_break in half_inning_breaks:
+        x = sx(pa_break)
+        inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/>'
+    # Inning start lines and labels
     for inn, pa_start in inning_starts.items():
         x = sx(pa_start)
         inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/>'
