@@ -6,7 +6,7 @@ services:
     repo: https://github.com/willybeanes/xr-philosophy
     branch: main
     plan: starter
-    schedule: "*/10 22-23,0-6 * 4-10 *"  # Every 10 min, 6 PM–2 AM ET (UTC)
+    schedule: "*/10 15-23,0-7 * 4-10 *"  # Every 10 min, 11 AM–3 AM ET (UTC)
     buildCommand: pip install -r requirements.txt
     startCommand: bash run_bot.sh
     envVars:
