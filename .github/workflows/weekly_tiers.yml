@@ -1,9 +1,9 @@
 name: Weekly Tier Post
 
 on:
-  schedule:
-    # Monday at 9:00 AM ET = 13:00 UTC
-    - cron: '0 13 * * 1'
+  # Schedule disabled — migrated to Render cron for reliable timing.
+  # schedule:
+  #   - cron: '0 13 * * 1'
   workflow_dispatch:
 
 jobs:

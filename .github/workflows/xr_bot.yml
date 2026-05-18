@@ -1,10 +1,9 @@
 name: xR Bot
 
 on:
-  schedule:
-    # Every 15 minutes from 6 PM to 1 AM ET (22:00-05:00 UTC)
-    # During baseball season (April-October)
-    - cron: '*/15 19-23,0-6 * 4-10 *'
+  # Schedule disabled — migrated to Render cron for reliable timing.
+  # schedule:
+  #   - cron: '*/15 19-23,0-6 * 4-10 *'
   workflow_dispatch:
     inputs:
       game_date:

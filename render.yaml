@@ -1,0 +1,42 @@
+services:
+  # xR Bot — checks for final games every 10 minutes during game hours
+  - type: cron
+    name: xr-bot
+    runtime: python
+    repo: https://github.com/willybeanes/xr-philosophy
+    branch: main
+    plan: free
+    schedule: "*/10 22-23,0-6 * 4-10 *"  # Every 10 min, 6 PM–2 AM ET (UTC)
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash run_bot.sh
+    envVars:
+      - key: BLUESKY_HANDLE
+        sync: false
+      - key: BLUESKY_APP_PASSWORD
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
+
+  # Weekly tier chart — posts Monday mornings
+  - type: cron
+    name: xr-weekly-tiers
+    runtime: python
+    repo: https://github.com/willybeanes/xr-philosophy
+    branch: main
+    plan: free
+    schedule: "0 13 * * 1"  # Monday 9 AM ET = 13:00 UTC
+    buildCommand: |
+      apt-get update && apt-get install -y libcairo2
+      pip install -r requirements.txt
+    startCommand: bash run_weekly_tiers.sh
+    envVars:
+      - key: BLUESKY_HANDLE
+        sync: false
+      - key: BLUESKY_APP_PASSWORD
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
