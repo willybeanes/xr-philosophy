@@ -1,22 +1,20 @@
 #!/bin/bash
 # Render cron job wrapper for the xR bot.
-# Pulls latest data, runs the bot, pushes results back to GitHub.
+# Clones the repo fresh, runs the bot, pushes results back to GitHub.
 set -euo pipefail
 
 echo "=== xR Bot cron run: $(date -u) ==="
 
-# Configure git with the GitHub token for pushing
+REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/willybeanes/xr-philosophy.git"
+WORK_DIR="/tmp/xr-philosophy"
+
+# Clone fresh copy with latest data
+rm -rf "$WORK_DIR"
+git clone --depth 1 "$REPO_URL" "$WORK_DIR"
+cd "$WORK_DIR"
+
 git config user.name "xR Bot"
 git config user.email "xrbot@users.noreply.github.com"
-git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/willybeanes/xr-philosophy.git"
-
-# Pull latest data (another run may have pushed since build)
-echo "Pulling latest..."
-git pull --rebase origin main || {
-    echo "Pull failed, resetting to remote"
-    git fetch origin main
-    git reset --hard origin/main
-}
 
 # Run the bot
 python main.py
@@ -27,12 +25,7 @@ if git diff --staged --quiet; then
     echo "No changes to commit"
 else
     git commit -m "Update xR scores [skip ci]"
-    # Retry push in case of concurrent update
-    git push origin main || {
-        echo "Push failed, rebasing and retrying..."
-        git pull --rebase origin main
-        git push origin main
-    }
+    git push origin main
 fi
 
 echo "=== Done ==="
