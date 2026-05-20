@@ -111,26 +111,26 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 186,
-      "xr": 5.2273
+      "pa": 191,
+      "xr": 5.2282
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 164,
-      "xr": 8.2467
+      "pa": 169,
+      "xr": 8.4562
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 189,
-      "xr": 4.3722
+      "pa": 194,
+      "xr": 6.2637
     },
     "542303": {
       "name": "Marcell Ozuna",
       "team": "Pittsburgh Pirates",
-      "pa": 150,
-      "xr": -3.378
+      "pa": 155,
+      "xr": -4.0035
     },
     "656811": {
       "name": "Ryan O'Hearn",
@@ -195,26 +195,26 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 46,
-      "xr": -1.9101
+      "pa": 50,
+      "xr": -0.4995
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 138,
-      "xr": -1.2143
+      "pa": 139,
+      "xr": -0.3207
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 150,
-      "xr": 5.645
+      "pa": 156,
+      "xr": 6.1803
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 101,
-      "xr": -2.932
+      "pa": 104,
+      "xr": -4.2427
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -999,20 +999,20 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 191,
-      "xr": 7.6652
+      "pa": 196,
+      "xr": 9.1329
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 193,
-      "xr": 13.2143
+      "pa": 198,
+      "xr": 13.0391
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 180,
-      "xr": 13.8333
+      "pa": 184,
+      "xr": 15.0266
     },
     "691026": {
       "name": "Masyn Winn",
@@ -1023,8 +1023,8 @@
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 155,
-      "xr": -0.9202
+      "pa": 159,
+      "xr": 0.9763
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,26 +1053,26 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 177,
-      "xr": 8.7048
+      "pa": 181,
+      "xr": 8.7814
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 133,
-      "xr": -1.0947
+      "pa": 137,
+      "xr": -1.4293
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 101,
-      "xr": -5.6036
+      "pa": 105,
+      "xr": -5.4468
     },
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 121,
-      "xr": -9.0063
+      "pa": 125,
+      "xr": -9.2078
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 85,
-      "xr": -2.8197
+      "pa": 86,
+      "xr": -3.0448
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2235,8 +2235,8 @@
     "695336": {
       "name": "Thomas Saggese",
       "team": "St. Louis Cardinals",
-      "pa": 65,
-      "xr": -4.0634
+      "pa": 67,
+      "xr": -3.9092
     },
     "665561": {
       "name": "Rafael March\u00e1n",
@@ -2349,8 +2349,8 @@
     "804606": {
       "name": "Konnor Griffin",
       "team": "Pittsburgh Pirates",
-      "pa": 146,
-      "xr": -1.3395
+      "pa": 151,
+      "xr": -1.6628
     },
     "641487": {
       "name": "J.P. Crawford",
@@ -2835,8 +2835,8 @@
     "693409": {
       "name": "C\u00e9sar Prieto",
       "team": "St. Louis Cardinals",
-      "pa": 2,
-      "xr": 0.3963
+      "pa": 4,
+      "xr": 0.6252
     },
     "701305": {
       "name": "Zach Dezenzo",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 9,
-      "xr": -0.2303
+      "pa": 11,
+      "xr": 0.8102
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3023,6 +3023,12 @@
       "team": "Minnesota Twins",
       "pa": 2,
       "xr": -0.0913
+    },
+    "691373": {
+      "name": "Jhostynxon Garcia",
+      "team": "Pittsburgh Pirates",
+      "pa": 4,
+      "xr": -0.7339
     }
   },
   "pitchers": {
@@ -3095,8 +3101,8 @@
     "682254": {
       "name": "Mason Montgomery",
       "team": "Pittsburgh Pirates",
-      "bf": 67,
-      "xr_allowed": -2.992
+      "bf": 69,
+      "xr_allowed": -1.9272
     },
     "676755": {
       "name": "Isaac Mattson",
@@ -3119,8 +3125,8 @@
     "642397": {
       "name": "Gregory Soto",
       "team": "Pittsburgh Pirates",
-      "bf": 79,
-      "xr_allowed": -3.4621
+      "bf": 82,
+      "xr_allowed": -3.9398
     },
     "642701": {
       "name": "Dennis Santana",
@@ -3467,8 +3473,8 @@
     "669461": {
       "name": "Matthew Liberatore",
       "team": "St. Louis Cardinals",
-      "bf": 183,
-      "xr_allowed": 10.5545
+      "bf": 206,
+      "xr_allowed": 11.1966
     },
     "656876": {
       "name": "Drew Rasmussen",
@@ -3515,14 +3521,14 @@
     "668941": {
       "name": "JoJo Romero",
       "team": "St. Louis Cardinals",
-      "bf": 85,
-      "xr_allowed": 1.994
+      "bf": 90,
+      "xr_allowed": 2.7835
     },
     "676617": {
       "name": "Riley O'Brien",
       "team": "St. Louis Cardinals",
-      "bf": 78,
-      "xr_allowed": -3.6394
+      "bf": 85,
+      "xr_allowed": -1.175
     },
     "672782": {
       "name": "Yoendrys G\u00f3mez",
@@ -3533,8 +3539,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 88,
-      "xr_allowed": -0.557
+      "bf": 91,
+      "xr_allowed": -0.2985
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4373,8 +4379,8 @@
     "656605": {
       "name": "Mitch Keller",
       "team": "Pittsburgh Pirates",
-      "bf": 187,
-      "xr_allowed": 3.3515
+      "bf": 209,
+      "xr_allowed": 4.2264
     },
     "623211": {
       "name": "Huascar Brazob\u00e1n",
@@ -4907,8 +4913,8 @@
     "666277": {
       "name": "George Soriano",
       "team": "St. Louis Cardinals",
-      "bf": 78,
-      "xr_allowed": 4.6214
+      "bf": 81,
+      "xr_allowed": 4.2461
     },
     "690155": {
       "name": "Matt Pushard",
@@ -5333,8 +5339,8 @@
     "700669": {
       "name": "Gordon Graceffo",
       "team": "St. Louis Cardinals",
-      "bf": 85,
-      "xr_allowed": 4.2015
+      "bf": 90,
+      "xr_allowed": 3.1857
     },
     "678394": {
       "name": "Brayan Bello",
@@ -5783,8 +5789,8 @@
     "681895": {
       "name": "Evan Sisk",
       "team": "Pittsburgh Pirates",
-      "bf": 70,
-      "xr_allowed": -5.0101
+      "bf": 76,
+      "xr_allowed": -2.3933
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -6545,8 +6551,8 @@
     "684049": {
       "name": "Brandan Bidois",
       "team": "Pittsburgh Pirates",
-      "bf": 12,
-      "xr_allowed": -0.3725
+      "bf": 17,
+      "xr_allowed": 0.0114
     },
     "666157": {
       "name": "Nick Lodolo",
@@ -7354,6 +7360,7 @@
     823704,
     823548,
     824112,
-    824677
+    824677,
+    823059
   ]
 }
