@@ -21,26 +21,26 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 181,
-      "xr": 3.0082
+      "pa": 186,
+      "xr": 3.0895
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 184,
-      "xr": -7.0892
+      "pa": 188,
+      "xr": -7.0495
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 186,
-      "xr": -6.653
+      "pa": 190,
+      "xr": -5.6954
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 184,
-      "xr": -4.25
+      "pa": 188,
+      "xr": -3.4596
     },
     "808982": {
       "name": "Jung Hoo Lee",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 153,
-      "xr": 9.1787
+      "pa": 157,
+      "xr": 9.7523
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -105,8 +105,8 @@
     "664056": {
       "name": "Harrison Bader",
       "team": "San Francisco Giants",
-      "pa": 80,
-      "xr": -3.4444
+      "pa": 85,
+      "xr": -4.6006
     },
     "665833": {
       "name": "Oneil Cruz",
@@ -1233,26 +1233,26 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 173,
-      "xr": 3.9714
+      "pa": 178,
+      "xr": 6.2099
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 170,
-      "xr": 13.0862
+      "pa": 174,
+      "xr": 13.6691
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 165,
-      "xr": 3.2231
+      "pa": 169,
+      "xr": 3.8781
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 91,
-      "xr": 2.3157
+      "pa": 95,
+      "xr": 2.0418
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -1281,8 +1281,8 @@
     "571448": {
       "name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
-      "pa": 154,
-      "xr": 8.2605
+      "pa": 158,
+      "xr": 8.7954
     },
     "467793": {
       "name": "Carlos Santana",
@@ -2259,8 +2259,8 @@
     "545121": {
       "name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
-      "pa": 149,
-      "xr": 4.9815
+      "pa": 153,
+      "xr": 5.1577
     },
     "595978": {
       "name": "Austin Hedges",
@@ -2319,8 +2319,8 @@
     "691740": {
       "name": "Daniel Susac",
       "team": "San Francisco Giants",
-      "pa": 33,
-      "xr": -0.3458
+      "pa": 37,
+      "xr": 0.8285
     },
     "669743": {
       "name": "Alex Call",
@@ -2373,8 +2373,8 @@
     "680728": {
       "name": "Adrian Del Castillo",
       "team": "Arizona Diamondbacks",
-      "pa": 86,
-      "xr": -6.0355
+      "pa": 90,
+      "xr": -6.426
     },
     "695020": {
       "name": "Tanner Murray",
@@ -2565,14 +2565,14 @@
     "686823": {
       "name": "Will Brennan",
       "team": "San Francisco Giants",
-      "pa": 11,
-      "xr": -1.1491
+      "pa": 15,
+      "xr": -1.9618
     },
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 77,
-      "xr": -3.3027
+      "pa": 81,
+      "xr": -4.3664
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2607,8 +2607,8 @@
     "666971": {
       "name": "Lourdes Gurriel Jr.",
       "team": "Arizona Diamondbacks",
-      "pa": 80,
-      "xr": -1.2474
+      "pa": 84,
+      "xr": -1.4268
     },
     "669065": {
       "name": "Kyle Stowers",
@@ -2877,8 +2877,8 @@
     "814439": {
       "name": "Ryan Waldschmidt",
       "team": "Arizona Diamondbacks",
-      "pa": 27,
-      "xr": 0.5517
+      "pa": 31,
+      "xr": 0.8681
     },
     "683079": {
       "name": "Omar Martinez",
@@ -3047,8 +3047,8 @@
     "676775": {
       "name": "Keaton Winn",
       "team": "San Francisco Giants",
-      "bf": 65,
-      "xr_allowed": -1.463
+      "bf": 68,
+      "xr_allowed": -2.1574
     },
     "664141": {
       "name": "JT Brubaker",
@@ -3071,8 +3071,8 @@
     "668873": {
       "name": "Caleb Kilian",
       "team": "San Francisco Giants",
-      "bf": 71,
-      "xr_allowed": -0.1109
+      "bf": 77,
+      "xr_allowed": 1.0769
     },
     "666808": {
       "name": "Camilo Doval",
@@ -3737,8 +3737,8 @@
     "669062": {
       "name": "Erik Miller",
       "team": "San Francisco Giants",
-      "bf": 52,
-      "xr_allowed": -2.9646
+      "bf": 56,
+      "xr_allowed": -0.4722
     },
     "657612": {
       "name": "Tim Hill",
@@ -3761,8 +3761,8 @@
     "657424": {
       "name": "Matt Gage",
       "team": "San Francisco Giants",
-      "bf": 72,
-      "xr_allowed": -3.3771
+      "bf": 73,
+      "xr_allowed": -2.2136
     },
     "670280": {
       "name": "David Bednar",
@@ -4043,8 +4043,8 @@
     "669194": {
       "name": "Ryne Nelson",
       "team": "Arizona Diamondbacks",
-      "bf": 169,
-      "xr_allowed": 6.5249
+      "bf": 200,
+      "xr_allowed": 7.6924
     },
     "676263": {
       "name": "Jack Dreyer",
@@ -4055,8 +4055,8 @@
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
       "team": "Arizona Diamondbacks",
-      "bf": 71,
-      "xr_allowed": 1.0214
+      "bf": 74,
+      "xr_allowed": 1.0495
     },
     "676508": {
       "name": "Ben Casparius",
@@ -4079,8 +4079,8 @@
     "656464": {
       "name": "Kevin Ginkel",
       "team": "Arizona Diamondbacks",
-      "bf": 70,
-      "xr_allowed": -5.0176
+      "bf": 74,
+      "xr_allowed": -5.6289
     },
     "621242": {
       "name": "Edwin D\u00edaz",
@@ -5177,8 +5177,8 @@
     "694738": {
       "name": "Landen Roupp",
       "team": "San Francisco Giants",
-      "bf": 184,
-      "xr_allowed": -5.9476
+      "bf": 207,
+      "xr_allowed": -6.4368
     },
     "622491": {
       "name": "Luis Castillo",
@@ -7374,6 +7374,7 @@
     824112,
     824677,
     823059,
-    824356
+    824356,
+    825086
   ]
 }
