@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 180,
-      "xr": 2.2885
+      "pa": 184,
+      "xr": 2.1824
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 180,
-      "xr": 1.2222
+      "pa": 184,
+      "xr": 0.094
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 189,
-      "xr": 13.9961
+      "pa": 193,
+      "xr": 13.9897
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 146,
-      "xr": -0.8875
+      "pa": 150,
+      "xr": -1.2453
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 190,
-      "xr": 15.9
+      "pa": 194,
+      "xr": 16.064
     },
     "677592": {
       "name": "Everson Pereira",
@@ -285,8 +285,8 @@
     "700337": {
       "name": "Edgar Quero",
       "team": "Chicago White Sox",
-      "pa": 104,
-      "xr": -7.051
+      "pa": 107,
+      "xr": -7.8188
     },
     "641343": {
       "name": "Jake Bauers",
@@ -321,8 +321,8 @@
     "682668": {
       "name": "Luisangel Acu\u00f1a",
       "team": "Chicago White Sox",
-      "pa": 97,
-      "xr": -4.1608
+      "pa": 98,
+      "xr": -4.7799
     },
     "672820": {
       "name": "Lenyn Sosa",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 111,
-      "xr": -1.5711
+      "pa": 115,
+      "xr": -1.6174
     },
     "624512": {
       "name": "Reese McGuire",
@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 202,
-      "xr": 7.4227
+      "pa": 206,
+      "xr": 7.3576
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 188,
-      "xr": 4.7381
+      "pa": 192,
+      "xr": 4.8296
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 194,
-      "xr": 2.3577
+      "pa": 198,
+      "xr": 2.2548
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 126,
-      "xr": 8.8171
+      "pa": 127,
+      "xr": 8.662
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 109,
-      "xr": 3.9207
+      "pa": 110,
+      "xr": 3.8232
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 184,
-      "xr": 0.9639
+      "pa": 187,
+      "xr": 0.9984
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -2103,8 +2103,8 @@
     "608701": {
       "name": "Rob Refsnyder",
       "team": "Seattle Mariners",
-      "pa": 60,
-      "xr": -3.8289
+      "pa": 64,
+      "xr": -4.7619
     },
     "681807": {
       "name": "David Fry",
@@ -2253,8 +2253,8 @@
     "641598": {
       "name": "Mitch Garver",
       "team": "Seattle Mariners",
-      "pa": 66,
-      "xr": -1.0906
+      "pa": 69,
+      "xr": -1.5295
     },
     "545121": {
       "name": "Ildemaro Vargas",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 162,
-      "xr": 15.9194
+      "pa": 163,
+      "xr": 15.6943
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2445,8 +2445,8 @@
     "656582": {
       "name": "Connor Joe",
       "team": "Seattle Mariners",
-      "pa": 34,
-      "xr": -0.7687
+      "pa": 37,
+      "xr": -0.2489
     },
     "683766": {
       "name": "Christian Koss",
@@ -2547,8 +2547,8 @@
     "621550": {
       "name": "Patrick Wisdom",
       "team": "Seattle Mariners",
-      "pa": 1,
-      "xr": -0.2251
+      "pa": 4,
+      "xr": -0.204
     },
     "642215": {
       "name": "Weston Wilson",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 100,
-      "xr": 5.0653
+      "pa": 104,
+      "xr": 5.077
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2739,8 +2739,8 @@
     "672284": {
       "name": "Jarred Kelenic",
       "team": "Chicago White Sox",
-      "pa": 38,
-      "xr": 2.6399
+      "pa": 41,
+      "xr": 2.2005
     },
     "680474": {
       "name": "Max Schuemann",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 7,
-      "xr": -0.5457
+      "pa": 10,
+      "xr": -0.7743
     },
     "680737": {
       "name": "Michael Helman",
@@ -3665,8 +3665,8 @@
     "678606": {
       "name": "Jos\u00e9 A. Ferrer",
       "team": "Seattle Mariners",
-      "bf": 93,
-      "xr_allowed": -4.391
+      "bf": 94,
+      "xr_allowed": -4.7068
     },
     "641401": {
       "name": "Connor Brogdon",
@@ -4031,8 +4031,8 @@
     "662253": {
       "name": "Andr\u00e9s Mu\u00f1oz",
       "team": "Seattle Mariners",
-      "bf": 77,
-      "xr_allowed": 0.9418
+      "bf": 81,
+      "xr_allowed": -0.2012
     },
     "686218": {
       "name": "Emmet Sheehan",
@@ -4505,8 +4505,8 @@
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 95,
-      "xr_allowed": -6.2984
+      "bf": 98,
+      "xr_allowed": -6.7761
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -4517,8 +4517,8 @@
     "663542": {
       "name": "Bryan Hudson",
       "team": "Chicago White Sox",
-      "bf": 87,
-      "xr_allowed": -2.6668
+      "bf": 90,
+      "xr_allowed": -2.8918
     },
     "682842": {
       "name": "Abner Uribe",
@@ -4877,8 +4877,8 @@
     "641743": {
       "name": "Anthony Kay",
       "team": "Chicago White Sox",
-      "bf": 170,
-      "xr_allowed": 10.5638
+      "bf": 192,
+      "xr_allowed": 9.8567
     },
     "657649": {
       "name": "Jared Koenig",
@@ -5183,8 +5183,8 @@
     "622491": {
       "name": "Luis Castillo",
       "team": "Seattle Mariners",
-      "bf": 186,
-      "xr_allowed": 9.5377
+      "bf": 197,
+      "xr_allowed": 9.2358
     },
     "677960": {
       "name": "Ryan Weathers",
@@ -6161,8 +6161,8 @@
     "699823": {
       "name": "Tyler Davis",
       "team": "Chicago White Sox",
-      "bf": 32,
-      "xr_allowed": -3.1658
+      "bf": 38,
+      "xr_allowed": -3.3353
     },
     "624428": {
       "name": "Adam Frazier",
@@ -6575,8 +6575,8 @@
     "682243": {
       "name": "Bryce Miller",
       "team": "Seattle Mariners",
-      "bf": 25,
-      "xr_allowed": -1.9393
+      "bf": 44,
+      "xr_allowed": -3.474
     },
     "681006": {
       "name": "Josh Simpson",
@@ -7376,6 +7376,7 @@
     823059,
     824356,
     825086,
-    823302
+    823302,
+    823136
   ]
 }
