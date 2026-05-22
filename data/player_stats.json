@@ -1233,26 +1233,26 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 182,
-      "xr": 8.0267
+      "pa": 187,
+      "xr": 9.0317
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 174,
-      "xr": 13.6691
+      "pa": 179,
+      "xr": 12.963
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 173,
-      "xr": 3.7774
+      "pa": 177,
+      "xr": 4.2945
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 95,
-      "xr": 2.0418
+      "pa": 99,
+      "xr": 2.2471
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -1281,8 +1281,8 @@
     "571448": {
       "name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
-      "pa": 158,
-      "xr": 8.7954
+      "pa": 162,
+      "xr": 9.2587
     },
     "467793": {
       "name": "Carlos Santana",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 107,
-      "xr": 3.1954
+      "pa": 111,
+      "xr": 3.4468
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 172,
-      "xr": -3.0765
+      "pa": 176,
+      "xr": -4.1583
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 137,
-      "xr": -0.8703
+      "pa": 141,
+      "xr": 0.0226
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 169,
-      "xr": -4.2051
+      "pa": 173,
+      "xr": -5.2149
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 191,
-      "xr": 8.0988
+      "pa": 192,
+      "xr": 8.1048
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1689,8 +1689,8 @@
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 151,
-      "xr": 1.2868
+      "pa": 155,
+      "xr": 1.0025
     },
     "665052": {
       "name": "Griffin Conine",
@@ -1701,8 +1701,8 @@
     "690924": {
       "name": "Braxton Fulford",
       "team": "Colorado Rockies",
-      "pa": 10,
-      "xr": -0.6165
+      "pa": 12,
+      "xr": -0.89
     },
     "690022": {
       "name": "Ryan Ritter",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 154,
-      "xr": 4.005
+      "pa": 157,
+      "xr": 5.2565
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2259,8 +2259,8 @@
     "545121": {
       "name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
-      "pa": 157,
-      "xr": 4.4547
+      "pa": 161,
+      "xr": 4.5858
     },
     "595978": {
       "name": "Austin Hedges",
@@ -2283,8 +2283,8 @@
     "699912": {
       "name": "Jose Fernandez",
       "team": "Arizona Diamondbacks",
-      "pa": 127,
-      "xr": 0.5862
+      "pa": 128,
+      "xr": 0.5822
     },
     "641555": {
       "name": "J.C. Escarra",
@@ -2295,8 +2295,8 @@
     "671289": {
       "name": "Tyler Freeman",
       "team": "Colorado Rockies",
-      "pa": 98,
-      "xr": 1.7394
+      "pa": 102,
+      "xr": 2.3313
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -2343,8 +2343,8 @@
     "666160": {
       "name": "Mickey Moniak",
       "team": "Colorado Rockies",
-      "pa": 153,
-      "xr": 3.7776
+      "pa": 155,
+      "xr": 3.4545
     },
     "804606": {
       "name": "Konnor Griffin",
@@ -2373,8 +2373,8 @@
     "680728": {
       "name": "Adrian Del Castillo",
       "team": "Arizona Diamondbacks",
-      "pa": 94,
-      "xr": -7.4211
+      "pa": 97,
+      "xr": -6.9114
     },
     "695020": {
       "name": "Tanner Murray",
@@ -2607,8 +2607,8 @@
     "666971": {
       "name": "Lourdes Gurriel Jr.",
       "team": "Arizona Diamondbacks",
-      "pa": 88,
-      "xr": -2.1816
+      "pa": 92,
+      "xr": -3.1538
     },
     "669065": {
       "name": "Kyle Stowers",
@@ -2877,8 +2877,8 @@
     "814439": {
       "name": "Ryan Waldschmidt",
       "team": "Arizona Diamondbacks",
-      "pa": 34,
-      "xr": 1.3796
+      "pa": 38,
+      "xr": 0.6976
     },
     "683079": {
       "name": "Omar Martinez",
@@ -3029,6 +3029,12 @@
       "team": "Pittsburgh Pirates",
       "pa": 9,
       "xr": -0.0262
+    },
+    "677060": {
+      "name": "Chad Stevens",
+      "team": "Colorado Rockies",
+      "pa": 2,
+      "xr": -0.3226
     }
   },
   "pitchers": {
@@ -3611,8 +3617,8 @@
     "666661": {
       "name": "Juan Morillo",
       "team": "Arizona Diamondbacks",
-      "bf": 69,
-      "xr_allowed": -5.1562
+      "bf": 74,
+      "xr_allowed": -4.058
     },
     "657044": {
       "name": "Ryan Thompson",
@@ -3845,8 +3851,8 @@
     "675848": {
       "name": "Juan Mejia",
       "team": "Colorado Rockies",
-      "bf": 100,
-      "xr_allowed": 1.7923
+      "bf": 105,
+      "xr_allowed": 2.2463
     },
     "677053": {
       "name": "Andrew Nardi",
@@ -4079,8 +4085,8 @@
     "656464": {
       "name": "Kevin Ginkel",
       "team": "Arizona Diamondbacks",
-      "bf": 74,
-      "xr_allowed": -5.6289
+      "bf": 76,
+      "xr_allowed": -6.9287
     },
     "621242": {
       "name": "Edwin D\u00edaz",
@@ -4433,8 +4439,8 @@
     "688642": {
       "name": "Zach Agnos",
       "team": "Colorado Rockies",
-      "bf": 121,
-      "xr_allowed": 0.0471
+      "bf": 138,
+      "xr_allowed": -0.7994
     },
     "677955": {
       "name": "Jaden Hill",
@@ -4637,8 +4643,8 @@
     "593958": {
       "name": "Eduardo Rodriguez",
       "team": "Arizona Diamondbacks",
-      "bf": 192,
-      "xr_allowed": 0.3863
+      "bf": 216,
+      "xr_allowed": 0.7555
     },
     "605452": {
       "name": "Joe Ross",
@@ -4649,8 +4655,8 @@
     "623149": {
       "name": "Paul Sewald",
       "team": "Arizona Diamondbacks",
-      "bf": 61,
-      "xr_allowed": 0.3609
+      "bf": 64,
+      "xr_allowed": -0.1081
     },
     "693433": {
       "name": "Bryan Woo",
@@ -6113,8 +6119,8 @@
     "678020": {
       "name": "Seth Halvorsen",
       "team": "Colorado Rockies",
-      "bf": 27,
-      "xr_allowed": 1.8854
+      "bf": 32,
+      "xr_allowed": 1.211
     },
     "801139": {
       "name": "Payton Tolle",
@@ -6641,8 +6647,8 @@
     "680604": {
       "name": "Blas Casta\u00f1o",
       "team": "Colorado Rockies",
-      "bf": 11,
-      "xr_allowed": -1.5449
+      "bf": 22,
+      "xr_allowed": -0.0108
     },
     "608337": {
       "name": "Lucas Giolito",
@@ -7428,6 +7434,7 @@
     823056,
     822733,
     823864,
-    823545
+    823545,
+    825083
   ]
 }
