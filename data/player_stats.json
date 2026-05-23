@@ -735,26 +735,26 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 221,
-      "xr": -0.858
+      "pa": 226,
+      "xr": 0.6695
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 215,
-      "xr": 21.2096
+      "pa": 220,
+      "xr": 21.7616
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
-      "pa": 188,
-      "xr": -3.9657
+      "pa": 193,
+      "xr": -4.724
     },
     "624585": {
       "name": "Jorge Soler",
       "team": "Los Angeles Angels",
-      "pa": 185,
-      "xr": -1.0487
+      "pa": 190,
+      "xr": 0.2112
     },
     "514888": {
       "name": "Jose Altuve",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 201,
-      "xr": 1.0786
+      "pa": 206,
+      "xr": 3.4412
     },
     "666139": {
       "name": "Josh Lowe",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Los Angeles Angels",
-      "pa": 114,
-      "xr": -0.9553
+      "pa": 118,
+      "xr": -0.29
     },
     "621043": {
       "name": "Carlos Correa",
@@ -825,8 +825,8 @@
     "672724": {
       "name": "Oswald Peraza",
       "team": "Los Angeles Angels",
-      "pa": 134,
-      "xr": -0.7612
+      "pa": 138,
+      "xr": -0.3502
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -1101,8 +1101,8 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 195,
-      "xr": 12.4602
+      "pa": 200,
+      "xr": 13.8025
     },
     "694671": {
       "name": "Wyatt Langford",
@@ -1119,14 +1119,14 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 191,
-      "xr": 1.4388
+      "pa": 195,
+      "xr": 1.7024
     },
     "457705": {
       "name": "Andrew McCutchen",
       "team": "Texas Rangers",
-      "pa": 70,
-      "xr": -5.5056
+      "pa": 72,
+      "xr": -5.6047
     },
     "607208": {
       "name": "Trea Turner",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 180,
-      "xr": 12.1279
+      "pa": 185,
+      "xr": 12.4882
     },
     "669701": {
       "name": "Josh Smith",
@@ -1179,8 +1179,8 @@
     "643376": {
       "name": "Danny Jansen",
       "team": "Texas Rangers",
-      "pa": 108,
-      "xr": -4.7196
+      "pa": 112,
+      "xr": -4.5446
     },
     "669016": {
       "name": "Brandon Marsh",
@@ -1203,20 +1203,20 @@
     "664059": {
       "name": "Sam Haggerty",
       "team": "Texas Rangers",
-      "pa": 38,
-      "xr": -5.8682
+      "pa": 40,
+      "xr": -5.6495
     },
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 128,
-      "xr": 2.9708
+      "pa": 131,
+      "xr": 3.1668
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 163,
-      "xr": -2.8131
+      "pa": 166,
+      "xr": -0.9796
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 132,
-      "xr": 2.444
+      "pa": 136,
+      "xr": 2.2453
     },
     "606466": {
       "name": "Ketel Marte",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 60,
-      "xr": 2.8801
+      "pa": 64,
+      "xr": 2.7518
     },
     "672012": {
       "name": "Tyler Black",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 30,
-      "xr": 0.2317
+      "pa": 34,
+      "xr": 0.7813
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3053,6 +3053,18 @@
       "team": "Minnesota Twins",
       "pa": 4,
       "xr": -1.254
+    },
+    "685133": {
+      "name": "Wade Meckler",
+      "team": "Los Angeles Angels",
+      "pa": 4,
+      "xr": 2.5764
+    },
+    "622268": {
+      "name": "Donovan Walton",
+      "team": "Los Angeles Angels",
+      "pa": 4,
+      "xr": 0.4705
     }
   },
   "pitchers": {
@@ -3581,8 +3593,8 @@
     "656222": {
       "name": "Jalen Beeks",
       "team": "Texas Rangers",
-      "bf": 79,
-      "xr_allowed": 2.2514
+      "bf": 83,
+      "xr_allowed": 2.7113
     },
     "680742": {
       "name": "Jonathan Bowlan",
@@ -3965,8 +3977,8 @@
     "696147": {
       "name": "Sam Bachman",
       "team": "Los Angeles Angels",
-      "bf": 93,
-      "xr_allowed": -5.7549
+      "bf": 98,
+      "xr_allowed": -5.046
     },
     "680802": {
       "name": "Ryan Weiss",
@@ -4349,8 +4361,8 @@
     "455119": {
       "name": "Chris Martin",
       "team": "Texas Rangers",
-      "bf": 29,
-      "xr_allowed": 4.338
+      "bf": 34,
+      "xr_allowed": 5.4941
     },
     "663903": {
       "name": "Brady Singer",
@@ -4499,8 +4511,8 @@
     "608718": {
       "name": "Brent Suter",
       "team": "Los Angeles Angels",
-      "bf": 106,
-      "xr_allowed": 1.0754
+      "bf": 111,
+      "xr_allowed": 0.8872
     },
     "650556": {
       "name": "Bryan Abreu",
@@ -5261,8 +5273,8 @@
     "594798": {
       "name": "Jacob deGrom",
       "team": "Texas Rangers",
-      "bf": 176,
-      "xr_allowed": -2.9115
+      "bf": 194,
+      "xr_allowed": 3.7869
     },
     "682227": {
       "name": "Brandon Williamson",
@@ -5621,8 +5633,8 @@
     "815083": {
       "name": "Mitch Farris",
       "team": "Los Angeles Angels",
-      "bf": 57,
-      "xr_allowed": 0.436
+      "bf": 61,
+      "xr_allowed": 0.5846
     },
     "689147": {
       "name": "Orion Kerkering",
@@ -5969,8 +5981,8 @@
     "615698": {
       "name": "Cal Quantrill",
       "team": "Texas Rangers",
-      "bf": 50,
-      "xr_allowed": 2.9058
+      "bf": 64,
+      "xr_allowed": 3.6583
     },
     "671382": {
       "name": "Cameron Foster",
@@ -6389,8 +6401,8 @@
     "642048": {
       "name": "Tayler Saucedo",
       "team": "Los Angeles Angels",
-      "bf": 4,
-      "xr_allowed": -0.3614
+      "bf": 5,
+      "xr_allowed": 0.3509
     },
     "689546": {
       "name": "Nick Davila",
@@ -6653,8 +6665,8 @@
     "680570": {
       "name": "Grayson Rodriguez",
       "team": "Los Angeles Angels",
-      "bf": 21,
-      "xr_allowed": 3.0829
+      "bf": 46,
+      "xr_allowed": 6.2142
     },
     "694646": {
       "name": "Chayce McDermott",
@@ -7495,6 +7507,7 @@
     824110,
     824922,
     823788,
-    823298
+    823298,
+    824029
   ]
 }
