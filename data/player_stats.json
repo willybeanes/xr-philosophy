@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 214,
-      "xr": 7.9864
+      "pa": 218,
+      "xr": 8.2314
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 196,
-      "xr": 4.7449
+      "pa": 199,
+      "xr": 4.4064
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 206,
-      "xr": 3.973
+      "pa": 209,
+      "xr": 4.0387
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 130,
-      "xr": 7.8842
+      "pa": 133,
+      "xr": 8.004
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 115,
-      "xr": 3.9559
+      "pa": 118,
+      "xr": 2.7573
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 195,
-      "xr": 2.4479
+      "pa": 198,
+      "xr": 2.7424
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1713,14 +1713,14 @@
     "672580": {
       "name": "Maikel Garcia",
       "team": "Kansas City Royals",
-      "pa": 205,
-      "xr": -0.0566
+      "pa": 209,
+      "xr": 0.1052
     },
     "677951": {
       "name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
-      "pa": 214,
-      "xr": 16.0412
+      "pa": 218,
+      "xr": 17.0126
     },
     "657041": {
       "name": "Lane Thomas",
@@ -1767,14 +1767,14 @@
     "521692": {
       "name": "Salvador Perez",
       "team": "Kansas City Royals",
-      "pa": 200,
-      "xr": -2.8116
+      "pa": 204,
+      "xr": -3.5726
     },
     "686469": {
       "name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
-      "pa": 195,
-      "xr": -2.4233
+      "pa": 199,
+      "xr": -2.1457
     },
     "516782": {
       "name": "Starling Marte",
@@ -1791,8 +1791,8 @@
     "686555": {
       "name": "Isaac Collins",
       "team": "Kansas City Royals",
-      "pa": 158,
-      "xr": -1.8842
+      "pa": 162,
+      "xr": -1.324
     },
     "643289": {
       "name": "Mauricio Dub\u00f3n",
@@ -1815,14 +1815,14 @@
     "695600": {
       "name": "Carter Jensen",
       "team": "Kansas City Royals",
-      "pa": 157,
-      "xr": -5.6145
+      "pa": 161,
+      "xr": -6.0423
     },
     "695506": {
       "name": "Jac Caglianone",
       "team": "Kansas City Royals",
-      "pa": 153,
-      "xr": 0.7679
+      "pa": 157,
+      "xr": 0.7773
     },
     "665161": {
       "name": "Jeremy Pe\u00f1a",
@@ -2061,8 +2061,8 @@
     "664728": {
       "name": "Kyle Isbel",
       "team": "Kansas City Royals",
-      "pa": 132,
-      "xr": -4.5522
+      "pa": 135,
+      "xr": -4.3987
     },
     "642086": {
       "name": "Dominic Smith",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 167,
-      "xr": 15.3768
+      "pa": 171,
+      "xr": 15.1194
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2439,8 +2439,8 @@
     "686681": {
       "name": "Michael Massey",
       "team": "Kansas City Royals",
-      "pa": 93,
-      "xr": -6.0968
+      "pa": 97,
+      "xr": -6.2463
     },
     "656582": {
       "name": "Connor Joe",
@@ -2775,8 +2775,8 @@
     "640902": {
       "name": "Jhonny Pereda",
       "team": "Seattle Mariners",
-      "pa": 20,
-      "xr": 0.7499
+      "pa": 24,
+      "xr": 0.6567
     },
     "670097": {
       "name": "Zack Short",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 17,
-      "xr": -1.9988
+      "pa": 20,
+      "xr": -2.4297
     },
     "680737": {
       "name": "Michael Helman",
@@ -4055,8 +4055,8 @@
     "669923": {
       "name": "George Kirby",
       "team": "Seattle Mariners",
-      "bf": 251,
-      "xr_allowed": -3.7423
+      "bf": 278,
+      "xr_allowed": -2.888
     },
     "668909": {
       "name": "Gavin Williams",
@@ -6281,8 +6281,8 @@
     "695380": {
       "name": "Alex Hoppe",
       "team": "Seattle Mariners",
-      "bf": 36,
-      "xr_allowed": 0.9475
+      "bf": 39,
+      "xr_allowed": 1.1621
     },
     "820862": {
       "name": "Jos\u00e9 Fermin",
@@ -6431,8 +6431,8 @@
     "689546": {
       "name": "Nick Davila",
       "team": "Seattle Mariners",
-      "bf": 20,
-      "xr_allowed": 0.1575
+      "bf": 25,
+      "xr_allowed": -0.1158
     },
     "656288": {
       "name": "Griffin Canning",
@@ -6491,8 +6491,8 @@
     "663568": {
       "name": "Stephen Kolek",
       "team": "Kansas City Royals",
-      "bf": 69,
-      "xr_allowed": -0.1978
+      "bf": 99,
+      "xr_allowed": -1.7914
     },
     "666711": {
       "name": "Joel Peguero",
@@ -7537,6 +7537,7 @@
     823223,
     824518,
     824674,
-    822814
+    822814,
+    824109
   ]
 }
