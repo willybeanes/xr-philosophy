@@ -21,26 +21,26 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 190,
-      "xr": 3.0541
+      "pa": 195,
+      "xr": 2.9417
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 192,
-      "xr": -7.0327
+      "pa": 196,
+      "xr": -6.556
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 194,
-      "xr": -4.0643
+      "pa": 198,
+      "xr": -5.2762
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 192,
-      "xr": -3.4832
+      "pa": 197,
+      "xr": -4.5101
     },
     "808982": {
       "name": "Jung Hoo Lee",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 161,
-      "xr": 10.155
+      "pa": 165,
+      "xr": 9.4649
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -105,8 +105,8 @@
     "664056": {
       "name": "Harrison Bader",
       "team": "San Francisco Giants",
-      "pa": 87,
-      "xr": -4.9232
+      "pa": 91,
+      "xr": -4.483
     },
     "665833": {
       "name": "Oneil Cruz",
@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 188,
-      "xr": 2.6468
+      "pa": 193,
+      "xr": 2.7785
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 189,
-      "xr": -0.2661
+      "pa": 194,
+      "xr": -0.6633
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 194,
-      "xr": 14.275
+      "pa": 199,
+      "xr": 14.1542
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 154,
-      "xr": -0.8648
+      "pa": 159,
+      "xr": -0.2095
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 199,
-      "xr": 16.1485
+      "pa": 204,
+      "xr": 17.1466
     },
     "677592": {
       "name": "Everson Pereira",
@@ -285,8 +285,8 @@
     "700337": {
       "name": "Edgar Quero",
       "team": "Chicago White Sox",
-      "pa": 108,
-      "xr": -8.2442
+      "pa": 112,
+      "xr": -8.3858
     },
     "641343": {
       "name": "Jake Bauers",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 119,
-      "xr": -2.7611
+      "pa": 123,
+      "xr": -3.9017
     },
     "624512": {
       "name": "Reese McGuire",
@@ -363,8 +363,8 @@
     "656537": {
       "name": "Derek Hill",
       "team": "Chicago White Sox",
-      "pa": 59,
-      "xr": 1.2584
+      "pa": 63,
+      "xr": 0.7195
     },
     "695578": {
       "name": "James Wood",
@@ -2571,14 +2571,14 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 83,
-      "xr": -3.6434
+      "pa": 86,
+      "xr": -3.6643
     },
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 108,
-      "xr": 5.4391
+      "pa": 113,
+      "xr": 5.9411
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2811,14 +2811,14 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 29,
-      "xr": -0.2007
+      "pa": 33,
+      "xr": -0.656
     },
     "683679": {
       "name": "Jesus Rodriguez",
       "team": "San Francisco Giants",
-      "pa": 24,
-      "xr": -0.8817
+      "pa": 28,
+      "xr": -0.4809
     },
     "679822": {
       "name": "Justin Foscue",
@@ -3065,6 +3065,12 @@
       "team": "Los Angeles Angels",
       "pa": 4,
       "xr": 0.4705
+    },
+    "682674": {
+      "name": "Victor Bericoto",
+      "team": "San Francisco Giants",
+      "pa": 1,
+      "xr": -0.2221
     }
   },
   "pitchers": {
@@ -3089,8 +3095,8 @@
     "664141": {
       "name": "JT Brubaker",
       "team": "San Francisco Giants",
-      "bf": 89,
-      "xr_allowed": 1.2194
+      "bf": 100,
+      "xr_allowed": 2.0075
     },
     "656234": {
       "name": "Jake Bird",
@@ -3773,8 +3779,8 @@
     "669062": {
       "name": "Erik Miller",
       "team": "San Francisco Giants",
-      "bf": 56,
-      "xr_allowed": -0.4722
+      "bf": 60,
+      "xr_allowed": -0.8605
     },
     "657612": {
       "name": "Tim Hill",
@@ -3791,8 +3797,8 @@
     "621366": {
       "name": "Ryan Borucki",
       "team": "San Francisco Giants",
-      "bf": 65,
-      "xr_allowed": 1.9041
+      "bf": 74,
+      "xr_allowed": 1.2185
     },
     "657424": {
       "name": "Matt Gage",
@@ -5087,8 +5093,8 @@
     "663436": {
       "name": "Davis Martin",
       "team": "Chicago White Sox",
-      "bf": 192,
-      "xr_allowed": -0.2536
+      "bf": 218,
+      "xr_allowed": -1.7766
     },
     "669199": {
       "name": "Lake Bachar",
@@ -5783,8 +5789,8 @@
     "685126": {
       "name": "Brandon Eisert",
       "team": "Chicago White Sox",
-      "bf": 27,
-      "xr_allowed": -0.7384
+      "bf": 31,
+      "xr_allowed": -0.8705
     },
     "681151": {
       "name": "Jayden Murray",
@@ -6197,8 +6203,8 @@
     "699823": {
       "name": "Tyler Davis",
       "team": "Chicago White Sox",
-      "bf": 38,
-      "xr_allowed": -3.3353
+      "bf": 43,
+      "xr_allowed": -3.6388
     },
     "624428": {
       "name": "Adam Frazier",
@@ -6329,8 +6335,8 @@
     "670950": {
       "name": "Trevor Richards",
       "team": "Chicago White Sox",
-      "bf": 35,
-      "xr_allowed": -2.6591
+      "bf": 38,
+      "xr_allowed": -3.1224
     },
     "805299": {
       "name": "Brandyn Garcia",
@@ -6443,8 +6449,8 @@
     "686790": {
       "name": "Trevor McDonald",
       "team": "San Francisco Giants",
-      "bf": 76,
-      "xr_allowed": -2.3186
+      "bf": 94,
+      "xr_allowed": -2.0848
     },
     "687941": {
       "name": "Alec Gamboa",
@@ -7509,6 +7515,7 @@
     823788,
     823298,
     824029,
-    825082
+    825082,
+    823223
   ]
 }
