@@ -21,26 +21,26 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 195,
-      "xr": 2.9417
+      "pa": 200,
+      "xr": 2.968
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 196,
-      "xr": -6.556
+      "pa": 200,
+      "xr": -6.3597
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 198,
-      "xr": -5.2762
+      "pa": 203,
+      "xr": -5.7424
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 197,
-      "xr": -4.5101
+      "pa": 202,
+      "xr": -4.8332
     },
     "808982": {
       "name": "Jung Hoo Lee",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 165,
-      "xr": 9.4649
+      "pa": 170,
+      "xr": 9.8014
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -105,8 +105,8 @@
     "664056": {
       "name": "Harrison Bader",
       "team": "San Francisco Giants",
-      "pa": 91,
-      "xr": -4.483
+      "pa": 95,
+      "xr": -3.2964
     },
     "665833": {
       "name": "Oneil Cruz",
@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 193,
-      "xr": 2.7785
+      "pa": 197,
+      "xr": 2.3448
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 194,
-      "xr": -0.6633
+      "pa": 198,
+      "xr": -1.5593
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 199,
-      "xr": 14.1542
+      "pa": 203,
+      "xr": 14.5636
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 159,
-      "xr": -0.2095
+      "pa": 163,
+      "xr": -0.2482
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 204,
-      "xr": 17.1466
+      "pa": 208,
+      "xr": 16.279
     },
     "677592": {
       "name": "Everson Pereira",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 123,
-      "xr": -3.9017
+      "pa": 125,
+      "xr": -3.6009
     },
     "624512": {
       "name": "Reese McGuire",
@@ -363,8 +363,8 @@
     "656537": {
       "name": "Derek Hill",
       "team": "Chicago White Sox",
-      "pa": 63,
-      "xr": 0.7195
+      "pa": 65,
+      "xr": 0.567
     },
     "695578": {
       "name": "James Wood",
@@ -1467,8 +1467,8 @@
     "545341": {
       "name": "Randal Grichuk",
       "team": "Chicago White Sox",
-      "pa": 48,
-      "xr": 0.7351
+      "pa": 50,
+      "xr": 0.5378
     },
     "701762": {
       "name": "Nick Kurtz",
@@ -2319,8 +2319,8 @@
     "691740": {
       "name": "Daniel Susac",
       "team": "San Francisco Giants",
-      "pa": 41,
-      "xr": 0.0725
+      "pa": 45,
+      "xr": 0.0831
     },
     "669743": {
       "name": "Alex Call",
@@ -2571,14 +2571,14 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 86,
-      "xr": -3.6643
+      "pa": 90,
+      "xr": -4.8687
     },
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 113,
-      "xr": 5.9411
+      "pa": 118,
+      "xr": 5.3017
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2685,8 +2685,8 @@
     "691011": {
       "name": "Drew Romo",
       "team": "Chicago White Sox",
-      "pa": 47,
-      "xr": 0.9303
+      "pa": 51,
+      "xr": 0.9501
     },
     "687515": {
       "name": "Colby Thomas",
@@ -2739,8 +2739,8 @@
     "672284": {
       "name": "Jarred Kelenic",
       "team": "Chicago White Sox",
-      "pa": 45,
-      "xr": 3.1588
+      "pa": 47,
+      "xr": 3.1434
     },
     "680474": {
       "name": "Max Schuemann",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 33,
-      "xr": -0.656
+      "pa": 37,
+      "xr": 0.2184
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -3257,8 +3257,8 @@
     "673929": {
       "name": "Jordan Leasure",
       "team": "Chicago White Sox",
-      "bf": 68,
-      "xr_allowed": 2.6142
+      "bf": 74,
+      "xr_allowed": 4.0746
     },
     "663765": {
       "name": "Jake Woodford",
@@ -3821,8 +3821,8 @@
     "657424": {
       "name": "Matt Gage",
       "team": "San Francisco Giants",
-      "bf": 73,
-      "xr_allowed": -2.2136
+      "bf": 78,
+      "xr_allowed": -3.6075
     },
     "670280": {
       "name": "David Bednar",
@@ -4577,8 +4577,8 @@
     "663542": {
       "name": "Bryan Hudson",
       "team": "Chicago White Sox",
-      "bf": 90,
-      "xr_allowed": -2.8918
+      "bf": 94,
+      "xr_allowed": -3.31
     },
     "682842": {
       "name": "Abner Uribe",
@@ -5333,8 +5333,8 @@
     "607200": {
       "name": "Erick Fedde",
       "team": "Chicago White Sox",
-      "bf": 196,
-      "xr_allowed": 3.6386
+      "bf": 217,
+      "xr_allowed": 4.4597
     },
     "453286": {
       "name": "Max Scherzer",
@@ -5459,8 +5459,8 @@
     "605288": {
       "name": "Adrian Houser",
       "team": "San Francisco Giants",
-      "bf": 214,
-      "xr_allowed": 15.1435
+      "bf": 235,
+      "xr_allowed": 15.1348
     },
     "702070": {
       "name": "Noah Cameron",
@@ -6353,8 +6353,8 @@
     "670950": {
       "name": "Trevor Richards",
       "team": "Chicago White Sox",
-      "bf": 38,
-      "xr_allowed": -3.1224
+      "bf": 47,
+      "xr_allowed": -4.3487
     },
     "805299": {
       "name": "Brandyn Garcia",
@@ -6497,8 +6497,8 @@
     "666711": {
       "name": "Joel Peguero",
       "team": "San Francisco Giants",
-      "bf": 20,
-      "xr_allowed": -1.0383
+      "bf": 27,
+      "xr_allowed": -1.6953
     },
     "663967": {
       "name": "C\u00e9sar Salazar",
@@ -6605,8 +6605,8 @@
     "656529": {
       "name": "Sam Hentges",
       "team": "San Francisco Giants",
-      "bf": 17,
-      "xr_allowed": -1.8826
+      "bf": 21,
+      "xr_allowed": -2.3336
     },
     "684049": {
       "name": "Brandan Bidois",
@@ -7545,6 +7545,7 @@
     824674,
     822814,
     824109,
-    823862
+    823862,
+    823222
   ]
 }
