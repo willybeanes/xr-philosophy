@@ -3,20 +3,20 @@
     "663757": {
       "name": "Trent Grisham",
       "team": "New York Yankees",
-      "pa": 179,
-      "xr": 9.4562
+      "pa": 184,
+      "xr": 10.226
     },
     "592450": {
       "name": "Aaron Judge",
       "team": "New York Yankees",
-      "pa": 212,
-      "xr": 20.1307
+      "pa": 217,
+      "xr": 21.7406
     },
     "641355": {
       "name": "Cody Bellinger",
       "team": "New York Yankees",
-      "pa": 204,
-      "xr": 15.8032
+      "pa": 208,
+      "xr": 16.4325
     },
     "650333": {
       "name": "Luis Arraez",
@@ -51,8 +51,8 @@
     "700250": {
       "name": "Ben Rice",
       "team": "New York Yankees",
-      "pa": 181,
-      "xr": 13.8906
+      "pa": 185,
+      "xr": 13.8867
     },
     "519317": {
       "name": "Giancarlo Stanton",
@@ -63,26 +63,26 @@
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
-      "pa": 190,
-      "xr": -6.2061
+      "pa": 194,
+      "xr": -6.2584
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
-      "pa": 136,
-      "xr": 1.7815
+      "pa": 140,
+      "xr": 1.9994
     },
     "641857": {
       "name": "Ryan McMahon",
       "team": "New York Yankees",
-      "pa": 137,
-      "xr": 1.5754
+      "pa": 141,
+      "xr": 0.6888
     },
     "669224": {
       "name": "Austin Wells",
       "team": "New York Yankees",
-      "pa": 131,
-      "xr": -3.6466
+      "pa": 135,
+      "xr": -2.5101
     },
     "671218": {
       "name": "Heliot Ramos",
@@ -969,26 +969,26 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 186,
-      "xr": 13.7178
+      "pa": 190,
+      "xr": 13.4104
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 63,
-      "xr": 2.4432
+      "pa": 64,
+      "xr": 1.7705
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 198,
-      "xr": 12.1471
+      "pa": 202,
+      "xr": 11.6856
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 199,
-      "xr": 4.6637
+      "pa": 204,
+      "xr": 5.2368
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1029,20 +1029,20 @@
     "676356": {
       "name": "Jonny DeLuca",
       "team": "Tampa Bay Rays",
-      "pa": 109,
-      "xr": -6.5163
+      "pa": 112,
+      "xr": -6.8885
     },
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 112,
-      "xr": -2.2506
+      "pa": 116,
+      "xr": -3.7435
     },
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 155,
-      "xr": -13.3161
+      "pa": 159,
+      "xr": -12.18
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,14 +1077,14 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 191,
-      "xr": -3.8896
+      "pa": 196,
+      "xr": -3.8654
     },
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 100,
-      "xr": 4.5463
+      "pa": 104,
+      "xr": 4.2776
     },
     "641584": {
       "name": "Jake Fraley",
@@ -1455,8 +1455,8 @@
     "502671": {
       "name": "Paul Goldschmidt",
       "team": "New York Yankees",
-      "pa": 85,
-      "xr": 9.7295
+      "pa": 89,
+      "xr": 9.4857
     },
     "642708": {
       "name": "Amed Rosario",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 123,
-      "xr": -5.7204
+      "pa": 127,
+      "xr": -6.2482
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -3071,8 +3071,8 @@
     "687396": {
       "name": "Brent Headrick",
       "team": "New York Yankees",
-      "bf": 101,
-      "xr_allowed": -5.0048
+      "bf": 104,
+      "xr_allowed": -4.4876
     },
     "668873": {
       "name": "Caleb Kilian",
@@ -3083,8 +3083,8 @@
     "666808": {
       "name": "Camilo Doval",
       "team": "New York Yankees",
-      "bf": 77,
-      "xr_allowed": -1.8575
+      "bf": 79,
+      "xr_allowed": -2.7071
     },
     "642547": {
       "name": "Freddy Peralta",
@@ -3509,8 +3509,8 @@
     "693855": {
       "name": "Ian Seymour",
       "team": "Tampa Bay Rays",
-      "bf": 101,
-      "xr_allowed": 2.4986
+      "bf": 108,
+      "xr_allowed": 2.0705
     },
     "664076": {
       "name": "Garrett Cleavinger",
@@ -3737,8 +3737,8 @@
     "518585": {
       "name": "Fernando Cruz",
       "team": "New York Yankees",
-      "bf": 79,
-      "xr_allowed": -2.4025
+      "bf": 81,
+      "xr_allowed": -3.762
     },
     "669062": {
       "name": "Erik Miller",
@@ -3749,8 +3749,8 @@
     "657612": {
       "name": "Tim Hill",
       "team": "New York Yankees",
-      "bf": 70,
-      "xr_allowed": -1.3521
+      "bf": 75,
+      "xr_allowed": -0.7441
     },
     "676254": {
       "name": "Ryan Walker",
@@ -3773,8 +3773,8 @@
     "670280": {
       "name": "David Bednar",
       "team": "New York Yankees",
-      "bf": 92,
-      "xr_allowed": -4.368
+      "bf": 96,
+      "xr_allowed": -4.9628
     },
     "592332": {
       "name": "Kevin Gausman",
@@ -4115,8 +4115,8 @@
     "641329": {
       "name": "Bryan Baker",
       "team": "Tampa Bay Rays",
-      "bf": 77,
-      "xr_allowed": -4.0122
+      "bf": 81,
+      "xr_allowed": -2.8932
     },
     "690990": {
       "name": "Cade Horton",
@@ -4913,8 +4913,8 @@
     "687330": {
       "name": "Kevin Kelly",
       "team": "Tampa Bay Rays",
-      "bf": 75,
-      "xr_allowed": 2.4781
+      "bf": 76,
+      "xr_allowed": 2.684
     },
     "666277": {
       "name": "George Soriano",
@@ -5141,8 +5141,8 @@
     "607259": {
       "name": "Nick Martinez",
       "team": "Tampa Bay Rays",
-      "bf": 191,
-      "xr_allowed": -0.856
+      "bf": 217,
+      "xr_allowed": 1.424
     },
     "681517": {
       "name": "Kyle Leahy",
@@ -6739,6 +6739,12 @@
       "team": "New York Mets",
       "bf": 9,
       "xr_allowed": -0.6821
+    },
+    "543037": {
+      "name": "Gerrit Cole",
+      "team": "New York Yankees",
+      "bf": 22,
+      "xr_allowed": -0.6911
     }
   },
   "processed_games": [
@@ -7445,6 +7451,7 @@
     824031,
     824679,
     823461,
-    823863
+    823863,
+    823546
   ]
 }
