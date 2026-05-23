@@ -639,8 +639,8 @@
     "670770": {
       "name": "TJ Friedl",
       "team": "Cincinnati Reds",
-      "pa": 160,
-      "xr": -7.2262
+      "pa": 161,
+      "xr": -7.3044
     },
     "680574": {
       "name": "Matt McLain",
@@ -651,8 +651,8 @@
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 211,
-      "xr": 6.7855
+      "pa": 215,
+      "xr": 7.3133
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,26 +681,26 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 207,
-      "xr": 11.4833
+      "pa": 211,
+      "xr": 10.6737
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 100,
-      "xr": -2.597
+      "pa": 103,
+      "xr": -2.6365
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 179,
-      "xr": 6.3296
+      "pa": 182,
+      "xr": 6.3542
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 135,
-      "xr": 1.4593
+      "pa": 138,
+      "xr": 1.2585
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -729,8 +729,8 @@
     "667472": {
       "name": "Dane Myers",
       "team": "Cincinnati Reds",
-      "pa": 82,
-      "xr": 3.0261
+      "pa": 84,
+      "xr": 2.6166
     },
     "687263": {
       "name": "Zach Neto",
@@ -999,32 +999,32 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 204,
-      "xr": 8.958
+      "pa": 210,
+      "xr": 10.7087
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 206,
-      "xr": 13.8965
+      "pa": 211,
+      "xr": 13.6955
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 192,
-      "xr": 15.677
+      "pa": 197,
+      "xr": 16.8305
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 167,
-      "xr": -4.9392
+      "pa": 172,
+      "xr": -5.0536
     },
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 167,
-      "xr": -0.1725
+      "pa": 172,
+      "xr": -0.9827
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,8 +1053,8 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 188,
-      "xr": 8.6643
+      "pa": 193,
+      "xr": 8.6946
     },
     "701675": {
       "name": "Nathan Church",
@@ -1071,8 +1071,8 @@
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 130,
-      "xr": -9.2276
+      "pa": 135,
+      "xr": -8.2875
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -2001,8 +2001,8 @@
     "663993": {
       "name": "Nathaniel Lowe",
       "team": "Cincinnati Reds",
-      "pa": 108,
-      "xr": 6.7986
+      "pa": 112,
+      "xr": 7.4946
     },
     "694377": {
       "name": "Nick Yorke",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 80,
-      "xr": 8.6889
+      "pa": 84,
+      "xr": 8.6869
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -2835,8 +2835,8 @@
     "693409": {
       "name": "C\u00e9sar Prieto",
       "team": "St. Louis Cardinals",
-      "pa": 8,
-      "xr": 2.4166
+      "pa": 13,
+      "xr": 1.2965
     },
     "701305": {
       "name": "Zach Dezenzo",
@@ -2859,8 +2859,8 @@
     "694362": {
       "name": "Blake Dunn",
       "team": "Cincinnati Reds",
-      "pa": 27,
-      "xr": -1.5861
+      "pa": 30,
+      "xr": -1.708
     },
     "660644": {
       "name": "Vidal Bruj\u00e1n",
@@ -3071,6 +3071,12 @@
       "team": "San Francisco Giants",
       "pa": 1,
       "xr": -0.2221
+    },
+    "663494": {
+      "name": "Bryan Torres",
+      "team": "St. Louis Cardinals",
+      "pa": 5,
+      "xr": 0.9325
     }
   },
   "pitchers": {
@@ -3365,8 +3371,8 @@
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 88,
-      "xr_allowed": -1.4775
+      "bf": 92,
+      "xr_allowed": -1.1055
     },
     "686580": {
       "name": "Justin Slaten",
@@ -3389,8 +3395,8 @@
     "683175": {
       "name": "Connor Phillips",
       "team": "Cincinnati Reds",
-      "bf": 127,
-      "xr_allowed": 4.9551
+      "bf": 133,
+      "xr_allowed": 6.573
     },
     "656271": {
       "name": "Brock Burke",
@@ -3527,8 +3533,8 @@
     "694335": {
       "name": "Matt Svanson",
       "team": "St. Louis Cardinals",
-      "bf": 118,
-      "xr_allowed": 9.568
+      "bf": 122,
+      "xr_allowed": 9.995
     },
     "677865": {
       "name": "Justin Bruihl",
@@ -3581,8 +3587,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 91,
-      "xr_allowed": -0.2985
+      "bf": 95,
+      "xr_allowed": -0.2784
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4955,8 +4961,8 @@
     "666277": {
       "name": "George Soriano",
       "team": "St. Louis Cardinals",
-      "bf": 81,
-      "xr_allowed": 4.2461
+      "bf": 84,
+      "xr_allowed": 3.7872
     },
     "690155": {
       "name": "Matt Pushard",
@@ -5063,8 +5069,8 @@
     "683742": {
       "name": "Jose Franco",
       "team": "Cincinnati Reds",
-      "bf": 67,
-      "xr_allowed": 2.1769
+      "bf": 79,
+      "xr_allowed": 2.2816
     },
     "592836": {
       "name": "Taijuan Walker",
@@ -5087,8 +5093,8 @@
     "663978": {
       "name": "Chris Paddack",
       "team": "Cincinnati Reds",
-      "bf": 169,
-      "xr_allowed": 3.3126
+      "bf": 193,
+      "xr_allowed": 3.7794
     },
     "663436": {
       "name": "Davis Martin",
@@ -5369,8 +5375,8 @@
     "669467": {
       "name": "Andre Pallante",
       "team": "St. Louis Cardinals",
-      "bf": 213,
-      "xr_allowed": 2.6435
+      "bf": 233,
+      "xr_allowed": 2.2422
     },
     "673540": {
       "name": "Kodai Senga",
@@ -7516,6 +7522,7 @@
     823298,
     824029,
     825082,
-    823223
+    823223,
+    824518
   ]
 }
