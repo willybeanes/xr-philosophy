@@ -387,14 +387,14 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 208,
-      "xr": 5.3899
+      "pa": 212,
+      "xr": 5.3111
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 219,
-      "xr": 6.129
+      "pa": 224,
+      "xr": 5.375
     },
     "664023": {
       "name": "Ian Happ",
@@ -405,8 +405,8 @@
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 196,
-      "xr": -0.1623
+      "pa": 200,
+      "xr": -0.039
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,8 +435,8 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 219,
-      "xr": 1.72
+      "pa": 222,
+      "xr": 2.0773
     },
     "608348": {
       "name": "Carson Kelly",
@@ -447,8 +447,8 @@
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
       "team": "Chicago Cubs",
-      "pa": 119,
-      "xr": 5.2418
+      "pa": 122,
+      "xr": 5.592
     },
     "660688": {
       "name": "Keibert Ruiz",
@@ -465,8 +465,8 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 186,
-      "xr": 3.0353
+      "pa": 189,
+      "xr": 2.5841
     },
     "807713": {
       "name": "Matt Shaw",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 64,
-      "xr": 5.9494
+      "pa": 66,
+      "xr": 5.4319
     },
     "668885": {
       "name": "Austin Martin",
@@ -765,14 +765,14 @@
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 214,
-      "xr": 28.5789
+      "pa": 216,
+      "xr": 28.4812
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 178,
-      "xr": -1.2819
+      "pa": 182,
+      "xr": -1.0464
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 179,
-      "xr": -0.023
+      "pa": 183,
+      "xr": -0.6754
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 199,
-      "xr": 7.8924
+      "pa": 203,
+      "xr": 8.7416
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -1827,14 +1827,14 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 64,
-      "xr": -1.3981
+      "pa": 68,
+      "xr": -1.8529
     },
     "694728": {
       "name": "Brice Matthews",
       "team": "Houston Astros",
-      "pa": 123,
-      "xr": -2.4863
+      "pa": 127,
+      "xr": -2.097
     },
     "656716": {
       "name": "Zach McKinstry",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 87,
-      "xr": -0.0577
+      "pa": 89,
+      "xr": 0.0251
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 148,
-      "xr": -3.1905
+      "pa": 151,
+      "xr": -3.7086
     },
     "695257": {
       "name": "Billy Cook",
@@ -2661,8 +2661,8 @@
     "669699": {
       "name": "Braden Shewmake",
       "team": "Houston Astros",
-      "pa": 54,
-      "xr": -3.2857
+      "pa": 58,
+      "xr": -1.8785
     },
     "606992": {
       "name": "Eric Haase",
@@ -2799,8 +2799,8 @@
     "805904": {
       "name": "Zach Cole",
       "team": "Houston Astros",
-      "pa": 43,
-      "xr": -0.5575
+      "pa": 47,
+      "xr": -0.7417
     },
     "669221": {
       "name": "Sean Murphy",
@@ -2841,14 +2841,14 @@
     "701305": {
       "name": "Zach Dezenzo",
       "team": "Houston Astros",
-      "pa": 32,
-      "xr": -2.0246
+      "pa": 34,
+      "xr": -1.6877
     },
     "663967": {
       "name": "C\u00e9sar Salazar",
       "team": "Houston Astros",
-      "pa": 10,
-      "xr": 0.3609
+      "pa": 14,
+      "xr": -0.0993
     },
     "805347": {
       "name": "Jim Jarvis",
@@ -3077,6 +3077,18 @@
       "team": "St. Louis Cardinals",
       "pa": 5,
       "xr": 0.9325
+    },
+    "682634": {
+      "name": "Kevin Alc\u00e1ntara",
+      "team": "Chicago Cubs",
+      "pa": 1,
+      "xr": -0.0975
+    },
+    "699393": {
+      "name": "Pedro Ram\u00edrez",
+      "team": "Chicago Cubs",
+      "pa": 1,
+      "xr": -0.0821
     }
   },
   "pitchers": {
@@ -3443,8 +3455,8 @@
     "687911": {
       "name": "Bryan King",
       "team": "Houston Astros",
-      "bf": 98,
-      "xr_allowed": -3.0478
+      "bf": 102,
+      "xr_allowed": -3.1305
     },
     "519141": {
       "name": "Drew Pomeranz",
@@ -3983,8 +3995,8 @@
     "595345": {
       "name": "Steven Okert",
       "team": "Houston Astros",
-      "bf": 83,
-      "xr_allowed": 2.8911
+      "bf": 86,
+      "xr_allowed": 2.7161
     },
     "696147": {
       "name": "Sam Bachman",
@@ -4511,8 +4523,8 @@
     "678906": {
       "name": "Kai-Wei Teng",
       "team": "Houston Astros",
-      "bf": 112,
-      "xr_allowed": -2.8818
+      "bf": 133,
+      "xr_allowed": -3.7593
     },
     "664192": {
       "name": "Joey Lucchesi",
@@ -5171,8 +5183,8 @@
     "607067": {
       "name": "Colin Rea",
       "team": "Chicago Cubs",
-      "bf": 207,
-      "xr_allowed": 9.4273
+      "bf": 234,
+      "xr_allowed": 9.9101
     },
     "690986": {
       "name": "Kyle Harrison",
@@ -5621,8 +5633,8 @@
     "660853": {
       "name": "Enyel De Los Santos",
       "team": "Houston Astros",
-      "bf": 81,
-      "xr_allowed": -0.0157
+      "bf": 84,
+      "xr_allowed": -0.4661
     },
     "665871": {
       "name": "Javier Assad",
@@ -5903,8 +5915,8 @@
     "669020": {
       "name": "Ryan Rolison",
       "team": "Chicago Cubs",
-      "bf": 54,
-      "xr_allowed": -1.5697
+      "bf": 58,
+      "xr_allowed": -2.085
     },
     "660787": {
       "name": "Yerry De los Santos",
@@ -6515,8 +6527,8 @@
     "663423": {
       "name": "Trent Thornton",
       "team": "Chicago Cubs",
-      "bf": 28,
-      "xr_allowed": -0.9398
+      "bf": 33,
+      "xr_allowed": 0.4615
     },
     "672021": {
       "name": "Eric Cerantola",
@@ -7523,6 +7535,7 @@
     824029,
     825082,
     823223,
-    824518
+    824518,
+    824674
   ]
 }
