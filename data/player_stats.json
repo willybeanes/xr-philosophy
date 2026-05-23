@@ -489,14 +489,14 @@
     "668885": {
       "name": "Austin Martin",
       "team": "Minnesota Twins",
-      "pa": 145,
-      "xr": 3.3631
+      "pa": 150,
+      "xr": 3.5935
     },
     "621439": {
       "name": "Byron Buxton",
       "team": "Minnesota Twins",
-      "pa": 184,
-      "xr": 1.4148
+      "pa": 189,
+      "xr": 1.1497
     },
     "807712": {
       "name": "Luke Keaschall",
@@ -537,14 +537,14 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 182,
-      "xr": 7.4118
+      "pa": 187,
+      "xr": 7.2338
     },
     "605170": {
       "name": "Victor Caratini",
       "team": "Minnesota Twins",
-      "pa": 126,
-      "xr": 0.9837
+      "pa": 130,
+      "xr": 0.6824
     },
     "668904": {
       "name": "Royce Lewis",
@@ -555,8 +555,8 @@
     "686797": {
       "name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "pa": 170,
-      "xr": -4.2622
+      "pa": 174,
+      "xr": -4.2822
     },
     "668939": {
       "name": "Adley Rutschman",
@@ -597,14 +597,14 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 137,
-      "xr": 1.1706
+      "pa": 141,
+      "xr": 1.1687
     },
     "663616": {
       "name": "Trevor Larnach",
       "team": "Minnesota Twins",
-      "pa": 131,
-      "xr": 3.1892
+      "pa": 136,
+      "xr": 4.3975
     },
     "701350": {
       "name": "Roman Anthony",
@@ -621,14 +621,14 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 186,
-      "xr": 2.772
+      "pa": 191,
+      "xr": 1.5417
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 195,
-      "xr": 13.7161
+      "pa": 199,
+      "xr": 14.0392
     },
     "702332": {
       "name": "Caleb Durbin",
@@ -657,14 +657,14 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 200,
-      "xr": 9.6035
+      "pa": 204,
+      "xr": 8.7917
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 52,
-      "xr": -2.895
+      "pa": 56,
+      "xr": -3.0555
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 166,
-      "xr": 3.8537
+      "pa": 170,
+      "xr": 4.9843
     },
     "701398": {
       "name": "Sal Stewart",
@@ -717,8 +717,8 @@
     "691785": {
       "name": "Marcelo Mayer",
       "team": "Boston Red Sox",
-      "pa": 138,
-      "xr": -2.6028
+      "pa": 140,
+      "xr": -2.8865
     },
     "666181": {
       "name": "Will Benson",
@@ -1989,14 +1989,14 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 94,
-      "xr": -2.6076
+      "pa": 95,
+      "xr": -2.8932
     },
     "657136": {
       "name": "Connor Wong",
       "team": "Boston Red Sox",
-      "pa": 60,
-      "xr": -4.126
+      "pa": 64,
+      "xr": -4.7176
     },
     "663993": {
       "name": "Nathaniel Lowe",
@@ -2175,8 +2175,8 @@
     "655316": {
       "name": "Andruw Monasterio",
       "team": "Boston Red Sox",
-      "pa": 85,
-      "xr": -1.4113
+      "pa": 86,
+      "xr": -1.8191
     },
     "676724": {
       "name": "Jared Young",
@@ -2487,8 +2487,8 @@
     "668952": {
       "name": "Ryan Kreidler",
       "team": "Minnesota Twins",
-      "pa": 37,
-      "xr": 4.0376
+      "pa": 41,
+      "xr": 3.0323
     },
     "687093": {
       "name": "Vaughn Grissom",
@@ -2889,8 +2889,8 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 30,
-      "xr": -0.4073
+      "pa": 34,
+      "xr": -0.748
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -2973,8 +2973,8 @@
     "686765": {
       "name": "Nick Sogard",
       "team": "Boston Red Sox",
-      "pa": 21,
-      "xr": 0.9667
+      "pa": 25,
+      "xr": 1.7122
     },
     "675961": {
       "name": "Alika Williams",
@@ -3021,8 +3021,8 @@
     "606115": {
       "name": "Orlando Arcia",
       "team": "Minnesota Twins",
-      "pa": 2,
-      "xr": -0.0913
+      "pa": 6,
+      "xr": -0.5315
     },
     "691373": {
       "name": "Jhostynxon Garcia",
@@ -3353,8 +3353,8 @@
     "573124": {
       "name": "Taylor Rogers",
       "team": "Minnesota Twins",
-      "bf": 81,
-      "xr_allowed": 3.7515
+      "bf": 82,
+      "xr_allowed": 3.0227
     },
     "664854": {
       "name": "Ryan Helsley",
@@ -4289,8 +4289,8 @@
     "671737": {
       "name": "Taj Bradley",
       "team": "Minnesota Twins",
-      "bf": 199,
-      "xr_allowed": -0.028
+      "bf": 217,
+      "xr_allowed": -0.7459
     },
     "666974": {
       "name": "Yennier Cano",
@@ -4415,8 +4415,8 @@
     "670245": {
       "name": "Ryan Watson",
       "team": "Boston Red Sox",
-      "bf": 111,
-      "xr_allowed": 6.0041
+      "bf": 118,
+      "xr_allowed": 5.5017
     },
     "663574": {
       "name": "Tony Santillan",
@@ -4847,8 +4847,8 @@
     "663558": {
       "name": "Jovani Mor\u00e1n",
       "team": "Boston Red Sox",
-      "bf": 101,
-      "xr_allowed": -1.303
+      "bf": 107,
+      "xr_allowed": -0.864
     },
     "690997": {
       "name": "Nolan McLean",
@@ -5405,8 +5405,8 @@
     "678394": {
       "name": "Brayan Bello",
       "team": "Boston Red Sox",
-      "bf": 208,
-      "xr_allowed": 11.5556
+      "bf": 232,
+      "xr_allowed": 10.8194
     },
     "675989": {
       "name": "Cody Bolton",
@@ -5681,8 +5681,8 @@
     "701719": {
       "name": "Tyler Samaniego",
       "team": "Boston Red Sox",
-      "bf": 65,
-      "xr_allowed": 2.9889
+      "bf": 68,
+      "xr_allowed": 3.0154
     },
     "805326": {
       "name": "Tyler Schweitzer",
@@ -5789,8 +5789,8 @@
     "702193": {
       "name": "Andrew Morris",
       "team": "Minnesota Twins",
-      "bf": 86,
-      "xr_allowed": -1.4747
+      "bf": 92,
+      "xr_allowed": -0.3468
     },
     "680704": {
       "name": "Nick Sandlin",
@@ -6143,8 +6143,8 @@
     "696070": {
       "name": "Kendry Rojas",
       "team": "Minnesota Twins",
-      "bf": 32,
-      "xr_allowed": 0.4451
+      "bf": 44,
+      "xr_allowed": -1.1489
     },
     "660604": {
       "name": "Alan Rangel",
@@ -7546,6 +7546,7 @@
     822814,
     824109,
     823862,
-    823222
+    823222,
+    824760
   ]
 }
