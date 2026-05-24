@@ -387,14 +387,14 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 212,
-      "xr": 5.3111
+      "pa": 217,
+      "xr": 7.1024
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 224,
-      "xr": 5.375
+      "pa": 229,
+      "xr": 5.4429
     },
     "664023": {
       "name": "Ian Happ",
@@ -405,8 +405,8 @@
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 200,
-      "xr": -0.039
+      "pa": 205,
+      "xr": 1.5006
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,20 +435,20 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 222,
-      "xr": 2.0773
+      "pa": 227,
+      "xr": 2.3209
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 128,
-      "xr": 2.3761
+      "pa": 132,
+      "xr": 2.5133
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
       "team": "Chicago Cubs",
-      "pa": 122,
-      "xr": 5.592
+      "pa": 126,
+      "xr": 6.3307
     },
     "660688": {
       "name": "Keibert Ruiz",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 66,
-      "xr": 5.4319
+      "pa": 70,
+      "xr": 4.1407
     },
     "668885": {
       "name": "Austin Martin",
@@ -771,8 +771,8 @@
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 182,
-      "xr": -1.0464
+      "pa": 186,
+      "xr": -0.7764
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 183,
-      "xr": -0.6754
+      "pa": 188,
+      "xr": -0.7988
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 203,
-      "xr": 8.7416
+      "pa": 207,
+      "xr": 10.0786
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -837,8 +837,8 @@
     "676694": {
       "name": "Jake Meyers",
       "team": "Houston Astros",
-      "pa": 54,
-      "xr": 0.5563
+      "pa": 58,
+      "xr": 0.5466
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -849,8 +849,8 @@
     "669397": {
       "name": "Nick Allen",
       "team": "Houston Astros",
-      "pa": 30,
-      "xr": -1.6173
+      "pa": 34,
+      "xr": -0.9122
     },
     "681481": {
       "name": "Kerry Carpenter",
@@ -1827,14 +1827,14 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 68,
-      "xr": -1.8529
+      "pa": 72,
+      "xr": -1.0389
     },
     "694728": {
       "name": "Brice Matthews",
       "team": "Houston Astros",
-      "pa": 127,
-      "xr": -2.097
+      "pa": 132,
+      "xr": -3.2625
     },
     "656716": {
       "name": "Zach McKinstry",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 97,
-      "xr": -1.9373
+      "pa": 101,
+      "xr": -2.7209
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 151,
-      "xr": -3.7086
+      "pa": 155,
+      "xr": -4.3558
     },
     "695257": {
       "name": "Billy Cook",
@@ -2661,8 +2661,8 @@
     "669699": {
       "name": "Braden Shewmake",
       "team": "Houston Astros",
-      "pa": 58,
-      "xr": -1.8785
+      "pa": 59,
+      "xr": -1.9854
     },
     "606992": {
       "name": "Eric Haase",
@@ -2841,8 +2841,8 @@
     "701305": {
       "name": "Zach Dezenzo",
       "team": "Houston Astros",
-      "pa": 34,
-      "xr": -1.6877
+      "pa": 37,
+      "xr": -1.5649
     },
     "663967": {
       "name": "C\u00e9sar Salazar",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 1,
-      "xr": -0.0821
+      "pa": 5,
+      "xr": 0.8202
     }
   },
   "pitchers": {
@@ -3437,8 +3437,8 @@
     "805123": {
       "name": "AJ Blubaugh",
       "team": "Houston Astros",
-      "bf": 122,
-      "xr_allowed": 2.8203
+      "bf": 130,
+      "xr_allowed": 3.6604
     },
     "700712": {
       "name": "Walbert Ure\u00f1a",
@@ -4199,14 +4199,14 @@
     "664208": {
       "name": "Phil Maton",
       "team": "Chicago Cubs",
-      "bf": 70,
-      "xr_allowed": 5.1081
+      "bf": 73,
+      "xr_allowed": 4.6783
     },
     "573204": {
       "name": "Caleb Thielbar",
       "team": "Chicago Cubs",
-      "bf": 41,
-      "xr_allowed": -3.9688
+      "bf": 46,
+      "xr_allowed": -3.8299
     },
     "669371": {
       "name": "Cole Henry",
@@ -4541,8 +4541,8 @@
     "650556": {
       "name": "Bryan Abreu",
       "team": "Houston Astros",
-      "bf": 81,
-      "xr_allowed": 2.1373
+      "bf": 85,
+      "xr_allowed": 2.54
     },
     "694477": {
       "name": "Chad Patrick",
@@ -4991,8 +4991,8 @@
     "684007": {
       "name": "Shota Imanaga",
       "team": "Chicago Cubs",
-      "bf": 235,
-      "xr_allowed": -2.6117
+      "bf": 262,
+      "xr_allowed": -1.0297
     },
     "663623": {
       "name": "Jake Irvin",
@@ -5591,8 +5591,8 @@
     "681799": {
       "name": "Ethan Roberts",
       "team": "Chicago Cubs",
-      "bf": 31,
-      "xr_allowed": -0.9219
+      "bf": 34,
+      "xr_allowed": -1.1532
     },
     "691946": {
       "name": "George Klassen",
@@ -6023,8 +6023,8 @@
     "663567": {
       "name": "Peter Lambert",
       "team": "Houston Astros",
-      "bf": 144,
-      "xr_allowed": -2.6944
+      "bf": 168,
+      "xr_allowed": -1.2679
     },
     "663362": {
       "name": "Matt Waldron",
@@ -6761,8 +6761,8 @@
     "663878": {
       "name": "Nate Pearson",
       "team": "Houston Astros",
-      "bf": 3,
-      "xr_allowed": -0.244
+      "bf": 7,
+      "xr_allowed": 0.5689
     },
     "682989": {
       "name": "Victor Mederos",
@@ -7568,6 +7568,7 @@
     823861,
     823786,
     824759,
-    824108
+    824108,
+    824676
   ]
 }
