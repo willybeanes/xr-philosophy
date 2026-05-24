@@ -909,44 +909,44 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 199,
-      "xr": 8.0107
+      "pa": 204,
+      "xr": 8.2488
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 181,
-      "xr": 6.2803
+      "pa": 185,
+      "xr": 6.5732
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 187,
-      "xr": 2.2765
+      "pa": 191,
+      "xr": 1.8218
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 183,
-      "xr": 2.529
+      "pa": 187,
+      "xr": 2.307
     },
     "609280": {
       "name": "Miguel Andujar",
       "team": "San Diego Padres",
-      "pa": 140,
-      "xr": -3.5876
+      "pa": 144,
+      "xr": -3.1377
     },
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 149,
-      "xr": 7.9902
+      "pa": 153,
+      "xr": 7.9045
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
       "team": "San Diego Padres",
-      "pa": 172,
-      "xr": 2.8187
+      "pa": 176,
+      "xr": 3.523
     },
     "666023": {
       "name": "Freddy Fermin",
@@ -963,8 +963,8 @@
     "592206": {
       "name": "Nick Castellanos",
       "team": "San Diego Padres",
-      "pa": 105,
-      "xr": 0.5341
+      "pa": 106,
+      "xr": 0.0886
     },
     "650490": {
       "name": "Yandy D\u00edaz",
@@ -1473,20 +1473,20 @@
     "701762": {
       "name": "Nick Kurtz",
       "team": "Athletics",
-      "pa": 216,
-      "xr": 15.5472
+      "pa": 221,
+      "xr": 15.005
     },
     "669127": {
       "name": "Shea Langeliers",
       "team": "Athletics",
-      "pa": 197,
-      "xr": 11.1625
+      "pa": 202,
+      "xr": 10.2256
     },
     "691016": {
       "name": "Tyler Soderstrom",
       "team": "Athletics",
-      "pa": 191,
-      "xr": 2.6699
+      "pa": 196,
+      "xr": 2.7142
     },
     "543807": {
       "name": "George Springer",
@@ -1557,8 +1557,8 @@
     "643446": {
       "name": "Jeff McNeil",
       "team": "Athletics",
-      "pa": 163,
-      "xr": 4.081
+      "pa": 168,
+      "xr": 3.6652
     },
     "672016": {
       "name": "Denzel Clarke",
@@ -1581,8 +1581,8 @@
     "666126": {
       "name": "Carlos Cortes",
       "team": "Athletics",
-      "pa": 121,
-      "xr": 9.1067
+      "pa": 127,
+      "xr": 9.2603
     },
     "664983": {
       "name": "Jake McCarthy",
@@ -1803,8 +1803,8 @@
     "641680": {
       "name": "Jonah Heim",
       "team": "Athletics",
-      "pa": 64,
-      "xr": -3.6958
+      "pa": 69,
+      "xr": -3.7461
     },
     "671739": {
       "name": "Michael Harris II",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 76,
-      "xr": 1.0686
+      "pa": 80,
+      "xr": 0.5257
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2523,8 +2523,8 @@
     "680869": {
       "name": "Zack Gelof",
       "team": "Athletics",
-      "pa": 104,
-      "xr": -0.8593
+      "pa": 109,
+      "xr": -2.1198
     },
     "502054": {
       "name": "Tommy Pham",
@@ -2925,14 +2925,14 @@
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
       "team": "San Diego Padres",
-      "pa": 12,
-      "xr": 1.8478
+      "pa": 15,
+      "xr": 1.3321
     },
     "703607": {
       "name": "Henry Bolte",
       "team": "Athletics",
-      "pa": 38,
-      "xr": -1.2302
+      "pa": 42,
+      "xr": -0.8233
     },
     "683021": {
       "name": "Michael Stefanic",
@@ -2979,8 +2979,8 @@
     "675961": {
       "name": "Alika Williams",
       "team": "Athletics",
-      "pa": 1,
-      "xr": -0.1759
+      "pa": 5,
+      "xr": -1.0748
     },
     "806068": {
       "name": "Colt Emerson",
@@ -3497,14 +3497,14 @@
     "676760": {
       "name": "Ron Marinaccio",
       "team": "San Diego Padres",
-      "bf": 102,
-      "xr_allowed": 2.4333
+      "bf": 113,
+      "xr_allowed": 1.2374
     },
     "699134": {
       "name": "Bradgley Rodriguez",
       "team": "San Diego Padres",
-      "bf": 88,
-      "xr_allowed": -5.6638
+      "bf": 95,
+      "xr_allowed": -6.3841
     },
     "623454": {
       "name": "Drew Anderson",
@@ -3527,8 +3527,8 @@
     "593974": {
       "name": "Wandy Peralta",
       "team": "San Diego Padres",
-      "bf": 87,
-      "xr_allowed": 0.1341
+      "bf": 93,
+      "xr_allowed": -0.5499
     },
     "676684": {
       "name": "Will Vest",
@@ -3851,8 +3851,8 @@
     "605130": {
       "name": "Scott Barlow",
       "team": "Athletics",
-      "bf": 94,
-      "xr_allowed": -4.426
+      "bf": 96,
+      "xr_allowed": -5.2984
     },
     "686973": {
       "name": "Louis Varland",
@@ -3863,8 +3863,8 @@
     "663687": {
       "name": "Hogan Harris",
       "team": "Athletics",
-      "bf": 109,
-      "xr_allowed": -0.2302
+      "bf": 112,
+      "xr_allowed": 0.1945
     },
     "643511": {
       "name": "Tyler Rogers",
@@ -3881,8 +3881,8 @@
     "686993": {
       "name": "Justin Sterner",
       "team": "Athletics",
-      "bf": 95,
-      "xr_allowed": -4.2655
+      "bf": 99,
+      "xr_allowed": -4.4124
     },
     "645261": {
       "name": "Sandy Alcantara",
@@ -4019,8 +4019,8 @@
     "650633": {
       "name": "Michael King",
       "team": "San Diego Padres",
-      "bf": 209,
-      "xr_allowed": 0.1072
+      "bf": 229,
+      "xr_allowed": -0.7924
     },
     "664285": {
       "name": "Framber Valdez",
@@ -4241,8 +4241,8 @@
     "643410": {
       "name": "Mark Leiter Jr.",
       "team": "Athletics",
-      "bf": 91,
-      "xr_allowed": 2.4871
+      "bf": 95,
+      "xr_allowed": 2.522
     },
     "689254": {
       "name": "Mason Fluharty",
@@ -4283,8 +4283,8 @@
     "665622": {
       "name": "Luis Medina",
       "team": "Athletics",
-      "bf": 74,
-      "xr_allowed": 1.2037
+      "bf": 79,
+      "xr_allowed": 1.4272
     },
     "680694": {
       "name": "Kyle Bradish",
@@ -5159,8 +5159,8 @@
     "682052": {
       "name": "Jacob Lopez",
       "team": "Athletics",
-      "bf": 190,
-      "xr_allowed": -2.6833
+      "bf": 209,
+      "xr_allowed": -2.9284
     },
     "628452": {
       "name": "Raisel Iglesias",
@@ -7577,6 +7577,7 @@
     824108,
     824676,
     825081,
-    823220
+    823220,
+    823297
   ]
 }
