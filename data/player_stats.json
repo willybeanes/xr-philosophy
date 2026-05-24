@@ -1131,38 +1131,38 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 208,
-      "xr": -3.2882
+      "pa": 213,
+      "xr": -3.2241
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 203,
-      "xr": 12.9161
+      "pa": 207,
+      "xr": 12.126
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 205,
-      "xr": 12.5986
+      "pa": 209,
+      "xr": 12.5397
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 187,
-      "xr": -3.3476
+      "pa": 191,
+      "xr": -4.0191
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 157,
-      "xr": -1.7088
+      "pa": 161,
+      "xr": -1.657
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
       "team": "Philadelphia Phillies",
-      "pa": 187,
-      "xr": 0.7533
+      "pa": 191,
+      "xr": 0.6023
     },
     "673962": {
       "name": "Josh Jung",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 168,
-      "xr": -0.6589
+      "pa": 172,
+      "xr": -0.2206
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 110,
-      "xr": -2.4183
+      "pa": 114,
+      "xr": -2.6659
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 151,
-      "xr": -6.9411
+      "pa": 153,
+      "xr": -6.8401
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1341,20 +1341,20 @@
     "680757": {
       "name": "Steven Kwan",
       "team": "Cleveland Guardians",
-      "pa": 203,
-      "xr": -3.1926
+      "pa": 207,
+      "xr": -2.519
     },
     "800050": {
       "name": "Chase DeLauter",
       "team": "Cleveland Guardians",
-      "pa": 193,
-      "xr": 6.2106
+      "pa": 197,
+      "xr": 6.1148
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
-      "pa": 224,
-      "xr": 12.8923
+      "pa": 228,
+      "xr": 13.4578
     },
     "700932": {
       "name": "Kyle Manzardo",
@@ -1395,14 +1395,14 @@
     "656555": {
       "name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
-      "pa": 139,
-      "xr": -2.1031
+      "pa": 143,
+      "xr": -2.7274
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 143,
-      "xr": 1.463
+      "pa": 147,
+      "xr": 1.6318
     },
     "672356": {
       "name": "Gabriel Arias",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 179,
-      "xr": 2.8073
+      "pa": 182,
+      "xr": 1.9823
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1971,8 +1971,8 @@
     "624641": {
       "name": "Edmundo Sosa",
       "team": "Philadelphia Phillies",
-      "pa": 74,
-      "xr": 3.362
+      "pa": 76,
+      "xr": 3.2604
     },
     "805249": {
       "name": "Otto Kemp",
@@ -2109,8 +2109,8 @@
     "681807": {
       "name": "David Fry",
       "team": "Cleveland Guardians",
-      "pa": 76,
-      "xr": -2.6436
+      "pa": 79,
+      "xr": -2.6833
     },
     "645302": {
       "name": "Victor Robles",
@@ -2265,8 +2265,8 @@
     "595978": {
       "name": "Austin Hedges",
       "team": "Cleveland Guardians",
-      "pa": 68,
-      "xr": -2.6802
+      "pa": 71,
+      "xr": -3.3475
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 82,
-      "xr": 0.1003
+      "pa": 86,
+      "xr": 0.7507
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -2757,8 +2757,8 @@
     "690984": {
       "name": "Petey Halpin",
       "team": "Cleveland Guardians",
-      "pa": 20,
-      "xr": -1.1681
+      "pa": 21,
+      "xr": -1.4419
     },
     "695391": {
       "name": "Brett Harris",
@@ -3623,8 +3623,8 @@
     "680742": {
       "name": "Jonathan Bowlan",
       "team": "Philadelphia Phillies",
-      "bf": 54,
-      "xr_allowed": -5.7124
+      "bf": 58,
+      "xr_allowed": -5.181
     },
     "641302": {
       "name": "Tyler Alexander",
@@ -3767,8 +3767,8 @@
     "671922": {
       "name": "Cade Smith",
       "team": "Cleveland Guardians",
-      "bf": 95,
-      "xr_allowed": -4.3484
+      "bf": 98,
+      "xr_allowed": -4.4486
     },
     "592662": {
       "name": "Robbie Ray",
@@ -4067,8 +4067,8 @@
     "670059": {
       "name": "Colin Holderman",
       "team": "Cleveland Guardians",
-      "bf": 62,
-      "xr_allowed": -3.3218
+      "bf": 64,
+      "xr_allowed": -3.113
     },
     "660825": {
       "name": "Eduard Bazardo",
@@ -4355,8 +4355,8 @@
     "621383": {
       "name": "Tanner Banks",
       "team": "Philadelphia Phillies",
-      "bf": 80,
-      "xr_allowed": 2.4458
+      "bf": 84,
+      "xr_allowed": 1.8706
     },
     "621237": {
       "name": "Jos\u00e9 Alvarado",
@@ -4373,8 +4373,8 @@
     "641835": {
       "name": "Tim Mayza",
       "team": "Philadelphia Phillies",
-      "bf": 92,
-      "xr_allowed": -0.7921
+      "bf": 94,
+      "xr_allowed": -0.0661
     },
     "676395": {
       "name": "Robert Garcia",
@@ -4733,8 +4733,8 @@
     "682120": {
       "name": "Tim Herrin",
       "team": "Cleveland Guardians",
-      "bf": 67,
-      "xr_allowed": -2.6775
+      "bf": 71,
+      "xr_allowed": -2.1321
     },
     "677961": {
       "name": "Cole Wilcox",
@@ -5279,8 +5279,8 @@
     "800048": {
       "name": "Parker Messick",
       "team": "Cleveland Guardians",
-      "bf": 203,
-      "xr_allowed": -4.3488
+      "bf": 227,
+      "xr_allowed": -6.0877
     },
     "680736": {
       "name": "Justin Wrobleski",
@@ -5315,8 +5315,8 @@
     "691725": {
       "name": "Andrew Painter",
       "team": "Philadelphia Phillies",
-      "bf": 174,
-      "xr_allowed": 0.0999
+      "bf": 198,
+      "xr_allowed": -1.0499
     },
     "641793": {
       "name": "Zack Littell",
@@ -5885,8 +5885,8 @@
     "683769": {
       "name": "Hunter Gaddis",
       "team": "Cleveland Guardians",
-      "bf": 54,
-      "xr_allowed": 1.4936
+      "bf": 58,
+      "xr_allowed": 1.213
     },
     "680702": {
       "name": "Joey Gerber",
@@ -7563,6 +7563,7 @@
     825080,
     822813,
     824839,
-    823544
+    823544,
+    823459
   ]
 }
