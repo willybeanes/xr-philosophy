@@ -153,8 +153,8 @@
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 221,
-      "xr": 2.4107
+      "pa": 225,
+      "xr": 2.2974
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,20 +171,20 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 170,
-      "xr": 2.8864
+      "pa": 174,
+      "xr": 2.4939
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 200,
-      "xr": -2.3368
+      "pa": 205,
+      "xr": -1.2823
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 179,
-      "xr": -0.2259
+      "pa": 184,
+      "xr": 0.4779
     },
     "682626": {
       "name": "Francisco Alvarez",
@@ -645,14 +645,14 @@
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 200,
-      "xr": 1.2432
+      "pa": 204,
+      "xr": 0.5785
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 220,
-      "xr": 9.1569
+      "pa": 225,
+      "xr": 8.4907
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,26 +681,26 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 216,
-      "xr": 11.0848
+      "pa": 220,
+      "xr": 10.8565
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 104,
-      "xr": -2.9693
+      "pa": 108,
+      "xr": -2.0811
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 185,
-      "xr": 6.0106
+      "pa": 189,
+      "xr": 5.3267
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 138,
-      "xr": 1.2585
+      "pa": 142,
+      "xr": 1.2103
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -2001,8 +2001,8 @@
     "663993": {
       "name": "Nathaniel Lowe",
       "team": "Cincinnati Reds",
-      "pa": 116,
-      "xr": 9.3947
+      "pa": 120,
+      "xr": 10.771
     },
     "694377": {
       "name": "Nick Yorke",
@@ -2025,14 +2025,14 @@
     "668901": {
       "name": "Mark Vientos",
       "team": "New York Mets",
-      "pa": 158,
-      "xr": 4.2932
+      "pa": 162,
+      "xr": 2.9573
     },
     "620443": {
       "name": "Luis Torrens",
       "team": "New York Mets",
-      "pa": 78,
-      "xr": -2.8076
+      "pa": 82,
+      "xr": -3.511
     },
     "687859": {
       "name": "Troy Johnston",
@@ -2307,8 +2307,8 @@
     "621438": {
       "name": "Tyrone Taylor",
       "team": "New York Mets",
-      "pa": 95,
-      "xr": -2.358
+      "pa": 98,
+      "xr": -2.831
     },
     "666464": {
       "name": "Jerar Encarnacion",
@@ -2583,8 +2583,8 @@
     "669004": {
       "name": "MJ Melendez",
       "team": "New York Mets",
-      "pa": 76,
-      "xr": -5.7932
+      "pa": 77,
+      "xr": -5.9483
     },
     "675659": {
       "name": "Greg Jones",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 89,
-      "xr": 8.0996
+      "pa": 94,
+      "xr": 8.8457
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -2859,8 +2859,8 @@
     "694362": {
       "name": "Blake Dunn",
       "team": "Cincinnati Reds",
-      "pa": 36,
-      "xr": -1.3469
+      "pa": 41,
+      "xr": -1.4815
     },
     "660644": {
       "name": "Vidal Bruj\u00e1n",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 50,
-      "xr": 1.6749
+      "pa": 54,
+      "xr": 1.2705
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3009,8 +3009,8 @@
     "703492": {
       "name": "Nick Morabito",
       "team": "New York Mets",
-      "pa": 9,
-      "xr": -0.5788
+      "pa": 13,
+      "xr": -1.169
     },
     "686611": {
       "name": "Dylan Crews",
@@ -3197,8 +3197,8 @@
     "668964": {
       "name": "Tobias Myers",
       "team": "New York Mets",
-      "bf": 114,
-      "xr_allowed": -0.6718
+      "bf": 118,
+      "xr_allowed": -1.1366
     },
     "664875": {
       "name": "Justin Lawrence",
@@ -3407,8 +3407,8 @@
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 92,
-      "xr_allowed": -1.1055
+      "bf": 95,
+      "xr_allowed": -1.5832
     },
     "686580": {
       "name": "Justin Slaten",
@@ -3419,8 +3419,8 @@
     "668933": {
       "name": "Graham Ashcraft",
       "team": "Cincinnati Reds",
-      "bf": 101,
-      "xr_allowed": -2.8616
+      "bf": 104,
+      "xr_allowed": -3.3285
     },
     "676477": {
       "name": "Garrett Whitlock",
@@ -3437,8 +3437,8 @@
     "656271": {
       "name": "Brock Burke",
       "team": "Cincinnati Reds",
-      "bf": 105,
-      "xr_allowed": 1.5175
+      "bf": 108,
+      "xr_allowed": 1.3697
     },
     "547973": {
       "name": "Aroldis Chapman",
@@ -4877,8 +4877,8 @@
     "690997": {
       "name": "Nolan McLean",
       "team": "New York Mets",
-      "bf": 212,
-      "xr_allowed": -0.6262
+      "bf": 231,
+      "xr_allowed": 1.5488
     },
     "669387": {
       "name": "Carmen Mlodzinski",
@@ -6005,8 +6005,8 @@
     "681810": {
       "name": "Austin Warren",
       "team": "New York Mets",
-      "bf": 59,
-      "xr_allowed": -1.6718
+      "bf": 66,
+      "xr_allowed": -2.0548
     },
     "669165": {
       "name": "Kyle Hurt",
@@ -6545,8 +6545,8 @@
     "622088": {
       "name": "Tejay Antone",
       "team": "Cincinnati Reds",
-      "bf": 22,
-      "xr_allowed": -0.0848
+      "bf": 25,
+      "xr_allowed": 0.276
     },
     "663423": {
       "name": "Trent Thornton",
@@ -6641,8 +6641,8 @@
     "666157": {
       "name": "Nick Lodolo",
       "team": "Cincinnati Reds",
-      "bf": 46,
-      "xr_allowed": 1.1619
+      "bf": 72,
+      "xr_allowed": -0.516
     },
     "605156": {
       "name": "Aaron Brooks",
@@ -6845,8 +6845,8 @@
     "702752": {
       "name": "Jonathan Pintaro",
       "team": "New York Mets",
-      "bf": 3,
-      "xr_allowed": -0.301
+      "bf": 12,
+      "xr_allowed": -1.0435
     },
     "624522": {
       "name": "Keegan Thompson",
@@ -7616,6 +7616,7 @@
     824598,
     823784,
     824838,
-    824107
+    824107,
+    823625
   ]
 }
