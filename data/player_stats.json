@@ -507,20 +507,20 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Baltimore Orioles",
-      "pa": 216,
-      "xr": 7.8914
+      "pa": 220,
+      "xr": 7.985
     },
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 217,
-      "xr": -2.4398
+      "pa": 221,
+      "xr": -3.1481
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 208,
-      "xr": 8.1126
+      "pa": 212,
+      "xr": 8.7355
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -561,26 +561,26 @@
     "668939": {
       "name": "Adley Rutschman",
       "team": "Baltimore Orioles",
-      "pa": 131,
-      "xr": 3.5464
+      "pa": 135,
+      "xr": 3.868
     },
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 141,
-      "xr": 2.0887
+      "pa": 145,
+      "xr": 2.1919
     },
     "641933": {
       "name": "Tyler O'Neill",
       "team": "Baltimore Orioles",
-      "pa": 93,
-      "xr": -0.6618
+      "pa": 95,
+      "xr": -1.2624
     },
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 98,
-      "xr": -2.127
+      "pa": 100,
+      "xr": -2.3347
     },
     "691723": {
       "name": "Coby Mayo",
@@ -591,8 +591,8 @@
     "677942": {
       "name": "Blaze Alexander",
       "team": "Baltimore Orioles",
-      "pa": 109,
-      "xr": 1.6326
+      "pa": 113,
+      "xr": 2.0418
     },
     "665019": {
       "name": "Kody Clemens",
@@ -867,32 +867,32 @@
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 147,
-      "xr": -1.1178
+      "pa": 149,
+      "xr": -1.1512
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 207,
-      "xr": 7.5856
+      "pa": 211,
+      "xr": 6.5817
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 185,
-      "xr": 0.6139
+      "pa": 189,
+      "xr": 1.8712
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 211,
-      "xr": 12.2252
+      "pa": 215,
+      "xr": 12.9233
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 178,
-      "xr": 13.3295
+      "pa": 182,
+      "xr": 14.9334
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 97,
-      "xr": -5.2373
+      "pa": 98,
+      "xr": -5.2028
     },
     "664034": {
       "name": "Ty France",
@@ -1857,14 +1857,14 @@
     "663330": {
       "name": "Jahmai Jones",
       "team": "Detroit Tigers",
-      "pa": 60,
-      "xr": -0.6407
+      "pa": 62,
+      "xr": -0.6893
     },
     "663837": {
       "name": "Matt Vierling",
       "team": "Detroit Tigers",
-      "pa": 134,
-      "xr": -5.3825
+      "pa": 139,
+      "xr": -4.713
     },
     "692216": {
       "name": "CJ Kayfus",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 127,
-      "xr": 5.3686
+      "pa": 131,
+      "xr": 4.3366
     },
     "681546": {
       "name": "James Outman",
@@ -2475,8 +2475,8 @@
     "672761": {
       "name": "Wenceel P\u00e9rez",
       "team": "Detroit Tigers",
-      "pa": 109,
-      "xr": -5.5862
+      "pa": 113,
+      "xr": -5.9499
     },
     "666211": {
       "name": "Taylor Trammell",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu  Lee",
       "team": "Detroit Tigers",
-      "pa": 62,
-      "xr": -1.0413
+      "pa": 65,
+      "xr": -1.4146
     },
     "694025": {
       "name": "Felix Reyes",
@@ -2781,8 +2781,8 @@
     "670097": {
       "name": "Zack Short",
       "team": "Detroit Tigers",
-      "pa": 19,
-      "xr": -1.8732
+      "pa": 23,
+      "xr": -1.5888
     },
     "691788": {
       "name": "Joe Mack",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 10,
-      "xr": -0.9724
+      "pa": 13,
+      "xr": -0.8478
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3329,8 +3329,8 @@
     "669432": {
       "name": "Trevor Rogers",
       "team": "Baltimore Orioles",
-      "bf": 177,
-      "xr_allowed": 6.2336
+      "bf": 197,
+      "xr_allowed": 9.117
     },
     "657746": {
       "name": "Joe Ryan",
@@ -3509,8 +3509,8 @@
     "623454": {
       "name": "Drew Anderson",
       "team": "Detroit Tigers",
-      "bf": 124,
-      "xr_allowed": 0.6319
+      "bf": 133,
+      "xr_allowed": -0.2895
     },
     "688158": {
       "name": "David Morgan",
@@ -3521,8 +3521,8 @@
     "663947": {
       "name": "Tyler Holton",
       "team": "Detroit Tigers",
-      "bf": 94,
-      "xr_allowed": 2.3682
+      "bf": 98,
+      "xr_allowed": 1.9095
     },
     "593974": {
       "name": "Wandy Peralta",
@@ -5453,8 +5453,8 @@
     "544150": {
       "name": "Albert Su\u00e1rez",
       "team": "Baltimore Orioles",
-      "bf": 67,
-      "xr_allowed": 2.2702
+      "bf": 82,
+      "xr_allowed": 2.4322
     },
     "608371": {
       "name": "Lucas Sims",
@@ -6203,8 +6203,8 @@
     "552640": {
       "name": "Andrew Kittredge",
       "team": "Baltimore Orioles",
-      "bf": 33,
-      "xr_allowed": 1.5431
+      "bf": 35,
+      "xr_allowed": 1.2225
     },
     "683000": {
       "name": "Riley Cornelio",
@@ -6835,6 +6835,12 @@
       "team": "Colorado Rockies",
       "bf": 13,
       "xr_allowed": -1.5954
+    },
+    "675512": {
+      "name": "Troy Melton",
+      "team": "Detroit Tigers",
+      "bf": 22,
+      "xr_allowed": 0.5066
     }
   },
   "processed_games": [
@@ -7578,6 +7584,7 @@
     824676,
     825081,
     823220,
-    823297
+    823297,
+    824840
   ]
 }
