@@ -369,14 +369,14 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 251,
-      "xr": 22.9268
+      "pa": 255,
+      "xr": 23.633
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
-      "pa": 24,
-      "xr": 2.421
+      "pa": 25,
+      "xr": 2.3235
     },
     "691781": {
       "name": "Brady House",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 233,
-      "xr": 3.461
+      "pa": 237,
+      "xr": 1.9533
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -423,8 +423,8 @@
     "682928": {
       "name": "CJ Abrams",
       "team": "Washington Nationals",
-      "pa": 224,
-      "xr": 12.6318
+      "pa": 228,
+      "xr": 13.3266
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
@@ -459,8 +459,8 @@
     "696285": {
       "name": "Jacob Young",
       "team": "Washington Nationals",
-      "pa": 182,
-      "xr": 4.6285
+      "pa": 185,
+      "xr": 4.64
     },
     "621020": {
       "name": "Dansby Swanson",
@@ -477,8 +477,8 @@
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team": "Washington Nationals",
-      "pa": 161,
-      "xr": 1.5916
+      "pa": 164,
+      "xr": 1.1738
     },
     "624424": {
       "name": "Michael Conforto",
@@ -1341,26 +1341,26 @@
     "680757": {
       "name": "Steven Kwan",
       "team": "Cleveland Guardians",
-      "pa": 215,
-      "xr": -1.9716
+      "pa": 219,
+      "xr": -1.2195
     },
     "800050": {
       "name": "Chase DeLauter",
       "team": "Cleveland Guardians",
-      "pa": 205,
-      "xr": 5.265
+      "pa": 209,
+      "xr": 6.072
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
-      "pa": 236,
-      "xr": 11.911
+      "pa": 240,
+      "xr": 11.5264
     },
     "700932": {
       "name": "Kyle Manzardo",
       "team": "Cleveland Guardians",
-      "pa": 159,
-      "xr": 3.7474
+      "pa": 163,
+      "xr": 4.3393
     },
     "680977": {
       "name": "Brendan Donovan",
@@ -1401,8 +1401,8 @@
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 150,
-      "xr": 1.5789
+      "pa": 154,
+      "xr": 1.518
     },
     "672356": {
       "name": "Gabriel Arias",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 189,
-      "xr": 2.8652
+      "pa": 193,
+      "xr": 2.5403
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1449,8 +1449,8 @@
     "682657": {
       "name": "Angel Mart\u00ednez",
       "team": "Cleveland Guardians",
-      "pa": 176,
-      "xr": -1.8681
+      "pa": 180,
+      "xr": -0.1749
     },
     "502671": {
       "name": "Paul Goldschmidt",
@@ -1893,14 +1893,14 @@
     "686452": {
       "name": "Drew Millas",
       "team": "Washington Nationals",
-      "pa": 90,
-      "xr": -6.3143
+      "pa": 93,
+      "xr": -6.4736
     },
     "678391": {
       "name": "Jorbit Vivas",
       "team": "Washington Nationals",
-      "pa": 111,
-      "xr": -5.0077
+      "pa": 115,
+      "xr": -5.3662
     },
     "665804": {
       "name": "Miguel Amaya",
@@ -1911,8 +1911,8 @@
     "677588": {
       "name": "Jos\u00e9 Tena",
       "team": "Washington Nationals",
-      "pa": 104,
-      "xr": -3.8671
+      "pa": 108,
+      "xr": -4.4879
     },
     "676914": {
       "name": "Davis Schneider",
@@ -2265,8 +2265,8 @@
     "595978": {
       "name": "Austin Hedges",
       "team": "Cleveland Guardians",
-      "pa": 71,
-      "xr": -3.3475
+      "pa": 75,
+      "xr": -3.6833
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -2277,8 +2277,8 @@
     "678554": {
       "name": "Curtis Mead",
       "team": "Washington Nationals",
-      "pa": 138,
-      "xr": 4.5651
+      "pa": 142,
+      "xr": 3.8161
     },
     "699912": {
       "name": "Jose Fernandez",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 95,
-      "xr": 1.8505
+      "pa": 99,
+      "xr": 2.1421
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -3323,8 +3323,8 @@
     "676571": {
       "name": "PJ Poulin",
       "team": "Washington Nationals",
-      "bf": 100,
-      "xr_allowed": 2.5814
+      "bf": 103,
+      "xr_allowed": 3.2161
     },
     "695418": {
       "name": "Brad Lord",
@@ -3341,8 +3341,8 @@
     "690925": {
       "name": "Clayton Beeter",
       "team": "Washington Nationals",
-      "bf": 53,
-      "xr_allowed": 0.1744
+      "bf": 57,
+      "xr_allowed": 1.1737
     },
     "657097": {
       "name": "Jacob Webb",
@@ -3803,8 +3803,8 @@
     "671922": {
       "name": "Cade Smith",
       "team": "Cleveland Guardians",
-      "bf": 98,
-      "xr_allowed": -4.4486
+      "bf": 103,
+      "xr_allowed": -5.74
     },
     "592662": {
       "name": "Robbie Ray",
@@ -4097,8 +4097,8 @@
     "668909": {
       "name": "Gavin Williams",
       "team": "Cleveland Guardians",
-      "bf": 251,
-      "xr_allowed": -1.7999
+      "bf": 277,
+      "xr_allowed": -2.5503
     },
     "670059": {
       "name": "Colin Holderman",
@@ -4217,8 +4217,8 @@
     "571945": {
       "name": "Miles Mikolas",
       "team": "Washington Nationals",
-      "bf": 204,
-      "xr_allowed": 11.3517
+      "bf": 221,
+      "xr_allowed": 9.7114
     },
     "701552": {
       "name": "Andre Granillo",
@@ -4511,8 +4511,8 @@
     "663992": {
       "name": "Richard Lovelady",
       "team": "Washington Nationals",
-      "bf": 96,
-      "xr_allowed": -1.9481
+      "bf": 101,
+      "xr_allowed": 1.0557
     },
     "691587": {
       "name": "Eury P\u00e9rez",
@@ -4769,8 +4769,8 @@
     "682120": {
       "name": "Tim Herrin",
       "team": "Cleveland Guardians",
-      "bf": 71,
-      "xr_allowed": -2.1321
+      "bf": 74,
+      "xr_allowed": -2.5884
     },
     "677961": {
       "name": "Cole Wilcox",
@@ -5039,8 +5039,8 @@
     "681402": {
       "name": "Gus Varland",
       "team": "Washington Nationals",
-      "bf": 85,
-      "xr_allowed": -0.6018
+      "bf": 88,
+      "xr_allowed": -0.5289
     },
     "640451": {
       "name": "Hunter Harvey",
@@ -5879,8 +5879,8 @@
     "687377": {
       "name": "Orlando Ribalta",
       "team": "Washington Nationals",
-      "bf": 44,
-      "xr_allowed": -3.8846
+      "bf": 48,
+      "xr_allowed": -3.9254
     },
     "681895": {
       "name": "Evan Sisk",
@@ -7705,6 +7705,7 @@
     825004,
     823294,
     823216,
-    823949
+    823949,
+    824432
   ]
 }
