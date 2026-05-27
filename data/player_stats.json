@@ -147,14 +147,14 @@
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 147,
-      "xr": 14.9309
+      "pa": 151,
+      "xr": 15.7484
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 225,
-      "xr": 2.2974
+      "pa": 229,
+      "xr": 1.9263
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,20 +171,20 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 174,
-      "xr": 2.4939
+      "pa": 176,
+      "xr": 2.5994
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 205,
-      "xr": -1.2823
+      "pa": 208,
+      "xr": -1.9874
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 184,
-      "xr": 0.4779
+      "pa": 188,
+      "xr": -0.4545
     },
     "682626": {
       "name": "Francisco Alvarez",
@@ -645,14 +645,14 @@
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 204,
-      "xr": 0.5785
+      "pa": 208,
+      "xr": -0.6063
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 225,
-      "xr": 8.4907
+      "pa": 230,
+      "xr": 7.6914
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,26 +681,26 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 220,
-      "xr": 10.8565
+      "pa": 225,
+      "xr": 9.7791
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 108,
-      "xr": -2.0811
+      "pa": 113,
+      "xr": -1.8273
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 189,
-      "xr": 5.3267
+      "pa": 194,
+      "xr": 4.8541
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 142,
-      "xr": 1.2103
+      "pa": 147,
+      "xr": 3.0361
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -729,8 +729,8 @@
     "667472": {
       "name": "Dane Myers",
       "team": "Cincinnati Reds",
-      "pa": 87,
-      "xr": 3.6093
+      "pa": 92,
+      "xr": 4.6444
     },
     "687263": {
       "name": "Zach Neto",
@@ -2025,14 +2025,14 @@
     "668901": {
       "name": "Mark Vientos",
       "team": "New York Mets",
-      "pa": 162,
-      "xr": 2.9573
+      "pa": 164,
+      "xr": 2.9557
     },
     "620443": {
       "name": "Luis Torrens",
       "team": "New York Mets",
-      "pa": 82,
-      "xr": -3.511
+      "pa": 85,
+      "xr": -3.3376
     },
     "687859": {
       "name": "Troy Johnston",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 23,
-      "xr": 2.7753
+      "pa": 25,
+      "xr": 2.9334
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2583,8 +2583,8 @@
     "669004": {
       "name": "MJ Melendez",
       "team": "New York Mets",
-      "pa": 77,
-      "xr": -5.9483
+      "pa": 80,
+      "xr": -6.5111
     },
     "675659": {
       "name": "Greg Jones",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 94,
-      "xr": 8.8457
+      "pa": 99,
+      "xr": 9.2318
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -2859,8 +2859,8 @@
     "694362": {
       "name": "Blake Dunn",
       "team": "Cincinnati Reds",
-      "pa": 41,
-      "xr": -1.4815
+      "pa": 46,
+      "xr": -2.6504
     },
     "660644": {
       "name": "Vidal Bruj\u00e1n",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 54,
-      "xr": 1.2705
+      "pa": 58,
+      "xr": 1.2689
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3119,6 +3119,12 @@
       "team": "Los Angeles Dodgers",
       "pa": 2,
       "xr": 0.3838
+    },
+    "676572": {
+      "name": "Eric Wagaman",
+      "team": "New York Mets",
+      "pa": 2,
+      "xr": -0.2916
     }
   },
   "pitchers": {
@@ -3407,14 +3413,14 @@
     "572955": {
       "name": "Pierce Johnson",
       "team": "Cincinnati Reds",
-      "bf": 80,
-      "xr_allowed": 1.1249
+      "bf": 83,
+      "xr_allowed": 0.8162
     },
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 95,
-      "xr_allowed": -1.5832
+      "bf": 99,
+      "xr_allowed": -2.0564
     },
     "686580": {
       "name": "Justin Slaten",
@@ -3443,8 +3449,8 @@
     "656271": {
       "name": "Brock Burke",
       "team": "Cincinnati Reds",
-      "bf": 108,
-      "xr_allowed": 1.3697
+      "bf": 109,
+      "xr_allowed": 1.119
     },
     "547973": {
       "name": "Aroldis Chapman",
@@ -4451,8 +4457,8 @@
     "663574": {
       "name": "Tony Santillan",
       "team": "Cincinnati Reds",
-      "bf": 84,
-      "xr_allowed": 0.6978
+      "bf": 87,
+      "xr_allowed": 0.7555
     },
     "641941": {
       "name": "Emilio Pag\u00e1n",
@@ -4463,8 +4469,8 @@
     "656849": {
       "name": "David Peterson",
       "team": "New York Mets",
-      "bf": 205,
-      "xr_allowed": 6.6012
+      "bf": 231,
+      "xr_allowed": 10.1126
     },
     "656605": {
       "name": "Mitch Keller",
@@ -4895,8 +4901,8 @@
     "640455": {
       "name": "Sean Manaea",
       "team": "New York Mets",
-      "bf": 142,
-      "xr_allowed": 6.1921
+      "bf": 156,
+      "xr_allowed": 2.2715
     },
     "664353": {
       "name": "Jos\u00e9 Urquidy",
@@ -5099,8 +5105,8 @@
     "695505": {
       "name": "Chase Burns",
       "team": "Cincinnati Reds",
-      "bf": 205,
-      "xr_allowed": -9.1556
+      "bf": 227,
+      "xr_allowed": -9.7924
     },
     "677952": {
       "name": "Braxton Ashcraft",
@@ -6913,6 +6919,12 @@
       "team": "Chicago Cubs",
       "bf": 24,
       "xr_allowed": 2.545
+    },
+    "621345": {
+      "name": "A.J. Minter",
+      "team": "New York Mets",
+      "bf": 4,
+      "xr_allowed": -0.793
     }
   },
   "processed_games": [
@@ -7678,6 +7690,7 @@
     823379,
     824275,
     824758,
-    822811
+    822811,
+    823624
   ]
 }
