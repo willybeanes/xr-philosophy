@@ -99,8 +99,8 @@
     "672275": {
       "name": "Patrick Bailey",
       "team": "Cleveland Guardians",
-      "pa": 111,
-      "xr": -1.6573
+      "pa": 113,
+      "xr": -2.2152
     },
     "664056": {
       "name": "Harrison Bader",
@@ -369,14 +369,14 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 246,
-      "xr": 21.2018
+      "pa": 251,
+      "xr": 22.9268
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
-      "pa": 19,
-      "xr": 1.7127
+      "pa": 24,
+      "xr": 2.421
     },
     "691781": {
       "name": "Brady House",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 229,
-      "xr": 3.4681
+      "pa": 233,
+      "xr": 3.461
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -423,14 +423,14 @@
     "682928": {
       "name": "CJ Abrams",
       "team": "Washington Nationals",
-      "pa": 219,
-      "xr": 12.6452
+      "pa": 224,
+      "xr": 12.6318
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team": "Washington Nationals",
-      "pa": 178,
-      "xr": -10.2344
+      "pa": 182,
+      "xr": -9.9633
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -453,14 +453,14 @@
     "660688": {
       "name": "Keibert Ruiz",
       "team": "Washington Nationals",
-      "pa": 106,
-      "xr": -4.0005
+      "pa": 110,
+      "xr": -4.9746
     },
     "696285": {
       "name": "Jacob Young",
       "team": "Washington Nationals",
-      "pa": 178,
-      "xr": 4.2584
+      "pa": 182,
+      "xr": 4.6285
     },
     "621020": {
       "name": "Dansby Swanson",
@@ -1341,26 +1341,26 @@
     "680757": {
       "name": "Steven Kwan",
       "team": "Cleveland Guardians",
-      "pa": 211,
-      "xr": -2.5881
+      "pa": 215,
+      "xr": -1.9716
     },
     "800050": {
       "name": "Chase DeLauter",
       "team": "Cleveland Guardians",
-      "pa": 200,
-      "xr": 5.6606
+      "pa": 205,
+      "xr": 5.265
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
-      "pa": 231,
-      "xr": 13.2929
+      "pa": 236,
+      "xr": 11.911
     },
     "700932": {
       "name": "Kyle Manzardo",
       "team": "Cleveland Guardians",
-      "pa": 155,
-      "xr": 4.4266
+      "pa": 159,
+      "xr": 3.7474
     },
     "680977": {
       "name": "Brendan Donovan",
@@ -1395,14 +1395,14 @@
     "656555": {
       "name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
-      "pa": 147,
-      "xr": -2.5489
+      "pa": 148,
+      "xr": -2.8227
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 147,
-      "xr": 1.6318
+      "pa": 150,
+      "xr": 1.5789
     },
     "672356": {
       "name": "Gabriel Arias",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 185,
-      "xr": 1.7518
+      "pa": 189,
+      "xr": 2.8652
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1449,8 +1449,8 @@
     "682657": {
       "name": "Angel Mart\u00ednez",
       "team": "Cleveland Guardians",
-      "pa": 172,
-      "xr": -1.2724
+      "pa": 176,
+      "xr": -1.8681
     },
     "502671": {
       "name": "Paul Goldschmidt",
@@ -2109,8 +2109,8 @@
     "681807": {
       "name": "David Fry",
       "team": "Cleveland Guardians",
-      "pa": 80,
-      "xr": -2.8384
+      "pa": 82,
+      "xr": -3.3963
     },
     "645302": {
       "name": "Victor Robles",
@@ -2277,8 +2277,8 @@
     "678554": {
       "name": "Curtis Mead",
       "team": "Washington Nationals",
-      "pa": 133,
-      "xr": 3.711
+      "pa": 138,
+      "xr": 4.5651
     },
     "699912": {
       "name": "Jose Fernandez",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 90,
-      "xr": 0.8551
+      "pa": 95,
+      "xr": 1.8505
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -3015,8 +3015,8 @@
     "686611": {
       "name": "Dylan Crews",
       "team": "Washington Nationals",
-      "pa": 30,
-      "xr": -0.9737
+      "pa": 34,
+      "xr": -1.2393
     },
     "606115": {
       "name": "Orlando Arcia",
@@ -3305,8 +3305,8 @@
     "676917": {
       "name": "Cade Cavalli",
       "team": "Washington Nationals",
-      "bf": 218,
-      "xr_allowed": -1.3739
+      "bf": 243,
+      "xr_allowed": -2.5679
     },
     "676962": {
       "name": "Ben Brown",
@@ -3773,8 +3773,8 @@
     "542888": {
       "name": "Shawn Armstrong",
       "team": "Cleveland Guardians",
-      "bf": 54,
-      "xr_allowed": 0.579
+      "bf": 58,
+      "xr_allowed": -0.0395
     },
     "681870": {
       "name": "Erik Sabrowski",
@@ -4097,8 +4097,8 @@
     "670059": {
       "name": "Colin Holderman",
       "team": "Cleveland Guardians",
-      "bf": 64,
-      "xr_allowed": -3.113
+      "bf": 67,
+      "xr_allowed": -3.2937
     },
     "660825": {
       "name": "Eduard Bazardo",
@@ -4751,8 +4751,8 @@
     "676282": {
       "name": "Joey Cantillo",
       "team": "Cleveland Guardians",
-      "bf": 234,
-      "xr_allowed": -3.3963
+      "bf": 247,
+      "xr_allowed": -0.8995
     },
     "670036": {
       "name": "Matt Festa",
@@ -5933,8 +5933,8 @@
     "680730": {
       "name": "Mitchell Parker",
       "team": "Washington Nationals",
-      "bf": 91,
-      "xr_allowed": -0.0931
+      "bf": 105,
+      "xr_allowed": -0.6687
     },
     "663767": {
       "name": "Chase Shugart",
@@ -6701,8 +6701,8 @@
     "676051": {
       "name": "Codi Heuer",
       "team": "Cleveland Guardians",
-      "bf": 11,
-      "xr_allowed": -0.864
+      "bf": 19,
+      "xr_allowed": 0.7153
     },
     "688107": {
       "name": "Robert Gasser",
@@ -6901,6 +6901,12 @@
       "team": "Colorado Rockies",
       "bf": 3,
       "xr_allowed": -0.2529
+    },
+    "702021": {
+      "name": "Will Dion",
+      "team": "Cleveland Guardians",
+      "bf": 12,
+      "xr_allowed": -0.6085
     }
   },
   "processed_games": [
@@ -7660,6 +7666,7 @@
     822899,
     822812,
     823948,
-    825005
+    825005,
+    824434
   ]
 }
