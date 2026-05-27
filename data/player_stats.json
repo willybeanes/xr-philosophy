@@ -243,26 +243,26 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 213,
-      "xr": 11.6888
+      "pa": 217,
+      "xr": 11.2289
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 205,
-      "xr": 11.693
+      "pa": 208,
+      "xr": 11.4029
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 97,
-      "xr": -1.2357
+      "pa": 101,
+      "xr": -1.4052
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 51,
-      "xr": 1.0051
+      "pa": 52,
+      "xr": 0.386
     },
     "669720": {
       "name": "Austin Hays",
@@ -291,26 +291,26 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 175,
-      "xr": 10.9637
+      "pa": 178,
+      "xr": 11.0237
     },
     "686217": {
       "name": "Sal Frelick",
       "team": "Milwaukee Brewers",
-      "pa": 180,
-      "xr": -2.7552
+      "pa": 183,
+      "xr": -2.6556
     },
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 139,
-      "xr": -1.6708
+      "pa": 141,
+      "xr": -2.1328
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 155,
-      "xr": 0.439
+      "pa": 158,
+      "xr": 0.1484
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "Milwaukee Brewers",
-      "pa": 151,
-      "xr": -3.5007
+      "pa": 154,
+      "xr": -3.5821
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -999,32 +999,32 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 224,
-      "xr": 10.9208
+      "pa": 228,
+      "xr": 11.2988
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 225,
-      "xr": 12.9272
+      "pa": 229,
+      "xr": 13.3701
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 210,
-      "xr": 16.4871
+      "pa": 214,
+      "xr": 15.6819
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 184,
-      "xr": -5.1559
+      "pa": 188,
+      "xr": -5.5717
     },
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 181,
-      "xr": -3.0569
+      "pa": 185,
+      "xr": -3.5244
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,8 +1053,8 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 205,
-      "xr": 9.5916
+      "pa": 209,
+      "xr": 9.8443
     },
     "701675": {
       "name": "Nathan Church",
@@ -1065,14 +1065,14 @@
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 115,
-      "xr": -5.9449
+      "pa": 118,
+      "xr": -5.859
     },
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 145,
-      "xr": -7.2199
+      "pa": 148,
+      "xr": -7.4773
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -2331,8 +2331,8 @@
     "650968": {
       "name": "Yohel Pozo",
       "team": "St. Louis Cardinals",
-      "pa": 31,
-      "xr": 0.2476
+      "pa": 32,
+      "xr": -0.3239
     },
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 75,
-      "xr": 0.3312
+      "pa": 79,
+      "xr": 0.4736
     },
     "805904": {
       "name": "Zach Cole",
@@ -3075,8 +3075,8 @@
     "663494": {
       "name": "Bryan Torres",
       "team": "St. Louis Cardinals",
-      "pa": 17,
-      "xr": 2.1561
+      "pa": 21,
+      "xr": 2.1274
     },
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
@@ -3263,8 +3263,8 @@
     "676879": {
       "name": "Aaron Ashby",
       "team": "Milwaukee Brewers",
-      "bf": 129,
-      "xr_allowed": -6.6579
+      "bf": 136,
+      "xr_allowed": -6.5653
     },
     "663855": {
       "name": "Jordan Hicks",
@@ -3617,8 +3617,8 @@
     "668941": {
       "name": "JoJo Romero",
       "team": "St. Louis Cardinals",
-      "bf": 94,
-      "xr_allowed": 2.8477
+      "bf": 99,
+      "xr_allowed": 2.2778
     },
     "676617": {
       "name": "Riley O'Brien",
@@ -4583,8 +4583,8 @@
     "694477": {
       "name": "Chad Patrick",
       "team": "Milwaukee Brewers",
-      "bf": 156,
-      "xr_allowed": 2.4054
+      "bf": 173,
+      "xr_allowed": 2.4291
     },
     "680732": {
       "name": "Sean Burke",
@@ -4985,14 +4985,14 @@
     "656730": {
       "name": "Trevor Megill",
       "team": "Milwaukee Brewers",
-      "bf": 73,
-      "xr_allowed": -2.9605
+      "bf": 77,
+      "xr_allowed": -3.7096
     },
     "669160": {
       "name": "Dustin May",
       "team": "St. Louis Cardinals",
-      "bf": 210,
-      "xr_allowed": -0.2405
+      "bf": 235,
+      "xr_allowed": -1.7412
     },
     "571927": {
       "name": "Steven Matz",
@@ -5711,8 +5711,8 @@
     "675660": {
       "name": "Shane Drohan",
       "team": "Milwaukee Brewers",
-      "bf": 96,
-      "xr_allowed": -1.789
+      "bf": 103,
+      "xr_allowed": -2.5428
     },
     "701719": {
       "name": "Tyler Samaniego",
@@ -7706,6 +7706,7 @@
     823294,
     823216,
     823949,
-    824432
+    824432,
+    823783
   ]
 }
