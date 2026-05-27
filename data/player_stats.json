@@ -507,20 +507,20 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Baltimore Orioles",
-      "pa": 226,
-      "xr": 8.8118
+      "pa": 230,
+      "xr": 8.5108
     },
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 227,
-      "xr": -3.4191
+      "pa": 231,
+      "xr": -3.9427
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 218,
-      "xr": 10.0924
+      "pa": 222,
+      "xr": 9.8236
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -567,8 +567,8 @@
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 146,
-      "xr": 1.9057
+      "pa": 150,
+      "xr": 4.3424
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,8 +579,8 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 104,
-      "xr": -2.238
+      "pa": 108,
+      "xr": -2.7882
     },
     "691723": {
       "name": "Coby Mayo",
@@ -591,8 +591,8 @@
     "677942": {
       "name": "Blaze Alexander",
       "team": "Baltimore Orioles",
-      "pa": 119,
-      "xr": 3.0908
+      "pa": 123,
+      "xr": 2.2881
     },
     "665019": {
       "name": "Kody Clemens",
@@ -969,26 +969,26 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 198,
-      "xr": 13.9219
+      "pa": 202,
+      "xr": 13.2535
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 68,
-      "xr": 1.9211
+      "pa": 69,
+      "xr": 1.9284
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 212,
-      "xr": 11.8943
+      "pa": 216,
+      "xr": 12.9695
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 215,
-      "xr": 3.9634
+      "pa": 219,
+      "xr": 4.6631
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1041,8 +1041,8 @@
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 169,
-      "xr": -11.0951
+      "pa": 173,
+      "xr": -11.8922
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,14 +1077,14 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 206,
-      "xr": -4.7497
+      "pa": 210,
+      "xr": -4.7372
     },
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 112,
-      "xr": 2.8151
+      "pa": 115,
+      "xr": 1.6479
     },
     "641584": {
       "name": "Jake Fraley",
@@ -1095,8 +1095,8 @@
     "676439": {
       "name": "Hunter Feduccia",
       "team": "Tampa Bay Rays",
-      "pa": 66,
-      "xr": -1.4088
+      "pa": 70,
+      "xr": -2.1051
     },
     "607043": {
       "name": "Brandon Nimmo",
@@ -1947,8 +1947,8 @@
     "669236": {
       "name": "Jeremiah Jackson",
       "team": "Baltimore Orioles",
-      "pa": 152,
-      "xr": 1.244
+      "pa": 156,
+      "xr": 1.4891
     },
     "663624": {
       "name": "Ryan Mountcastle",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 137,
-      "xr": 4.9469
+      "pa": 141,
+      "xr": 5.1469
     },
     "681546": {
       "name": "James Outman",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 19,
-      "xr": -1.9271
+      "pa": 22,
+      "xr": -1.707
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3105,14 +3105,14 @@
     "683748": {
       "name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
-      "pa": 6,
-      "xr": 1.5491
+      "pa": 10,
+      "xr": 1.3304
     },
     "686554": {
       "name": "Oliver Dunn",
       "team": "Tampa Bay Rays",
-      "pa": 2,
-      "xr": 0.2541
+      "pa": 6,
+      "xr": -0.0796
     },
     "571771": {
       "name": "Enrique Hern\u00e1ndez",
@@ -3599,14 +3599,14 @@
     "664076": {
       "name": "Garrett Cleavinger",
       "team": "Tampa Bay Rays",
-      "bf": 35,
-      "xr_allowed": 2.2512
+      "bf": 41,
+      "xr_allowed": 1.6076
     },
     "643377": {
       "name": "Griffin Jax",
       "team": "Tampa Bay Rays",
-      "bf": 101,
-      "xr_allowed": 6.1955
+      "bf": 112,
+      "xr_allowed": 5.3247
     },
     "668941": {
       "name": "JoJo Romero",
@@ -4775,8 +4775,8 @@
     "669358": {
       "name": "Shane Baz",
       "team": "Baltimore Orioles",
-      "bf": 228,
-      "xr_allowed": 6.4724
+      "bf": 257,
+      "xr_allowed": 4.2557
     },
     "641927": {
       "name": "Bailey Ober",
@@ -4793,8 +4793,8 @@
     "664991": {
       "name": "Grant Wolfram",
       "team": "Baltimore Orioles",
-      "bf": 65,
-      "xr_allowed": -2.0268
+      "bf": 69,
+      "xr_allowed": -1.4181
     },
     "670329": {
       "name": "Rico Garcia",
@@ -5806,9 +5806,9 @@
     },
     "518886": {
       "name": "Craig Kimbrel",
-      "team": "New York Mets",
-      "bf": 60,
-      "xr_allowed": -0.7079
+      "team": "Tampa Bay Rays",
+      "bf": 64,
+      "xr_allowed": -1.2997
     },
     "694363": {
       "name": "Jared Shuster",
@@ -6119,8 +6119,8 @@
     "694680": {
       "name": "Trevor Martin",
       "team": "Tampa Bay Rays",
-      "bf": 21,
-      "xr_allowed": 1.1634
+      "bf": 35,
+      "xr_allowed": 3.9252
     },
     "642759": {
       "name": "Julian Fern\u00e1ndez",
@@ -6227,8 +6227,8 @@
     "552640": {
       "name": "Andrew Kittredge",
       "team": "Baltimore Orioles",
-      "bf": 35,
-      "xr_allowed": 1.2225
+      "bf": 38,
+      "xr_allowed": 0.7438
     },
     "683000": {
       "name": "Riley Cornelio",
@@ -7667,6 +7667,7 @@
     822812,
     823948,
     825005,
-    824434
+    824434,
+    824837
   ]
 }
