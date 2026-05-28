@@ -735,14 +735,14 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 239,
-      "xr": 0.5176
+      "pa": 243,
+      "xr": 0.1766
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 233,
-      "xr": 21.9899
+      "pa": 237,
+      "xr": 22.0665
     },
     "694384": {
       "name": "Nolan Schanuel",
@@ -753,8 +753,8 @@
     "624585": {
       "name": "Jorge Soler",
       "team": "Los Angeles Angels",
-      "pa": 204,
-      "xr": -0.095
+      "pa": 208,
+      "xr": -0.5561
     },
     "514888": {
       "name": "Jose Altuve",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 219,
-      "xr": 3.2262
+      "pa": 222,
+      "xr": 2.7908
     },
     "666139": {
       "name": "Josh Lowe",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Los Angeles Angels",
-      "pa": 122,
-      "xr": -0.0753
+      "pa": 125,
+      "xr": -0.629
     },
     "621043": {
       "name": "Carlos Correa",
@@ -825,8 +825,8 @@
     "672724": {
       "name": "Oswald Peraza",
       "team": "Los Angeles Angels",
-      "pa": 151,
-      "xr": -2.1887
+      "pa": 154,
+      "xr": -2.5757
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -867,32 +867,32 @@
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 151,
-      "xr": -1.0738
+      "pa": 154,
+      "xr": -1.1059
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 216,
-      "xr": 6.6925
+      "pa": 220,
+      "xr": 5.4038
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 194,
-      "xr": 0.8493
+      "pa": 198,
+      "xr": 0.8517
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 220,
-      "xr": 13.6527
+      "pa": 224,
+      "xr": 14.1976
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 187,
-      "xr": 15.2278
+      "pa": 191,
+      "xr": 16.0493
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 102,
-      "xr": -6.5248
+      "pa": 106,
+      "xr": -6.9307
     },
     "664034": {
       "name": "Ty France",
@@ -1857,14 +1857,14 @@
     "663330": {
       "name": "Jahmai Jones",
       "team": "Detroit Tigers",
-      "pa": 65,
-      "xr": -0.2307
+      "pa": 67,
+      "xr": -0.6128
     },
     "663837": {
       "name": "Matt Vierling",
       "team": "Detroit Tigers",
-      "pa": 143,
-      "xr": -4.8459
+      "pa": 144,
+      "xr": -5.071
     },
     "692216": {
       "name": "CJ Kayfus",
@@ -2475,8 +2475,8 @@
     "672761": {
       "name": "Wenceel P\u00e9rez",
       "team": "Detroit Tigers",
-      "pa": 117,
-      "xr": -5.1362
+      "pa": 121,
+      "xr": -5.2259
     },
     "666211": {
       "name": "Taylor Trammell",
@@ -2493,8 +2493,8 @@
     "687093": {
       "name": "Vaughn Grissom",
       "team": "Los Angeles Angels",
-      "pa": 109,
-      "xr": 3.7645
+      "pa": 113,
+      "xr": 3.6922
     },
     "671286": {
       "name": "Johnathan Rodr\u00edguez",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu  Lee",
       "team": "Detroit Tigers",
-      "pa": 67,
-      "xr": -2.2091
+      "pa": 71,
+      "xr": -2.8261
     },
     "694025": {
       "name": "Felix Reyes",
@@ -2901,8 +2901,8 @@
     "669398": {
       "name": "Gage Workman",
       "team": "Detroit Tigers",
-      "pa": 32,
-      "xr": 1.4209
+      "pa": 34,
+      "xr": 1.2836
     },
     "805999": {
       "name": "A.J. Ewing",
@@ -3057,14 +3057,14 @@
     "685133": {
       "name": "Wade Meckler",
       "team": "Los Angeles Angels",
-      "pa": 12,
-      "xr": 2.9191
+      "pa": 15,
+      "xr": 3.1746
     },
     "622268": {
       "name": "Donovan Walton",
       "team": "Los Angeles Angels",
-      "pa": 13,
-      "xr": -0.707
+      "pa": 16,
+      "xr": -1.0108
     },
     "682674": {
       "name": "Victor Bericoto",
@@ -3467,8 +3467,8 @@
     "667755": {
       "name": "Jos\u00e9 Soriano",
       "team": "Los Angeles Angels",
-      "bf": 237,
-      "xr_allowed": 1.6831
+      "bf": 261,
+      "xr_allowed": 0.7572
     },
     "805123": {
       "name": "AJ Blubaugh",
@@ -3539,8 +3539,8 @@
     "623454": {
       "name": "Drew Anderson",
       "team": "Detroit Tigers",
-      "bf": 133,
-      "xr_allowed": -0.2895
+      "bf": 142,
+      "xr_allowed": -1.2243
     },
     "688158": {
       "name": "David Morgan",
@@ -4079,14 +4079,14 @@
     "640448": {
       "name": "Kyle Finnegan",
       "team": "Detroit Tigers",
-      "bf": 96,
-      "xr_allowed": -2.3138
+      "bf": 99,
+      "xr_allowed": -2.522
     },
     "445276": {
       "name": "Kenley Jansen",
       "team": "Detroit Tigers",
-      "bf": 56,
-      "xr_allowed": 1.9697
+      "bf": 59,
+      "xr_allowed": 2.2449
     },
     "669923": {
       "name": "George Kirby",
@@ -4571,8 +4571,8 @@
     "608718": {
       "name": "Brent Suter",
       "team": "Los Angeles Angels",
-      "bf": 111,
-      "xr_allowed": 0.8872
+      "bf": 123,
+      "xr_allowed": 0.004
     },
     "650556": {
       "name": "Bryan Abreu",
@@ -5459,8 +5459,8 @@
     "663554": {
       "name": "Casey Mize",
       "team": "Detroit Tigers",
-      "bf": 173,
-      "xr_allowed": -7.8632
+      "bf": 187,
+      "xr_allowed": -9.069
     },
     "608566": {
       "name": "Germ\u00e1n M\u00e1rquez",
@@ -6293,8 +6293,8 @@
     "669724": {
       "name": "Brenan Hanifee",
       "team": "Detroit Tigers",
-      "bf": 37,
-      "xr_allowed": 1.5024
+      "bf": 39,
+      "xr_allowed": 1.3538
     },
     "605441": {
       "name": "Yacksel R\u00edos",
@@ -7711,6 +7711,7 @@
     822809,
     825003,
     823217,
-    823295
+    823295,
+    824270
   ]
 }
