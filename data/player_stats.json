@@ -621,14 +621,14 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 201,
-      "xr": 2.7871
+      "pa": 206,
+      "xr": 4.3677
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 207,
-      "xr": 14.1593
+      "pa": 212,
+      "xr": 13.4579
     },
     "702332": {
       "name": "Caleb Durbin",
@@ -657,14 +657,14 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 213,
-      "xr": 8.1843
+      "pa": 218,
+      "xr": 9.7391
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 61,
-      "xr": -3.0881
+      "pa": 65,
+      "xr": -2.9327
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 180,
-      "xr": 5.2922
+      "pa": 185,
+      "xr": 6.4122
     },
     "701398": {
       "name": "Sal Stewart",
@@ -717,8 +717,8 @@
     "691785": {
       "name": "Marcelo Mayer",
       "team": "Boston Red Sox",
-      "pa": 146,
-      "xr": -4.0308
+      "pa": 150,
+      "xr": -4.453
     },
     "666181": {
       "name": "Will Benson",
@@ -1731,8 +1731,8 @@
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
-      "pa": 184,
-      "xr": 10.3664
+      "pa": 188,
+      "xr": 10.9724
     },
     "686948": {
       "name": "Drake Baldwin",
@@ -1743,20 +1743,20 @@
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 223,
-      "xr": 3.5405
+      "pa": 227,
+      "xr": 3.8413
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 229,
-      "xr": 13.7457
+      "pa": 233,
+      "xr": 14.5609
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 215,
-      "xr": -1.971
+      "pa": 219,
+      "xr": -2.4757
     },
     "642201": {
       "name": "Eli White",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 195,
-      "xr": -2.4485
+      "pa": 199,
+      "xr": -1.4838
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 181,
-      "xr": 13.9491
+      "pa": 185,
+      "xr": 14.1679
     },
     "695600": {
       "name": "Carter Jensen",
@@ -1989,8 +1989,8 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 103,
-      "xr": -2.3771
+      "pa": 107,
+      "xr": -1.4356
     },
     "657136": {
       "name": "Connor Wong",
@@ -2145,8 +2145,8 @@
     "622761": {
       "name": "Jorge Mateo",
       "team": "Atlanta Braves",
-      "pa": 56,
-      "xr": -2.1675
+      "pa": 60,
+      "xr": -1.8662
     },
     "571657": {
       "name": "Kyle Farmer",
@@ -2889,14 +2889,14 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 39,
-      "xr": -0.4692
+      "pa": 43,
+      "xr": 0.4361
     },
     "673490": {
       "name": "Ha-Seong Kim",
       "team": "Atlanta Braves",
-      "pa": 43,
-      "xr": -1.1922
+      "pa": 47,
+      "xr": -1.562
     },
     "669398": {
       "name": "Gage Workman",
@@ -2973,8 +2973,8 @@
     "686765": {
       "name": "Nick Sogard",
       "team": "Boston Red Sox",
-      "pa": 33,
-      "xr": 1.1599
+      "pa": 37,
+      "xr": 0.856
     },
     "675961": {
       "name": "Alika Williams",
@@ -2997,8 +2997,8 @@
     "644433": {
       "name": "Chadwick Tromp",
       "team": "Atlanta Braves",
-      "pa": 13,
-      "xr": -1.7044
+      "pa": 17,
+      "xr": -2.2198
     },
     "702616": {
       "name": "Jackson Holliday",
@@ -4451,8 +4451,8 @@
     "670245": {
       "name": "Ryan Watson",
       "team": "Boston Red Sox",
-      "bf": 123,
-      "xr_allowed": 6.6449
+      "bf": 131,
+      "xr_allowed": 8.4642
     },
     "663574": {
       "name": "Tony Santillan",
@@ -4877,8 +4877,8 @@
     "813349": {
       "name": "Connelly Early",
       "team": "Boston Red Sox",
-      "bf": 200,
-      "xr_allowed": 6.236
+      "bf": 228,
+      "xr_allowed": 6.2336
     },
     "663558": {
       "name": "Jovani Mor\u00e1n",
@@ -5183,8 +5183,8 @@
     "693821": {
       "name": "Bryce Elder",
       "team": "Atlanta Braves",
-      "bf": 252,
-      "xr_allowed": -8.7309
+      "bf": 272,
+      "xr_allowed": -6.3025
     },
     "682052": {
       "name": "Jacob Lopez",
@@ -5855,8 +5855,8 @@
     "689266": {
       "name": "Dylan Dodd",
       "team": "Atlanta Braves",
-      "bf": 30,
-      "xr_allowed": -2.2487
+      "bf": 33,
+      "xr_allowed": -1.0125
     },
     "595978": {
       "name": "Austin Hedges",
@@ -6197,8 +6197,8 @@
     "471911": {
       "name": "Carlos Carrasco",
       "team": "Atlanta Braves",
-      "bf": 12,
-      "xr_allowed": 0.3705
+      "bf": 29,
+      "xr_allowed": 1.536
     },
     "572143": {
       "name": "Burch Smith",
@@ -7712,6 +7712,7 @@
     825003,
     823217,
     823295,
-    824270
+    824270,
+    824756
   ]
 }
