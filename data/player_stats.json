@@ -765,14 +765,14 @@
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 226,
-      "xr": 31.1561
+      "pa": 231,
+      "xr": 33.2243
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 195,
-      "xr": -2.2443
+      "pa": 196,
+      "xr": -2.8905
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 197,
-      "xr": 0.1833
+      "pa": 201,
+      "xr": -0.6861
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 216,
-      "xr": 10.016
+      "pa": 221,
+      "xr": 9.4568
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -837,8 +837,8 @@
     "676694": {
       "name": "Jake Meyers",
       "team": "Houston Astros",
-      "pa": 64,
-      "xr": -0.7487
+      "pa": 68,
+      "xr": -1.1028
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -1101,8 +1101,8 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 217,
-      "xr": 16.3033
+      "pa": 221,
+      "xr": 15.722
     },
     "694671": {
       "name": "Wyatt Langford",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 208,
-      "xr": -0.4269
+      "pa": 212,
+      "xr": 0.5953
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 191,
-      "xr": 14.4124
+      "pa": 195,
+      "xr": 14.6563
     },
     "669701": {
       "name": "Josh Smith",
@@ -1179,8 +1179,8 @@
     "643376": {
       "name": "Danny Jansen",
       "team": "Texas Rangers",
-      "pa": 120,
-      "xr": -6.1101
+      "pa": 124,
+      "xr": -6.5312
     },
     "669016": {
       "name": "Brandon Marsh",
@@ -1203,20 +1203,20 @@
     "664059": {
       "name": "Sam Haggerty",
       "team": "Texas Rangers",
-      "pa": 43,
-      "xr": -5.88
+      "pa": 44,
+      "xr": -5.5007
     },
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 143,
-      "xr": 5.3468
+      "pa": 147,
+      "xr": 6.6054
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 176,
-      "xr": -1.3309
+      "pa": 180,
+      "xr": -1.9689
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 150,
-      "xr": 2.3319
+      "pa": 152,
+      "xr": 1.864
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1827,14 +1827,14 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 81,
-      "xr": 1.1591
+      "pa": 86,
+      "xr": 0.9311
     },
     "694728": {
       "name": "Brice Matthews",
       "team": "Houston Astros",
-      "pa": 138,
-      "xr": -2.4275
+      "pa": 142,
+      "xr": -2.1682
     },
     "656716": {
       "name": "Zach McKinstry",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 105,
-      "xr": -3.025
+      "pa": 109,
+      "xr": -3.6497
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 36,
-      "xr": 0.2921
+      "pa": 40,
+      "xr": 0.5491
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 76,
-      "xr": 3.6391
+      "pa": 79,
+      "xr": 3.4091
     },
     "672012": {
       "name": "Tyler Black",
@@ -2661,8 +2661,8 @@
     "669699": {
       "name": "Braden Shewmake",
       "team": "Houston Astros",
-      "pa": 63,
-      "xr": -1.9388
+      "pa": 66,
+      "xr": -0.9625
     },
     "606992": {
       "name": "Eric Haase",
@@ -2696,9 +2696,9 @@
     },
     "670032": {
       "name": "Nicky Lopez",
-      "team": "Chicago Cubs",
-      "pa": 4,
-      "xr": -0.2604
+      "team": "Texas Rangers",
+      "pa": 7,
+      "xr": -0.674
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 49,
-      "xr": 0.0277
+      "pa": 51,
+      "xr": -0.2011
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3491,8 +3491,8 @@
     "687911": {
       "name": "Bryan King",
       "team": "Houston Astros",
-      "bf": 102,
-      "xr_allowed": -3.1305
+      "bf": 105,
+      "xr_allowed": -2.7022
     },
     "519141": {
       "name": "Drew Pomeranz",
@@ -3665,8 +3665,8 @@
     "641302": {
       "name": "Tyler Alexander",
       "team": "Texas Rangers",
-      "bf": 99,
-      "xr_allowed": -6.8057
+      "bf": 103,
+      "xr_allowed": -5.6248
     },
     "647315": {
       "name": "Zach Pop",
@@ -4007,8 +4007,8 @@
     "681347": {
       "name": "Mike Burrows",
       "team": "Houston Astros",
-      "bf": 223,
-      "xr_allowed": 10.6016
+      "bf": 250,
+      "xr_allowed": 11.001
     },
     "579328": {
       "name": "Yusei Kikuchi",
@@ -4421,8 +4421,8 @@
     "455119": {
       "name": "Chris Martin",
       "team": "Texas Rangers",
-      "bf": 39,
-      "xr_allowed": 5.352
+      "bf": 44,
+      "xr_allowed": 4.9282
     },
     "663903": {
       "name": "Brady Singer",
@@ -5333,8 +5333,8 @@
     "594798": {
       "name": "Jacob deGrom",
       "team": "Texas Rangers",
-      "bf": 194,
-      "xr_allowed": 3.7869
+      "bf": 217,
+      "xr_allowed": 4.0203
     },
     "682227": {
       "name": "Brandon Williamson",
@@ -5669,8 +5669,8 @@
     "660853": {
       "name": "Enyel De Los Santos",
       "team": "Houston Astros",
-      "bf": 84,
-      "xr_allowed": -0.4661
+      "bf": 89,
+      "xr_allowed": -1.3705
     },
     "665871": {
       "name": "Javier Assad",
@@ -6005,8 +6005,8 @@
     "686560": {
       "name": "Gavin Collyer",
       "team": "Texas Rangers",
-      "bf": 49,
-      "xr_allowed": 1.2558
+      "bf": 56,
+      "xr_allowed": 0.5445
     },
     "689690": {
       "name": "Alek Jacob",
@@ -7742,6 +7742,7 @@
     823376,
     824596,
     823626,
-    824104
+    824104,
+    822897
   ]
 }
