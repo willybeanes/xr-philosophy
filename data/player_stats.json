@@ -1101,8 +1101,8 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 225,
-      "xr": 15.7818
+      "pa": 229,
+      "xr": 17.2692
     },
     "694671": {
       "name": "Wyatt Langford",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 216,
-      "xr": 0.1006
+      "pa": 220,
+      "xr": 0.3031
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 199,
-      "xr": 15.4586
+      "pa": 204,
+      "xr": 14.8378
     },
     "669701": {
       "name": "Josh Smith",
@@ -1179,8 +1179,8 @@
     "643376": {
       "name": "Danny Jansen",
       "team": "Texas Rangers",
-      "pa": 124,
-      "xr": -6.5312
+      "pa": 128,
+      "xr": -7.0424
     },
     "669016": {
       "name": "Brandon Marsh",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 150,
-      "xr": 6.2119
+      "pa": 155,
+      "xr": 6.3031
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 184,
-      "xr": -2.5058
+      "pa": 188,
+      "xr": -2.6615
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 156,
-      "xr": 1.6471
+      "pa": 160,
+      "xr": 2.1496
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1713,20 +1713,20 @@
     "672580": {
       "name": "Maikel Garcia",
       "team": "Kansas City Royals",
-      "pa": 226,
-      "xr": -0.9269
+      "pa": 230,
+      "xr": -0.4896
     },
     "677951": {
       "name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
-      "pa": 234,
-      "xr": 16.7901
+      "pa": 238,
+      "xr": 17.0679
     },
     "657041": {
       "name": "Lane Thomas",
       "team": "Kansas City Royals",
-      "pa": 111,
-      "xr": 0.2413
+      "pa": 115,
+      "xr": -0.3605
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
@@ -1767,20 +1767,20 @@
     "521692": {
       "name": "Salvador Perez",
       "team": "Kansas City Royals",
-      "pa": 218,
-      "xr": -2.0141
+      "pa": 222,
+      "xr": -1.3051
     },
     "686469": {
       "name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
-      "pa": 215,
-      "xr": -2.8047
+      "pa": 219,
+      "xr": -1.4983
     },
     "516782": {
       "name": "Starling Marte",
       "team": "Kansas City Royals",
-      "pa": 58,
-      "xr": -1.3943
+      "pa": 62,
+      "xr": -1.4533
     },
     "663697": {
       "name": "Jonathan India",
@@ -1821,8 +1821,8 @@
     "695506": {
       "name": "Jac Caglianone",
       "team": "Kansas City Royals",
-      "pa": 171,
-      "xr": 0.7593
+      "pa": 175,
+      "xr": 0.3404
     },
     "665161": {
       "name": "Jeremy Pe\u00f1a",
@@ -2061,8 +2061,8 @@
     "664728": {
       "name": "Kyle Isbel",
       "team": "Kansas City Royals",
-      "pa": 144,
-      "xr": -6.9098
+      "pa": 147,
+      "xr": -6.7978
     },
     "642086": {
       "name": "Dominic Smith",
@@ -2139,8 +2139,8 @@
     "679845": {
       "name": "Nick Loftin",
       "team": "Kansas City Royals",
-      "pa": 70,
-      "xr": -1.1314
+      "pa": 74,
+      "xr": -1.8103
     },
     "622761": {
       "name": "Jorge Mateo",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 82,
-      "xr": 3.4906
+      "pa": 86,
+      "xr": 2.3256
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 11,
-      "xr": -1.1061
+      "pa": 15,
+      "xr": -1.1722
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -3677,8 +3677,8 @@
     "656222": {
       "name": "Jalen Beeks",
       "team": "Texas Rangers",
-      "bf": 88,
-      "xr_allowed": 4.0216
+      "bf": 92,
+      "xr_allowed": 4.0082
     },
     "680742": {
       "name": "Jonathan Bowlan",
@@ -3689,8 +3689,8 @@
     "641302": {
       "name": "Tyler Alexander",
       "team": "Texas Rangers",
-      "bf": 103,
-      "xr_allowed": -5.6248
+      "bf": 104,
+      "xr_allowed": -5.5331
     },
     "647315": {
       "name": "Zach Pop",
@@ -4841,8 +4841,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 233,
-      "xr_allowed": -0.4677
+      "bf": 257,
+      "xr_allowed": 0.2475
     },
     "641745": {
       "name": "Brad Keller",
@@ -5543,8 +5543,8 @@
     "674444": {
       "name": "Steven Cruz",
       "team": "Kansas City Royals",
-      "bf": 51,
-      "xr_allowed": 1.5136
+      "bf": 56,
+      "xr_allowed": 1.6304
     },
     "543510": {
       "name": "James McCann",
@@ -5603,8 +5603,8 @@
     "669212": {
       "name": "Eli Morgan",
       "team": "Kansas City Royals",
-      "bf": 64,
-      "xr_allowed": 9.153
+      "bf": 70,
+      "xr_allowed": 8.4477
     },
     "677958": {
       "name": "Kumar Rocker",
@@ -6029,8 +6029,8 @@
     "686560": {
       "name": "Gavin Collyer",
       "team": "Texas Rangers",
-      "bf": 56,
-      "xr_allowed": 0.5445
+      "bf": 62,
+      "xr_allowed": 0.8349
     },
     "689690": {
       "name": "Alek Jacob",
@@ -6551,8 +6551,8 @@
     "663568": {
       "name": "Stephen Kolek",
       "team": "Kansas City Royals",
-      "bf": 99,
-      "xr_allowed": -1.7914
+      "bf": 122,
+      "xr_allowed": -1.2705
     },
     "666711": {
       "name": "Joel Peguero",
@@ -6593,8 +6593,8 @@
     "672021": {
       "name": "Eric Cerantola",
       "team": "Kansas City Royals",
-      "bf": 14,
-      "xr_allowed": 0.0281
+      "bf": 18,
+      "xr_allowed": -0.1395
     },
     "694341": {
       "name": "Brendan Beck",
@@ -7807,6 +7807,7 @@
     823055,
     822732,
     824594,
-    823623
+    823623,
+    822894
   ]
 }
