@@ -3,20 +3,20 @@
     "663757": {
       "name": "Trent Grisham",
       "team": "New York Yankees",
-      "pa": 201,
-      "xr": 10.0742
+      "pa": 206,
+      "xr": 10.0461
     },
     "592450": {
       "name": "Aaron Judge",
       "team": "New York Yankees",
-      "pa": 234,
-      "xr": 24.9339
+      "pa": 239,
+      "xr": 24.8746
     },
     "641355": {
       "name": "Cody Bellinger",
       "team": "New York Yankees",
-      "pa": 224,
-      "xr": 14.8912
+      "pa": 229,
+      "xr": 15.5238
     },
     "650333": {
       "name": "Luis Arraez",
@@ -51,8 +51,8 @@
     "700250": {
       "name": "Ben Rice",
       "team": "New York Yankees",
-      "pa": 203,
-      "xr": 15.7283
+      "pa": 208,
+      "xr": 17.404
     },
     "519317": {
       "name": "Giancarlo Stanton",
@@ -63,20 +63,20 @@
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
-      "pa": 207,
-      "xr": -5.2746
+      "pa": 212,
+      "xr": -5.3077
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
-      "pa": 152,
-      "xr": 2.0272
+      "pa": 156,
+      "xr": 2.1892
     },
     "641857": {
       "name": "Ryan McMahon",
       "team": "New York Yankees",
-      "pa": 148,
-      "xr": 2.5382
+      "pa": 152,
+      "xr": 2.744
     },
     "669224": {
       "name": "Austin Wells",
@@ -1455,8 +1455,8 @@
     "502671": {
       "name": "Paul Goldschmidt",
       "team": "New York Yankees",
-      "pa": 107,
-      "xr": 10.2631
+      "pa": 112,
+      "xr": 9.5075
     },
     "642708": {
       "name": "Amed Rosario",
@@ -1473,20 +1473,20 @@
     "701762": {
       "name": "Nick Kurtz",
       "team": "Athletics",
-      "pa": 233,
-      "xr": 13.4059
+      "pa": 237,
+      "xr": 13.6342
     },
     "669127": {
       "name": "Shea Langeliers",
       "team": "Athletics",
-      "pa": 214,
-      "xr": 10.7728
+      "pa": 219,
+      "xr": 10.2016
     },
     "691016": {
       "name": "Tyler Soderstrom",
       "team": "Athletics",
-      "pa": 208,
-      "xr": 4.2311
+      "pa": 212,
+      "xr": 5.0801
     },
     "543807": {
       "name": "George Springer",
@@ -1515,8 +1515,8 @@
     "667670": {
       "name": "Brent Rooker",
       "team": "Athletics",
-      "pa": 144,
-      "xr": -1.4466
+      "pa": 148,
+      "xr": -1.7412
     },
     "805779": {
       "name": "Jacob Wilson",
@@ -1527,8 +1527,8 @@
     "671732": {
       "name": "Lawrence Butler",
       "team": "Athletics",
-      "pa": 145,
-      "xr": -3.8463
+      "pa": 146,
+      "xr": -3.6787
     },
     "672386": {
       "name": "Alejandro Kirk",
@@ -1557,8 +1557,8 @@
     "643446": {
       "name": "Jeff McNeil",
       "team": "Athletics",
-      "pa": 178,
-      "xr": 3.2287
+      "pa": 182,
+      "xr": 3.6172
     },
     "672016": {
       "name": "Denzel Clarke",
@@ -1581,8 +1581,8 @@
     "666126": {
       "name": "Carlos Cortes",
       "team": "Athletics",
-      "pa": 138,
-      "xr": 9.7598
+      "pa": 139,
+      "xr": 8.2238
     },
     "664983": {
       "name": "Jake McCarthy",
@@ -2157,8 +2157,8 @@
     "687231": {
       "name": "Darell Hernaiz",
       "team": "Athletics",
-      "pa": 113,
-      "xr": -3.2235
+      "pa": 115,
+      "xr": -2.9998
     },
     "642851": {
       "name": "Austin Wynns",
@@ -2289,8 +2289,8 @@
     "641555": {
       "name": "J.C. Escarra",
       "team": "New York Yankees",
-      "pa": 57,
-      "xr": 1.2574
+      "pa": 61,
+      "xr": 0.7542
     },
     "671289": {
       "name": "Tyler Freeman",
@@ -2523,8 +2523,8 @@
     "680869": {
       "name": "Zack Gelof",
       "team": "Athletics",
-      "pa": 121,
-      "xr": -2.7758
+      "pa": 125,
+      "xr": -2.3368
     },
     "502054": {
       "name": "Tommy Pham",
@@ -2691,8 +2691,8 @@
     "687515": {
       "name": "Colby Thomas",
       "team": "Athletics",
-      "pa": 36,
-      "xr": 0.31
+      "pa": 39,
+      "xr": -0.1578
     },
     "670032": {
       "name": "Nicky Lopez",
@@ -2931,8 +2931,8 @@
     "703607": {
       "name": "Henry Bolte",
       "team": "Athletics",
-      "pa": 51,
-      "xr": -0.866
+      "pa": 55,
+      "xr": -0.5354
     },
     "683021": {
       "name": "Michael Stefanic",
@@ -2979,8 +2979,8 @@
     "675961": {
       "name": "Alika Williams",
       "team": "Athletics",
-      "pa": 6,
-      "xr": -1.2299
+      "pa": 7,
+      "xr": -1.6553
     },
     "806068": {
       "name": "Colt Emerson",
@@ -3191,8 +3191,8 @@
     "687396": {
       "name": "Brent Headrick",
       "team": "New York Yankees",
-      "bf": 107,
-      "xr_allowed": -5.0713
+      "bf": 111,
+      "xr_allowed": -4.2462
     },
     "668873": {
       "name": "Caleb Kilian",
@@ -3857,8 +3857,8 @@
     "518585": {
       "name": "Fernando Cruz",
       "team": "New York Yankees",
-      "bf": 90,
-      "xr_allowed": -4.1597
+      "bf": 91,
+      "xr_allowed": -5.6957
     },
     "669062": {
       "name": "Erik Miller",
@@ -3905,14 +3905,14 @@
     "622663": {
       "name": "Luis Severino",
       "team": "Athletics",
-      "bf": 240,
-      "xr_allowed": 4.1571
+      "bf": 247,
+      "xr_allowed": 4.6899
     },
     "605130": {
       "name": "Scott Barlow",
       "team": "Athletics",
-      "bf": 96,
-      "xr_allowed": -5.2984
+      "bf": 101,
+      "xr_allowed": -4.0208
     },
     "686973": {
       "name": "Louis Varland",
@@ -3923,8 +3923,8 @@
     "663687": {
       "name": "Hogan Harris",
       "team": "Athletics",
-      "bf": 115,
-      "xr_allowed": -0.2148
+      "bf": 119,
+      "xr_allowed": -0.3693
     },
     "643511": {
       "name": "Tyler Rogers",
@@ -3941,8 +3941,8 @@
     "686993": {
       "name": "Justin Sterner",
       "team": "Athletics",
-      "bf": 103,
-      "xr_allowed": -4.8012
+      "bf": 106,
+      "xr_allowed": -5.0082
     },
     "645261": {
       "name": "Sandy Alcantara",
@@ -4301,8 +4301,8 @@
     "643410": {
       "name": "Mark Leiter Jr.",
       "team": "Athletics",
-      "bf": 95,
-      "xr_allowed": 2.522
+      "bf": 99,
+      "xr_allowed": 2.2376
     },
     "689254": {
       "name": "Mason Fluharty",
@@ -4343,8 +4343,8 @@
     "665622": {
       "name": "Luis Medina",
       "team": "Athletics",
-      "bf": 89,
-      "xr_allowed": 3.882
+      "bf": 94,
+      "xr_allowed": 3.211
     },
     "680694": {
       "name": "Kyle Bradish",
@@ -5321,8 +5321,8 @@
     "621112": {
       "name": "Paul Blackburn",
       "team": "New York Yankees",
-      "bf": 91,
-      "xr_allowed": 0.2469
+      "bf": 100,
+      "xr_allowed": 0.2176
     },
     "647336": {
       "name": "Michael Soroka",
@@ -5417,8 +5417,8 @@
     "660761": {
       "name": "Jos\u00e9 Suarez",
       "team": "Athletics",
-      "bf": 114,
-      "xr_allowed": -0.9573
+      "bf": 120,
+      "xr_allowed": -0.656
     },
     "650644": {
       "name": "Aaron Civale",
@@ -5717,8 +5717,8 @@
     "669270": {
       "name": "Joel Kuhnel",
       "team": "Athletics",
-      "bf": 84,
-      "xr_allowed": 1.9062
+      "bf": 92,
+      "xr_allowed": 2.4082
     },
     "815083": {
       "name": "Mitch Farris",
@@ -6731,8 +6731,8 @@
     "607074": {
       "name": "Carlos Rod\u00f3n",
       "team": "New York Yankees",
-      "bf": 38,
-      "xr_allowed": -2.2205
+      "bf": 61,
+      "xr_allowed": -2.1486
     },
     "676051": {
       "name": "Codi Heuer",
@@ -7817,6 +7817,7 @@
     822894,
     824191,
     824353,
-    823946
+    823946,
+    825002
   ]
 }
