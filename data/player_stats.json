@@ -639,20 +639,20 @@
     "670770": {
       "name": "TJ Friedl",
       "team": "Cincinnati Reds",
-      "pa": 168,
-      "xr": -7.7021
+      "pa": 171,
+      "xr": -7.7396
     },
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 208,
-      "xr": -0.6063
+      "pa": 211,
+      "xr": -0.9165
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 239,
-      "xr": 7.8345
+      "pa": 243,
+      "xr": 7.4744
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,26 +681,26 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 234,
-      "xr": 11.0109
+      "pa": 238,
+      "xr": 10.5918
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 122,
-      "xr": -2.5638
+      "pa": 126,
+      "xr": -2.9644
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 203,
-      "xr": 3.688
+      "pa": 207,
+      "xr": 3.9523
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 155,
-      "xr": 4.0642
+      "pa": 158,
+      "xr": 4.6554
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -1731,8 +1731,8 @@
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
-      "pa": 198,
-      "xr": 14.0075
+      "pa": 203,
+      "xr": 15.06
     },
     "686948": {
       "name": "Drake Baldwin",
@@ -1743,20 +1743,20 @@
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 237,
-      "xr": 4.3962
+      "pa": 241,
+      "xr": 3.5774
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 243,
-      "xr": 13.46
+      "pa": 247,
+      "xr": 14.3896
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 229,
-      "xr": -3.32
+      "pa": 230,
+      "xr": -3.7895
     },
     "642201": {
       "name": "Eli White",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 204,
-      "xr": -2.4075
+      "pa": 208,
+      "xr": -2.2925
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 195,
-      "xr": 15.6708
+      "pa": 200,
+      "xr": 15.506
     },
     "695600": {
       "name": "Carter Jensen",
@@ -2055,8 +2055,8 @@
     "573262": {
       "name": "Mike Yastrzemski",
       "team": "Atlanta Braves",
-      "pa": 155,
-      "xr": -3.2834
+      "pa": 159,
+      "xr": -2.6625
     },
     "664728": {
       "name": "Kyle Isbel",
@@ -2067,8 +2067,8 @@
     "642086": {
       "name": "Dominic Smith",
       "team": "Atlanta Braves",
-      "pa": 122,
-      "xr": 7.1257
+      "pa": 126,
+      "xr": 6.3833
     },
     "686475": {
       "name": "Tyler Tolbert",
@@ -2145,8 +2145,8 @@
     "622761": {
       "name": "Jorge Mateo",
       "team": "Atlanta Braves",
-      "pa": 69,
-      "xr": -0.7163
+      "pa": 73,
+      "xr": 0.6653
     },
     "571657": {
       "name": "Kyle Farmer",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 108,
-      "xr": 9.4397
+      "pa": 112,
+      "xr": 9.8283
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -2859,8 +2859,8 @@
     "694362": {
       "name": "Blake Dunn",
       "team": "Cincinnati Reds",
-      "pa": 57,
-      "xr": -3.0253
+      "pa": 61,
+      "xr": -2.9661
     },
     "660644": {
       "name": "Vidal Bruj\u00e1n",
@@ -2919,8 +2919,8 @@
     "506702": {
       "name": "Sandy Le\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 22,
-      "xr": -3.219
+      "pa": 24,
+      "xr": -3.2872
     },
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
@@ -2997,8 +2997,8 @@
     "644433": {
       "name": "Chadwick Tromp",
       "team": "Atlanta Braves",
-      "pa": 22,
-      "xr": -3.3984
+      "pa": 23,
+      "xr": -3.554
     },
     "702616": {
       "name": "Jackson Holliday",
@@ -3455,8 +3455,8 @@
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 99,
-      "xr_allowed": -2.0564
+      "bf": 100,
+      "xr_allowed": -2.1539
     },
     "686580": {
       "name": "Justin Slaten",
@@ -3485,8 +3485,8 @@
     "656271": {
       "name": "Brock Burke",
       "team": "Cincinnati Reds",
-      "bf": 109,
-      "xr_allowed": 1.119
+      "bf": 113,
+      "xr_allowed": 1.206
     },
     "547973": {
       "name": "Aroldis Chapman",
@@ -4019,14 +4019,14 @@
     "669276": {
       "name": "Dylan Lee",
       "team": "Atlanta Braves",
-      "bf": 92,
-      "xr_allowed": -7.138
+      "bf": 96,
+      "xr_allowed": -6.9463
     },
     "663158": {
       "name": "Robert Suarez",
       "team": "Atlanta Braves",
-      "bf": 87,
-      "xr_allowed": -3.8284
+      "bf": 90,
+      "xr_allowed": -4.142
     },
     "656638": {
       "name": "Alex Lange",
@@ -4037,8 +4037,8 @@
     "641755": {
       "name": "Tyler Kinley",
       "team": "Atlanta Braves",
-      "bf": 99,
-      "xr_allowed": -5.0058
+      "bf": 102,
+      "xr_allowed": -5.2631
     },
     "681347": {
       "name": "Mike Burrows",
@@ -4463,8 +4463,8 @@
     "663903": {
       "name": "Brady Singer",
       "team": "Cincinnati Reds",
-      "bf": 217,
-      "xr_allowed": 9.0761
+      "bf": 239,
+      "xr_allowed": 10.3921
     },
     "543243": {
       "name": "Sonny Gray",
@@ -4493,8 +4493,8 @@
     "663574": {
       "name": "Tony Santillan",
       "team": "Cincinnati Reds",
-      "bf": 87,
-      "xr_allowed": 0.7555
+      "bf": 90,
+      "xr_allowed": 0.3229
     },
     "641941": {
       "name": "Emilio Pag\u00e1n",
@@ -5231,8 +5231,8 @@
     "628452": {
       "name": "Raisel Iglesias",
       "team": "Atlanta Braves",
-      "bf": 60,
-      "xr_allowed": -5.3713
+      "bf": 63,
+      "xr_allowed": -5.4994
     },
     "665795": {
       "name": "Edward Cabrera",
@@ -5435,8 +5435,8 @@
     "527048": {
       "name": "Mart\u00edn P\u00e9rez",
       "team": "Atlanta Braves",
-      "bf": 185,
-      "xr_allowed": 1.2091
+      "bf": 205,
+      "xr_allowed": 1.4922
     },
     "592791": {
       "name": "Jameson Taillon",
@@ -6593,8 +6593,8 @@
     "622088": {
       "name": "Tejay Antone",
       "team": "Cincinnati Reds",
-      "bf": 25,
-      "xr_allowed": 0.276
+      "bf": 30,
+      "xr_allowed": 0.562
     },
     "663423": {
       "name": "Trent Thornton",
@@ -7033,6 +7033,12 @@
       "team": "Tampa Bay Rays",
       "bf": 11,
       "xr_allowed": 3.0793
+    },
+    "680689": {
+      "name": "Lyon Richardson",
+      "team": "Cincinnati Reds",
+      "bf": 3,
+      "xr_allowed": 0.5214
     }
   },
   "processed_games": [
@@ -7852,6 +7858,7 @@
     824431,
     824190,
     823375,
-    822975
+    822975,
+    824513
   ]
 }
