@@ -1233,26 +1233,26 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 221,
-      "xr": 14.9082
+      "pa": 225,
+      "xr": 14.7974
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 212,
-      "xr": 14.9067
+      "pa": 216,
+      "xr": 14.6787
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 209,
-      "xr": 4.6413
+      "pa": 213,
+      "xr": 4.4411
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 120,
-      "xr": 5.3313
+      "pa": 124,
+      "xr": 4.5943
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 242,
-      "xr": 11.0862
+      "pa": 246,
+      "xr": 11.7843
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 223,
-      "xr": 4.8495
+      "pa": 227,
+      "xr": 4.6003
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 234,
-      "xr": 6.4234
+      "pa": 238,
+      "xr": 7.2925
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 150,
-      "xr": 8.6759
+      "pa": 154,
+      "xr": 10.8076
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 129,
-      "xr": 4.2204
+      "pa": 133,
+      "xr": 4.5211
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 219,
-      "xr": 1.1284
+      "pa": 223,
+      "xr": 0.911
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -2253,14 +2253,14 @@
     "641598": {
       "name": "Mitch Garver",
       "team": "Seattle Mariners",
-      "pa": 81,
-      "xr": 0.5193
+      "pa": 84,
+      "xr": 0.4572
     },
     "545121": {
       "name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
-      "pa": 188,
-      "xr": 0.1885
+      "pa": 191,
+      "xr": 0.1106
     },
     "595978": {
       "name": "Austin Hedges",
@@ -2283,8 +2283,8 @@
     "699912": {
       "name": "Jose Fernandez",
       "team": "Arizona Diamondbacks",
-      "pa": 151,
-      "xr": -2.2755
+      "pa": 154,
+      "xr": -2.9269
     },
     "641555": {
       "name": "J.C. Escarra",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 196,
-      "xr": 15.243
+      "pa": 200,
+      "xr": 15.0777
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2373,8 +2373,8 @@
     "680728": {
       "name": "Adrian Del Castillo",
       "team": "Arizona Diamondbacks",
-      "pa": 114,
-      "xr": -5.6288
+      "pa": 117,
+      "xr": -5.614
     },
     "695020": {
       "name": "Tanner Murray",
@@ -2877,8 +2877,8 @@
     "814439": {
       "name": "Ryan Waldschmidt",
       "team": "Arizona Diamondbacks",
-      "pa": 67,
-      "xr": -0.7515
+      "pa": 70,
+      "xr": -1.0923
     },
     "683079": {
       "name": "Omar Martinez",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 40,
-      "xr": -1.8737
+      "pa": 43,
+      "xr": -1.3575
     },
     "680737": {
       "name": "Michael Helman",
@@ -3093,8 +3093,8 @@
     "694371": {
       "name": "Tommy Troy",
       "team": "Arizona Diamondbacks",
-      "pa": 19,
-      "xr": -0.2889
+      "pa": 22,
+      "xr": -0.6269
     },
     "807747": {
       "name": "Rikuu Nishida",
@@ -3755,8 +3755,8 @@
     "657044": {
       "name": "Ryan Thompson",
       "team": "Arizona Diamondbacks",
-      "bf": 72,
-      "xr_allowed": -0.3991
+      "bf": 78,
+      "xr_allowed": -0.0887
     },
     "595014": {
       "name": "Blake Treinen",
@@ -3767,8 +3767,8 @@
     "664199": {
       "name": "Taylor Clarke",
       "team": "Arizona Diamondbacks",
-      "bf": 83,
-      "xr_allowed": -0.4539
+      "bf": 87,
+      "xr_allowed": -0.5631
     },
     "694851": {
       "name": "Andrew Hoffmann",
@@ -3839,8 +3839,8 @@
     "681867": {
       "name": "Cooper Criswell",
       "team": "Seattle Mariners",
-      "bf": 98,
-      "xr_allowed": -0.1183
+      "bf": 102,
+      "xr_allowed": -0.5174
     },
     "671922": {
       "name": "Cade Smith",
@@ -4181,8 +4181,8 @@
     "669194": {
       "name": "Ryne Nelson",
       "team": "Arizona Diamondbacks",
-      "bf": 231,
-      "xr_allowed": 5.8955
+      "bf": 255,
+      "xr_allowed": 9.5161
     },
     "676263": {
       "name": "Jack Dreyer",
@@ -4793,8 +4793,8 @@
     "693433": {
       "name": "Bryan Woo",
       "team": "Seattle Mariners",
-      "bf": 256,
-      "xr_allowed": -6.1914
+      "bf": 279,
+      "xr_allowed": -8.3985
     },
     "676282": {
       "name": "Joey Cantillo",
@@ -6359,8 +6359,8 @@
     "695380": {
       "name": "Alex Hoppe",
       "team": "Seattle Mariners",
-      "bf": 46,
-      "xr_allowed": 0.2865
+      "bf": 50,
+      "xr_allowed": 0.2234
     },
     "820862": {
       "name": "Jos\u00e9 Fermin",
@@ -7867,6 +7867,7 @@
     822975,
     824513,
     823054,
-    824352
+    824352,
+    823132
   ]
 }
