@@ -21,32 +21,32 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 219,
-      "xr": 3.0591
+      "pa": 223,
+      "xr": 3.105
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 221,
-      "xr": -8.2477
+      "pa": 225,
+      "xr": -7.597
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 224,
-      "xr": -1.6887
+      "pa": 228,
+      "xr": -2.4183
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 225,
-      "xr": -6.6173
+      "pa": 229,
+      "xr": -7.1129
     },
     "808982": {
       "name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
-      "pa": 183,
-      "xr": 1.5732
+      "pa": 187,
+      "xr": 1.804
     },
     "700250": {
       "name": "Ben Rice",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 194,
-      "xr": 9.2682
+      "pa": 198,
+      "xr": 9.4635
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 141,
-      "xr": 0.0876
+      "pa": 146,
+      "xr": 2.9569
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 202,
-      "xr": -2.1689
+      "pa": 207,
+      "xr": -2.7584
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 161,
-      "xr": -1.2878
+      "pa": 166,
+      "xr": -0.3831
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 202,
-      "xr": -2.5683
+      "pa": 207,
+      "xr": -2.8239
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 213,
-      "xr": 7.3193
+      "pa": 218,
+      "xr": 8.1592
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1683,14 +1683,14 @@
     "666397": {
       "name": "Edouard Julien",
       "team": "Colorado Rockies",
-      "pa": 150,
-      "xr": 0.4505
+      "pa": 153,
+      "xr": 0.0766
     },
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 173,
-      "xr": 0.6948
+      "pa": 175,
+      "xr": 1.2653
     },
     "665052": {
       "name": "Griffin Conine",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 186,
-      "xr": 4.6082
+      "pa": 191,
+      "xr": 3.8912
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2187,8 +2187,8 @@
     "664954": {
       "name": "Brett Sullivan",
       "team": "Colorado Rockies",
-      "pa": 76,
-      "xr": -3.9847
+      "pa": 80,
+      "xr": -4.565
     },
     "691277": {
       "name": "Deyvison De Los Santos",
@@ -2295,8 +2295,8 @@
     "671289": {
       "name": "Tyler Freeman",
       "team": "Colorado Rockies",
-      "pa": 132,
-      "xr": 3.1849
+      "pa": 133,
+      "xr": 3.0209
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 99,
-      "xr": -5.1345
+      "pa": 102,
+      "xr": -4.3155
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2667,8 +2667,8 @@
     "606992": {
       "name": "Eric Haase",
       "team": "San Francisco Giants",
-      "pa": 26,
-      "xr": 1.6971
+      "pa": 29,
+      "xr": 2.277
     },
     "669717": {
       "name": "Will Wilson",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 51,
-      "xr": 1.4489
+      "pa": 55,
+      "xr": 2.5635
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -2955,8 +2955,8 @@
     "694514": {
       "name": "Sterlin Thompson",
       "team": "Colorado Rockies",
-      "pa": 27,
-      "xr": -1.2562
+      "pa": 30,
+      "xr": -1.4162
     },
     "668974": {
       "name": "Maverick Handley",
@@ -3191,8 +3191,8 @@
     "664141": {
       "name": "JT Brubaker",
       "team": "San Francisco Giants",
-      "bf": 110,
-      "xr_allowed": 1.2097
+      "bf": 113,
+      "xr_allowed": 1.4044
     },
     "656234": {
       "name": "Jake Bird",
@@ -3893,8 +3893,8 @@
     "621366": {
       "name": "Ryan Borucki",
       "team": "San Francisco Giants",
-      "bf": 83,
-      "xr_allowed": 1.5909
+      "bf": 93,
+      "xr_allowed": 1.7917
     },
     "657424": {
       "name": "Matt Gage",
@@ -3977,8 +3977,8 @@
     "657514": {
       "name": "Brennan Bernardino",
       "team": "Colorado Rockies",
-      "bf": 90,
-      "xr_allowed": -5.3068
+      "bf": 94,
+      "xr_allowed": -5.7988
     },
     "675848": {
       "name": "Juan Mejia",
@@ -5423,8 +5423,8 @@
     "663372": {
       "name": "Ryan Feltner",
       "team": "Colorado Rockies",
-      "bf": 89,
-      "xr_allowed": 6.7409
+      "bf": 109,
+      "xr_allowed": 7.8435
     },
     "660761": {
       "name": "Jos\u00e9 Suarez",
@@ -5537,8 +5537,8 @@
     "605288": {
       "name": "Adrian Houser",
       "team": "San Francisco Giants",
-      "bf": 235,
-      "xr_allowed": 15.1348
+      "bf": 257,
+      "xr_allowed": 15.5138
     },
     "702070": {
       "name": "Noah Cameron",
@@ -6683,8 +6683,8 @@
     "656529": {
       "name": "Sam Hentges",
       "team": "San Francisco Giants",
-      "bf": 25,
-      "xr_allowed": -2.695
+      "bf": 33,
+      "xr_allowed": -1.1254
     },
     "684049": {
       "name": "Brandan Bidois",
@@ -6779,8 +6779,8 @@
     "680604": {
       "name": "Blas Casta\u00f1o",
       "team": "Colorado Rockies",
-      "bf": 38,
-      "xr_allowed": -1.4658
+      "bf": 48,
+      "xr_allowed": 0.3346
     },
     "608337": {
       "name": "Lucas Giolito",
@@ -7866,6 +7866,7 @@
     823375,
     822975,
     824513,
-    823054
+    823054,
+    824352
   ]
 }
