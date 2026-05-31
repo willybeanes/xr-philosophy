@@ -111,20 +111,20 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 236,
-      "xr": 5.3907
+      "pa": 240,
+      "xr": 6.3306
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 213,
-      "xr": 11.3293
+      "pa": 218,
+      "xr": 11.408
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 239,
-      "xr": 12.6783
+      "pa": 244,
+      "xr": 13.13
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 165,
-      "xr": 9.8046
+      "pa": 169,
+      "xr": 9.5752
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,26 +195,26 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 74,
-      "xr": -3.1956
+      "pa": 78,
+      "xr": -2.834
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 187,
-      "xr": 3.7882
+      "pa": 192,
+      "xr": 2.6669
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 196,
-      "xr": 5.7915
+      "pa": 200,
+      "xr": 6.6673
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 122,
-      "xr": -5.0575
+      "pa": 126,
+      "xr": -4.3283
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -489,8 +489,8 @@
     "668885": {
       "name": "Austin Martin",
       "team": "Minnesota Twins",
-      "pa": 174,
-      "xr": 2.8205
+      "pa": 178,
+      "xr": 2.2275
     },
     "621439": {
       "name": "Byron Buxton",
@@ -501,8 +501,8 @@
     "807712": {
       "name": "Luke Keaschall",
       "team": "Minnesota Twins",
-      "pa": 210,
-      "xr": -1.0514
+      "pa": 213,
+      "xr": -1.3183
     },
     "621493": {
       "name": "Taylor Ward",
@@ -537,8 +537,8 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 214,
-      "xr": 4.7718
+      "pa": 217,
+      "xr": 4.9051
     },
     "605170": {
       "name": "Victor Caratini",
@@ -555,8 +555,8 @@
     "686797": {
       "name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "pa": 200,
-      "xr": -3.6088
+      "pa": 204,
+      "xr": -3.4798
     },
     "668939": {
       "name": "Adley Rutschman",
@@ -597,14 +597,14 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 171,
-      "xr": 4.1532
+      "pa": 175,
+      "xr": 3.5292
     },
     "663616": {
       "name": "Trevor Larnach",
       "team": "Minnesota Twins",
-      "pa": 162,
-      "xr": 3.414
+      "pa": 166,
+      "xr": 2.5542
     },
     "701350": {
       "name": "Roman Anthony",
@@ -1965,8 +1965,8 @@
     "681546": {
       "name": "James Outman",
       "team": "Minnesota Twins",
-      "pa": 68,
-      "xr": -8.0764
+      "pa": 69,
+      "xr": -8.2315
     },
     "624641": {
       "name": "Edmundo Sosa",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 114,
-      "xr": -4.0705
+      "pa": 118,
+      "xr": -4.9752
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2127,8 +2127,8 @@
     "656484": {
       "name": "Tristan Gray",
       "team": "Minnesota Twins",
-      "pa": 102,
-      "xr": 0.544
+      "pa": 105,
+      "xr": 0.0208
     },
     "664238": {
       "name": "Dylan Moore",
@@ -3021,8 +3021,8 @@
     "606115": {
       "name": "Orlando Arcia",
       "team": "Minnesota Twins",
-      "pa": 25,
-      "xr": 0.5274
+      "pa": 28,
+      "xr": 0.2487
     },
     "691373": {
       "name": "Jhostynxon Garcia",
@@ -3051,8 +3051,8 @@
     "656577": {
       "name": "Alex Jackson",
       "team": "Minnesota Twins",
-      "pa": 10,
-      "xr": -1.593
+      "pa": 13,
+      "xr": -1.9225
     },
     "685133": {
       "name": "Wade Meckler",
@@ -5153,8 +5153,8 @@
     "677952": {
       "name": "Braxton Ashcraft",
       "team": "Pittsburgh Pirates",
-      "bf": 249,
-      "xr_allowed": -8.5988
+      "bf": 271,
+      "xr_allowed": -10.8761
     },
     "683742": {
       "name": "Jose Franco",
@@ -6125,8 +6125,8 @@
     "676742": {
       "name": "Cam Sanders",
       "team": "Pittsburgh Pirates",
-      "bf": 15,
-      "xr_allowed": -1.2871
+      "bf": 18,
+      "xr_allowed": -1.7018
     },
     "674841": {
       "name": "Andrew Alvarez",
@@ -6689,8 +6689,8 @@
     "684049": {
       "name": "Brandan Bidois",
       "team": "Pittsburgh Pirates",
-      "bf": 34,
-      "xr_allowed": 0.7714
+      "bf": 41,
+      "xr_allowed": 0.0955
     },
     "666157": {
       "name": "Nick Lodolo",
@@ -6731,8 +6731,8 @@
     "805673": {
       "name": "Zebby Matthews",
       "team": "Minnesota Twins",
-      "bf": 73,
-      "xr_allowed": -3.4308
+      "bf": 95,
+      "xr_allowed": -2.637
     },
     "666129": {
       "name": "Braxton Garrett",
@@ -7051,6 +7051,12 @@
       "team": "Toronto Blue Jays",
       "bf": 7,
       "xr_allowed": 1.5567
+    },
+    "702474": {
+      "name": "Mike Paredes",
+      "team": "Minnesota Twins",
+      "bf": 17,
+      "xr_allowed": 0.3877
     }
   },
   "processed_games": [
@@ -7877,6 +7883,7 @@
     823132,
     825000,
     823945,
-    824832
+    824832,
+    823373
   ]
 }
