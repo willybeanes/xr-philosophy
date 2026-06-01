@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 247,
-      "xr": 7.2989
+      "pa": 251,
+      "xr": 7.222
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 258,
-      "xr": 3.0631
+      "pa": 262,
+      "xr": 2.5768
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 237,
-      "xr": 3.8157
+      "pa": 241,
+      "xr": 2.9771
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 235,
-      "xr": 5.1832
+      "pa": 239,
+      "xr": 5.33
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,14 +435,14 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 255,
-      "xr": 3.1264
+      "pa": 259,
+      "xr": 3.7872
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 146,
-      "xr": 2.3701
+      "pa": 150,
+      "xr": 2.3583
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
@@ -465,8 +465,8 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 214,
-      "xr": 0.0698
+      "pa": 217,
+      "xr": -0.595
     },
     "807713": {
       "name": "Matt Shaw",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 82,
-      "xr": 4.0463
+      "pa": 84,
+      "xr": 5.95
     },
     "668885": {
       "name": "Austin Martin",
@@ -999,32 +999,32 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 236,
-      "xr": 12.3946
+      "pa": 240,
+      "xr": 12.2904
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 237,
-      "xr": 12.9644
+      "pa": 241,
+      "xr": 14.5047
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 222,
-      "xr": 15.606
+      "pa": 226,
+      "xr": 15.7154
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 195,
-      "xr": -5.1592
+      "pa": 199,
+      "xr": -5.1432
     },
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 190,
-      "xr": -4.9499
+      "pa": 191,
+      "xr": -5.0474
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,8 +1053,8 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 217,
-      "xr": 10.2461
+      "pa": 221,
+      "xr": 9.4358
     },
     "701675": {
       "name": "Nathan Church",
@@ -1065,14 +1065,14 @@
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 118,
-      "xr": -5.859
+      "pa": 121,
+      "xr": -5.8754
     },
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 154,
-      "xr": -8.0142
+      "pa": 155,
+      "xr": -7.9206
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -2235,8 +2235,8 @@
     "695336": {
       "name": "Thomas Saggese",
       "team": "St. Louis Cardinals",
-      "pa": 70,
-      "xr": -3.5831
+      "pa": 72,
+      "xr": -3.3287
     },
     "665561": {
       "name": "Rafael March\u00e1n",
@@ -2337,8 +2337,8 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 72,
-      "xr": -1.7822
+      "pa": 75,
+      "xr": -2.1332
     },
     "666160": {
       "name": "Mickey Moniak",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 179,
-      "xr": -4.3852
+      "pa": 183,
+      "xr": -4.6901
     },
     "695257": {
       "name": "Billy Cook",
@@ -3081,8 +3081,8 @@
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
       "team": "Chicago Cubs",
-      "pa": 4,
-      "xr": -0.6819
+      "pa": 6,
+      "xr": -0.594
     },
     "699393": {
       "name": "Pedro Ram\u00edrez",
@@ -3147,8 +3147,8 @@
     "676369": {
       "name": "Nelson Vel\u00e1zquez",
       "team": "St. Louis Cardinals",
-      "pa": 4,
-      "xr": 2.0399
+      "pa": 8,
+      "xr": 3.1343
     },
     "672642": {
       "name": "Steward Berroa",
@@ -3623,8 +3623,8 @@
     "669461": {
       "name": "Matthew Liberatore",
       "team": "St. Louis Cardinals",
-      "bf": 230,
-      "xr_allowed": 10.2752
+      "bf": 250,
+      "xr_allowed": 9.4086
     },
     "656876": {
       "name": "Drew Rasmussen",
@@ -4289,8 +4289,8 @@
     "664208": {
       "name": "Phil Maton",
       "team": "Chicago Cubs",
-      "bf": 82,
-      "xr_allowed": 5.5628
+      "bf": 85,
+      "xr_allowed": 5.3146
     },
     "573204": {
       "name": "Caleb Thielbar",
@@ -5681,8 +5681,8 @@
     "681799": {
       "name": "Ethan Roberts",
       "team": "Chicago Cubs",
-      "bf": 44,
-      "xr_allowed": -1.9825
+      "bf": 50,
+      "xr_allowed": -1.3568
     },
     "691946": {
       "name": "George Klassen",
@@ -6005,8 +6005,8 @@
     "669020": {
       "name": "Ryan Rolison",
       "team": "Chicago Cubs",
-      "bf": 67,
-      "xr_allowed": -1.5785
+      "bf": 75,
+      "xr_allowed": -0.3966
     },
     "660787": {
       "name": "Yerry De los Santos",
@@ -6431,8 +6431,8 @@
     "690928": {
       "name": "Hunter Dobbins",
       "team": "St. Louis Cardinals",
-      "bf": 19,
-      "xr_allowed": 0.4703
+      "bf": 34,
+      "xr_allowed": 1.7528
     },
     "691769": {
       "name": "Philip Abner",
@@ -6617,8 +6617,8 @@
     "663423": {
       "name": "Trent Thornton",
       "team": "Chicago Cubs",
-      "bf": 44,
-      "xr_allowed": 1.1904
+      "bf": 51,
+      "xr_allowed": 0.8794
     },
     "672021": {
       "name": "Eric Cerantola",
@@ -6971,8 +6971,8 @@
     "696136": {
       "name": "Jordan Wicks",
       "team": "Chicago Cubs",
-      "bf": 24,
-      "xr_allowed": 2.545
+      "bf": 34,
+      "xr_allowed": 3.0253
     },
     "621345": {
       "name": "A.J. Minter",
@@ -7914,6 +7914,7 @@
     824354,
     825001,
     823133,
-    823944
+    823944,
+    823053
   ]
 }
