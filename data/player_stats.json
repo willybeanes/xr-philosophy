@@ -1233,56 +1233,56 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 230,
-      "xr": 14.1411
+      "pa": 234,
+      "xr": 14.9843
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 220,
-      "xr": 14.5021
+      "pa": 224,
+      "xr": 14.3988
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 217,
-      "xr": 4.5479
+      "pa": 220,
+      "xr": 4.0893
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 126,
-      "xr": 5.079
+      "pa": 129,
+      "xr": 4.8004
     },
     "660271": {
       "name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "pa": 243,
-      "xr": 19.5594
+      "pa": 247,
+      "xr": 19.9656
     },
     "663656": {
       "name": "Kyle Tucker",
       "team": "Los Angeles Dodgers",
-      "pa": 232,
-      "xr": 5.8747
+      "pa": 236,
+      "xr": 6.4222
     },
     "605141": {
       "name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
-      "pa": 108,
-      "xr": 2.7334
+      "pa": 112,
+      "xr": 2.6217
     },
     "518692": {
       "name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
-      "pa": 233,
-      "xr": 16.3785
+      "pa": 237,
+      "xr": 15.722
     },
     "571448": {
       "name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
-      "pa": 187,
-      "xr": 9.5865
+      "pa": 190,
+      "xr": 9.4432
     },
     "467793": {
       "name": "Carlos Santana",
@@ -1293,14 +1293,14 @@
     "669257": {
       "name": "Will Smith",
       "team": "Los Angeles Dodgers",
-      "pa": 177,
-      "xr": 10.874
+      "pa": 181,
+      "xr": 12.4721
     },
     "571970": {
       "name": "Max Muncy",
       "team": "Los Angeles Dodgers",
-      "pa": 193,
-      "xr": 8.3943
+      "pa": 196,
+      "xr": 7.7303
     },
     "606192": {
       "name": "Teoscar Hern\u00e1ndez",
@@ -1311,8 +1311,8 @@
     "681624": {
       "name": "Andy Pages",
       "team": "Los Angeles Dodgers",
-      "pa": 232,
-      "xr": 15.2757
+      "pa": 236,
+      "xr": 15.557
     },
     "691783": {
       "name": "Jordan Lawlar",
@@ -1335,8 +1335,8 @@
     "500743": {
       "name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
-      "pa": 95,
-      "xr": 2.1581
+      "pa": 97,
+      "xr": 1.9945
     },
     "680757": {
       "name": "Steven Kwan",
@@ -1875,14 +1875,14 @@
     "656976": {
       "name": "Pavin Smith",
       "team": "Arizona Diamondbacks",
-      "pa": 8,
-      "xr": 0.2475
+      "pa": 10,
+      "xr": 0.2172
     },
     "690976": {
       "name": "Alex Freeland",
       "team": "Los Angeles Dodgers",
-      "pa": 115,
-      "xr": 1.4057
+      "pa": 116,
+      "xr": 1.2506
     },
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
@@ -2097,8 +2097,8 @@
     "678489": {
       "name": "Jorge Barrosa",
       "team": "Arizona Diamondbacks",
-      "pa": 85,
-      "xr": -6.6206
+      "pa": 88,
+      "xr": -7.1702
     },
     "608701": {
       "name": "Rob Refsnyder",
@@ -2259,8 +2259,8 @@
     "545121": {
       "name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
-      "pa": 195,
-      "xr": 0.6246
+      "pa": 198,
+      "xr": 0.486
     },
     "595978": {
       "name": "Austin Hedges",
@@ -2283,8 +2283,8 @@
     "699912": {
       "name": "Jose Fernandez",
       "team": "Arizona Diamondbacks",
-      "pa": 158,
-      "xr": -2.9004
+      "pa": 159,
+      "xr": -3.0555
     },
     "641555": {
       "name": "J.C. Escarra",
@@ -2325,8 +2325,8 @@
     "669743": {
       "name": "Alex Call",
       "team": "Los Angeles Dodgers",
-      "pa": 66,
-      "xr": 1.0428
+      "pa": 69,
+      "xr": 0.4851
     },
     "650968": {
       "name": "Yohel Pozo",
@@ -3093,8 +3093,8 @@
     "694371": {
       "name": "Tommy Troy",
       "team": "Arizona Diamondbacks",
-      "pa": 22,
-      "xr": -0.6269
+      "pa": 25,
+      "xr": -0.1052
     },
     "807747": {
       "name": "Rikuu Nishida",
@@ -3791,8 +3791,8 @@
     "664199": {
       "name": "Taylor Clarke",
       "team": "Arizona Diamondbacks",
-      "bf": 87,
-      "xr_allowed": -0.5631
+      "bf": 90,
+      "xr_allowed": -0.6408
     },
     "694851": {
       "name": "Andrew Hoffmann",
@@ -4199,8 +4199,8 @@
     "686218": {
       "name": "Emmet Sheehan",
       "team": "Los Angeles Dodgers",
-      "bf": 197,
-      "xr_allowed": 0.9332
+      "bf": 219,
+      "xr_allowed": 0.1078
     },
     "669194": {
       "name": "Ryne Nelson",
@@ -4211,8 +4211,8 @@
     "676263": {
       "name": "Jack Dreyer",
       "team": "Los Angeles Dodgers",
-      "bf": 81,
-      "xr_allowed": -2.5242
+      "bf": 86,
+      "xr_allowed": -2.0516
     },
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
@@ -4229,8 +4229,8 @@
     "681911": {
       "name": "Alex Vesia",
       "team": "Los Angeles Dodgers",
-      "bf": 77,
-      "xr_allowed": -4.4807
+      "bf": 79,
+      "xr_allowed": -4.6204
     },
     "683618": {
       "name": "Edgardo Henriquez",
@@ -4799,8 +4799,8 @@
     "593958": {
       "name": "Eduardo Rodriguez",
       "team": "Arizona Diamondbacks",
-      "bf": 241,
-      "xr_allowed": 0.5857
+      "bf": 265,
+      "xr_allowed": 1.9438
     },
     "605452": {
       "name": "Joe Ross",
@@ -4811,8 +4811,8 @@
     "623149": {
       "name": "Paul Sewald",
       "team": "Arizona Diamondbacks",
-      "bf": 74,
-      "xr_allowed": -0.5795
+      "bf": 77,
+      "xr_allowed": -0.7254
     },
     "693433": {
       "name": "Bryan Woo",
@@ -6461,8 +6461,8 @@
     "805299": {
       "name": "Brandyn Garcia",
       "team": "Arizona Diamondbacks",
-      "bf": 34,
-      "xr_allowed": -1.3339
+      "bf": 37,
+      "xr_allowed": -1.9439
     },
     "687209": {
       "name": "Zach Maxwell",
@@ -7951,6 +7951,7 @@
     824510,
     823702,
     823781,
-    823050
+    823050,
+    825078
   ]
 }
