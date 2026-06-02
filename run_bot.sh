@@ -24,7 +24,7 @@ git add data/posted_games.json data/scores.json data/player_stats.json docs/inde
 if git diff --staged --quiet; then
     echo "No changes to commit"
 else
-    git commit -m "Update xR scores [skip ci]"
+    git commit -m "Update xR scores"
     git push origin main
 fi
 
