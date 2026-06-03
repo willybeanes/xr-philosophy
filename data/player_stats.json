@@ -147,14 +147,14 @@
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 172,
-      "xr": 20.3711
+      "pa": 176,
+      "xr": 20.0552
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 250,
-      "xr": 3.1998
+      "pa": 254,
+      "xr": 3.1246
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,20 +171,20 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 190,
-      "xr": 2.2851
+      "pa": 194,
+      "xr": 2.4359
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 227,
-      "xr": 1.5632
+      "pa": 230,
+      "xr": 1.4457
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 210,
-      "xr": 0.5334
+      "pa": 214,
+      "xr": 2.3628
     },
     "682626": {
       "name": "Francisco Alvarez",
@@ -1377,8 +1377,8 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 255,
-      "xr": 11.7172
+      "pa": 260,
+      "xr": 12.0183
     },
     "647304": {
       "name": "Josh Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 247,
-      "xr": 7.3164
+      "pa": 252,
+      "xr": 7.7387
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 161,
-      "xr": 10.4698
+      "pa": 166,
+      "xr": 10.1742
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 138,
-      "xr": 5.6147
+      "pa": 142,
+      "xr": 5.2387
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 232,
-      "xr": 2.8956
+      "pa": 237,
+      "xr": 1.8572
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -2025,8 +2025,8 @@
     "668901": {
       "name": "Mark Vientos",
       "team": "New York Mets",
-      "pa": 181,
-      "xr": 2.8381
+      "pa": 185,
+      "xr": 2.1678
     },
     "620443": {
       "name": "Luis Torrens",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 42,
-      "xr": 5.1043
+      "pa": 46,
+      "xr": 4.7806
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 209,
-      "xr": 14.5388
+      "pa": 214,
+      "xr": 15.3767
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2547,8 +2547,8 @@
     "621550": {
       "name": "Patrick Wisdom",
       "team": "Seattle Mariners",
-      "pa": 15,
-      "xr": -2.1908
+      "pa": 19,
+      "xr": -1.1286
     },
     "642215": {
       "name": "Weston Wilson",
@@ -2583,8 +2583,8 @@
     "669004": {
       "name": "MJ Melendez",
       "team": "New York Mets",
-      "pa": 86,
-      "xr": -7.0402
+      "pa": 87,
+      "xr": -6.8912
     },
     "675659": {
       "name": "Greg Jones",
@@ -2775,8 +2775,8 @@
     "640902": {
       "name": "Jhonny Pereda",
       "team": "Seattle Mariners",
-      "pa": 40,
-      "xr": 2.399
+      "pa": 44,
+      "xr": 3.3598
     },
     "670097": {
       "name": "Zack Short",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 78,
-      "xr": -0.9204
+      "pa": 81,
+      "xr": -0.7771
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -2949,8 +2949,8 @@
     "663584": {
       "name": "Hayden Senger",
       "team": "New York Mets",
-      "pa": 15,
-      "xr": -1.5808
+      "pa": 17,
+      "xr": -2.0114
     },
     "694514": {
       "name": "Sterlin Thompson",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 50,
-      "xr": -1.6472
+      "pa": 54,
+      "xr": -2.3505
     },
     "680737": {
       "name": "Michael Helman",
@@ -3425,8 +3425,8 @@
     "672335": {
       "name": "Cionel P\u00e9rez",
       "team": "New York Mets",
-      "bf": 76,
-      "xr_allowed": 6.8585
+      "bf": 84,
+      "xr_allowed": 6.7386
     },
     "669432": {
       "name": "Trevor Rogers",
@@ -3821,8 +3821,8 @@
     "669302": {
       "name": "Logan Gilbert",
       "team": "Seattle Mariners",
-      "bf": 259,
-      "xr_allowed": 5.8976
+      "bf": 281,
+      "xr_allowed": 6.3832
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -3869,8 +3869,8 @@
     "681867": {
       "name": "Cooper Criswell",
       "team": "Seattle Mariners",
-      "bf": 102,
-      "xr_allowed": -0.5174
+      "bf": 109,
+      "xr_allowed": -1.0885
     },
     "671922": {
       "name": "Cade Smith",
@@ -4181,8 +4181,8 @@
     "660825": {
       "name": "Eduard Bazardo",
       "team": "Seattle Mariners",
-      "bf": 100,
-      "xr_allowed": -2.8895
+      "bf": 104,
+      "xr_allowed": -2.4647
     },
     "688883": {
       "name": "Peyton Pallette",
@@ -4553,8 +4553,8 @@
     "623211": {
       "name": "Huascar Brazob\u00e1n",
       "team": "New York Mets",
-      "bf": 110,
-      "xr_allowed": -5.4121
+      "bf": 119,
+      "xr_allowed": -3.9681
     },
     "596133": {
       "name": "Luke Weaver",
@@ -6899,8 +6899,8 @@
     "804636": {
       "name": "Jonah Tong",
       "team": "New York Mets",
-      "bf": 28,
-      "xr_allowed": 2.151
+      "bf": 47,
+      "xr_allowed": 2.6172
     },
     "543037": {
       "name": "Gerrit Cole",
@@ -6995,8 +6995,8 @@
     "621345": {
       "name": "A.J. Minter",
       "team": "New York Mets",
-      "bf": 9,
-      "xr_allowed": -1.7156
+      "bf": 14,
+      "xr_allowed": -2.3349
     },
     "695611": {
       "name": "Gage Jump",
@@ -7978,6 +7978,7 @@
     824675,
     823782,
     823052,
-    824189
+    824189,
+    823129
   ]
 }
