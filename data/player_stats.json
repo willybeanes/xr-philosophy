@@ -21,32 +21,32 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 234,
-      "xr": 2.6836
+      "pa": 239,
+      "xr": 2.6549
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 234,
-      "xr": -6.9689
+      "pa": 238,
+      "xr": -8.0318
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 239,
-      "xr": -1.4303
+      "pa": 244,
+      "xr": -1.6906
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 238,
-      "xr": -5.1193
+      "pa": 242,
+      "xr": -4.3751
     },
     "808982": {
       "name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
-      "pa": 197,
-      "xr": 4.0879
+      "pa": 198,
+      "xr": 3.9216
     },
     "700250": {
       "name": "Ben Rice",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 208,
-      "xr": 9.6459
+      "pa": 213,
+      "xr": 9.1804
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -243,20 +243,20 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 234,
-      "xr": 13.4681
+      "pa": 239,
+      "xr": 13.6392
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 223,
-      "xr": 9.4731
+      "pa": 228,
+      "xr": 9.1526
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 120,
-      "xr": -2.6742
+      "pa": 125,
+      "xr": -1.9978
     },
     "683734": {
       "name": "Andrew Vaughn",
@@ -291,26 +291,26 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 196,
-      "xr": 11.4968
+      "pa": 201,
+      "xr": 13.3719
     },
     "686217": {
       "name": "Sal Frelick",
       "team": "Milwaukee Brewers",
-      "pa": 195,
-      "xr": -2.451
+      "pa": 199,
+      "xr": -3.1862
     },
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 155,
-      "xr": -1.1783
+      "pa": 159,
+      "xr": -1.997
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 169,
-      "xr": -0.9047
+      "pa": 173,
+      "xr": -0.5045
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "Milwaukee Brewers",
-      "pa": 163,
-      "xr": -3.3897
+      "pa": 167,
+      "xr": -4.0032
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -2319,8 +2319,8 @@
     "691740": {
       "name": "Daniel Susac",
       "team": "San Francisco Giants",
-      "pa": 66,
-      "xr": -2.355
+      "pa": 70,
+      "xr": -2.1742
     },
     "669743": {
       "name": "Alex Call",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 111,
-      "xr": -6.2651
+      "pa": 112,
+      "xr": -6.8582
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 94,
-      "xr": 3.9457
+      "pa": 99,
+      "xr": 5.8722
     },
     "805904": {
       "name": "Zach Cole",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 65,
-      "xr": 3.007
+      "pa": 66,
+      "xr": 3.6495
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -3069,8 +3069,8 @@
     "682674": {
       "name": "Victor Bericoto",
       "team": "San Francisco Giants",
-      "pa": 6,
-      "xr": -0.5758
+      "pa": 9,
+      "xr": -0.6289
     },
     "663494": {
       "name": "Bryan Torres",
@@ -3177,8 +3177,8 @@
     "813841": {
       "name": "Jonah Cox",
       "team": "San Francisco Giants",
-      "pa": 2,
-      "xr": -0.063
+      "pa": 5,
+      "xr": -0.6643
     },
     "695490": {
       "name": "Edwin Arroyo",
@@ -3189,8 +3189,8 @@
     "671083": {
       "name": "Buddy Kennedy",
       "team": "San Francisco Giants",
-      "pa": 1,
-      "xr": 0.1098
+      "pa": 4,
+      "xr": -0.601
     },
     "687749": {
       "name": "Jase Bowen",
@@ -3239,8 +3239,8 @@
     "668873": {
       "name": "Caleb Kilian",
       "team": "San Francisco Giants",
-      "bf": 97,
-      "xr_allowed": 1.9824
+      "bf": 101,
+      "xr_allowed": 3.013
     },
     "666808": {
       "name": "Camilo Doval",
@@ -3335,8 +3335,8 @@
     "676879": {
       "name": "Aaron Ashby",
       "team": "Milwaukee Brewers",
-      "bf": 140,
-      "xr_allowed": -6.8968
+      "bf": 147,
+      "xr_allowed": -6.042
     },
     "663855": {
       "name": "Jordan Hicks",
@@ -3905,8 +3905,8 @@
     "669062": {
       "name": "Erik Miller",
       "team": "San Francisco Giants",
-      "bf": 72,
-      "xr_allowed": -0.5955
+      "bf": 75,
+      "xr_allowed": -0.9786
     },
     "657612": {
       "name": "Tim Hill",
@@ -4691,8 +4691,8 @@
     "682842": {
       "name": "Abner Uribe",
       "team": "Milwaukee Brewers",
-      "bf": 85,
-      "xr_allowed": -3.8655
+      "bf": 91,
+      "xr_allowed": -4.6713
     },
     "622554": {
       "name": "Seranthony Dom\u00ednguez",
@@ -5057,8 +5057,8 @@
     "656730": {
       "name": "Trevor Megill",
       "team": "Milwaukee Brewers",
-      "bf": 83,
-      "xr_allowed": -4.8692
+      "bf": 86,
+      "xr_allowed": -5.3007
     },
     "669160": {
       "name": "Dustin May",
@@ -5297,8 +5297,8 @@
     "690986": {
       "name": "Kyle Harrison",
       "team": "Milwaukee Brewers",
-      "bf": 187,
-      "xr_allowed": -5.2734
+      "bf": 210,
+      "xr_allowed": -7.2654
     },
     "607259": {
       "name": "Nick Martinez",
@@ -6575,8 +6575,8 @@
     "686790": {
       "name": "Trevor McDonald",
       "team": "San Francisco Giants",
-      "bf": 122,
-      "xr_allowed": -1.4772
+      "bf": 144,
+      "xr_allowed": -0.8862
     },
     "687941": {
       "name": "Alec Gamboa",
@@ -6713,8 +6713,8 @@
     "656529": {
       "name": "Sam Hentges",
       "team": "San Francisco Giants",
-      "bf": 33,
-      "xr_allowed": -1.1254
+      "bf": 36,
+      "xr_allowed": -0.6595
     },
     "684049": {
       "name": "Brandan Bidois",
@@ -6755,8 +6755,8 @@
     "663941": {
       "name": "Tristan Beck",
       "team": "San Francisco Giants",
-      "bf": 18,
-      "xr_allowed": 0.4745
+      "bf": 27,
+      "xr_allowed": 1.3315
     },
     "805673": {
       "name": "Zebby Matthews",
@@ -7975,6 +7975,7 @@
     824511,
     823541,
     823700,
-    824675
+    824675,
+    823782
   ]
 }
