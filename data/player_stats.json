@@ -861,8 +861,8 @@
     "650402": {
       "name": "Gleyber Torres",
       "team": "Detroit Tigers",
-      "pa": 145,
-      "xr": 3.6441
+      "pa": 150,
+      "xr": 4.168
     },
     "690993": {
       "name": "Colt Keith",
@@ -873,14 +873,14 @@
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 241,
-      "xr": 5.6468
+      "pa": 246,
+      "xr": 5.0558
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 219,
-      "xr": -1.1738
+      "pa": 223,
+      "xr": -0.065
     },
     "805808": {
       "name": "Kevin McGonigle",
@@ -891,8 +891,8 @@
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 208,
-      "xr": 19.8317
+      "pa": 213,
+      "xr": 18.9406
     },
     "678009": {
       "name": "Parker Meadows",
@@ -969,32 +969,32 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 225,
-      "xr": 15.1595
+      "pa": 228,
+      "xr": 15.0886
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 83,
-      "xr": 1.5374
+      "pa": 87,
+      "xr": 1.6258
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 239,
-      "xr": 16.7382
+      "pa": 243,
+      "xr": 16.4677
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 242,
-      "xr": 8.6815
+      "pa": 246,
+      "xr": 8.5105
     },
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "pa": 126,
-      "xr": 0.5026
+      "pa": 129,
+      "xr": 0.7518
     },
     "802139": {
       "name": "JJ Wetherholt",
@@ -1077,14 +1077,14 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 231,
-      "xr": -5.2959
+      "pa": 235,
+      "xr": -6.0974
     },
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 133,
-      "xr": 0.6219
+      "pa": 137,
+      "xr": 0.5046
     },
     "641584": {
       "name": "Jake Fraley",
@@ -1095,8 +1095,8 @@
     "676439": {
       "name": "Hunter Feduccia",
       "team": "Tampa Bay Rays",
-      "pa": 78,
-      "xr": -3.2007
+      "pa": 81,
+      "xr": -3.0742
     },
     "607043": {
       "name": "Brandon Nimmo",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 122,
-      "xr": -6.4251
+      "pa": 126,
+      "xr": -6.213
     },
     "664034": {
       "name": "Ty France",
@@ -1857,14 +1857,14 @@
     "663330": {
       "name": "Jahmai Jones",
       "team": "Detroit Tigers",
-      "pa": 74,
-      "xr": -0.2149
+      "pa": 79,
+      "xr": -0.5224
     },
     "663837": {
       "name": "Matt Vierling",
       "team": "Detroit Tigers",
-      "pa": 159,
-      "xr": -6.2346
+      "pa": 164,
+      "xr": -5.1059
     },
     "692216": {
       "name": "CJ Kayfus",
@@ -2475,8 +2475,8 @@
     "672761": {
       "name": "Wenceel P\u00e9rez",
       "team": "Detroit Tigers",
-      "pa": 142,
-      "xr": -7.2017
+      "pa": 146,
+      "xr": -5.1728
     },
     "666211": {
       "name": "Taylor Trammell",
@@ -2781,8 +2781,8 @@
     "670097": {
       "name": "Zack Short",
       "team": "Detroit Tigers",
-      "pa": 29,
-      "xr": -1.3663
+      "pa": 33,
+      "xr": -1.4829
     },
     "691788": {
       "name": "Joe Mack",
@@ -3105,14 +3105,14 @@
     "683748": {
       "name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
-      "pa": 23,
-      "xr": 1.6735
+      "pa": 26,
+      "xr": 0.3423
     },
     "686554": {
       "name": "Oliver Dunn",
       "team": "Tampa Bay Rays",
-      "pa": 11,
-      "xr": -0.4591
+      "pa": 12,
+      "xr": -0.6842
     },
     "571771": {
       "name": "Enrique Hern\u00e1ndez",
@@ -3665,8 +3665,8 @@
     "693855": {
       "name": "Ian Seymour",
       "team": "Tampa Bay Rays",
-      "bf": 123,
-      "xr_allowed": 2.0358
+      "bf": 134,
+      "xr_allowed": 3.0853
     },
     "664076": {
       "name": "Garrett Cleavinger",
@@ -3857,8 +3857,8 @@
     "668984": {
       "name": "Casey Legumina",
       "team": "Tampa Bay Rays",
-      "bf": 106,
-      "xr_allowed": -3.5085
+      "bf": 111,
+      "xr_allowed": -4.5027
     },
     "681867": {
       "name": "Cooper Criswell",
@@ -4133,8 +4133,8 @@
     "646241": {
       "name": "Enmanuel De Jesus",
       "team": "Detroit Tigers",
-      "bf": 94,
-      "xr_allowed": 5.189
+      "bf": 105,
+      "xr_allowed": 4.5699
     },
     "669093": {
       "name": "Jeremiah Estrada",
@@ -4271,8 +4271,8 @@
     "641329": {
       "name": "Bryan Baker",
       "team": "Tampa Bay Rays",
-      "bf": 94,
-      "xr_allowed": -4.0968
+      "bf": 97,
+      "xr_allowed": -4.2964
     },
     "690990": {
       "name": "Cade Horton",
@@ -4763,8 +4763,8 @@
     "656427": {
       "name": "Jack Flaherty",
       "team": "Detroit Tigers",
-      "bf": 249,
-      "xr_allowed": 8.5392
+      "bf": 271,
+      "xr_allowed": 6.6349
     },
     "676428": {
       "name": "Brant Hurter",
@@ -5063,8 +5063,8 @@
     "571927": {
       "name": "Steven Matz",
       "team": "Tampa Bay Rays",
-      "bf": 184,
-      "xr_allowed": 10.8337
+      "bf": 195,
+      "xr_allowed": 14.58
     },
     "687330": {
       "name": "Kevin Kelly",
@@ -6209,8 +6209,8 @@
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "bf": 4,
-      "xr_allowed": 0.6827
+      "bf": 8,
+      "xr_allowed": 1.2278
     },
     "668670": {
       "name": "Jake Rogers",
@@ -7105,6 +7105,12 @@
       "team": "San Francisco Giants",
       "bf": 9,
       "xr_allowed": 2.178
+    },
+    "592155": {
+      "name": "Cam Booser",
+      "team": "Tampa Bay Rays",
+      "bf": 7,
+      "xr_allowed": -1.0509
     }
   },
   "processed_games": [
@@ -7954,6 +7960,7 @@
     823050,
     825078,
     823131,
-    824027
+    824027,
+    822971
   ]
 }
