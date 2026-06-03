@@ -111,20 +111,20 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 240,
-      "xr": 6.3306
+      "pa": 245,
+      "xr": 8.3013
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 218,
-      "xr": 11.408
+      "pa": 223,
+      "xr": 10.517
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 244,
-      "xr": 13.13
+      "pa": 249,
+      "xr": 13.5248
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 169,
-      "xr": 9.5752
+      "pa": 174,
+      "xr": 9.4709
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,20 +195,20 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 78,
-      "xr": -2.834
+      "pa": 82,
+      "xr": -2.8912
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 192,
-      "xr": 2.6669
+      "pa": 197,
+      "xr": 2.7779
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 200,
-      "xr": 6.6673
+      "pa": 205,
+      "xr": 6.9756
     },
     "680779": {
       "name": "Henry Davis",
@@ -765,14 +765,14 @@
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 249,
-      "xr": 34.8959
+      "pa": 254,
+      "xr": 36.0689
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 212,
-      "xr": -1.2095
+      "pa": 217,
+      "xr": -2.624
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 217,
-      "xr": 0.9748
+      "pa": 221,
+      "xr": 1.6104
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 235,
-      "xr": 9.4348
+      "pa": 240,
+      "xr": 8.5202
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -837,8 +837,8 @@
     "676694": {
       "name": "Jake Meyers",
       "team": "Houston Astros",
-      "pa": 79,
-      "xr": -0.7868
+      "pa": 83,
+      "xr": -1.4117
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -1827,14 +1827,14 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 100,
-      "xr": 3.0005
+      "pa": 105,
+      "xr": 3.5914
     },
     "694728": {
       "name": "Brice Matthews",
       "team": "Houston Astros",
-      "pa": 146,
-      "xr": -3.2974
+      "pa": 150,
+      "xr": -4.0941
     },
     "656716": {
       "name": "Zach McKinstry",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 118,
-      "xr": -4.9752
+      "pa": 123,
+      "xr": -5.4149
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 119,
-      "xr": -3.9715
+      "pa": 123,
+      "xr": -3.4271
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 57,
-      "xr": -0.5994
+      "pa": 61,
+      "xr": -1.6807
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 38,
-      "xr": 1.5752
+      "pa": 43,
+      "xr": 3.153
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3293,14 +3293,14 @@
     "642397": {
       "name": "Gregory Soto",
       "team": "Pittsburgh Pirates",
-      "bf": 98,
-      "xr_allowed": -3.9237
+      "bf": 100,
+      "xr_allowed": -5.4464
     },
     "642701": {
       "name": "Dennis Santana",
       "team": "Pittsburgh Pirates",
-      "bf": 102,
-      "xr_allowed": 3.9019
+      "bf": 107,
+      "xr_allowed": 4.2439
     },
     "472610": {
       "name": "Luis Garc\u00eda",
@@ -3545,8 +3545,8 @@
     "805123": {
       "name": "AJ Blubaugh",
       "team": "Houston Astros",
-      "bf": 148,
-      "xr_allowed": 3.1702
+      "bf": 153,
+      "xr_allowed": 2.8776
     },
     "700712": {
       "name": "Walbert Ure\u00f1a",
@@ -4079,8 +4079,8 @@
     "681347": {
       "name": "Mike Burrows",
       "team": "Houston Astros",
-      "bf": 250,
-      "xr_allowed": 11.001
+      "bf": 275,
+      "xr_allowed": 14.8408
     },
     "579328": {
       "name": "Yusei Kikuchi",
@@ -4103,8 +4103,8 @@
     "595345": {
       "name": "Steven Okert",
       "team": "Houston Astros",
-      "bf": 99,
-      "xr_allowed": 2.0102
+      "bf": 104,
+      "xr_allowed": 2.5476
     },
     "696147": {
       "name": "Sam Bachman",
@@ -4649,8 +4649,8 @@
     "650556": {
       "name": "Bryan Abreu",
       "team": "Houston Astros",
-      "bf": 91,
-      "xr_allowed": 2.6352
+      "bf": 97,
+      "xr_allowed": 2.3938
     },
     "694477": {
       "name": "Chad Patrick",
@@ -5417,8 +5417,8 @@
     "696149": {
       "name": "Bubba Chandler",
       "team": "Pittsburgh Pirates",
-      "bf": 215,
-      "xr_allowed": 7.8076
+      "bf": 238,
+      "xr_allowed": 7.8503
     },
     "691725": {
       "name": "Andrew Painter",
@@ -5741,8 +5741,8 @@
     "660853": {
       "name": "Enyel De Los Santos",
       "team": "Houston Astros",
-      "bf": 92,
-      "xr_allowed": -1.8913
+      "bf": 95,
+      "xr_allowed": -2.8641
     },
     "665871": {
       "name": "Javier Assad",
@@ -6167,8 +6167,8 @@
     "696062": {
       "name": "Wilber Dotel",
       "team": "Pittsburgh Pirates",
-      "bf": 51,
-      "xr_allowed": -1.3077
+      "bf": 61,
+      "xr_allowed": -2.0578
     },
     "692230": {
       "name": "Carlos Rodriguez",
@@ -7977,6 +7977,7 @@
     823700,
     824675,
     823782,
-    823052
+    823052,
+    824189
   ]
 }
