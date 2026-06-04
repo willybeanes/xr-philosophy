@@ -909,38 +909,38 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 234,
-      "xr": 9.3731
+      "pa": 238,
+      "xr": 9.0557
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 214,
-      "xr": 5.7736
+      "pa": 218,
+      "xr": 5.7908
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 220,
-      "xr": 2.4832
+      "pa": 224,
+      "xr": 1.6887
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 217,
-      "xr": 2.921
+      "pa": 221,
+      "xr": 3.1431
     },
     "609280": {
       "name": "Miguel Andujar",
       "team": "San Diego Padres",
-      "pa": 171,
-      "xr": -5.3954
+      "pa": 175,
+      "xr": -4.5862
     },
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 179,
-      "xr": 7.816
+      "pa": 183,
+      "xr": 7.7002
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -1131,38 +1131,38 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 242,
-      "xr": -2.6206
+      "pa": 246,
+      "xr": -3.1861
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 237,
-      "xr": 12.5684
+      "pa": 241,
+      "xr": 12.6878
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 236,
-      "xr": 16.7219
+      "pa": 240,
+      "xr": 16.7362
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 220,
-      "xr": -4.5725
+      "pa": 224,
+      "xr": -5.4195
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 187,
-      "xr": -3.2918
+      "pa": 191,
+      "xr": -3.1802
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
       "team": "Philadelphia Phillies",
-      "pa": 212,
-      "xr": -1.3708
+      "pa": 215,
+      "xr": -1.2227
     },
     "673962": {
       "name": "Josh Jung",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 191,
-      "xr": 1.9584
+      "pa": 195,
+      "xr": 2.3877
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 129,
-      "xr": -2.472
+      "pa": 132,
+      "xr": -1.1825
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 174,
-      "xr": -8.8006
+      "pa": 177,
+      "xr": -9.3773
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 102,
-      "xr": 0.5038
+      "pa": 106,
+      "xr": 0.5053
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2247,8 +2247,8 @@
     "669369": {
       "name": "Bryce Johnson",
       "team": "San Diego Padres",
-      "pa": 36,
-      "xr": -4.0167
+      "pa": 37,
+      "xr": -4.1718
     },
     "641598": {
       "name": "Mitch Garver",
@@ -2925,8 +2925,8 @@
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
       "team": "San Diego Padres",
-      "pa": 22,
-      "xr": 0.8704
+      "pa": 24,
+      "xr": 0.7727
     },
     "703607": {
       "name": "Henry Bolte",
@@ -3195,8 +3195,14 @@
     "687749": {
       "name": "Jase Bowen",
       "team": "San Diego Padres",
-      "pa": 4,
-      "xr": 0.123
+      "pa": 7,
+      "xr": -0.0909
+    },
+    "669392": {
+      "name": "Samad Taylor",
+      "team": "San Diego Padres",
+      "pa": 2,
+      "xr": -0.2018
     }
   },
   "pitchers": {
@@ -3629,8 +3635,8 @@
     "593974": {
       "name": "Wandy Peralta",
       "team": "San Diego Padres",
-      "bf": 105,
-      "xr_allowed": -0.482
+      "bf": 109,
+      "xr_allowed": -0.3503
     },
     "676684": {
       "name": "Will Vest",
@@ -3713,8 +3719,8 @@
     "650911": {
       "name": "Cristopher S\u00e1nchez",
       "team": "Philadelphia Phillies",
-      "bf": 296,
-      "xr_allowed": -10.2021
+      "bf": 322,
+      "xr_allowed": -11.6085
     },
     "543135": {
       "name": "Nathan Eovaldi",
@@ -3761,8 +3767,8 @@
     "661395": {
       "name": "Jhoan Duran",
       "team": "Philadelphia Phillies",
-      "bf": 64,
-      "xr_allowed": -4.1883
+      "bf": 67,
+      "xr_allowed": -4.2361
     },
     "808967": {
       "name": "Yoshinobu Yamamoto",
@@ -4895,8 +4901,8 @@
     "641745": {
       "name": "Brad Keller",
       "team": "Philadelphia Phillies",
-      "bf": 99,
-      "xr_allowed": -5.0337
+      "bf": 106,
+      "xr_allowed": -4.4257
     },
     "656550": {
       "name": "Grant Holmes",
@@ -5339,8 +5345,8 @@
     "621111": {
       "name": "Walker Buehler",
       "team": "San Diego Padres",
-      "bf": 200,
-      "xr_allowed": 5.466
+      "bf": 224,
+      "xr_allowed": 4.5603
     },
     "694738": {
       "name": "Landen Roupp",
@@ -5873,8 +5879,8 @@
     "592094": {
       "name": "Jason Adam",
       "team": "San Diego Padres",
-      "bf": 74,
-      "xr_allowed": -4.5318
+      "bf": 79,
+      "xr_allowed": -3.6348
     },
     "641585": {
       "name": "J.P. France",
@@ -7991,6 +7997,7 @@
     822973,
     822727,
     823701,
-    823130
+    823130,
+    823456
   ]
 }
