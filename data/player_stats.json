@@ -1005,26 +1005,26 @@
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 250,
-      "xr": 14.7554
+      "pa": 255,
+      "xr": 14.3436
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 235,
-      "xr": 15.9835
+      "pa": 239,
+      "xr": 17.2429
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 208,
-      "xr": -5.501
+      "pa": 213,
+      "xr": -5.8695
     },
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 198,
-      "xr": -5.5679
+      "pa": 202,
+      "xr": -7.2996
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,8 +1053,8 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 230,
-      "xr": 8.3621
+      "pa": 234,
+      "xr": 8.7516
     },
     "701675": {
       "name": "Nathan Church",
@@ -1071,8 +1071,8 @@
     "687363": {
       "name": "Victor Scott II",
       "team": "St. Louis Cardinals",
-      "pa": 161,
-      "xr": -8.4633
+      "pa": 165,
+      "xr": -8.971
     },
     "802415": {
       "name": "Chandler Simpson",
@@ -1101,8 +1101,8 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 247,
-      "xr": 15.1125
+      "pa": 251,
+      "xr": 14.7642
     },
     "694671": {
       "name": "Wyatt Langford",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 238,
-      "xr": 0.0977
+      "pa": 242,
+      "xr": 0.4002
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 223,
-      "xr": 15.278
+      "pa": 228,
+      "xr": 14.6173
     },
     "669701": {
       "name": "Josh Smith",
@@ -1209,26 +1209,26 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 174,
-      "xr": 7.7386
+      "pa": 179,
+      "xr": 8.9505
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 196,
-      "xr": -3.4343
+      "pa": 198,
+      "xr": -3.7539
     },
     "543309": {
       "name": "Kyle Higashioka",
       "team": "Texas Rangers",
-      "pa": 100,
-      "xr": -1.6869
+      "pa": 104,
+      "xr": -0.9115
     },
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 177,
-      "xr": 3.0633
+      "pa": 181,
+      "xr": 2.33
     },
     "606466": {
       "name": "Ketel Marte",
@@ -2235,8 +2235,8 @@
     "695336": {
       "name": "Thomas Saggese",
       "team": "St. Louis Cardinals",
-      "pa": 72,
-      "xr": -3.3287
+      "pa": 76,
+      "xr": -3.0936
     },
     "665561": {
       "name": "Rafael March\u00e1n",
@@ -2337,8 +2337,8 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 77,
-      "xr": -1.6635
+      "pa": 81,
+      "xr": -1.6969
     },
     "666160": {
       "name": "Mickey Moniak",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 100,
-      "xr": 2.1323
+      "pa": 102,
+      "xr": 2.3985
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 30,
-      "xr": -2.4675
+      "pa": 32,
+      "xr": -2.9416
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 53,
-      "xr": -1.2929
+      "pa": 55,
+      "xr": -1.202
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -2991,8 +2991,8 @@
     "680737": {
       "name": "Michael Helman",
       "team": "Texas Rangers",
-      "pa": 23,
-      "xr": -1.7778
+      "pa": 25,
+      "xr": -2.2813
     },
     "644433": {
       "name": "Chadwick Tromp",
@@ -3147,8 +3147,8 @@
     "676369": {
       "name": "Nelson Vel\u00e1zquez",
       "team": "St. Louis Cardinals",
-      "pa": 11,
-      "xr": 2.1869
+      "pa": 15,
+      "xr": 2.3075
     },
     "672642": {
       "name": "Steward Berroa",
@@ -3203,6 +3203,12 @@
       "team": "San Diego Padres",
       "pa": 2,
       "xr": -0.2018
+    },
+    "683227": {
+      "name": "Cody Freeman",
+      "team": "Texas Rangers",
+      "pa": 2,
+      "xr": -0.4931
     }
   },
   "pitchers": {
@@ -3695,14 +3701,14 @@
     "668941": {
       "name": "JoJo Romero",
       "team": "St. Louis Cardinals",
-      "bf": 106,
-      "xr_allowed": 2.4121
+      "bf": 111,
+      "xr_allowed": 2.8314
     },
     "676617": {
       "name": "Riley O'Brien",
       "team": "St. Louis Cardinals",
-      "bf": 102,
-      "xr_allowed": 0.435
+      "bf": 106,
+      "xr_allowed": 1.0228
     },
     "672782": {
       "name": "Yoendrys G\u00f3mez",
@@ -3713,8 +3719,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 102,
-      "xr_allowed": -0.8673
+      "bf": 108,
+      "xr_allowed": -1.991
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4895,8 +4901,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 257,
-      "xr_allowed": 0.2475
+      "bf": 283,
+      "xr_allowed": 0.1862
     },
     "641745": {
       "name": "Brad Keller",
@@ -5501,8 +5507,8 @@
     "669467": {
       "name": "Andre Pallante",
       "team": "St. Louis Cardinals",
-      "bf": 251,
-      "xr_allowed": 4.3749
+      "bf": 274,
+      "xr_allowed": 3.6058
     },
     "673540": {
       "name": "Kodai Senga",
@@ -5807,8 +5813,8 @@
     "681168": {
       "name": "Luis Curvelo",
       "team": "Texas Rangers",
-      "bf": 21,
-      "xr_allowed": 0.1623
+      "bf": 27,
+      "xr_allowed": -0.0813
     },
     "669947": {
       "name": "Jesse Scholtens",
@@ -6119,8 +6125,8 @@
     "615698": {
       "name": "Cal Quantrill",
       "team": "Texas Rangers",
-      "bf": 72,
-      "xr_allowed": 3.5259
+      "bf": 74,
+      "xr_allowed": 3.299
     },
     "671382": {
       "name": "Cameron Foster",
@@ -7135,6 +7141,12 @@
       "team": "Cincinnati Reds",
       "bf": 4,
       "xr_allowed": -0.6392
+    },
+    "695239": {
+      "name": "Robby Ahlstrom",
+      "team": "Texas Rangers",
+      "bf": 4,
+      "xr_allowed": -0.5167
     }
   },
   "processed_games": [
@@ -8009,6 +8021,7 @@
     824917,
     823540,
     824509,
-    823780
+    823780,
+    823051
   ]
 }
