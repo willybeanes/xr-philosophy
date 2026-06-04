@@ -507,20 +507,20 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Baltimore Orioles",
-      "pa": 263,
-      "xr": 8.6958
+      "pa": 268,
+      "xr": 10.0103
     },
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 263,
-      "xr": -0.5785
+      "pa": 268,
+      "xr": -0.2915
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 252,
-      "xr": 10.9334
+      "pa": 257,
+      "xr": 11.1285
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -561,14 +561,14 @@
     "668939": {
       "name": "Adley Rutschman",
       "team": "Baltimore Orioles",
-      "pa": 173,
-      "xr": 7.1637
+      "pa": 178,
+      "xr": 7.6411
     },
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 171,
-      "xr": 6.9729
+      "pa": 176,
+      "xr": 8.9566
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,14 +579,14 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 125,
-      "xr": -1.9176
+      "pa": 130,
+      "xr": -2.1034
     },
     "691723": {
       "name": "Coby Mayo",
       "team": "Baltimore Orioles",
-      "pa": 156,
-      "xr": 0.3792
+      "pa": 160,
+      "xr": -0.4687
     },
     "677942": {
       "name": "Blaze Alexander",
@@ -621,20 +621,20 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 236,
-      "xr": 2.9945
+      "pa": 240,
+      "xr": 2.6867
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 234,
-      "xr": 13.7947
+      "pa": 238,
+      "xr": 14.296
     },
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 179,
-      "xr": -4.1925
+      "pa": 183,
+      "xr": -4.0786
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,26 +657,26 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 245,
-      "xr": 12.4173
+      "pa": 249,
+      "xr": 12.5
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 91,
-      "xr": -1.5787
+      "pa": 95,
+      "xr": -1.9797
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
       "team": "Boston Red Sox",
-      "pa": 118,
-      "xr": -2.21
+      "pa": 121,
+      "xr": -2.6615
     },
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 209,
-      "xr": 4.0467
+      "pa": 213,
+      "xr": 3.6332
     },
     "701398": {
       "name": "Sal Stewart",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 165,
-      "xr": 3.9254
+      "pa": 170,
+      "xr": 3.3359
     },
     "681546": {
       "name": "James Outman",
@@ -1995,8 +1995,8 @@
     "657136": {
       "name": "Connor Wong",
       "team": "Boston Red Sox",
-      "pa": 73,
-      "xr": -2.6809
+      "pa": 76,
+      "xr": -2.6799
     },
     "663993": {
       "name": "Nathaniel Lowe",
@@ -2175,8 +2175,8 @@
     "655316": {
       "name": "Andruw Monasterio",
       "team": "Boston Red Sox",
-      "pa": 95,
-      "xr": -4.6604
+      "pa": 97,
+      "xr": -4.5452
     },
     "676724": {
       "name": "Jared Young",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 43,
-      "xr": -1.1676
+      "pa": 47,
+      "xr": -0.6623
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3209,6 +3209,12 @@
       "team": "Texas Rangers",
       "pa": 2,
       "xr": -0.4931
+    },
+    "678011": {
+      "name": "Anthony Seigler",
+      "team": "Boston Red Sox",
+      "pa": 2,
+      "xr": 0.0738
     }
   },
   "pitchers": {
@@ -3443,8 +3449,8 @@
     "669432": {
       "name": "Trevor Rogers",
       "team": "Baltimore Orioles",
-      "bf": 221,
-      "xr_allowed": 10.5778
+      "bf": 243,
+      "xr_allowed": 10.3449
     },
     "657746": {
       "name": "Joe Ryan",
@@ -3467,8 +3473,8 @@
     "669330": {
       "name": "Tyler Wells",
       "team": "Baltimore Orioles",
-      "bf": 114,
-      "xr_allowed": -0.1463
+      "bf": 117,
+      "xr_allowed": -0.1636
     },
     "573124": {
       "name": "Taylor Rogers",
@@ -4415,8 +4421,8 @@
     "666974": {
       "name": "Yennier Cano",
       "team": "Baltimore Orioles",
-      "bf": 70,
-      "xr_allowed": 0.5037
+      "bf": 71,
+      "xr_allowed": 0.2942
     },
     "607455": {
       "name": "Anthony Banda",
@@ -4967,8 +4973,8 @@
     "663558": {
       "name": "Jovani Mor\u00e1n",
       "team": "Boston Red Sox",
-      "bf": 122,
-      "xr_allowed": -2.5754
+      "bf": 130,
+      "xr_allowed": -3.0508
     },
     "690997": {
       "name": "Nolan McLean",
@@ -5525,8 +5531,8 @@
     "678394": {
       "name": "Brayan Bello",
       "team": "Boston Red Sox",
-      "bf": 256,
-      "xr_allowed": 9.8496
+      "bf": 282,
+      "xr_allowed": 11.3667
     },
     "675989": {
       "name": "Cody Bolton",
@@ -6317,8 +6323,8 @@
     "552640": {
       "name": "Andrew Kittredge",
       "team": "Baltimore Orioles",
-      "bf": 46,
-      "xr_allowed": -1.1592
+      "bf": 50,
+      "xr_allowed": -1.0244
     },
     "683000": {
       "name": "Riley Cornelio",
@@ -6329,8 +6335,8 @@
     "669211": {
       "name": "Keegan Akin",
       "team": "Baltimore Orioles",
-      "bf": 58,
-      "xr_allowed": 3.2939
+      "bf": 62,
+      "xr_allowed": 2.9329
     },
     "642215": {
       "name": "Weston Wilson",
@@ -7153,6 +7159,12 @@
       "team": "Houston Astros",
       "bf": 4,
       "xr_allowed": -0.4042
+    },
+    "592454": {
+      "name": "Tommy Kahnle",
+      "team": "Boston Red Sox",
+      "bf": 9,
+      "xr_allowed": 2.0981
     }
   },
   "processed_games": [
@@ -8034,6 +8046,7 @@
     824024,
     825077,
     823457,
-    823542
+    823542,
+    824753
   ]
 }
