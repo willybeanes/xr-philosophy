@@ -111,20 +111,20 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 250,
-      "xr": 9.0299
+      "pa": 254,
+      "xr": 9.8501
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 228,
-      "xr": 9.6943
+      "pa": 233,
+      "xr": 9.8975
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 254,
-      "xr": 12.9545
+      "pa": 258,
+      "xr": 12.7376
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 176,
-      "xr": 8.913
+      "pa": 180,
+      "xr": 8.6959
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,20 +195,20 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 87,
-      "xr": -3.1323
+      "pa": 91,
+      "xr": -3.8423
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 202,
-      "xr": 2.8584
+      "pa": 208,
+      "xr": 1.692
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 210,
-      "xr": 8.2833
+      "pa": 214,
+      "xr": 8.4041
     },
     "680779": {
       "name": "Henry Davis",
@@ -765,14 +765,14 @@
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 259,
-      "xr": 37.9765
+      "pa": 263,
+      "xr": 38.219
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 222,
-      "xr": -1.5564
+      "pa": 226,
+      "xr": -1.2773
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 226,
-      "xr": 1.2125
+      "pa": 230,
+      "xr": 0.8118
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 245,
-      "xr": 7.1524
+      "pa": 249,
+      "xr": 6.284
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -837,8 +837,8 @@
     "676694": {
       "name": "Jake Meyers",
       "team": "Houston Astros",
-      "pa": 88,
-      "xr": -1.3356
+      "pa": 89,
+      "xr": -1.3817
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -849,8 +849,8 @@
     "669397": {
       "name": "Nick Allen",
       "team": "Houston Astros",
-      "pa": 54,
-      "xr": -3.2145
+      "pa": 57,
+      "xr": -3.5807
     },
     "681481": {
       "name": "Kerry Carpenter",
@@ -1827,8 +1827,8 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 110,
-      "xr": 4.6247
+      "pa": 114,
+      "xr": 5.0092
     },
     "694728": {
       "name": "Brice Matthews",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 123,
-      "xr": -5.4149
+      "pa": 127,
+      "xr": -5.7094
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 62,
-      "xr": -1.9058
+      "pa": 66,
+      "xr": -1.3789
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 44,
-      "xr": 3.003
+      "pa": 48,
+      "xr": 3.1966
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3215,6 +3215,18 @@
       "team": "Boston Red Sox",
       "pa": 2,
       "xr": 0.0738
+    },
+    "664774": {
+      "name": "LaMonte Wade Jr.",
+      "team": "Houston Astros",
+      "pa": 4,
+      "xr": -0.2654
+    },
+    "805672": {
+      "name": "Collin Price",
+      "team": "Houston Astros",
+      "pa": 4,
+      "xr": -0.4535
     }
   },
   "pitchers": {
@@ -4121,8 +4133,8 @@
     "595345": {
       "name": "Steven Okert",
       "team": "Houston Astros",
-      "bf": 104,
-      "xr_allowed": 2.5476
+      "bf": 112,
+      "xr_allowed": 0.9946
     },
     "696147": {
       "name": "Sam Bachman",
@@ -4649,8 +4661,8 @@
     "678906": {
       "name": "Kai-Wei Teng",
       "team": "Houston Astros",
-      "bf": 155,
-      "xr_allowed": -4.1932
+      "bf": 178,
+      "xr_allowed": -3.4169
     },
     "664192": {
       "name": "Joey Lucchesi",
@@ -4667,8 +4679,8 @@
     "650556": {
       "name": "Bryan Abreu",
       "team": "Houston Astros",
-      "bf": 97,
-      "xr_allowed": 2.3938
+      "bf": 101,
+      "xr_allowed": 1.9175
     },
     "694477": {
       "name": "Chad Patrick",
@@ -4985,8 +4997,8 @@
     "669387": {
       "name": "Carmen Mlodzinski",
       "team": "Pittsburgh Pirates",
-      "bf": 216,
-      "xr_allowed": 5.0491
+      "bf": 231,
+      "xr_allowed": 4.8441
     },
     "640455": {
       "name": "Sean Manaea",
@@ -5759,8 +5771,8 @@
     "660853": {
       "name": "Enyel De Los Santos",
       "team": "Houston Astros",
-      "bf": 95,
-      "xr_allowed": -2.8641
+      "bf": 99,
+      "xr_allowed": -2.8782
     },
     "665871": {
       "name": "Javier Assad",
@@ -7067,8 +7079,8 @@
     "683003": {
       "name": "Jared Jones",
       "team": "Pittsburgh Pirates",
-      "bf": 21,
-      "xr_allowed": 1.3625
+      "bf": 42,
+      "xr_allowed": 0.6002
     },
     "689225": {
       "name": "Beau Brieske",
@@ -8056,6 +8068,7 @@
     824753,
     823779,
     824919,
-    824672
+    824672,
+    824185
   ]
 }
