@@ -489,8 +489,8 @@
     "668885": {
       "name": "Austin Martin",
       "team": "Minnesota Twins",
-      "pa": 198,
-      "xr": 0.6475
+      "pa": 202,
+      "xr": 0.5908
     },
     "621439": {
       "name": "Byron Buxton",
@@ -501,8 +501,8 @@
     "807712": {
       "name": "Luke Keaschall",
       "team": "Minnesota Twins",
-      "pa": 233,
-      "xr": -1.0242
+      "pa": 234,
+      "xr": -1.2493
     },
     "621493": {
       "name": "Taylor Ward",
@@ -537,26 +537,26 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 234,
-      "xr": 6.0001
+      "pa": 238,
+      "xr": 5.0646
     },
     "605170": {
       "name": "Victor Caratini",
       "team": "Minnesota Twins",
-      "pa": 165,
-      "xr": 1.5256
+      "pa": 169,
+      "xr": 2.0945
     },
     "668904": {
       "name": "Royce Lewis",
       "team": "Minnesota Twins",
-      "pa": 107,
-      "xr": -2.8936
+      "pa": 111,
+      "xr": -3.296
     },
     "686797": {
       "name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "pa": 225,
-      "xr": -3.5506
+      "pa": 229,
+      "xr": -4.0944
     },
     "668939": {
       "name": "Adley Rutschman",
@@ -597,14 +597,14 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 191,
-      "xr": 4.9354
+      "pa": 195,
+      "xr": 5.276
     },
     "663616": {
       "name": "Trevor Larnach",
       "team": "Minnesota Twins",
-      "pa": 180,
-      "xr": 4.2852
+      "pa": 183,
+      "xr": 4.1253
     },
     "701350": {
       "name": "Roman Anthony",
@@ -1713,20 +1713,20 @@
     "672580": {
       "name": "Maikel Garcia",
       "team": "Kansas City Royals",
-      "pa": 236,
-      "xr": -1.2318
+      "pa": 240,
+      "xr": -2.0113
     },
     "677951": {
       "name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
-      "pa": 273,
-      "xr": 17.4043
+      "pa": 278,
+      "xr": 17.922
     },
     "657041": {
       "name": "Lane Thomas",
       "team": "Kansas City Royals",
-      "pa": 133,
-      "xr": 2.2234
+      "pa": 136,
+      "xr": 1.9471
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
@@ -1773,8 +1773,8 @@
     "686469": {
       "name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
-      "pa": 252,
-      "xr": 0.7148
+      "pa": 257,
+      "xr": 0.5928
     },
     "516782": {
       "name": "Starling Marte",
@@ -1791,8 +1791,8 @@
     "686555": {
       "name": "Isaac Collins",
       "team": "Kansas City Royals",
-      "pa": 200,
-      "xr": -3.5485
+      "pa": 204,
+      "xr": -3.1025
     },
     "643289": {
       "name": "Mauricio Dub\u00f3n",
@@ -1815,14 +1815,14 @@
     "695600": {
       "name": "Carter Jensen",
       "team": "Kansas City Royals",
-      "pa": 205,
-      "xr": -10.5771
+      "pa": 210,
+      "xr": -10.7876
     },
     "695506": {
       "name": "Jac Caglianone",
       "team": "Kansas City Royals",
-      "pa": 206,
-      "xr": 3.8349
+      "pa": 207,
+      "xr": 3.6128
     },
     "665161": {
       "name": "Jeremy Pe\u00f1a",
@@ -2061,8 +2061,8 @@
     "664728": {
       "name": "Kyle Isbel",
       "team": "Kansas City Royals",
-      "pa": 168,
-      "xr": -7.1176
+      "pa": 172,
+      "xr": -7.8579
     },
     "642086": {
       "name": "Dominic Smith",
@@ -2127,8 +2127,8 @@
     "656484": {
       "name": "Tristan Gray",
       "team": "Minnesota Twins",
-      "pa": 119,
-      "xr": 1.8
+      "pa": 121,
+      "xr": 2.4558
     },
     "664238": {
       "name": "Dylan Moore",
@@ -2439,8 +2439,8 @@
     "686681": {
       "name": "Michael Massey",
       "team": "Kansas City Royals",
-      "pa": 134,
-      "xr": -6.328
+      "pa": 138,
+      "xr": -7.1238
     },
     "656582": {
       "name": "Connor Joe",
@@ -2487,8 +2487,8 @@
     "668952": {
       "name": "Ryan Kreidler",
       "team": "Minnesota Twins",
-      "pa": 61,
-      "xr": 0.9658
+      "pa": 64,
+      "xr": 0.9426
     },
     "687093": {
       "name": "Vaughn Grissom",
@@ -3021,8 +3021,8 @@
     "606115": {
       "name": "Orlando Arcia",
       "team": "Minnesota Twins",
-      "pa": 37,
-      "xr": 0.0521
+      "pa": 38,
+      "xr": 0.0666
     },
     "691373": {
       "name": "Jhostynxon Garcia",
@@ -3231,8 +3231,8 @@
     "668942": {
       "name": "Josh Rojas",
       "team": "Kansas City Royals",
-      "pa": 1,
-      "xr": 0.167
+      "pa": 5,
+      "xr": -0.8513
     },
     "663457": {
       "name": "Lars Nootbaar",
@@ -3485,8 +3485,8 @@
     "657746": {
       "name": "Joe Ryan",
       "team": "Minnesota Twins",
-      "bf": 260,
-      "xr_allowed": -6.7659
+      "bf": 286,
+      "xr_allowed": -8.8319
     },
     "681892": {
       "name": "Kody Funderburk",
@@ -3509,8 +3509,8 @@
     "573124": {
       "name": "Taylor Rogers",
       "team": "Minnesota Twins",
-      "bf": 102,
-      "xr_allowed": 4.935
+      "bf": 106,
+      "xr_allowed": 4.4491
     },
     "664854": {
       "name": "Ryan Helsley",
@@ -3749,8 +3749,8 @@
     "672782": {
       "name": "Yoendrys G\u00f3mez",
       "team": "Minnesota Twins",
-      "bf": 129,
-      "xr_allowed": 4.977
+      "bf": 132,
+      "xr_allowed": 5.1183
     },
     "592773": {
       "name": "Ryne Stanek",
@@ -4115,8 +4115,8 @@
     "656638": {
       "name": "Alex Lange",
       "team": "Kansas City Royals",
-      "bf": 115,
-      "xr_allowed": 0.4161
+      "bf": 120,
+      "xr_allowed": -0.0094
     },
     "641755": {
       "name": "Tyler Kinley",
@@ -4469,8 +4469,8 @@
     "679358": {
       "name": "Eric Orze",
       "team": "Minnesota Twins",
-      "bf": 119,
-      "xr_allowed": -2.2384
+      "bf": 125,
+      "xr_allowed": -3.0289
     },
     "682274": {
       "name": "Yaramil Hiraldo",
@@ -4763,8 +4763,8 @@
     "621381": {
       "name": "Matt Strahm",
       "team": "Kansas City Royals",
-      "bf": 73,
-      "xr_allowed": -2.6205
+      "bf": 77,
+      "xr_allowed": -2.9631
     },
     "606303": {
       "name": "Joel Payamps",
@@ -4781,8 +4781,8 @@
     "668674": {
       "name": "Lucas Erceg",
       "team": "Kansas City Royals",
-      "bf": 100,
-      "xr_allowed": 1.6179
+      "bf": 104,
+      "xr_allowed": 1.1509
     },
     "674370": {
       "name": "Osvaldo Bido",
@@ -5201,8 +5201,8 @@
     "663738": {
       "name": "Daniel Lynch IV",
       "team": "Kansas City Royals",
-      "bf": 99,
-      "xr_allowed": -2.7656
+      "bf": 102,
+      "xr_allowed": -3.2194
     },
     "683232": {
       "name": "Nick Mears",
@@ -5681,8 +5681,8 @@
     "679883": {
       "name": "Luinder Avila",
       "team": "Kansas City Royals",
-      "bf": 115,
-      "xr_allowed": 0.9338
+      "bf": 133,
+      "xr_allowed": 1.8559
     },
     "677161": {
       "name": "Zack Kelly",
@@ -8153,6 +8153,7 @@
     823293,
     825073,
     823943,
-    824269
+    824269,
+    823697
   ]
 }
