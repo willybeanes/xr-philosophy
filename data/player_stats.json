@@ -369,14 +369,14 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 287,
-      "xr": 24.963
+      "pa": 292,
+      "xr": 24.6983
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
-      "pa": 27,
-      "xr": 2.7721
+      "pa": 30,
+      "xr": 2.8983
     },
     "691781": {
       "name": "Brady House",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 268,
-      "xr": 2.5501
+      "pa": 272,
+      "xr": 3.0715
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -423,14 +423,14 @@
     "682928": {
       "name": "CJ Abrams",
       "team": "Washington Nationals",
-      "pa": 259,
-      "xr": 14.5622
+      "pa": 263,
+      "xr": 14.3321
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team": "Washington Nationals",
-      "pa": 196,
-      "xr": -11.0755
+      "pa": 200,
+      "xr": -10.9139
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -453,14 +453,14 @@
     "660688": {
       "name": "Keibert Ruiz",
       "team": "Washington Nationals",
-      "pa": 125,
-      "xr": -6.6779
+      "pa": 129,
+      "xr": -7.066
     },
     "696285": {
       "name": "Jacob Young",
       "team": "Washington Nationals",
-      "pa": 203,
-      "xr": 5.136
+      "pa": 207,
+      "xr": 4.9348
     },
     "621020": {
       "name": "Dansby Swanson",
@@ -477,8 +477,8 @@
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team": "Washington Nationals",
-      "pa": 193,
-      "xr": 5.5779
+      "pa": 194,
+      "xr": 5.4639
     },
     "624424": {
       "name": "Michael Conforto",
@@ -1233,26 +1233,26 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 247,
-      "xr": 15.0447
+      "pa": 251,
+      "xr": 14.0693
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 240,
-      "xr": 13.4157
+      "pa": 244,
+      "xr": 13.666
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 234,
-      "xr": 5.3394
+      "pa": 237,
+      "xr": 5.6058
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 142,
-      "xr": 6.9539
+      "pa": 146,
+      "xr": 7.3104
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -1281,8 +1281,8 @@
     "571448": {
       "name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
-      "pa": 205,
-      "xr": 10.0529
+      "pa": 209,
+      "xr": 9.9291
     },
     "467793": {
       "name": "Carlos Santana",
@@ -1875,8 +1875,8 @@
     "656976": {
       "name": "Pavin Smith",
       "team": "Arizona Diamondbacks",
-      "pa": 17,
-      "xr": -0.8864
+      "pa": 19,
+      "xr": -0.9256
     },
     "690976": {
       "name": "Alex Freeland",
@@ -2259,8 +2259,8 @@
     "545121": {
       "name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
-      "pa": 209,
-      "xr": 0.9102
+      "pa": 210,
+      "xr": 0.7103
     },
     "595978": {
       "name": "Austin Hedges",
@@ -2277,8 +2277,8 @@
     "678554": {
       "name": "Curtis Mead",
       "team": "Washington Nationals",
-      "pa": 168,
-      "xr": 5.2426
+      "pa": 173,
+      "xr": 6.9922
     },
     "699912": {
       "name": "Jose Fernandez",
@@ -2877,8 +2877,8 @@
     "814439": {
       "name": "Ryan Waldschmidt",
       "team": "Arizona Diamondbacks",
-      "pa": 90,
-      "xr": -1.0531
+      "pa": 93,
+      "xr": -1.0933
     },
     "683079": {
       "name": "Omar Martinez",
@@ -3015,8 +3015,8 @@
     "686611": {
       "name": "Dylan Crews",
       "team": "Washington Nationals",
-      "pa": 57,
-      "xr": 1.3403
+      "pa": 61,
+      "xr": 2.4532
     },
     "606115": {
       "name": "Orlando Arcia",
@@ -3093,8 +3093,8 @@
     "694371": {
       "name": "Tommy Troy",
       "team": "Arizona Diamondbacks",
-      "pa": 40,
-      "xr": -1.2059
+      "pa": 43,
+      "xr": -0.9005
     },
     "807747": {
       "name": "Rikuu Nishida",
@@ -3243,8 +3243,8 @@
     "694410": {
       "name": "LuJames Groover",
       "team": "Arizona Diamondbacks",
-      "pa": 4,
-      "xr": -0.3354
+      "pa": 7,
+      "xr": 0.344
     }
   },
   "pitchers": {
@@ -3449,8 +3449,8 @@
     "695418": {
       "name": "Brad Lord",
       "team": "Washington Nationals",
-      "bf": 153,
-      "xr_allowed": 1.4599
+      "bf": 159,
+      "xr_allowed": 0.9901
     },
     "571948": {
       "name": "Hoby Milner",
@@ -3827,8 +3827,8 @@
     "666661": {
       "name": "Juan Morillo",
       "team": "Arizona Diamondbacks",
-      "bf": 98,
-      "xr_allowed": -5.665
+      "bf": 101,
+      "xr_allowed": -5.9344
     },
     "657044": {
       "name": "Ryan Thompson",
@@ -4271,8 +4271,8 @@
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
       "team": "Arizona Diamondbacks",
-      "bf": 93,
-      "xr_allowed": 0.1344
+      "bf": 96,
+      "xr_allowed": 0.3022
     },
     "676508": {
       "name": "Ben Casparius",
@@ -4853,8 +4853,8 @@
     "593958": {
       "name": "Eduardo Rodriguez",
       "team": "Arizona Diamondbacks",
-      "bf": 265,
-      "xr_allowed": 1.9438
+      "bf": 290,
+      "xr_allowed": 3.6139
     },
     "605452": {
       "name": "Joe Ross",
@@ -5477,8 +5477,8 @@
     "641793": {
       "name": "Zack Littell",
       "team": "Washington Nationals",
-      "bf": 242,
-      "xr_allowed": 15.6967
+      "bf": 261,
+      "xr_allowed": 15.852
     },
     "676083": {
       "name": "Janson Junk",
@@ -5999,8 +5999,8 @@
     "687377": {
       "name": "Orlando Ribalta",
       "team": "Washington Nationals",
-      "bf": 61,
-      "xr_allowed": -5.2236
+      "bf": 64,
+      "xr_allowed": -4.4504
     },
     "681895": {
       "name": "Evan Sisk",
@@ -6059,8 +6059,8 @@
     "680730": {
       "name": "Mitchell Parker",
       "team": "Washington Nationals",
-      "bf": 119,
-      "xr_allowed": 1.3138
+      "bf": 122,
+      "xr_allowed": 1.3346
     },
     "663767": {
       "name": "Chase Shugart",
@@ -7249,6 +7249,12 @@
       "team": "Arizona Diamondbacks",
       "bf": 10,
       "xr_allowed": 1.8483
+    },
+    "686753": {
+      "name": "Drey Jameson",
+      "team": "Arizona Diamondbacks",
+      "bf": 7,
+      "xr_allowed": 0.9051
     }
   },
   "processed_games": [
@@ -8157,6 +8163,7 @@
     823697,
     823048,
     824669,
-    822808
+    822808,
+    825075
   ]
 }
