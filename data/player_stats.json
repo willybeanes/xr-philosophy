@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 252,
-      "xr": 1.415
+      "pa": 256,
+      "xr": 0.7384
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 248,
-      "xr": -0.8605
+      "pa": 253,
+      "xr": -0.8092
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 259,
-      "xr": 17.9797
+      "pa": 264,
+      "xr": 18.1384
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 198,
-      "xr": 2.343
+      "pa": 201,
+      "xr": 3.386
     },
     "668930": {
       "name": "Brice Turang",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 163,
-      "xr": -5.0715
+      "pa": 167,
+      "xr": -4.9889
     },
     "624512": {
       "name": "Reese McGuire",
@@ -363,8 +363,8 @@
     "656537": {
       "name": "Derek Hill",
       "team": "Chicago White Sox",
-      "pa": 81,
-      "xr": -0.3682
+      "pa": 83,
+      "xr": -0.9353
     },
     "695578": {
       "name": "James Wood",
@@ -1131,38 +1131,38 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 255,
-      "xr": -3.4897
+      "pa": 259,
+      "xr": -3.4815
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 251,
-      "xr": 13.7452
+      "pa": 256,
+      "xr": 13.1684
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 248,
-      "xr": 17.8376
+      "pa": 252,
+      "xr": 17.028
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 232,
-      "xr": -5.158
+      "pa": 236,
+      "xr": -4.7725
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 196,
-      "xr": -2.3766
+      "pa": 200,
+      "xr": -2.5408
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
       "team": "Philadelphia Phillies",
-      "pa": 223,
-      "xr": -0.2091
+      "pa": 227,
+      "xr": -0.5226
     },
     "673962": {
       "name": "Josh Jung",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 203,
-      "xr": 1.8445
+      "pa": 207,
+      "xr": 2.0512
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 140,
-      "xr": -1.4148
+      "pa": 144,
+      "xr": -0.3986
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 181,
-      "xr": -8.928
+      "pa": 183,
+      "xr": -9.2682
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1467,8 +1467,8 @@
     "545341": {
       "name": "Randal Grichuk",
       "team": "Chicago White Sox",
-      "pa": 77,
-      "xr": 4.2335
+      "pa": 79,
+      "xr": 3.7346
     },
     "701762": {
       "name": "Nick Kurtz",
@@ -1971,8 +1971,8 @@
     "624641": {
       "name": "Edmundo Sosa",
       "team": "Philadelphia Phillies",
-      "pa": 90,
-      "xr": 3.1167
+      "pa": 92,
+      "xr": 2.2328
     },
     "805249": {
       "name": "Otto Kemp",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 169,
-      "xr": 8.6
+      "pa": 174,
+      "xr": 9.0766
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2685,8 +2685,8 @@
     "691011": {
       "name": "Drew Romo",
       "team": "Chicago White Sox",
-      "pa": 70,
-      "xr": -1.7673
+      "pa": 74,
+      "xr": -2.8828
     },
     "687515": {
       "name": "Colby Thomas",
@@ -3099,8 +3099,8 @@
     "807747": {
       "name": "Rikuu Nishida",
       "team": "Chicago White Sox",
-      "pa": 26,
-      "xr": -1.2359
+      "pa": 28,
+      "xr": -1.3523
     },
     "683748": {
       "name": "Victor Mesa Jr.",
@@ -3171,8 +3171,8 @@
     "694378": {
       "name": "Jacob Gonzalez",
       "team": "Chicago White Sox",
-      "pa": 17,
-      "xr": 0.5305
+      "pa": 21,
+      "xr": 0.5181
     },
     "813841": {
       "name": "Jonah Cox",
@@ -3371,8 +3371,8 @@
     "656794": {
       "name": "Sean Newcomb",
       "team": "Chicago White Sox",
-      "bf": 133,
-      "xr_allowed": -3.8378
+      "bf": 141,
+      "xr_allowed": -4.4933
     },
     "656457": {
       "name": "Tyler Gilbert",
@@ -4511,8 +4511,8 @@
     "621383": {
       "name": "Tanner Banks",
       "team": "Philadelphia Phillies",
-      "bf": 93,
-      "xr_allowed": 2.1795
+      "bf": 101,
+      "xr_allowed": 0.9468
     },
     "621237": {
       "name": "Jos\u00e9 Alvarado",
@@ -4529,8 +4529,8 @@
     "641835": {
       "name": "Tim Mayza",
       "team": "Philadelphia Phillies",
-      "bf": 101,
-      "xr_allowed": -0.1684
+      "bf": 104,
+      "xr_allowed": -0.7614
     },
     "676395": {
       "name": "Robert Garcia",
@@ -4709,8 +4709,8 @@
     "680732": {
       "name": "Sean Burke",
       "team": "Chicago White Sox",
-      "bf": 248,
-      "xr_allowed": -5.0177
+      "bf": 269,
+      "xr_allowed": -4.6212
     },
     "669684": {
       "name": "Chris Murphy",
@@ -4721,8 +4721,8 @@
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 122,
-      "xr_allowed": -7.6852
+      "bf": 125,
+      "xr_allowed": -8.1629
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -5471,8 +5471,8 @@
     "691725": {
       "name": "Andrew Painter",
       "team": "Philadelphia Phillies",
-      "bf": 216,
-      "xr_allowed": 1.0382
+      "bf": 241,
+      "xr_allowed": 2.1386
     },
     "641793": {
       "name": "Zack Littell",
@@ -5963,8 +5963,8 @@
     "685126": {
       "name": "Brandon Eisert",
       "team": "Chicago White Sox",
-      "bf": 55,
-      "xr_allowed": -2.5694
+      "bf": 60,
+      "xr_allowed": -3.3043
     },
     "681151": {
       "name": "Jayden Murray",
@@ -6065,8 +6065,8 @@
     "663767": {
       "name": "Chase Shugart",
       "team": "Philadelphia Phillies",
-      "bf": 62,
-      "xr_allowed": -3.166
+      "bf": 66,
+      "xr_allowed": -3.6154
     },
     "669020": {
       "name": "Ryan Rolison",
@@ -8165,6 +8165,7 @@
     824669,
     822808,
     825075,
-    824915
+    824915,
+    823454
   ]
 }
