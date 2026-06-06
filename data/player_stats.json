@@ -855,44 +855,44 @@
     "681481": {
       "name": "Kerry Carpenter",
       "team": "Detroit Tigers",
-      "pa": 131,
-      "xr": -1.5251
+      "pa": 133,
+      "xr": -1.3986
     },
     "650402": {
       "name": "Gleyber Torres",
       "team": "Detroit Tigers",
-      "pa": 159,
-      "xr": 4.774
+      "pa": 163,
+      "xr": 3.8556
     },
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 176,
-      "xr": -2.0229
+      "pa": 179,
+      "xr": -2.2059
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 255,
-      "xr": 6.9267
+      "pa": 259,
+      "xr": 6.2878
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 231,
-      "xr": 0.1941
+      "pa": 234,
+      "xr": -0.3011
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 256,
-      "xr": 14.3915
+      "pa": 260,
+      "xr": 14.8412
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 222,
-      "xr": 21.2243
+      "pa": 226,
+      "xr": 22.4403
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 269,
-      "xr": 12.6663
+      "pa": 274,
+      "xr": 12.218
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 244,
-      "xr": 3.0691
+      "pa": 249,
+      "xr": 3.3495
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 261,
-      "xr": 7.2598
+      "pa": 265,
+      "xr": 8.0007
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 171,
-      "xr": 9.1785
+      "pa": 175,
+      "xr": 8.7846
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 147,
-      "xr": 5.554
+      "pa": 151,
+      "xr": 7.4707
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 245,
-      "xr": 1.6976
+      "pa": 250,
+      "xr": 1.8973
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1857,14 +1857,14 @@
     "663330": {
       "name": "Jahmai Jones",
       "team": "Detroit Tigers",
-      "pa": 79,
-      "xr": -0.5224
+      "pa": 81,
+      "xr": -0.5754
     },
     "663837": {
       "name": "Matt Vierling",
       "team": "Detroit Tigers",
-      "pa": 168,
-      "xr": -5.7002
+      "pa": 171,
+      "xr": -6.1833
     },
     "692216": {
       "name": "CJ Kayfus",
@@ -2475,8 +2475,8 @@
     "672761": {
       "name": "Wenceel P\u00e9rez",
       "team": "Detroit Tigers",
-      "pa": 146,
-      "xr": -5.1728
+      "pa": 149,
+      "xr": -5.8583
     },
     "666211": {
       "name": "Taylor Trammell",
@@ -2547,8 +2547,8 @@
     "621550": {
       "name": "Patrick Wisdom",
       "team": "Seattle Mariners",
-      "pa": 22,
-      "xr": -1.2545
+      "pa": 26,
+      "xr": -1.2956
     },
     "642215": {
       "name": "Weston Wilson",
@@ -2775,8 +2775,8 @@
     "640902": {
       "name": "Jhonny Pereda",
       "team": "Seattle Mariners",
-      "pa": 47,
-      "xr": 3.1941
+      "pa": 51,
+      "xr": 3.0389
     },
     "670097": {
       "name": "Zack Short",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 61,
-      "xr": -3.743
+      "pa": 65,
+      "xr": -5.0509
     },
     "680737": {
       "name": "Michael Helman",
@@ -3881,8 +3881,8 @@
     "678606": {
       "name": "Jos\u00e9 A. Ferrer",
       "team": "Seattle Mariners",
-      "bf": 112,
-      "xr_allowed": -5.8444
+      "bf": 116,
+      "xr_allowed": -6.081
     },
     "641401": {
       "name": "Connor Brogdon",
@@ -3893,8 +3893,8 @@
     "642100": {
       "name": "Gabe Speier",
       "team": "Seattle Mariners",
-      "bf": 64,
-      "xr_allowed": -1.1824
+      "bf": 68,
+      "xr_allowed": -1.1223
     },
     "542888": {
       "name": "Shawn Armstrong",
@@ -4241,8 +4241,8 @@
     "666374": {
       "name": "Matt Brash",
       "team": "Seattle Mariners",
-      "bf": 57,
-      "xr_allowed": 0.6242
+      "bf": 61,
+      "xr_allowed": 0.3496
     },
     "662253": {
       "name": "Andr\u00e9s Mu\u00f1oz",
@@ -5759,8 +5759,8 @@
     "672456": {
       "name": "Keider Montero",
       "team": "Detroit Tigers",
-      "bf": 220,
-      "xr_allowed": -5.0521
+      "bf": 242,
+      "xr_allowed": -3.1041
     },
     "702303": {
       "name": "Riley Martin",
@@ -6605,8 +6605,8 @@
     "680744": {
       "name": "Ty Madden",
       "team": "Detroit Tigers",
-      "bf": 37,
-      "xr_allowed": -2.7383
+      "bf": 50,
+      "xr_allowed": -3.7742
     },
     "642152": {
       "name": "Lou Trivino",
@@ -6791,8 +6791,8 @@
     "682243": {
       "name": "Bryce Miller",
       "team": "Seattle Mariners",
-      "bf": 79,
-      "xr_allowed": -5.0066
+      "bf": 99,
+      "xr_allowed": -6.2204
     },
     "681006": {
       "name": "Josh Simpson",
@@ -7079,8 +7079,8 @@
     "805427": {
       "name": "Drew Sommers",
       "team": "Detroit Tigers",
-      "bf": 4,
-      "xr_allowed": -0.1017
+      "bf": 8,
+      "xr_allowed": -0.2225
     },
     "687721": {
       "name": "Cameron Weston",
@@ -8152,6 +8152,7 @@
     824350,
     823293,
     825073,
-    823943
+    823943,
+    824269
   ]
 }
