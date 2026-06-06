@@ -507,20 +507,20 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Baltimore Orioles",
-      "pa": 268,
-      "xr": 10.0103
+      "pa": 273,
+      "xr": 9.4227
     },
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 268,
-      "xr": -0.2915
+      "pa": 273,
+      "xr": -0.5002
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 257,
-      "xr": 11.1285
+      "pa": 262,
+      "xr": 11.026
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -561,14 +561,14 @@
     "668939": {
       "name": "Adley Rutschman",
       "team": "Baltimore Orioles",
-      "pa": 178,
-      "xr": 7.6411
+      "pa": 183,
+      "xr": 9.4675
     },
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 176,
-      "xr": 8.9566
+      "pa": 178,
+      "xr": 8.9462
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,14 +579,14 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 130,
-      "xr": -2.1034
+      "pa": 135,
+      "xr": -2.0514
     },
     "691723": {
       "name": "Coby Mayo",
       "team": "Baltimore Orioles",
-      "pa": 160,
-      "xr": -0.4687
+      "pa": 165,
+      "xr": -0.1572
     },
     "677942": {
       "name": "Blaze Alexander",
@@ -1491,20 +1491,20 @@
     "543807": {
       "name": "George Springer",
       "team": "Toronto Blue Jays",
-      "pa": 176,
-      "xr": -1.7346
+      "pa": 180,
+      "xr": -1.2497
     },
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 95,
-      "xr": 1.5513
+      "pa": 99,
+      "xr": 1.0007
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 245,
-      "xr": 13.6723
+      "pa": 249,
+      "xr": 13.4208
     },
     "680718": {
       "name": "Addison Barger",
@@ -1539,14 +1539,14 @@
     "662139": {
       "name": "Daulton Varsho",
       "team": "Toronto Blue Jays",
-      "pa": 223,
-      "xr": -1.4046
+      "pa": 224,
+      "xr": -1.4254
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 239,
-      "xr": -3.5351
+      "pa": 243,
+      "xr": -3.8187
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 236,
-      "xr": -7.0188
+      "pa": 240,
+      "xr": -7.7022
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 205,
-      "xr": -10.9948
+      "pa": 208,
+      "xr": -10.9259
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1935,8 +1935,8 @@
     "660821": {
       "name": "Jes\u00fas S\u00e1nchez",
       "team": "Toronto Blue Jays",
-      "pa": 177,
-      "xr": 11.1958
+      "pa": 181,
+      "xr": 12.0654
     },
     "687637": {
       "name": "Dylan Beavers",
@@ -1947,8 +1947,8 @@
     "669236": {
       "name": "Jeremiah Jackson",
       "team": "Baltimore Orioles",
-      "pa": 163,
-      "xr": 0.4819
+      "pa": 166,
+      "xr": 1.1968
     },
     "663624": {
       "name": "Ryan Mountcastle",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 170,
-      "xr": 3.3359
+      "pa": 175,
+      "xr": 3.2451
     },
     "681546": {
       "name": "James Outman",
@@ -2385,8 +2385,8 @@
     "678218": {
       "name": "Brandon Valenzuela",
       "team": "Toronto Blue Jays",
-      "pa": 116,
-      "xr": 0.6069
+      "pa": 120,
+      "xr": 1.2787
     },
     "666185": {
       "name": "Dylan Carlson",
@@ -2703,8 +2703,8 @@
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
       "team": "Toronto Blue Jays",
-      "pa": 101,
-      "xr": 2.5462
+      "pa": 104,
+      "xr": 1.9913
     },
     "668709": {
       "name": "JJ Bleday",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 47,
-      "xr": -0.6623
+      "pa": 52,
+      "xr": -0.254
     },
     "703492": {
       "name": "Nick Morabito",
@@ -4439,8 +4439,8 @@
     "666974": {
       "name": "Yennier Cano",
       "team": "Baltimore Orioles",
-      "bf": 71,
-      "xr_allowed": 0.2942
+      "bf": 74,
+      "xr_allowed": -0.0299
     },
     "607455": {
       "name": "Anthony Banda",
@@ -4469,8 +4469,8 @@
     "689296": {
       "name": "Anthony Nunez",
       "team": "Baltimore Orioles",
-      "bf": 123,
-      "xr_allowed": 3.2095
+      "bf": 127,
+      "xr_allowed": 3.3313
     },
     "663485": {
       "name": "Cole Sands",
@@ -4817,8 +4817,8 @@
     "657756": {
       "name": "Connor Seabold",
       "team": "Toronto Blue Jays",
-      "bf": 77,
-      "xr_allowed": -3.6219
+      "bf": 84,
+      "xr_allowed": -1.1094
     },
     "606996": {
       "name": "Kyle Hart",
@@ -4907,8 +4907,8 @@
     "664991": {
       "name": "Grant Wolfram",
       "team": "Baltimore Orioles",
-      "bf": 76,
-      "xr_allowed": -1.7301
+      "bf": 78,
+      "xr_allowed": -1.694
     },
     "670329": {
       "name": "Rico Garcia",
@@ -5285,8 +5285,8 @@
     "623168": {
       "name": "Tyler Heineman",
       "team": "Toronto Blue Jays",
-      "bf": 17,
-      "xr_allowed": 4.1646
+      "bf": 18,
+      "xr_allowed": 4.8348
     },
     "693821": {
       "name": "Bryce Elder",
@@ -5771,8 +5771,8 @@
     "687064": {
       "name": "Brandon Young",
       "team": "Baltimore Orioles",
-      "bf": 189,
-      "xr_allowed": 5.7389
+      "bf": 215,
+      "xr_allowed": 5.6555
     },
     "660853": {
       "name": "Enyel De Los Santos",
@@ -6437,8 +6437,8 @@
     "702056": {
       "name": "Trey Yesavage",
       "team": "Toronto Blue Jays",
-      "bf": 132,
-      "xr_allowed": -7.8043
+      "bf": 156,
+      "xr_allowed": -6.5629
     },
     "695684": {
       "name": "Elmer Rodr\u00edguez",
@@ -6707,8 +6707,8 @@
     "684320": {
       "name": "Yariel Rodr\u00edguez",
       "team": "Toronto Blue Jays",
-      "bf": 37,
-      "xr_allowed": 3.6143
+      "bf": 45,
+      "xr_allowed": 2.2881
     },
     "670090": {
       "name": "Wyatt Mills",
@@ -6875,8 +6875,8 @@
     "671936": {
       "name": "Adam Macko",
       "team": "Toronto Blue Jays",
-      "bf": 36,
-      "xr_allowed": 0.2301
+      "bf": 41,
+      "xr_allowed": -0.5547
     },
     "621389": {
       "name": "Ty Blach",
@@ -8107,6 +8107,7 @@
     823455,
     823538,
     823860,
-    824914
+    824914,
+    822810
   ]
 }
