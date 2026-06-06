@@ -1101,26 +1101,26 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 251,
-      "xr": 14.7642
+      "pa": 254,
+      "xr": 14.0934
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 84,
-      "xr": -0.4166
+      "pa": 88,
+      "xr": -0.6698
     },
     "608369": {
       "name": "Corey Seager",
       "team": "Texas Rangers",
-      "pa": 170,
-      "xr": 4.3317
+      "pa": 174,
+      "xr": 5.5665
     },
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 242,
-      "xr": 0.4002
+      "pa": 245,
+      "xr": -0.148
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 228,
-      "xr": 14.6173
+      "pa": 232,
+      "xr": 14.4351
     },
     "669701": {
       "name": "Josh Smith",
@@ -1209,26 +1209,26 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 179,
-      "xr": 8.9505
+      "pa": 180,
+      "xr": 8.9453
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 198,
-      "xr": -3.7539
+      "pa": 199,
+      "xr": -3.8519
     },
     "543309": {
       "name": "Kyle Higashioka",
       "team": "Texas Rangers",
-      "pa": 104,
-      "xr": -0.9115
+      "pa": 107,
+      "xr": -0.261
     },
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 181,
-      "xr": 2.33
+      "pa": 184,
+      "xr": 2.6632
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1341,26 +1341,26 @@
     "680757": {
       "name": "Steven Kwan",
       "team": "Cleveland Guardians",
-      "pa": 230,
-      "xr": -1.4596
+      "pa": 233,
+      "xr": -0.9845
     },
     "800050": {
       "name": "Chase DeLauter",
       "team": "Cleveland Guardians",
-      "pa": 232,
-      "xr": 5.5918
+      "pa": 236,
+      "xr": 5.719
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
-      "pa": 266,
-      "xr": 13.6612
+      "pa": 270,
+      "xr": 12.7422
     },
     "700932": {
       "name": "Kyle Manzardo",
       "team": "Cleveland Guardians",
-      "pa": 184,
-      "xr": 3.4571
+      "pa": 187,
+      "xr": 2.7652
     },
     "680977": {
       "name": "Brendan Donovan",
@@ -1395,14 +1395,14 @@
     "656555": {
       "name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
-      "pa": 166,
-      "xr": -0.2145
+      "pa": 170,
+      "xr": -0.2954
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 165,
-      "xr": 0.0508
+      "pa": 168,
+      "xr": 0.324
     },
     "672356": {
       "name": "Gabriel Arias",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 215,
-      "xr": -0.0063
+      "pa": 219,
+      "xr": -0.9923
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1449,8 +1449,8 @@
     "682657": {
       "name": "Angel Mart\u00ednez",
       "team": "Cleveland Guardians",
-      "pa": 199,
-      "xr": -2.6608
+      "pa": 200,
+      "xr": -2.8375
     },
     "502671": {
       "name": "Paul Goldschmidt",
@@ -2109,8 +2109,8 @@
     "681807": {
       "name": "David Fry",
       "team": "Cleveland Guardians",
-      "pa": 91,
-      "xr": -3.5273
+      "pa": 92,
+      "xr": -3.5545
     },
     "645302": {
       "name": "Victor Robles",
@@ -2265,8 +2265,8 @@
     "595978": {
       "name": "Austin Hedges",
       "team": "Cleveland Guardians",
-      "pa": 86,
-      "xr": -3.8051
+      "pa": 90,
+      "xr": -4.2343
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 125,
-      "xr": -1.9394
+      "pa": 129,
+      "xr": -1.3075
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 55,
-      "xr": -1.202
+      "pa": 57,
+      "xr": -1.0586
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -2991,8 +2991,8 @@
     "680737": {
       "name": "Michael Helman",
       "team": "Texas Rangers",
-      "pa": 25,
-      "xr": -2.2813
+      "pa": 27,
+      "xr": -2.5864
     },
     "644433": {
       "name": "Chadwick Tromp",
@@ -3159,8 +3159,8 @@
     "656413": {
       "name": "Stuart Fairchild",
       "team": "Cleveland Guardians",
-      "pa": 8,
-      "xr": -2.1891
+      "pa": 9,
+      "xr": -1.9335
     },
     "699625": {
       "name": "Jimmy Crooks",
@@ -3761,8 +3761,8 @@
     "656222": {
       "name": "Jalen Beeks",
       "team": "Texas Rangers",
-      "bf": 103,
-      "xr_allowed": 3.946
+      "bf": 104,
+      "xr_allowed": 3.8485
     },
     "680742": {
       "name": "Jonathan Bowlan",
@@ -3887,8 +3887,8 @@
     "542888": {
       "name": "Shawn Armstrong",
       "team": "Cleveland Guardians",
-      "bf": 68,
-      "xr_allowed": -0.9051
+      "bf": 71,
+      "xr_allowed": -1.2142
     },
     "681870": {
       "name": "Erik Sabrowski",
@@ -4487,8 +4487,8 @@
     "656641": {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
-      "bf": 92,
-      "xr_allowed": -4.0618
+      "bf": 100,
+      "xr_allowed": -5.1275
     },
     "668390": {
       "name": "Cole Winn",
@@ -4871,8 +4871,8 @@
     "670036": {
       "name": "Matt Festa",
       "team": "Cleveland Guardians",
-      "bf": 112,
-      "xr_allowed": -5.3546
+      "bf": 116,
+      "xr_allowed": -5.838
     },
     "682120": {
       "name": "Tim Herrin",
@@ -5423,8 +5423,8 @@
     "800048": {
       "name": "Parker Messick",
       "team": "Cleveland Guardians",
-      "bf": 249,
-      "xr_allowed": -7.5241
+      "bf": 272,
+      "xr_allowed": -6.4324
     },
     "680736": {
       "name": "Justin Wrobleski",
@@ -5693,8 +5693,8 @@
     "677958": {
       "name": "Kumar Rocker",
       "team": "Texas Rangers",
-      "bf": 222,
-      "xr_allowed": 2.8063
+      "bf": 244,
+      "xr_allowed": 3.1552
     },
     "683766": {
       "name": "Christian Koss",
@@ -6335,8 +6335,8 @@
     "682608": {
       "name": "Peyton Gray",
       "team": "Texas Rangers",
-      "bf": 80,
-      "xr_allowed": -1.8132
+      "bf": 85,
+      "xr_allowed": -2.5468
     },
     "552640": {
       "name": "Andrew Kittredge",
@@ -8109,6 +8109,7 @@
     823860,
     824914,
     822810,
-    824186
+    824186,
+    822892
   ]
 }
