@@ -111,32 +111,32 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 254,
-      "xr": 9.8501
+      "pa": 258,
+      "xr": 8.3299
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 233,
-      "xr": 9.8975
+      "pa": 237,
+      "xr": 10.0201
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 258,
-      "xr": 12.7376
+      "pa": 262,
+      "xr": 12.836
     },
     "542303": {
       "name": "Marcell Ozuna",
       "team": "Pittsburgh Pirates",
-      "pa": 179,
-      "xr": -4.5434
+      "pa": 183,
+      "xr": -4.3155
     },
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 180,
-      "xr": 8.6959
+      "pa": 181,
+      "xr": 8.4176
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,26 +195,26 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 91,
-      "xr": -3.8423
+      "pa": 94,
+      "xr": -3.0472
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 208,
-      "xr": 1.692
+      "pa": 211,
+      "xr": 1.788
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 214,
-      "xr": 8.4041
+      "pa": 218,
+      "xr": 7.9237
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 130,
-      "xr": -3.8744
+      "pa": 132,
+      "xr": -3.6248
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -1731,8 +1731,8 @@
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
-      "pa": 220,
-      "xr": 15.9312
+      "pa": 225,
+      "xr": 16.4437
     },
     "686948": {
       "name": "Drake Baldwin",
@@ -1743,20 +1743,20 @@
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 257,
-      "xr": 5.1641
+      "pa": 261,
+      "xr": 5.7161
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 264,
-      "xr": 13.5379
+      "pa": 269,
+      "xr": 13.0815
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 245,
-      "xr": -4.065
+      "pa": 249,
+      "xr": -3.6513
     },
     "642201": {
       "name": "Eli White",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 221,
-      "xr": -0.6461
+      "pa": 225,
+      "xr": 0.4678
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 218,
-      "xr": 15.6279
+      "pa": 223,
+      "xr": 15.4707
     },
     "695600": {
       "name": "Carter Jensen",
@@ -2055,8 +2055,8 @@
     "573262": {
       "name": "Mike Yastrzemski",
       "team": "Atlanta Braves",
-      "pa": 168,
-      "xr": -2.4391
+      "pa": 172,
+      "xr": -1.948
     },
     "664728": {
       "name": "Kyle Isbel",
@@ -2067,8 +2067,8 @@
     "642086": {
       "name": "Dominic Smith",
       "team": "Atlanta Braves",
-      "pa": 135,
-      "xr": 6.302
+      "pa": 139,
+      "xr": 5.536
     },
     "686475": {
       "name": "Tyler Tolbert",
@@ -2919,8 +2919,8 @@
     "506702": {
       "name": "Sandy Le\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 30,
-      "xr": -4.6832
+      "pa": 34,
+      "xr": -5.7426
     },
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 48,
-      "xr": 3.1966
+      "pa": 49,
+      "xr": 3.2254
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3027,8 +3027,8 @@
     "691373": {
       "name": "Jhostynxon Garcia",
       "team": "Pittsburgh Pirates",
-      "pa": 34,
-      "xr": 0.6848
+      "pa": 37,
+      "xr": 0.3591
     },
     "677060": {
       "name": "Chad Stevens",
@@ -3335,8 +3335,8 @@
     "642701": {
       "name": "Dennis Santana",
       "team": "Pittsburgh Pirates",
-      "bf": 107,
-      "xr_allowed": 4.2439
+      "bf": 110,
+      "xr_allowed": 3.8423
     },
     "472610": {
       "name": "Luis Garc\u00eda",
@@ -4091,14 +4091,14 @@
     "669276": {
       "name": "Dylan Lee",
       "team": "Atlanta Braves",
-      "bf": 100,
-      "xr_allowed": -6.8784
+      "bf": 103,
+      "xr_allowed": -7.1341
     },
     "663158": {
       "name": "Robert Suarez",
       "team": "Atlanta Braves",
-      "bf": 99,
-      "xr_allowed": -4.4406
+      "bf": 102,
+      "xr_allowed": -4.3023
     },
     "656638": {
       "name": "Alex Lange",
@@ -4583,8 +4583,8 @@
     "656605": {
       "name": "Mitch Keller",
       "team": "Pittsburgh Pirates",
-      "bf": 257,
-      "xr_allowed": 6.0921
+      "bf": 282,
+      "xr_allowed": 7.848
     },
     "623211": {
       "name": "Huascar Brazob\u00e1n",
@@ -4949,8 +4949,8 @@
     "800311": {
       "name": "Didier Fuentes",
       "team": "Atlanta Braves",
-      "bf": 99,
-      "xr_allowed": -3.0001
+      "bf": 102,
+      "xr_allowed": -3.118
     },
     "670167": {
       "name": "John Schreiber",
@@ -5303,8 +5303,8 @@
     "628452": {
       "name": "Raisel Iglesias",
       "team": "Atlanta Braves",
-      "bf": 68,
-      "xr_allowed": -5.8375
+      "bf": 72,
+      "xr_allowed": -5.4507
     },
     "665795": {
       "name": "Edward Cabrera",
@@ -5507,8 +5507,8 @@
     "527048": {
       "name": "Mart\u00edn P\u00e9rez",
       "team": "Atlanta Braves",
-      "bf": 205,
-      "xr_allowed": 1.4922
+      "bf": 225,
+      "xr_allowed": 0.3545
     },
     "592791": {
       "name": "Jameson Taillon",
@@ -5993,8 +5993,8 @@
     "681895": {
       "name": "Evan Sisk",
       "team": "Pittsburgh Pirates",
-      "bf": 94,
-      "xr_allowed": -3.851
+      "bf": 100,
+      "xr_allowed": -3.7913
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -6755,8 +6755,8 @@
     "684049": {
       "name": "Brandan Bidois",
       "team": "Pittsburgh Pirates",
-      "bf": 43,
-      "xr_allowed": -0.1927
+      "bf": 48,
+      "xr_allowed": -0.9625
     },
     "666157": {
       "name": "Nick Lodolo",
@@ -8106,6 +8106,7 @@
     824271,
     823455,
     823538,
-    823860
+    823860,
+    824914
   ]
 }
