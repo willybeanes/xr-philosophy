@@ -969,26 +969,26 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 242,
-      "xr": 17.0436
+      "pa": 246,
+      "xr": 17.0194
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 92,
-      "xr": 0.8406
+      "pa": 96,
+      "xr": 0.79
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 257,
-      "xr": 17.0103
+      "pa": 261,
+      "xr": 16.367
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 260,
-      "xr": 7.6483
+      "pa": 264,
+      "xr": 7.5183
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1041,8 +1041,8 @@
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 205,
-      "xr": -11.65
+      "pa": 209,
+      "xr": -11.3525
     },
     "700246": {
       "name": "Carson Williams",
@@ -1083,8 +1083,8 @@
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 150,
-      "xr": 0.1318
+      "pa": 154,
+      "xr": 0.175
     },
     "641584": {
       "name": "Jake Fraley",
@@ -1095,8 +1095,8 @@
     "676439": {
       "name": "Hunter Feduccia",
       "team": "Tampa Bay Rays",
-      "pa": 81,
-      "xr": -3.0742
+      "pa": 84,
+      "xr": -2.3577
     },
     "607043": {
       "name": "Brandon Nimmo",
@@ -1617,14 +1617,14 @@
     "805300": {
       "name": "Jakob Marsee",
       "team": "Miami Marlins",
-      "pa": 251,
-      "xr": -1.6634
+      "pa": 254,
+      "xr": -1.0468
     },
     "672640": {
       "name": "Otto Lopez",
       "team": "Miami Marlins",
-      "pa": 254,
-      "xr": 11.8405
+      "pa": 258,
+      "xr": 11.8345
     },
     "681393": {
       "name": "Connor Norby",
@@ -1653,26 +1653,26 @@
     "681715": {
       "name": "Heriberto Hern\u00e1ndez",
       "team": "Miami Marlins",
-      "pa": 115,
-      "xr": 3.4892
+      "pa": 119,
+      "xr": 2.8541
     },
     "669364": {
       "name": "Xavier Edwards",
       "team": "Miami Marlins",
-      "pa": 262,
-      "xr": 7.3054
+      "pa": 266,
+      "xr": 7.7125
     },
     "683357": {
       "name": "Owen Caissie",
       "team": "Miami Marlins",
-      "pa": 169,
-      "xr": -6.5084
+      "pa": 171,
+      "xr": -6.1305
     },
     "691594": {
       "name": "Javier Sanoja",
       "team": "Miami Marlins",
-      "pa": 134,
-      "xr": -5.6063
+      "pa": 137,
+      "xr": -6.589
     },
     "686668": {
       "name": "Brenton Doyle",
@@ -2043,8 +2043,8 @@
     "689414": {
       "name": "Liam Hicks",
       "team": "Miami Marlins",
-      "pa": 224,
-      "xr": 5.9471
+      "pa": 228,
+      "xr": 5.3625
     },
     "688363": {
       "name": "Graham Pauley",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 153,
-      "xr": -9.298
+      "pa": 156,
+      "xr": -9.2434
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2613,8 +2613,8 @@
     "669065": {
       "name": "Kyle Stowers",
       "team": "Miami Marlins",
-      "pa": 162,
-      "xr": 0.9187
+      "pa": 166,
+      "xr": 0.4225
     },
     "669899": {
       "name": "Ryan Ward",
@@ -2679,8 +2679,8 @@
     "665923": {
       "name": "Esteury Ruiz",
       "team": "Miami Marlins",
-      "pa": 51,
-      "xr": -3.0992
+      "pa": 53,
+      "xr": -3.4151
     },
     "691011": {
       "name": "Drew Romo",
@@ -2787,8 +2787,8 @@
     "691788": {
       "name": "Joe Mack",
       "team": "Miami Marlins",
-      "pa": 75,
-      "xr": -1.3
+      "pa": 79,
+      "xr": -2.1636
     },
     "694192": {
       "name": "Jackson Chourio",
@@ -3105,8 +3105,8 @@
     "683748": {
       "name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
-      "pa": 36,
-      "xr": 0.4917
+      "pa": 39,
+      "xr": -0.3975
     },
     "686554": {
       "name": "Oliver Dunn",
@@ -3725,14 +3725,14 @@
     "664076": {
       "name": "Garrett Cleavinger",
       "team": "Tampa Bay Rays",
-      "bf": 48,
-      "xr_allowed": 0.8007
+      "bf": 53,
+      "xr_allowed": 0.3754
     },
     "643377": {
       "name": "Griffin Jax",
       "team": "Tampa Bay Rays",
-      "bf": 132,
-      "xr_allowed": 7.3532
+      "bf": 150,
+      "xr_allowed": 7.0165
     },
     "668941": {
       "name": "JoJo Romero",
@@ -4037,8 +4037,8 @@
     "645261": {
       "name": "Sandy Alcantara",
       "team": "Miami Marlins",
-      "bf": 326,
-      "xr_allowed": 5.1022
+      "bf": 352,
+      "xr_allowed": 5.731
     },
     "607536": {
       "name": "Kyle Freeland",
@@ -4073,8 +4073,8 @@
     "669622": {
       "name": "Anthony Bender",
       "team": "Miami Marlins",
-      "bf": 99,
-      "xr_allowed": -3.0372
+      "bf": 103,
+      "xr_allowed": -3.8547
     },
     "664126": {
       "name": "Pete Fairbanks",
@@ -4319,8 +4319,8 @@
     "642121": {
       "name": "Cole Sulser",
       "team": "Tampa Bay Rays",
-      "bf": 106,
-      "xr_allowed": 6.0491
+      "bf": 111,
+      "xr_allowed": 5.0464
     },
     "641329": {
       "name": "Bryan Baker",
@@ -5069,8 +5069,8 @@
     "656848": {
       "name": "Michael Petersen",
       "team": "Miami Marlins",
-      "bf": 93,
-      "xr_allowed": -4.4454
+      "bf": 96,
+      "xr_allowed": -4.8822
     },
     "837227": {
       "name": "Tatsuya Imai",
@@ -5117,8 +5117,8 @@
     "571927": {
       "name": "Steven Matz",
       "team": "Tampa Bay Rays",
-      "bf": 195,
-      "xr_allowed": 14.58
+      "bf": 201,
+      "xr_allowed": 13.8622
     },
     "687330": {
       "name": "Kevin Kelly",
@@ -8191,6 +8191,7 @@
     824351,
     823942,
     823292,
-    824916
+    824916,
+    823857
   ]
 }
