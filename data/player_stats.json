@@ -147,14 +147,14 @@
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 189,
-      "xr": 20.4064
+      "pa": 194,
+      "xr": 21.0077
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 267,
-      "xr": 3.0816
+      "pa": 272,
+      "xr": 4.2048
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,20 +171,20 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 206,
-      "xr": 2.1664
+      "pa": 211,
+      "xr": 1.9338
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 243,
-      "xr": 1.8054
+      "pa": 248,
+      "xr": 2.8577
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 227,
-      "xr": 1.7795
+      "pa": 232,
+      "xr": 3.7171
     },
     "682626": {
       "name": "Francisco Alvarez",
@@ -909,32 +909,32 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 250,
-      "xr": 8.4952
+      "pa": 255,
+      "xr": 9.2213
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 228,
-      "xr": 5.3882
+      "pa": 232,
+      "xr": 5.9526
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 236,
-      "xr": 1.6195
+      "pa": 240,
+      "xr": 0.938
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 233,
-      "xr": 4.4635
+      "pa": 237,
+      "xr": 4.9549
     },
     "609280": {
       "name": "Miguel Andujar",
       "team": "San Diego Padres",
-      "pa": 182,
-      "xr": -5.3572
+      "pa": 185,
+      "xr": -5.0782
     },
     "657757": {
       "name": "Gavin Sheets",
@@ -951,8 +951,8 @@
     "666023": {
       "name": "Freddy Fermin",
       "team": "San Diego Padres",
-      "pa": 116,
-      "xr": -8.4356
+      "pa": 120,
+      "xr": -7.1002
     },
     "630105": {
       "name": "Jake Cronenworth",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 119,
-      "xr": 0.2201
+      "pa": 124,
+      "xr": -0.7144
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2031,8 +2031,8 @@
     "620443": {
       "name": "Luis Torrens",
       "team": "New York Mets",
-      "pa": 109,
-      "xr": -2.766
+      "pa": 113,
+      "xr": -2.7969
     },
     "687859": {
       "name": "Troy Johnston",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 59,
-      "xr": 5.2942
+      "pa": 64,
+      "xr": 5.3579
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2247,8 +2247,8 @@
     "669369": {
       "name": "Bryce Johnson",
       "team": "San Diego Padres",
-      "pa": 43,
-      "xr": -4.205
+      "pa": 44,
+      "xr": -4.4301
     },
     "641598": {
       "name": "Mitch Garver",
@@ -2583,8 +2583,8 @@
     "669004": {
       "name": "MJ Melendez",
       "team": "New York Mets",
-      "pa": 94,
-      "xr": -7.1672
+      "pa": 99,
+      "xr": -7.4807
     },
     "675659": {
       "name": "Greg Jones",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 94,
-      "xr": -0.2419
+      "pa": 99,
+      "xr": 0.2505
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3195,14 +3195,14 @@
     "687749": {
       "name": "Jase Bowen",
       "team": "San Diego Padres",
-      "pa": 8,
-      "xr": -0.1884
+      "pa": 12,
+      "xr": 0.0382
     },
     "669392": {
       "name": "Samad Taylor",
       "team": "San Diego Padres",
-      "pa": 2,
-      "xr": -0.2018
+      "pa": 6,
+      "xr": 0.0492
     },
     "683227": {
       "name": "Cody Freeman",
@@ -3653,8 +3653,8 @@
     "676760": {
       "name": "Ron Marinaccio",
       "team": "San Diego Padres",
-      "bf": 121,
-      "xr_allowed": 0.3054
+      "bf": 131,
+      "xr_allowed": 0.4324
     },
     "699134": {
       "name": "Bradgley Rodriguez",
@@ -3683,8 +3683,8 @@
     "593974": {
       "name": "Wandy Peralta",
       "team": "San Diego Padres",
-      "bf": 114,
-      "xr_allowed": 0.9209
+      "bf": 120,
+      "xr_allowed": 1.4148
     },
     "676684": {
       "name": "Will Vest",
@@ -4607,26 +4607,26 @@
     "623211": {
       "name": "Huascar Brazob\u00e1n",
       "team": "New York Mets",
-      "bf": 123,
-      "xr_allowed": -4.997
+      "bf": 127,
+      "xr_allowed": -4.355
     },
     "596133": {
       "name": "Luke Weaver",
       "team": "New York Mets",
-      "bf": 105,
-      "xr_allowed": -3.6533
+      "bf": 110,
+      "xr_allowed": -2.6621
     },
     "548384": {
       "name": "Brooks Raley",
       "team": "New York Mets",
-      "bf": 96,
-      "xr_allowed": -0.3499
+      "bf": 99,
+      "xr_allowed": -0.8281
     },
     "642207": {
       "name": "Devin Williams",
       "team": "New York Mets",
-      "bf": 87,
-      "xr_allowed": -3.0679
+      "bf": 92,
+      "xr_allowed": -3.5618
     },
     "682995": {
       "name": "Hunter Barco",
@@ -4817,8 +4817,8 @@
     "681190": {
       "name": "Randy V\u00e1squez",
       "team": "San Diego Padres",
-      "bf": 250,
-      "xr_allowed": 12.7863
+      "bf": 272,
+      "xr_allowed": 16.2347
     },
     "656427": {
       "name": "Jack Flaherty",
@@ -5027,8 +5027,8 @@
     "640455": {
       "name": "Sean Manaea",
       "team": "New York Mets",
-      "bf": 172,
-      "xr_allowed": 1.5723
+      "bf": 189,
+      "xr_allowed": 2.657
     },
     "664353": {
       "name": "Jos\u00e9 Urquidy",
@@ -6749,8 +6749,8 @@
     "673513": {
       "name": "Yuki Matsui",
       "team": "San Diego Padres",
-      "bf": 55,
-      "xr_allowed": -3.6458
+      "bf": 61,
+      "xr_allowed": -3.0216
     },
     "682445": {
       "name": "Domingo Gonzalez",
@@ -7049,8 +7049,8 @@
     "621345": {
       "name": "A.J. Minter",
       "team": "New York Mets",
-      "bf": 18,
-      "xr_allowed": -1.6846
+      "bf": 22,
+      "xr_allowed": -1.3976
     },
     "695611": {
       "name": "Gage Jump",
@@ -8214,6 +8214,7 @@
     823047,
     822890,
     825074,
-    824349
+    824349,
+    823291
   ]
 }
