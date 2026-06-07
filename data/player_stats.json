@@ -735,20 +735,20 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 269,
-      "xr": -0.1744
+      "pa": 275,
+      "xr": -1.5558
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 278,
-      "xr": 27.9026
+      "pa": 284,
+      "xr": 26.4275
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
-      "pa": 199,
-      "xr": -4.4667
+      "pa": 204,
+      "xr": -4.8135
     },
     "624585": {
       "name": "Jorge Soler",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 257,
-      "xr": 2.6622
+      "pa": 262,
+      "xr": 4.4042
     },
     "666139": {
       "name": "Josh Lowe",
@@ -825,8 +825,8 @@
     "672724": {
       "name": "Oswald Peraza",
       "team": "Los Angeles Angels",
-      "pa": 190,
-      "xr": -1.9481
+      "pa": 195,
+      "xr": -3.0119
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -1257,14 +1257,14 @@
     "660271": {
       "name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "pa": 267,
-      "xr": 24.6255
+      "pa": 272,
+      "xr": 24.03
     },
     "663656": {
       "name": "Kyle Tucker",
       "team": "Los Angeles Dodgers",
-      "pa": 252,
-      "xr": 7.3162
+      "pa": 257,
+      "xr": 6.7188
     },
     "605141": {
       "name": "Mookie Betts",
@@ -1275,8 +1275,8 @@
     "518692": {
       "name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
-      "pa": 258,
-      "xr": 15.1049
+      "pa": 263,
+      "xr": 14.7992
     },
     "571448": {
       "name": "Nolan Arenado",
@@ -1299,8 +1299,8 @@
     "571970": {
       "name": "Max Muncy",
       "team": "Los Angeles Dodgers",
-      "pa": 211,
-      "xr": 8.937
+      "pa": 216,
+      "xr": 8.8327
     },
     "606192": {
       "name": "Teoscar Hern\u00e1ndez",
@@ -1335,8 +1335,8 @@
     "500743": {
       "name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
-      "pa": 103,
-      "xr": 1.4176
+      "pa": 107,
+      "xr": 2.2119
     },
     "680757": {
       "name": "Steven Kwan",
@@ -1881,8 +1881,8 @@
     "690976": {
       "name": "Alex Freeland",
       "team": "Los Angeles Dodgers",
-      "pa": 132,
-      "xr": 1.5847
+      "pa": 136,
+      "xr": 1.4038
     },
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
@@ -2271,8 +2271,8 @@
     "687221": {
       "name": "Dalton Rushing",
       "team": "Los Angeles Dodgers",
-      "pa": 104,
-      "xr": 1.9725
+      "pa": 108,
+      "xr": 3.2333
     },
     "678554": {
       "name": "Curtis Mead",
@@ -2325,8 +2325,8 @@
     "669743": {
       "name": "Alex Call",
       "team": "Los Angeles Dodgers",
-      "pa": 81,
-      "xr": -0.6405
+      "pa": 85,
+      "xr": -1.5333
     },
     "650968": {
       "name": "Yohel Pozo",
@@ -2619,8 +2619,8 @@
     "669899": {
       "name": "Ryan Ward",
       "team": "Los Angeles Dodgers",
-      "pa": 19,
-      "xr": 1.5288
+      "pa": 23,
+      "xr": 1.8599
     },
     "553869": {
       "name": "Elias D\u00edaz",
@@ -2727,8 +2727,8 @@
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
       "team": "Los Angeles Angels",
-      "pa": 40,
-      "xr": -4.1933
+      "pa": 45,
+      "xr": -1.4345
     },
     "666624": {
       "name": "Christopher Morel",
@@ -2967,8 +2967,8 @@
     "642350": {
       "name": "Jose Siri",
       "team": "Los Angeles Angels",
-      "pa": 29,
-      "xr": -0.765
+      "pa": 34,
+      "xr": 0.5387
     },
     "686765": {
       "name": "Nick Sogard",
@@ -3057,8 +3057,8 @@
     "685133": {
       "name": "Wade Meckler",
       "team": "Los Angeles Angels",
-      "pa": 46,
-      "xr": 3.5671
+      "pa": 51,
+      "xr": 3.8201
     },
     "622268": {
       "name": "Donovan Walton",
@@ -3141,8 +3141,8 @@
     "663611": {
       "name": "Nick Madrigal",
       "team": "Los Angeles Angels",
-      "pa": 22,
-      "xr": 0.5659
+      "pa": 27,
+      "xr": 1.5869
     },
     "676369": {
       "name": "Nelson Vel\u00e1zquez",
@@ -3593,8 +3593,8 @@
     "667755": {
       "name": "Jos\u00e9 Soriano",
       "team": "Los Angeles Angels",
-      "bf": 286,
-      "xr_allowed": 1.6696
+      "bf": 313,
+      "xr_allowed": 2.8118
     },
     "805123": {
       "name": "AJ Blubaugh",
@@ -3611,8 +3611,8 @@
     "681217": {
       "name": "Chase Silseth",
       "team": "Los Angeles Angels",
-      "bf": 94,
-      "xr_allowed": -2.3671
+      "bf": 99,
+      "xr_allowed": -2.3921
     },
     "687911": {
       "name": "Bryan King",
@@ -3623,8 +3623,8 @@
     "519141": {
       "name": "Drew Pomeranz",
       "team": "Los Angeles Angels",
-      "bf": 93,
-      "xr_allowed": 5.2617
+      "bf": 97,
+      "xr_allowed": 4.7752
     },
     "685005": {
       "name": "Christian Roa",
@@ -3845,8 +3845,8 @@
     "595014": {
       "name": "Blake Treinen",
       "team": "Los Angeles Dodgers",
-      "bf": 78,
-      "xr_allowed": 2.5256
+      "bf": 84,
+      "xr_allowed": 2.5012
     },
     "664199": {
       "name": "Taylor Clarke",
@@ -4163,8 +4163,8 @@
     "696147": {
       "name": "Sam Bachman",
       "team": "Los Angeles Angels",
-      "bf": 119,
-      "xr_allowed": -5.635
+      "bf": 120,
+      "xr_allowed": -6.0784
     },
     "680802": {
       "name": "Ryan Weiss",
@@ -4259,8 +4259,8 @@
     "686218": {
       "name": "Emmet Sheehan",
       "team": "Los Angeles Dodgers",
-      "bf": 219,
-      "xr_allowed": 0.1078
+      "bf": 228,
+      "xr_allowed": 1.4238
     },
     "669194": {
       "name": "Ryne Nelson",
@@ -4271,8 +4271,8 @@
     "676263": {
       "name": "Jack Dreyer",
       "team": "Los Angeles Dodgers",
-      "bf": 94,
-      "xr_allowed": -1.3366
+      "bf": 98,
+      "xr_allowed": -2.2052
     },
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
@@ -4289,14 +4289,14 @@
     "681911": {
       "name": "Alex Vesia",
       "team": "Los Angeles Dodgers",
-      "bf": 82,
-      "xr_allowed": -5.3489
+      "bf": 87,
+      "xr_allowed": -5.0695
     },
     "683618": {
       "name": "Edgardo Henriquez",
       "team": "Los Angeles Dodgers",
-      "bf": 87,
-      "xr_allowed": -0.5304
+      "bf": 92,
+      "xr_allowed": -2.0633
     },
     "656464": {
       "name": "Kevin Ginkel",
@@ -5819,8 +5819,8 @@
     "815083": {
       "name": "Mitch Farris",
       "team": "Los Angeles Angels",
-      "bf": 88,
-      "xr_allowed": -1.7427
+      "bf": 91,
+      "xr_allowed": -2.2204
     },
     "689147": {
       "name": "Orion Kerkering",
@@ -6149,8 +6149,8 @@
     "669165": {
       "name": "Kyle Hurt",
       "team": "Los Angeles Dodgers",
-      "bf": 73,
-      "xr_allowed": -2.8767
+      "bf": 79,
+      "xr_allowed": -4.2407
     },
     "691951": {
       "name": "Sam Aldegheri",
@@ -6977,8 +6977,8 @@
     "642546": {
       "name": "Jonathan Hern\u00e1ndez",
       "team": "Los Angeles Dodgers",
-      "bf": 28,
-      "xr_allowed": -2.0623
+      "bf": 40,
+      "xr_allowed": 2.9436
     },
     "702752": {
       "name": "Jonathan Pintaro",
@@ -8215,6 +8215,7 @@
     822890,
     825074,
     824349,
-    823291
+    823291,
+    823941
   ]
 }
