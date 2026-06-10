@@ -621,20 +621,20 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 256,
-      "xr": 1.5629
+      "pa": 260,
+      "xr": 1.3827
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 254,
-      "xr": 15.1676
+      "pa": 258,
+      "xr": 14.8473
     },
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 196,
-      "xr": -4.7918
+      "pa": 200,
+      "xr": -3.6434
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,14 +657,14 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 266,
-      "xr": 11.2802
+      "pa": 270,
+      "xr": 10.7425
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 106,
-      "xr": -1.2383
+      "pa": 110,
+      "xr": -1.2666
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 229,
-      "xr": 3.4632
+      "pa": 233,
+      "xr": 4.0286
     },
     "701398": {
       "name": "Sal Stewart",
@@ -969,32 +969,32 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 255,
-      "xr": 18.8711
+      "pa": 260,
+      "xr": 18.6235
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 103,
-      "xr": 2.0138
+      "pa": 107,
+      "xr": 0.9338
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 265,
-      "xr": 15.9702
+      "pa": 269,
+      "xr": 15.7805
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 272,
-      "xr": 8.0432
+      "pa": 276,
+      "xr": 8.1318
     },
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "pa": 144,
-      "xr": -0.1234
+      "pa": 148,
+      "xr": -0.8327
     },
     "802139": {
       "name": "JJ Wetherholt",
@@ -1035,14 +1035,14 @@
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 155,
-      "xr": -6.8899
+      "pa": 159,
+      "xr": -5.6512
     },
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 217,
-      "xr": -12.0317
+      "pa": 221,
+      "xr": -12.1319
     },
     "700246": {
       "name": "Carson Williams",
@@ -1605,8 +1605,8 @@
     "596103": {
       "name": "Austin Slater",
       "team": "Tampa Bay Rays",
-      "pa": 52,
-      "xr": -5.2281
+      "pa": 57,
+      "xr": -6.275
     },
     "682663": {
       "name": "Agust\u00edn Ram\u00edrez",
@@ -1989,8 +1989,8 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 135,
-      "xr": -0.1748
+      "pa": 138,
+      "xr": 0.1861
     },
     "657136": {
       "name": "Connor Wong",
@@ -2175,8 +2175,8 @@
     "655316": {
       "name": "Andruw Monasterio",
       "team": "Boston Red Sox",
-      "pa": 102,
-      "xr": -4.4869
+      "pa": 106,
+      "xr": -5.5407
     },
     "676724": {
       "name": "Jared Young",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 160,
-      "xr": -9.1574
+      "pa": 164,
+      "xr": -8.9485
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2889,8 +2889,8 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 77,
-      "xr": -1.7429
+      "pa": 81,
+      "xr": -2.0745
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -3287,6 +3287,12 @@
       "team": "San Diego Padres",
       "pa": 3,
       "xr": 0.2749
+    },
+    "681987": {
+      "name": "Nate Eaton",
+      "team": "Boston Red Sox",
+      "pa": 1,
+      "xr": 0.0349
     }
   },
   "pitchers": {
@@ -3587,8 +3593,8 @@
     "686580": {
       "name": "Justin Slaten",
       "team": "Boston Red Sox",
-      "bf": 49,
-      "xr_allowed": 0.2584
+      "bf": 54,
+      "xr_allowed": 1.0476
     },
     "668933": {
       "name": "Graham Ashcraft",
@@ -3737,8 +3743,8 @@
     "656876": {
       "name": "Drew Rasmussen",
       "team": "Tampa Bay Rays",
-      "bf": 258,
-      "xr_allowed": -4.8404
+      "bf": 282,
+      "xr_allowed": -7.1032
     },
     "694335": {
       "name": "Matt Svanson",
@@ -3767,8 +3773,8 @@
     "664076": {
       "name": "Garrett Cleavinger",
       "team": "Tampa Bay Rays",
-      "bf": 56,
-      "xr_allowed": 0.0909
+      "bf": 61,
+      "xr_allowed": 0.2181
     },
     "643377": {
       "name": "Griffin Jax",
@@ -3953,8 +3959,8 @@
     "668984": {
       "name": "Casey Legumina",
       "team": "Tampa Bay Rays",
-      "bf": 121,
-      "xr_allowed": -4.318
+      "bf": 122,
+      "xr_allowed": -4.6361
     },
     "681867": {
       "name": "Cooper Criswell",
@@ -4361,8 +4367,8 @@
     "642121": {
       "name": "Cole Sulser",
       "team": "Tampa Bay Rays",
-      "bf": 111,
-      "xr_allowed": 5.0464
+      "bf": 114,
+      "xr_allowed": 5.8772
     },
     "641329": {
       "name": "Bryan Baker",
@@ -4601,8 +4607,8 @@
     "669711": {
       "name": "Greg Weissert",
       "team": "Boston Red Sox",
-      "bf": 105,
-      "xr_allowed": -1.4422
+      "bf": 106,
+      "xr_allowed": -1.6643
     },
     "543056": {
       "name": "Danny Coulombe",
@@ -4613,8 +4619,8 @@
     "670245": {
       "name": "Ryan Watson",
       "team": "Boston Red Sox",
-      "bf": 149,
-      "xr_allowed": 10.7445
+      "bf": 158,
+      "xr_allowed": 10.8056
     },
     "663574": {
       "name": "Tony Santillan",
@@ -5159,8 +5165,8 @@
     "571927": {
       "name": "Steven Matz",
       "team": "Tampa Bay Rays",
-      "bf": 201,
-      "xr_allowed": 13.8622
+      "bf": 204,
+      "xr_allowed": 15.1428
     },
     "687330": {
       "name": "Kevin Kelly",
@@ -6569,8 +6575,8 @@
     "687562": {
       "name": "Jake Bennett",
       "team": "Boston Red Sox",
-      "bf": 20,
-      "xr_allowed": 2.0691
+      "bf": 43,
+      "xr_allowed": -0.3966
     },
     "806188": {
       "name": "Cade Gibson",
@@ -8282,6 +8288,7 @@
     824023,
     824999,
     823214,
-    823290
+    823290,
+    822970
   ]
 }
