@@ -243,26 +243,26 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 268,
-      "xr": 13.43
+      "pa": 272,
+      "xr": 12.8963
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 256,
-      "xr": 9.2355
+      "pa": 260,
+      "xr": 8.863
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 154,
-      "xr": -3.5519
+      "pa": 159,
+      "xr": -3.73
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 88,
-      "xr": 1.4587
+      "pa": 89,
+      "xr": 1.435
     },
     "669720": {
       "name": "Austin Hays",
@@ -291,26 +291,26 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 222,
-      "xr": 18.701
+      "pa": 226,
+      "xr": 19.0364
     },
     "686217": {
       "name": "Sal Frelick",
       "team": "Milwaukee Brewers",
-      "pa": 219,
-      "xr": -2.6703
+      "pa": 223,
+      "xr": -3.0587
     },
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 178,
-      "xr": -2.7328
+      "pa": 182,
+      "xr": -3.2979
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 193,
-      "xr": -1.51
+      "pa": 197,
+      "xr": -0.8085
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "Milwaukee Brewers",
-      "pa": 189,
-      "xr": -3.9963
+      "pa": 192,
+      "xr": -3.7241
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -1473,20 +1473,20 @@
     "701762": {
       "name": "Nick Kurtz",
       "team": "Athletics",
-      "pa": 279,
-      "xr": 21.2533
+      "pa": 284,
+      "xr": 22.0601
     },
     "669127": {
       "name": "Shea Langeliers",
       "team": "Athletics",
-      "pa": 257,
-      "xr": 10.0325
+      "pa": 262,
+      "xr": 9.4639
     },
     "691016": {
       "name": "Tyler Soderstrom",
       "team": "Athletics",
-      "pa": 249,
-      "xr": 9.0021
+      "pa": 253,
+      "xr": 9.5037
     },
     "543807": {
       "name": "George Springer",
@@ -1527,8 +1527,8 @@
     "671732": {
       "name": "Lawrence Butler",
       "team": "Athletics",
-      "pa": 163,
-      "xr": -2.7997
+      "pa": 165,
+      "xr": -2.8882
     },
     "672386": {
       "name": "Alejandro Kirk",
@@ -1551,8 +1551,8 @@
     "691777": {
       "name": "Max Muncy",
       "team": "Athletics",
-      "pa": 111,
-      "xr": -3.5642
+      "pa": 115,
+      "xr": -4.1083
     },
     "643446": {
       "name": "Jeff McNeil",
@@ -1803,8 +1803,8 @@
     "641680": {
       "name": "Jonah Heim",
       "team": "Athletics",
-      "pa": 85,
-      "xr": -0.2326
+      "pa": 89,
+      "xr": 0.1593
     },
     "671739": {
       "name": "Michael Harris II",
@@ -2523,8 +2523,8 @@
     "680869": {
       "name": "Zack Gelof",
       "team": "Athletics",
-      "pa": 163,
-      "xr": -4.337
+      "pa": 167,
+      "xr": -4.618
     },
     "502054": {
       "name": "Tommy Pham",
@@ -2691,8 +2691,8 @@
     "687515": {
       "name": "Colby Thomas",
       "team": "Athletics",
-      "pa": 52,
-      "xr": 1.4516
+      "pa": 55,
+      "xr": 1.183
     },
     "670032": {
       "name": "Nicky Lopez",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 128,
-      "xr": 5.7654
+      "pa": 133,
+      "xr": 5.3484
     },
     "805904": {
       "name": "Zach Cole",
@@ -2931,8 +2931,8 @@
     "703607": {
       "name": "Henry Bolte",
       "team": "Athletics",
-      "pa": 85,
-      "xr": -2.3631
+      "pa": 89,
+      "xr": -1.4134
     },
     "683021": {
       "name": "Michael Stefanic",
@@ -2979,8 +2979,8 @@
     "675961": {
       "name": "Alika Williams",
       "team": "Athletics",
-      "pa": 28,
-      "xr": -3.2026
+      "pa": 32,
+      "xr": -3.3271
     },
     "806068": {
       "name": "Colt Emerson",
@@ -4451,8 +4451,8 @@
     "665660": {
       "name": "Elvis Alvarado",
       "team": "Athletics",
-      "bf": 52,
-      "xr_allowed": 4.8487
+      "bf": 56,
+      "xr_allowed": 3.6422
     },
     "547184": {
       "name": "Michael Kelly",
@@ -5021,8 +5021,8 @@
     "669372": {
       "name": "J.T. Ginn",
       "team": "Athletics",
-      "bf": 236,
-      "xr_allowed": -3.1981
+      "bf": 264,
+      "xr_allowed": -2.5041
     },
     "695076": {
       "name": "Rhett Lowder",
@@ -5843,8 +5843,8 @@
     "669270": {
       "name": "Joel Kuhnel",
       "team": "Milwaukee Brewers",
-      "bf": 108,
-      "xr_allowed": 2.3463
+      "bf": 113,
+      "xr_allowed": 2.6654
     },
     "815083": {
       "name": "Mitch Farris",
@@ -6209,8 +6209,8 @@
     "689441": {
       "name": "Coleman Crow",
       "team": "Milwaukee Brewers",
-      "bf": 77,
-      "xr_allowed": 5.307
+      "bf": 86,
+      "xr_allowed": 4.7001
     },
     "663567": {
       "name": "Peter Lambert",
@@ -6275,8 +6275,8 @@
     "686930": {
       "name": "Mason Barnett",
       "team": "Athletics",
-      "bf": 23,
-      "xr_allowed": -1.2782
+      "bf": 29,
+      "xr_allowed": -1.9351
     },
     "694680": {
       "name": "Trevor Martin",
@@ -6869,8 +6869,8 @@
     "688107": {
       "name": "Robert Gasser",
       "team": "Milwaukee Brewers",
-      "bf": 62,
-      "xr_allowed": -2.5234
+      "bf": 87,
+      "xr_allowed": -1.4609
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -8273,6 +8273,7 @@
     824591,
     824347,
     824267,
-    824023
+    824023,
+    824999
   ]
 }
