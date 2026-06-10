@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 276,
-      "xr": 6.2875
+      "pa": 280,
+      "xr": 7.5398
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 289,
-      "xr": -1.5264
+      "pa": 293,
+      "xr": -1.3938
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 263,
-      "xr": 2.8616
+      "pa": 267,
+      "xr": 3.3375
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 266,
-      "xr": 7.9043
+      "pa": 271,
+      "xr": 7.4701
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,20 +435,20 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 283,
-      "xr": 3.2473
+      "pa": 287,
+      "xr": 3.931
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 165,
-      "xr": 2.2447
+      "pa": 166,
+      "xr": 2.4395
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
       "team": "Chicago Cubs",
-      "pa": 151,
-      "xr": 4.8587
+      "pa": 154,
+      "xr": 4.834
     },
     "660688": {
       "name": "Keibert Ruiz",
@@ -465,14 +465,14 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 232,
-      "xr": -3.1834
+      "pa": 236,
+      "xr": -3.5273
     },
     "807713": {
       "name": "Matt Shaw",
       "team": "Chicago Cubs",
-      "pa": 100,
-      "xr": -0.9103
+      "pa": 101,
+      "xr": -0.9673
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 95,
-      "xr": 5.0164
+      "pa": 96,
+      "xr": 4.9175
     },
     "668885": {
       "name": "Austin Martin",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 180,
-      "xr": 0.7027
+      "pa": 185,
+      "xr": 0.9479
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 239,
-      "xr": -0.9893
+      "pa": 244,
+      "xr": 0.5824
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 194,
-      "xr": 1.7441
+      "pa": 199,
+      "xr": 2.3013
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 233,
-      "xr": -6.3014
+      "pa": 237,
+      "xr": -6.5294
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 240,
-      "xr": 6.3637
+      "pa": 245,
+      "xr": 7.0288
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1683,14 +1683,14 @@
     "666397": {
       "name": "Edouard Julien",
       "team": "Colorado Rockies",
-      "pa": 171,
-      "xr": 1.4252
+      "pa": 175,
+      "xr": 3.9253
     },
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 203,
-      "xr": 3.2025
+      "pa": 207,
+      "xr": 3.3204
     },
     "665052": {
       "name": "Griffin Conine",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 111,
-      "xr": 0.6382
+      "pa": 113,
+      "xr": 0.2489
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 222,
-      "xr": 4.88
+      "pa": 227,
+      "xr": 5.1407
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 204,
-      "xr": -3.2148
+      "pa": 208,
+      "xr": -2.6522
     },
     "695257": {
       "name": "Billy Cook",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 25,
-      "xr": 1.2607
+      "pa": 26,
+      "xr": 1.1156
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3275,6 +3275,12 @@
       "team": "Chicago White Sox",
       "pa": 5,
       "xr": 0.2344
+    },
+    "694249": {
+      "name": "Cole Carrigg",
+      "team": "Colorado Rockies",
+      "pa": 4,
+      "xr": -0.8299
     }
   },
   "pitchers": {
@@ -3485,8 +3491,8 @@
     "571948": {
       "name": "Hoby Milner",
       "team": "Chicago Cubs",
-      "bf": 113,
-      "xr_allowed": 3.211
+      "bf": 118,
+      "xr_allowed": 3.1965
     },
     "690925": {
       "name": "Clayton Beeter",
@@ -4085,8 +4091,8 @@
     "657514": {
       "name": "Brennan Bernardino",
       "team": "Colorado Rockies",
-      "bf": 107,
-      "xr_allowed": -7.0734
+      "bf": 110,
+      "xr_allowed": -7.4981
     },
     "675848": {
       "name": "Juan Mejia",
@@ -4685,8 +4691,8 @@
     "677955": {
       "name": "Jaden Hill",
       "team": "Colorado Rockies",
-      "bf": 101,
-      "xr_allowed": 1.6131
+      "bf": 105,
+      "xr_allowed": 1.2993
     },
     "676534": {
       "name": "Calvin Faucher",
@@ -5081,8 +5087,8 @@
     "622608": {
       "name": "Antonio Senzatela",
       "team": "Colorado Rockies",
-      "bf": 140,
-      "xr_allowed": -1.6677
+      "bf": 145,
+      "xr_allowed": -1.0824
     },
     "667463": {
       "name": "John King",
@@ -5315,8 +5321,8 @@
     "608372": {
       "name": "Tomoyuki Sugano",
       "team": "Colorado Rockies",
-      "bf": 243,
-      "xr_allowed": 16.7694
+      "bf": 265,
+      "xr_allowed": 17.952
     },
     "801403": {
       "name": "Chase Dollander",
@@ -5369,8 +5375,8 @@
     "607067": {
       "name": "Colin Rea",
       "team": "Chicago Cubs",
-      "bf": 278,
-      "xr_allowed": 12.3684
+      "bf": 304,
+      "xr_allowed": 16.316
     },
     "690986": {
       "name": "Kyle Harrison",
@@ -5777,8 +5783,8 @@
     "681799": {
       "name": "Ethan Roberts",
       "team": "Chicago Cubs",
-      "bf": 61,
-      "xr_allowed": 1.2182
+      "bf": 66,
+      "xr_allowed": 1.8067
     },
     "691946": {
       "name": "George Klassen",
@@ -6101,8 +6107,8 @@
     "669020": {
       "name": "Ryan Rolison",
       "team": "Chicago Cubs",
-      "bf": 85,
-      "xr_allowed": -1.5161
+      "bf": 90,
+      "xr_allowed": -1.1777
     },
     "660787": {
       "name": "Yerry De los Santos",
@@ -6359,8 +6365,8 @@
     "678020": {
       "name": "Seth Halvorsen",
       "team": "Colorado Rockies",
-      "bf": 58,
-      "xr_allowed": 1.3045
+      "bf": 62,
+      "xr_allowed": 2.0839
     },
     "801139": {
       "name": "Payton Tolle",
@@ -8264,6 +8270,7 @@
     823374,
     823858,
     824105,
-    824591
+    824591,
+    824347
   ]
 }
