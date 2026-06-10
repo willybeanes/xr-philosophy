@@ -3,8 +3,8 @@
     "663757": {
       "name": "Trent Grisham",
       "team": "New York Yankees",
-      "pa": 247,
-      "xr": 14.1749
+      "pa": 252,
+      "xr": 14.3649
     },
     "592450": {
       "name": "Aaron Judge",
@@ -15,8 +15,8 @@
     "641355": {
       "name": "Cody Bellinger",
       "team": "New York Yankees",
-      "pa": 268,
-      "xr": 18.9031
+      "pa": 273,
+      "xr": 18.2077
     },
     "650333": {
       "name": "Luis Arraez",
@@ -51,8 +51,8 @@
     "700250": {
       "name": "Ben Rice",
       "team": "New York Yankees",
-      "pa": 249,
-      "xr": 19.7806
+      "pa": 254,
+      "xr": 18.8986
     },
     "519317": {
       "name": "Giancarlo Stanton",
@@ -63,20 +63,20 @@
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
-      "pa": 246,
-      "xr": -4.7814
+      "pa": 251,
+      "xr": -5.0235
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
-      "pa": 182,
-      "xr": 0.671
+      "pa": 187,
+      "xr": 0.3704
     },
     "641857": {
       "name": "Ryan McMahon",
       "team": "New York Yankees",
-      "pa": 172,
-      "xr": 2.5294
+      "pa": 174,
+      "xr": 1.6645
     },
     "669224": {
       "name": "Austin Wells",
@@ -1353,8 +1353,8 @@
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
-      "pa": 289,
-      "xr": 11.3164
+      "pa": 293,
+      "xr": 10.9703
     },
     "700932": {
       "name": "Kyle Manzardo",
@@ -1395,14 +1395,14 @@
     "656555": {
       "name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
-      "pa": 178,
-      "xr": -0.9427
+      "pa": 182,
+      "xr": -1.4339
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 180,
-      "xr": 1.4969
+      "pa": 184,
+      "xr": 0.5573
     },
     "672356": {
       "name": "Gabriel Arias",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 235,
-      "xr": 0.8848
+      "pa": 239,
+      "xr": 0.5653
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1449,20 +1449,20 @@
     "682657": {
       "name": "Angel Mart\u00ednez",
       "team": "Cleveland Guardians",
-      "pa": 219,
-      "xr": -1.9736
+      "pa": 224,
+      "xr": -1.1317
     },
     "502671": {
       "name": "Paul Goldschmidt",
       "team": "New York Yankees",
-      "pa": 150,
-      "xr": 10.6769
+      "pa": 155,
+      "xr": 11.5794
     },
     "642708": {
       "name": "Amed Rosario",
       "team": "New York Yankees",
-      "pa": 102,
-      "xr": 3.6913
+      "pa": 105,
+      "xr": 3.6795
     },
     "545341": {
       "name": "Randal Grichuk",
@@ -2109,8 +2109,8 @@
     "681807": {
       "name": "David Fry",
       "team": "Cleveland Guardians",
-      "pa": 94,
-      "xr": -2.7306
+      "pa": 98,
+      "xr": -3.1496
     },
     "645302": {
       "name": "Victor Robles",
@@ -2265,8 +2265,8 @@
     "595978": {
       "name": "Austin Hedges",
       "team": "Cleveland Guardians",
-      "pa": 93,
-      "xr": -4.6645
+      "pa": 97,
+      "xr": -3.0775
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 148,
-      "xr": -2.3619
+      "pa": 152,
+      "xr": -2.226
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -2913,8 +2913,8 @@
     "683011": {
       "name": "Anthony Volpe",
       "team": "New York Yankees",
-      "pa": 73,
-      "xr": -2.1326
+      "pa": 78,
+      "xr": -2.1025
     },
     "506702": {
       "name": "Sandy Le\u00f3n",
@@ -3159,8 +3159,8 @@
     "656413": {
       "name": "Stuart Fairchild",
       "team": "Cleveland Guardians",
-      "pa": 11,
-      "xr": -1.905
+      "pa": 15,
+      "xr": -0.9615
     },
     "699625": {
       "name": "Jimmy Crooks",
@@ -3249,8 +3249,8 @@
     "645305": {
       "name": "Ali S\u00e1nchez",
       "team": "New York Yankees",
-      "pa": 3,
-      "xr": -0.5849
+      "pa": 7,
+      "xr": -0.2586
     },
     "694203": {
       "name": "Denzer Guzman",
@@ -3329,8 +3329,8 @@
     "687396": {
       "name": "Brent Headrick",
       "team": "New York Yankees",
-      "bf": 126,
-      "xr_allowed": -6.5543
+      "bf": 130,
+      "xr_allowed": -6.5444
     },
     "668873": {
       "name": "Caleb Kilian",
@@ -4931,8 +4931,8 @@
     "670036": {
       "name": "Matt Festa",
       "team": "Cleveland Guardians",
-      "bf": 119,
-      "xr_allowed": -5.8679
+      "bf": 123,
+      "xr_allowed": -5.398
     },
     "682120": {
       "name": "Tim Herrin",
@@ -5483,8 +5483,8 @@
     "800048": {
       "name": "Parker Messick",
       "team": "Cleveland Guardians",
-      "bf": 272,
-      "xr_allowed": -6.4324
+      "bf": 297,
+      "xr_allowed": -8.0766
     },
     "680736": {
       "name": "Justin Wrobleski",
@@ -5705,8 +5705,8 @@
     "642232": {
       "name": "Ryan Yarbrough",
       "team": "New York Yankees",
-      "bf": 90,
-      "xr_allowed": -3.7217
+      "bf": 98,
+      "xr_allowed": -2.3855
     },
     "685801": {
       "name": "Hunter Bigge",
@@ -6869,14 +6869,14 @@
     "607074": {
       "name": "Carlos Rod\u00f3n",
       "team": "New York Yankees",
-      "bf": 84,
-      "xr_allowed": -2.8573
+      "bf": 109,
+      "xr_allowed": -3.2105
     },
     "676051": {
       "name": "Codi Heuer",
       "team": "Cleveland Guardians",
-      "bf": 34,
-      "xr_allowed": 0.5878
+      "bf": 40,
+      "xr_allowed": 0.6225
     },
     "688107": {
       "name": "Robert Gasser",
@@ -7079,8 +7079,8 @@
     "702021": {
       "name": "Will Dion",
       "team": "Cleveland Guardians",
-      "bf": 39,
-      "xr_allowed": 0.5196
+      "bf": 48,
+      "xr_allowed": 0.1113
     },
     "696136": {
       "name": "Jordan Wicks",
@@ -8289,6 +8289,7 @@
     824999,
     823214,
     823290,
-    822970
+    822970,
+    824428
   ]
 }
