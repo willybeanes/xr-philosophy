@@ -735,20 +735,20 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 280,
-      "xr": -1.6061
+      "pa": 285,
+      "xr": -0.9236
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 289,
-      "xr": 26.5218
+      "pa": 294,
+      "xr": 26.7259
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
-      "pa": 204,
-      "xr": -4.8135
+      "pa": 206,
+      "xr": -4.0986
     },
     "624585": {
       "name": "Jorge Soler",
@@ -759,20 +759,20 @@
     "514888": {
       "name": "Jose Altuve",
       "team": "Houston Astros",
-      "pa": 188,
-      "xr": -4.2161
+      "pa": 191,
+      "xr": -4.8717
     },
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 280,
-      "xr": 39.3383
+      "pa": 283,
+      "xr": 39.8593
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 244,
-      "xr": 0.5806
+      "pa": 248,
+      "xr": 1.1099
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 267,
-      "xr": 4.3491
+      "pa": 272,
+      "xr": 4.636
     },
     "666139": {
       "name": "Josh Lowe",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Los Angeles Angels",
-      "pa": 151,
-      "xr": -1.6926
+      "pa": 153,
+      "xr": -1.8437
     },
     "621043": {
       "name": "Carlos Correa",
@@ -807,26 +807,26 @@
     "694388": {
       "name": "Joey Loperfido",
       "team": "Houston Astros",
-      "pa": 66,
-      "xr": -3.5036
+      "pa": 70,
+      "xr": -4.427
     },
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 243,
-      "xr": 0.6211
+      "pa": 247,
+      "xr": -0.2727
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 266,
-      "xr": 6.6773
+      "pa": 269,
+      "xr": 5.9533
     },
     "672724": {
       "name": "Oswald Peraza",
       "team": "Los Angeles Angels",
-      "pa": 196,
-      "xr": -2.9899
+      "pa": 201,
+      "xr": -3.9111
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -837,8 +837,8 @@
     "676694": {
       "name": "Jake Meyers",
       "team": "Houston Astros",
-      "pa": 103,
-      "xr": -3.383
+      "pa": 107,
+      "xr": -3.7981
     },
     "669326": {
       "name": "Bryce Teodosio",
@@ -1827,14 +1827,14 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 132,
-      "xr": 6.5779
+      "pa": 135,
+      "xr": 5.9105
     },
     "694728": {
       "name": "Brice Matthews",
       "team": "Houston Astros",
-      "pa": 157,
-      "xr": -5.4785
+      "pa": 158,
+      "xr": -4.5197
     },
     "656716": {
       "name": "Zach McKinstry",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 137,
-      "xr": -5.2297
+      "pa": 141,
+      "xr": -5.8129
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2361,8 +2361,8 @@
     "694376": {
       "name": "Shay Whitcomb",
       "team": "Houston Astros",
-      "pa": 17,
-      "xr": -1.3251
+      "pa": 19,
+      "xr": -1.5248
     },
     "682641": {
       "name": "Luis Matos",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 73,
-      "xr": -1.7294
+      "pa": 75,
+      "xr": -2.0396
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -2727,8 +2727,8 @@
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
       "team": "Los Angeles Angels",
-      "pa": 45,
-      "xr": -1.4345
+      "pa": 47,
+      "xr": -1.175
     },
     "666624": {
       "name": "Christopher Morel",
@@ -2967,8 +2967,8 @@
     "642350": {
       "name": "Jose Siri",
       "team": "Los Angeles Angels",
-      "pa": 35,
-      "xr": 0.6744
+      "pa": 40,
+      "xr": 0.0939
     },
     "686765": {
       "name": "Nick Sogard",
@@ -3057,8 +3057,8 @@
     "685133": {
       "name": "Wade Meckler",
       "team": "Los Angeles Angels",
-      "pa": 55,
-      "xr": 2.9209
+      "pa": 60,
+      "xr": 4.5218
     },
     "622268": {
       "name": "Donovan Walton",
@@ -3225,8 +3225,8 @@
     "805672": {
       "name": "Collin Price",
       "team": "Houston Astros",
-      "pa": 10,
-      "xr": -1.4769
+      "pa": 12,
+      "xr": -1.4611
     },
     "668942": {
       "name": "Josh Rojas",
@@ -3255,14 +3255,14 @@
     "694203": {
       "name": "Denzer Guzman",
       "team": "Los Angeles Angels",
-      "pa": 5,
-      "xr": -0.6134
+      "pa": 10,
+      "xr": -1.0751
     },
     "641820": {
       "name": "Trey Mancini",
       "team": "Los Angeles Angels",
-      "pa": 4,
-      "xr": 0.548
+      "pa": 7,
+      "xr": 0.7319
     },
     "673995": {
       "name": "Davis Wendzel",
@@ -3629,14 +3629,14 @@
     "805123": {
       "name": "AJ Blubaugh",
       "team": "Houston Astros",
-      "bf": 164,
-      "xr_allowed": 1.6969
+      "bf": 173,
+      "xr_allowed": 1.1231
     },
     "700712": {
       "name": "Walbert Ure\u00f1a",
       "team": "Los Angeles Angels",
-      "bf": 218,
-      "xr_allowed": -7.5678
+      "bf": 242,
+      "xr_allowed": -10.1979
     },
     "681217": {
       "name": "Chase Silseth",
@@ -3653,8 +3653,8 @@
     "519141": {
       "name": "Drew Pomeranz",
       "team": "Los Angeles Angels",
-      "bf": 97,
-      "xr_allowed": 4.7752
+      "bf": 100,
+      "xr_allowed": 4.3776
     },
     "685005": {
       "name": "Christian Roa",
@@ -4715,8 +4715,8 @@
     "678906": {
       "name": "Kai-Wei Teng",
       "team": "Houston Astros",
-      "bf": 178,
-      "xr_allowed": -3.4169
+      "bf": 203,
+      "xr_allowed": -1.978
     },
     "664192": {
       "name": "Joey Lucchesi",
@@ -4727,8 +4727,8 @@
     "608718": {
       "name": "Brent Suter",
       "team": "Los Angeles Angels",
-      "bf": 147,
-      "xr_allowed": 0.0064
+      "bf": 156,
+      "xr_allowed": -0.0862
     },
     "650556": {
       "name": "Bryan Abreu",
@@ -6743,8 +6743,8 @@
     "489446": {
       "name": "Kirby Yates",
       "team": "Los Angeles Angels",
-      "bf": 43,
-      "xr_allowed": 1.1761
+      "bf": 46,
+      "xr_allowed": 0.9489
     },
     "666201": {
       "name": "Alek Manoah",
@@ -7043,8 +7043,8 @@
     "695001": {
       "name": "Alimber Santa",
       "team": "Houston Astros",
-      "bf": 29,
-      "xr_allowed": -0.7864
+      "bf": 39,
+      "xr_allowed": 0.1667
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -8272,6 +8272,7 @@
     824105,
     824591,
     824347,
-    824267
+    824267,
+    824023
   ]
 }
