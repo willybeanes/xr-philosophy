@@ -21,20 +21,20 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 273,
-      "xr": 0.9518
+      "pa": 278,
+      "xr": 0.4683
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 268,
-      "xr": -2.6306
+      "pa": 273,
+      "xr": -0.752
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 278,
-      "xr": -2.6104
+      "pa": 283,
+      "xr": -2.4814
     },
     "642715": {
       "name": "Willy Adames",
@@ -45,8 +45,8 @@
     "808982": {
       "name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
-      "pa": 230,
-      "xr": 6.5205
+      "pa": 235,
+      "xr": 6.7356
     },
     "700250": {
       "name": "Ben Rice",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 249,
-      "xr": 9.1001
+      "pa": 254,
+      "xr": 9.6486
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -369,14 +369,14 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 305,
-      "xr": 25.8006
+      "pa": 310,
+      "xr": 27.5677
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
-      "pa": 32,
-      "xr": 3.589
+      "pa": 35,
+      "xr": 3.6047
     },
     "691781": {
       "name": "Brady House",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 284,
-      "xr": 5.3274
+      "pa": 289,
+      "xr": 6.0509
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -429,8 +429,8 @@
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team": "Washington Nationals",
-      "pa": 207,
-      "xr": -12.1599
+      "pa": 211,
+      "xr": -12.9639
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -453,14 +453,14 @@
     "660688": {
       "name": "Keibert Ruiz",
       "team": "Washington Nationals",
-      "pa": 136,
-      "xr": -8.0999
+      "pa": 140,
+      "xr": -7.8661
     },
     "696285": {
       "name": "Jacob Young",
       "team": "Washington Nationals",
-      "pa": 214,
-      "xr": 4.6473
+      "pa": 219,
+      "xr": 5.1003
     },
     "621020": {
       "name": "Dansby Swanson",
@@ -477,8 +477,8 @@
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team": "Washington Nationals",
-      "pa": 205,
-      "xr": 6.4282
+      "pa": 207,
+      "xr": 6.8508
     },
     "624424": {
       "name": "Michael Conforto",
@@ -645,8 +645,8 @@
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 238,
-      "xr": 1.8054
+      "pa": 243,
+      "xr": 1.3071
     },
     "682829": {
       "name": "Elly De La Cruz",
@@ -681,20 +681,20 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 277,
-      "xr": 11.0301
+      "pa": 282,
+      "xr": 10.7996
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 159,
-      "xr": -6.5598
+      "pa": 163,
+      "xr": -5.9966
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 243,
-      "xr": 4.2448
+      "pa": 248,
+      "xr": 4.6551
     },
     "663886": {
       "name": "Tyler Stephenson",
@@ -705,8 +705,8 @@
     "682622": {
       "name": "Noelvi Marte",
       "team": "Cincinnati Reds",
-      "pa": 44,
-      "xr": -4.0004
+      "pa": 48,
+      "xr": -4.5585
     },
     "663647": {
       "name": "Ke'Bryan Hayes",
@@ -723,14 +723,14 @@
     "666181": {
       "name": "Will Benson",
       "team": "Cincinnati Reds",
-      "pa": 103,
-      "xr": -2.9579
+      "pa": 104,
+      "xr": -3.2241
     },
     "667472": {
       "name": "Dane Myers",
       "team": "Cincinnati Reds",
-      "pa": 107,
-      "xr": 3.7121
+      "pa": 111,
+      "xr": 4.0213
     },
     "687263": {
       "name": "Zach Neto",
@@ -909,8 +909,8 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 266,
-      "xr": 9.4839
+      "pa": 271,
+      "xr": 9.8851
     },
     "593428": {
       "name": "Xander Bogaerts",
@@ -921,26 +921,26 @@
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 249,
-      "xr": -0.9367
+      "pa": 253,
+      "xr": -0.1698
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 247,
-      "xr": 4.1903
+      "pa": 251,
+      "xr": 4.4749
     },
     "609280": {
       "name": "Miguel Andujar",
       "team": "San Diego Padres",
-      "pa": 186,
-      "xr": -4.9162
+      "pa": 187,
+      "xr": -5.1952
     },
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 203,
-      "xr": 7.367
+      "pa": 207,
+      "xr": 6.9441
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 130,
-      "xr": 0.1392
+      "pa": 131,
+      "xr": -0.0829
     },
     "669134": {
       "name": "Luis Campusano",
@@ -1899,8 +1899,8 @@
     "678391": {
       "name": "Jorbit Vivas",
       "team": "Washington Nationals",
-      "pa": 139,
-      "xr": -2.3516
+      "pa": 143,
+      "xr": -1.6192
     },
     "665804": {
       "name": "Miguel Amaya",
@@ -2001,8 +2001,8 @@
     "663993": {
       "name": "Nathaniel Lowe",
       "team": "Cincinnati Reds",
-      "pa": 155,
-      "xr": 10.1635
+      "pa": 159,
+      "xr": 10.528
     },
     "694377": {
       "name": "Nick Yorke",
@@ -2247,8 +2247,8 @@
     "669369": {
       "name": "Bryce Johnson",
       "team": "San Diego Padres",
-      "pa": 46,
-      "xr": -4.8602
+      "pa": 49,
+      "xr": -5.447
     },
     "641598": {
       "name": "Mitch Garver",
@@ -2277,8 +2277,8 @@
     "678554": {
       "name": "Curtis Mead",
       "team": "Washington Nationals",
-      "pa": 184,
-      "xr": 5.3586
+      "pa": 189,
+      "xr": 5.7491
     },
     "699912": {
       "name": "Jose Fernandez",
@@ -2319,8 +2319,8 @@
     "691740": {
       "name": "Daniel Susac",
       "team": "San Francisco Giants",
-      "pa": 87,
-      "xr": -1.4583
+      "pa": 91,
+      "xr": -0.7216
     },
     "669743": {
       "name": "Alex Call",
@@ -2457,8 +2457,8 @@
     "664731": {
       "name": "P.J. Higgins",
       "team": "Cincinnati Reds",
-      "pa": 29,
-      "xr": -1.9934
+      "pa": 32,
+      "xr": -1.924
     },
     "673548": {
       "name": "Seiya Suzuki",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 130,
-      "xr": -6.7906
+      "pa": 132,
+      "xr": -7.0132
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 154,
-      "xr": 7.1972
+      "pa": 159,
+      "xr": 8.4689
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 98,
-      "xr": 5.7385
+      "pa": 103,
+      "xr": 5.3424
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -2829,8 +2829,8 @@
     "823550": {
       "name": "Sung-Mun Song",
       "team": "San Diego Padres",
-      "pa": 34,
-      "xr": -1.2601
+      "pa": 38,
+      "xr": -1.7729
     },
     "693409": {
       "name": "C\u00e9sar Prieto",
@@ -2925,8 +2925,8 @@
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
       "team": "San Diego Padres",
-      "pa": 27,
-      "xr": 1.3039
+      "pa": 31,
+      "xr": 1.2731
     },
     "703607": {
       "name": "Henry Bolte",
@@ -3015,8 +3015,8 @@
     "686611": {
       "name": "Dylan Crews",
       "team": "Washington Nationals",
-      "pa": 71,
-      "xr": 1.5855
+      "pa": 76,
+      "xr": 1.2754
     },
     "606115": {
       "name": "Orlando Arcia",
@@ -3069,8 +3069,8 @@
     "682674": {
       "name": "Victor Bericoto",
       "team": "San Francisco Giants",
-      "pa": 15,
-      "xr": -1.1522
+      "pa": 17,
+      "xr": -1.4623
     },
     "663494": {
       "name": "Bryan Torres",
@@ -3177,8 +3177,8 @@
     "813841": {
       "name": "Jonah Cox",
       "team": "San Francisco Giants",
-      "pa": 13,
-      "xr": -0.8444
+      "pa": 16,
+      "xr": -1.3385
     },
     "695490": {
       "name": "Edwin Arroyo",
@@ -3189,8 +3189,8 @@
     "671083": {
       "name": "Buddy Kennedy",
       "team": "San Francisco Giants",
-      "pa": 7,
-      "xr": -0.4756
+      "pa": 8,
+      "xr": -1.062
     },
     "687749": {
       "name": "Jase Bowen",
@@ -3201,8 +3201,8 @@
     "669392": {
       "name": "Samad Taylor",
       "team": "San Diego Padres",
-      "pa": 15,
-      "xr": 0.4972
+      "pa": 19,
+      "xr": 0.5315
     },
     "683227": {
       "name": "Cody Freeman",
@@ -3285,8 +3285,8 @@
     "695238": {
       "name": "Will Wagner",
       "team": "San Diego Padres",
-      "pa": 3,
-      "xr": 0.2749
+      "pa": 6,
+      "xr": 0.4001
     },
     "681987": {
       "name": "Nate Eaton",
@@ -3695,8 +3695,8 @@
     "676760": {
       "name": "Ron Marinaccio",
       "team": "San Diego Padres",
-      "bf": 131,
-      "xr_allowed": 0.4324
+      "bf": 137,
+      "xr_allowed": 0.1296
     },
     "699134": {
       "name": "Bradgley Rodriguez",
@@ -3725,8 +3725,8 @@
     "593974": {
       "name": "Wandy Peralta",
       "team": "San Diego Padres",
-      "bf": 120,
-      "xr_allowed": 1.4148
+      "bf": 124,
+      "xr_allowed": 1.3468
     },
     "676684": {
       "name": "Will Vest",
@@ -3977,8 +3977,8 @@
     "592662": {
       "name": "Robbie Ray",
       "team": "San Francisco Giants",
-      "bf": 269,
-      "xr_allowed": 5.8614
+      "bf": 293,
+      "xr_allowed": 7.622
     },
     "693645": {
       "name": "Cam Schlittler",
@@ -4217,8 +4217,8 @@
     "650633": {
       "name": "Michael King",
       "team": "San Diego Padres",
-      "bf": 277,
-      "xr_allowed": 3.9375
+      "bf": 307,
+      "xr_allowed": 5.7435
     },
     "664285": {
       "name": "Framber Valdez",
@@ -4595,8 +4595,8 @@
     "663903": {
       "name": "Brady Singer",
       "team": "Cincinnati Reds",
-      "bf": 259,
-      "xr_allowed": 8.9051
+      "bf": 283,
+      "xr_allowed": 7.25
     },
     "543243": {
       "name": "Sonny Gray",
@@ -4625,8 +4625,8 @@
     "663574": {
       "name": "Tony Santillan",
       "team": "Cincinnati Reds",
-      "bf": 110,
-      "xr_allowed": 2.5194
+      "bf": 113,
+      "xr_allowed": 2.6268
     },
     "641941": {
       "name": "Emilio Pag\u00e1n",
@@ -5207,8 +5207,8 @@
     "681402": {
       "name": "Gus Varland",
       "team": "Washington Nationals",
-      "bf": 107,
-      "xr_allowed": 0.5699
+      "bf": 110,
+      "xr_allowed": 1.9725
     },
     "640451": {
       "name": "Hunter Harvey",
@@ -5297,8 +5297,8 @@
     "656492": {
       "name": "Foster Griffin",
       "team": "Washington Nationals",
-      "bf": 270,
-      "xr_allowed": 7.8066
+      "bf": 294,
+      "xr_allowed": 7.1381
     },
     "664238": {
       "name": "Dylan Moore",
@@ -5849,8 +5849,8 @@
     "687606": {
       "name": "Paxton Schultz",
       "team": "Washington Nationals",
-      "bf": 106,
-      "xr_allowed": -1.379
+      "bf": 116,
+      "xr_allowed": 0.5857
     },
     "669270": {
       "name": "Joel Kuhnel",
@@ -6047,8 +6047,8 @@
     "687377": {
       "name": "Orlando Ribalta",
       "team": "Washington Nationals",
-      "bf": 68,
-      "xr_allowed": -3.8704
+      "bf": 71,
+      "xr_allowed": -5.033
     },
     "681895": {
       "name": "Evan Sisk",
@@ -6107,8 +6107,8 @@
     "680730": {
       "name": "Mitchell Parker",
       "team": "Washington Nationals",
-      "bf": 130,
-      "xr_allowed": 3.2208
+      "bf": 132,
+      "xr_allowed": 2.6997
     },
     "663767": {
       "name": "Chase Shugart",
@@ -6569,8 +6569,8 @@
     "687209": {
       "name": "Zach Maxwell",
       "team": "Cincinnati Reds",
-      "bf": 33,
-      "xr_allowed": 4.421
+      "bf": 37,
+      "xr_allowed": 4.0182
     },
     "687562": {
       "name": "Jake Bennett",
@@ -6665,8 +6665,8 @@
     "695534": {
       "name": "Chase Petty",
       "team": "Cincinnati Reds",
-      "bf": 45,
-      "xr_allowed": 6.3347
+      "bf": 48,
+      "xr_allowed": 6.1647
     },
     "686790": {
       "name": "Trevor McDonald",
@@ -7121,8 +7121,8 @@
     "657571": {
       "name": "Caleb Ferguson",
       "team": "Cincinnati Reds",
-      "bf": 30,
-      "xr_allowed": -1.9962
+      "bf": 33,
+      "xr_allowed": -0.3179
     },
     "805427": {
       "name": "Drew Sommers",
@@ -7253,8 +7253,8 @@
     "693313": {
       "name": "Carson Seymour",
       "team": "San Francisco Giants",
-      "bf": 15,
-      "xr_allowed": 2.3052
+      "bf": 25,
+      "xr_allowed": 4.1338
     },
     "608348": {
       "name": "Carson Kelly",
@@ -7333,6 +7333,12 @@
       "team": "Pittsburgh Pirates",
       "bf": 5,
       "xr_allowed": -0.1154
+    },
+    "665665": {
+      "name": "Reiver Sanmartin",
+      "team": "San Francisco Giants",
+      "bf": 8,
+      "xr_allowed": 0.0353
     }
   },
   "processed_games": [
@@ -8290,6 +8296,8 @@
     823214,
     823290,
     822970,
-    824428
+    824428,
+    823215,
+    823287
   ]
 }
