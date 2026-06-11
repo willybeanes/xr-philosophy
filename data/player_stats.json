@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 284,
-      "xr": 7.741
+      "pa": 289,
+      "xr": 9.2748
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 297,
-      "xr": -1.6861
+      "pa": 302,
+      "xr": -0.9428
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 271,
-      "xr": 3.3541
+      "pa": 276,
+      "xr": 2.7911
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 275,
-      "xr": 7.1654
+      "pa": 280,
+      "xr": 7.3135
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,20 +435,20 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 291,
-      "xr": 3.7048
+      "pa": 295,
+      "xr": 3.7932
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 168,
-      "xr": 2.3598
+      "pa": 172,
+      "xr": 2.9791
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
       "team": "Chicago Cubs",
-      "pa": 156,
-      "xr": 4.5612
+      "pa": 159,
+      "xr": 3.9614
     },
     "660688": {
       "name": "Keibert Ruiz",
@@ -465,14 +465,14 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 239,
-      "xr": -3.7247
+      "pa": 243,
+      "xr": -3.766
     },
     "807713": {
       "name": "Matt Shaw",
       "team": "Chicago Cubs",
-      "pa": 101,
-      "xr": -0.9673
+      "pa": 102,
+      "xr": -1.1224
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
@@ -1593,14 +1593,14 @@
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 248,
-      "xr": 1.1218
+      "pa": 253,
+      "xr": 0.5588
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 203,
-      "xr": 1.5353
+      "pa": 208,
+      "xr": 1.5407
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 241,
-      "xr": -6.8352
+      "pa": 245,
+      "xr": -7.7795
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 249,
-      "xr": 6.7192
+      "pa": 254,
+      "xr": 7.4658
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1683,14 +1683,14 @@
     "666397": {
       "name": "Edouard Julien",
       "team": "Colorado Rockies",
-      "pa": 176,
-      "xr": 3.9758
+      "pa": 181,
+      "xr": 4.1549
     },
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 210,
-      "xr": 3.1719
+      "pa": 212,
+      "xr": 3.2176
     },
     "665052": {
       "name": "Griffin Conine",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 231,
-      "xr": 5.0943
+      "pa": 235,
+      "xr": 5.1509
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2187,8 +2187,8 @@
     "664954": {
       "name": "Brett Sullivan",
       "team": "Colorado Rockies",
-      "pa": 86,
-      "xr": -4.6264
+      "pa": 90,
+      "xr": -3.4022
     },
     "691277": {
       "name": "Deyvison De Los Santos",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 212,
-      "xr": -2.9495
+      "pa": 216,
+      "xr": -1.8891
     },
     "695257": {
       "name": "Billy Cook",
@@ -2955,8 +2955,8 @@
     "694514": {
       "name": "Sterlin Thompson",
       "team": "Colorado Rockies",
-      "pa": 53,
-      "xr": -1.573
+      "pa": 55,
+      "xr": -1.8256
     },
     "668974": {
       "name": "Maverick Handley",
@@ -3279,8 +3279,8 @@
     "694249": {
       "name": "Cole Carrigg",
       "team": "Colorado Rockies",
-      "pa": 8,
-      "xr": -1.6026
+      "pa": 12,
+      "xr": -1.3142
     },
     "695238": {
       "name": "Will Wagner",
@@ -3515,8 +3515,8 @@
     "571948": {
       "name": "Hoby Milner",
       "team": "Chicago Cubs",
-      "bf": 118,
-      "xr_allowed": 3.1965
+      "bf": 121,
+      "xr_allowed": 3.4903
     },
     "690925": {
       "name": "Clayton Beeter",
@@ -4415,8 +4415,8 @@
     "664208": {
       "name": "Phil Maton",
       "team": "Chicago Cubs",
-      "bf": 97,
-      "xr_allowed": 7.0789
+      "bf": 101,
+      "xr_allowed": 6.4438
     },
     "573204": {
       "name": "Caleb Thielbar",
@@ -5381,8 +5381,8 @@
     "665795": {
       "name": "Edward Cabrera",
       "team": "Chicago Cubs",
-      "bf": 227,
-      "xr_allowed": 7.9397
+      "bf": 249,
+      "xr_allowed": 9.8256
     },
     "696270": {
       "name": "Ryan Johnson",
@@ -5561,8 +5561,8 @@
     "663372": {
       "name": "Ryan Feltner",
       "team": "Colorado Rockies",
-      "bf": 131,
-      "xr_allowed": 6.638
+      "bf": 151,
+      "xr_allowed": 8.8029
     },
     "660761": {
       "name": "Jos\u00e9 Suarez",
@@ -6131,8 +6131,8 @@
     "669020": {
       "name": "Ryan Rolison",
       "team": "Chicago Cubs",
-      "bf": 90,
-      "xr_allowed": -1.1777
+      "bf": 94,
+      "xr_allowed": -1.3524
     },
     "660787": {
       "name": "Yerry De los Santos",
@@ -6694,9 +6694,9 @@
     },
     "621053": {
       "name": "Tyler Ferguson",
-      "team": "Athletics",
-      "bf": 8,
-      "xr_allowed": 2.9546
+      "team": "Chicago Cubs",
+      "bf": 15,
+      "xr_allowed": 2.3708
     },
     "687531": {
       "name": "William Kempner",
@@ -6917,8 +6917,8 @@
     "680604": {
       "name": "Blas Casta\u00f1o",
       "team": "Colorado Rockies",
-      "bf": 66,
-      "xr_allowed": -0.2597
+      "bf": 78,
+      "xr_allowed": -0.0866
     },
     "608337": {
       "name": "Lucas Giolito",
@@ -6965,8 +6965,8 @@
     "671111": {
       "name": "Sammy Peralta",
       "team": "Colorado Rockies",
-      "bf": 7,
-      "xr_allowed": 0.6896
+      "bf": 15,
+      "xr_allowed": 1.1857
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -8342,6 +8342,7 @@
     824022,
     824265,
     823855,
-    823619
+    823619,
+    824346
   ]
 }
