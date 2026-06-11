@@ -147,14 +147,14 @@
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 202,
-      "xr": 21.7839
+      "pa": 206,
+      "xr": 22.5974
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 280,
-      "xr": 3.0487
+      "pa": 284,
+      "xr": 3.4749
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,26 +171,26 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 217,
-      "xr": 1.4377
+      "pa": 221,
+      "xr": 1.0511
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 255,
-      "xr": 3.1813
+      "pa": 259,
+      "xr": 2.6509
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 240,
-      "xr": 3.2863
+      "pa": 244,
+      "xr": 2.7003
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 128,
-      "xr": 2.9716
+      "pa": 131,
+      "xr": 2.8242
     },
     "669707": {
       "name": "Jared Triolo",
@@ -999,32 +999,32 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 264,
-      "xr": 11.7176
+      "pa": 268,
+      "xr": 11.1087
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 279,
-      "xr": 14.4598
+      "pa": 283,
+      "xr": 14.3509
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 263,
-      "xr": 20.7854
+      "pa": 267,
+      "xr": 21.444
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 232,
-      "xr": -5.5825
+      "pa": 236,
+      "xr": -5.9632
     },
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 211,
-      "xr": -8.3978
+      "pa": 214,
+      "xr": -8.8281
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,14 +1053,14 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 258,
-      "xr": 10.2833
+      "pa": 262,
+      "xr": 10.3823
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 149,
-      "xr": -2.0095
+      "pa": 153,
+      "xr": -2.4424
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 71,
-      "xr": 4.2328
+      "pa": 75,
+      "xr": 4.5888
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2583,8 +2583,8 @@
     "669004": {
       "name": "MJ Melendez",
       "team": "New York Mets",
-      "pa": 101,
-      "xr": -7.8609
+      "pa": 104,
+      "xr": -8.294
     },
     "675659": {
       "name": "Greg Jones",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 106,
-      "xr": 0.5879
+      "pa": 110,
+      "xr": -0.0382
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3075,8 +3075,8 @@
     "663494": {
       "name": "Bryan Torres",
       "team": "St. Louis Cardinals",
-      "pa": 44,
-      "xr": 0.5174
+      "pa": 45,
+      "xr": 0.3895
     },
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
@@ -3165,8 +3165,8 @@
     "699625": {
       "name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
-      "pa": 20,
-      "xr": 0.6401
+      "pa": 24,
+      "xr": 1.1787
     },
     "694378": {
       "name": "Jacob Gonzalez",
@@ -3237,8 +3237,8 @@
     "663457": {
       "name": "Lars Nootbaar",
       "team": "St. Louis Cardinals",
-      "pa": 22,
-      "xr": 0.2485
+      "pa": 26,
+      "xr": 0.8879
     },
     "694410": {
       "name": "LuJames Groover",
@@ -3767,8 +3767,8 @@
     "677865": {
       "name": "Justin Bruihl",
       "team": "St. Louis Cardinals",
-      "bf": 128,
-      "xr_allowed": 3.362
+      "bf": 131,
+      "xr_allowed": 3.2325
     },
     "688297": {
       "name": "Chris Roycroft",
@@ -3797,8 +3797,8 @@
     "668941": {
       "name": "JoJo Romero",
       "team": "St. Louis Cardinals",
-      "bf": 118,
-      "xr_allowed": 3.146
+      "bf": 123,
+      "xr_allowed": 2.8512
     },
     "676617": {
       "name": "Riley O'Brien",
@@ -4667,20 +4667,20 @@
     "596133": {
       "name": "Luke Weaver",
       "team": "New York Mets",
-      "bf": 110,
-      "xr_allowed": -2.6621
+      "bf": 113,
+      "xr_allowed": -2.8873
     },
     "548384": {
       "name": "Brooks Raley",
       "team": "New York Mets",
-      "bf": 99,
-      "xr_allowed": -0.8281
+      "bf": 103,
+      "xr_allowed": -1.0182
     },
     "642207": {
       "name": "Devin Williams",
       "team": "New York Mets",
-      "bf": 92,
-      "xr_allowed": -3.5618
+      "bf": 95,
+      "xr_allowed": -4.0123
     },
     "682995": {
       "name": "Hunter Barco",
@@ -5189,8 +5189,8 @@
     "666277": {
       "name": "George Soriano",
       "team": "St. Louis Cardinals",
-      "bf": 104,
-      "xr_allowed": 1.4338
+      "bf": 108,
+      "xr_allowed": 0.7227
     },
     "690155": {
       "name": "Matt Pushard",
@@ -5615,8 +5615,8 @@
     "700669": {
       "name": "Gordon Graceffo",
       "team": "St. Louis Cardinals",
-      "bf": 112,
-      "xr_allowed": 3.9589
+      "bf": 114,
+      "xr_allowed": 3.8965
     },
     "678394": {
       "name": "Brayan Bello",
@@ -6401,8 +6401,8 @@
     "681035": {
       "name": "Christian Scott",
       "team": "New York Mets",
-      "bf": 156,
-      "xr_allowed": -1.0716
+      "bf": 178,
+      "xr_allowed": -0.6143
     },
     "682608": {
       "name": "Peyton Gray",
@@ -6557,8 +6557,8 @@
     "690928": {
       "name": "Hunter Dobbins",
       "team": "St. Louis Cardinals",
-      "bf": 53,
-      "xr_allowed": 0.8606
+      "bf": 73,
+      "xr_allowed": 0.9445
     },
     "691769": {
       "name": "Philip Abner",
@@ -7103,8 +7103,8 @@
     "621345": {
       "name": "A.J. Minter",
       "team": "New York Mets",
-      "bf": 22,
-      "xr_allowed": -1.3976
+      "bf": 26,
+      "xr_allowed": -1.1431
     },
     "695611": {
       "name": "Gage Jump",
@@ -8341,6 +8341,7 @@
     824996,
     824022,
     824265,
-    823855
+    823855,
+    823619
   ]
 }
