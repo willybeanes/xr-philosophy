@@ -117,26 +117,26 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 250,
-      "xr": 10.5208
+      "pa": 255,
+      "xr": 11.0655
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 279,
-      "xr": 12.6233
+      "pa": 284,
+      "xr": 12.1782
     },
     "542303": {
       "name": "Marcell Ozuna",
       "team": "Pittsburgh Pirates",
-      "pa": 190,
-      "xr": -4.5399
+      "pa": 192,
+      "xr": -4.8553
     },
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 198,
-      "xr": 5.7894
+      "pa": 201,
+      "xr": 5.5742
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,20 +195,20 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 108,
-      "xr": -3.5538
+      "pa": 112,
+      "xr": -3.8805
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 225,
-      "xr": 1.2486
+      "pa": 230,
+      "xr": 1.8358
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 234,
-      "xr": 5.8876
+      "pa": 239,
+      "xr": 5.4501
     },
     "680779": {
       "name": "Henry Davis",
@@ -1257,26 +1257,26 @@
     "660271": {
       "name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "pa": 282,
-      "xr": 25.9308
+      "pa": 286,
+      "xr": 27.1815
     },
     "663656": {
       "name": "Kyle Tucker",
       "team": "Los Angeles Dodgers",
-      "pa": 267,
-      "xr": 6.1628
+      "pa": 272,
+      "xr": 4.6579
     },
     "605141": {
       "name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
-      "pa": 143,
-      "xr": 3.3998
+      "pa": 149,
+      "xr": 3.7929
     },
     "518692": {
       "name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
-      "pa": 273,
-      "xr": 17.0928
+      "pa": 279,
+      "xr": 19.0679
     },
     "571448": {
       "name": "Nolan Arenado",
@@ -1299,8 +1299,8 @@
     "571970": {
       "name": "Max Muncy",
       "team": "Los Angeles Dodgers",
-      "pa": 224,
-      "xr": 12.6222
+      "pa": 229,
+      "xr": 13.4996
     },
     "606192": {
       "name": "Teoscar Hern\u00e1ndez",
@@ -1311,8 +1311,8 @@
     "681624": {
       "name": "Andy Pages",
       "team": "Los Angeles Dodgers",
-      "pa": 271,
-      "xr": 14.5028
+      "pa": 277,
+      "xr": 13.7177
     },
     "691783": {
       "name": "Jordan Lawlar",
@@ -1335,8 +1335,8 @@
     "500743": {
       "name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
-      "pa": 109,
-      "xr": 2.3835
+      "pa": 111,
+      "xr": 1.2332
     },
     "680757": {
       "name": "Steven Kwan",
@@ -1881,8 +1881,8 @@
     "690976": {
       "name": "Alex Freeland",
       "team": "Los Angeles Dodgers",
-      "pa": 144,
-      "xr": 2.3309
+      "pa": 147,
+      "xr": 1.7771
     },
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 140,
-      "xr": -6.3054
+      "pa": 144,
+      "xr": -7.003
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2091,8 +2091,8 @@
     "669289": {
       "name": "Santiago Espinal",
       "team": "Los Angeles Dodgers",
-      "pa": 49,
-      "xr": -1.0244
+      "pa": 51,
+      "xr": -0.4581
     },
     "678489": {
       "name": "Jorge Barrosa",
@@ -2271,8 +2271,8 @@
     "687221": {
       "name": "Dalton Rushing",
       "team": "Los Angeles Dodgers",
-      "pa": 117,
-      "xr": 2.2822
+      "pa": 122,
+      "xr": 3.1593
     },
     "678554": {
       "name": "Curtis Mead",
@@ -2325,8 +2325,8 @@
     "669743": {
       "name": "Alex Call",
       "team": "Los Angeles Dodgers",
-      "pa": 87,
-      "xr": -2.2725
+      "pa": 89,
+      "xr": -1.669
     },
     "650968": {
       "name": "Yohel Pozo",
@@ -2619,8 +2619,8 @@
     "669899": {
       "name": "Ryan Ward",
       "team": "Los Angeles Dodgers",
-      "pa": 31,
-      "xr": 2.1787
+      "pa": 34,
+      "xr": 1.3967
     },
     "553869": {
       "name": "Elias D\u00edaz",
@@ -3039,8 +3039,8 @@
     "699013": {
       "name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
-      "pa": 18,
-      "xr": -0.0251
+      "pa": 20,
+      "xr": 0.86
     },
     "694224": {
       "name": "Gabriel Gonzalez",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 17,
-      "xr": 2.39
+      "pa": 19,
+      "xr": 2.68
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -3303,8 +3303,8 @@
     "804668": {
       "name": "Rafael Flores Jr.",
       "team": "Pittsburgh Pirates",
-      "pa": 1,
-      "xr": 0.5837
+      "pa": 5,
+      "xr": 2.1425
     },
     "670224": {
       "name": "Kameron Misner",
@@ -3377,8 +3377,8 @@
     "670990": {
       "name": "Yohan Ram\u00edrez",
       "team": "Pittsburgh Pirates",
-      "bf": 150,
-      "xr_allowed": -1.7486
+      "bf": 158,
+      "xr_allowed": -1.7325
     },
     "682254": {
       "name": "Mason Montgomery",
@@ -3413,8 +3413,8 @@
     "642701": {
       "name": "Dennis Santana",
       "team": "Pittsburgh Pirates",
-      "bf": 117,
-      "xr_allowed": 3.8772
+      "bf": 120,
+      "xr_allowed": 3.7641
     },
     "472610": {
       "name": "Luis Garc\u00eda",
@@ -3923,14 +3923,14 @@
     "694361": {
       "name": "Will Klein",
       "team": "Los Angeles Dodgers",
-      "bf": 106,
-      "xr_allowed": -4.7555
+      "bf": 113,
+      "xr_allowed": -4.3422
     },
     "656945": {
       "name": "Tanner Scott",
       "team": "Los Angeles Dodgers",
-      "bf": 101,
-      "xr_allowed": -1.5195
+      "bf": 105,
+      "xr_allowed": -2.2827
     },
     "669302": {
       "name": "Logan Gilbert",
@@ -4331,8 +4331,8 @@
     "676263": {
       "name": "Jack Dreyer",
       "team": "Los Angeles Dodgers",
-      "bf": 102,
-      "xr_allowed": -1.9193
+      "bf": 105,
+      "xr_allowed": -2.3594
     },
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
@@ -4349,14 +4349,14 @@
     "681911": {
       "name": "Alex Vesia",
       "team": "Los Angeles Dodgers",
-      "bf": 89,
-      "xr_allowed": -5.7119
+      "bf": 90,
+      "xr_allowed": -5.934
     },
     "683618": {
       "name": "Edgardo Henriquez",
       "team": "Los Angeles Dodgers",
-      "bf": 92,
-      "xr_allowed": -2.0633
+      "bf": 97,
+      "xr_allowed": -2.7417
     },
     "656464": {
       "name": "Kevin Ginkel",
@@ -4661,8 +4661,8 @@
     "656605": {
       "name": "Mitch Keller",
       "team": "Pittsburgh Pirates",
-      "bf": 282,
-      "xr_allowed": 7.848
+      "bf": 306,
+      "xr_allowed": 11.1217
     },
     "623211": {
       "name": "Huascar Brazob\u00e1n",
@@ -5507,8 +5507,8 @@
     "680736": {
       "name": "Justin Wrobleski",
       "team": "Los Angeles Dodgers",
-      "bf": 241,
-      "xr_allowed": 1.3952
+      "bf": 262,
+      "xr_allowed": 4.514
     },
     "621107": {
       "name": "Zach Eflin",
@@ -6071,8 +6071,8 @@
     "681895": {
       "name": "Evan Sisk",
       "team": "Pittsburgh Pirates",
-      "bf": 107,
-      "xr_allowed": -4.8496
+      "bf": 114,
+      "xr_allowed": -4.9883
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -6833,8 +6833,8 @@
     "684049": {
       "name": "Brandan Bidois",
       "team": "Pittsburgh Pirates",
-      "bf": 56,
-      "xr_allowed": -0.2225
+      "bf": 63,
+      "xr_allowed": -1.4934
     },
     "666157": {
       "name": "Nick Lodolo",
@@ -8351,6 +8351,7 @@
     823619,
     824346,
     824101,
-    824827
+    824827,
+    823371
   ]
 }
