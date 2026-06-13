@@ -735,20 +735,20 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 289,
-      "xr": -1.7962
+      "pa": 294,
+      "xr": -3.0185
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 298,
-      "xr": 27.1237
+      "pa": 303,
+      "xr": 27.2989
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
-      "pa": 206,
-      "xr": -4.0986
+      "pa": 207,
+      "xr": -4.2077
     },
     "624585": {
       "name": "Jorge Soler",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 276,
-      "xr": 4.3787
+      "pa": 281,
+      "xr": 3.6248
     },
     "666139": {
       "name": "Josh Lowe",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Los Angeles Angels",
-      "pa": 156,
-      "xr": -1.1522
+      "pa": 160,
+      "xr": -0.5271
     },
     "621043": {
       "name": "Carlos Correa",
@@ -825,8 +825,8 @@
     "672724": {
       "name": "Oswald Peraza",
       "team": "Los Angeles Angels",
-      "pa": 205,
-      "xr": -4.3
+      "pa": 209,
+      "xr": -4.7927
     },
     "673237": {
       "name": "Yainer Diaz",
@@ -969,32 +969,32 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 260,
-      "xr": 18.6235
+      "pa": 265,
+      "xr": 17.865
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 107,
-      "xr": 0.9338
+      "pa": 111,
+      "xr": 0.4532
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 269,
-      "xr": 15.7805
+      "pa": 274,
+      "xr": 17.5748
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 276,
-      "xr": 8.1318
+      "pa": 281,
+      "xr": 7.5538
     },
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "pa": 148,
-      "xr": -0.8327
+      "pa": 152,
+      "xr": -0.0798
     },
     "802139": {
       "name": "JJ Wetherholt",
@@ -1035,14 +1035,14 @@
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 159,
-      "xr": -5.6512
+      "pa": 163,
+      "xr": -5.6578
     },
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 221,
-      "xr": -12.1319
+      "pa": 222,
+      "xr": -12.8607
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,8 +1077,8 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 246,
-      "xr": -7.156
+      "pa": 250,
+      "xr": -7.2095
     },
     "680700": {
       "name": "Richie Palacios",
@@ -1605,8 +1605,8 @@
     "596103": {
       "name": "Austin Slater",
       "team": "Tampa Bay Rays",
-      "pa": 57,
-      "xr": -6.275
+      "pa": 61,
+      "xr": -5.9246
     },
     "682663": {
       "name": "Agust\u00edn Ram\u00edrez",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 164,
-      "xr": -8.9485
+      "pa": 168,
+      "xr": -9.1792
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2967,8 +2967,8 @@
     "642350": {
       "name": "Jose Siri",
       "team": "Los Angeles Angels",
-      "pa": 44,
-      "xr": 1.479
+      "pa": 48,
+      "xr": 2.7401
     },
     "686765": {
       "name": "Nick Sogard",
@@ -3141,8 +3141,8 @@
     "663611": {
       "name": "Nick Madrigal",
       "team": "Los Angeles Angels",
-      "pa": 35,
-      "xr": 2.0443
+      "pa": 39,
+      "xr": 1.7774
     },
     "676369": {
       "name": "Nelson Vel\u00e1zquez",
@@ -3255,14 +3255,14 @@
     "694203": {
       "name": "Denzer Guzman",
       "team": "Los Angeles Angels",
-      "pa": 10,
-      "xr": -1.0751
+      "pa": 14,
+      "xr": -0.5016
     },
     "641820": {
       "name": "Trey Mancini",
       "team": "Los Angeles Angels",
-      "pa": 10,
-      "xr": 0.4005
+      "pa": 13,
+      "xr": 0.4605
     },
     "673995": {
       "name": "Davis Wendzel",
@@ -3695,8 +3695,8 @@
     "681217": {
       "name": "Chase Silseth",
       "team": "Los Angeles Angels",
-      "bf": 103,
-      "xr_allowed": -1.7769
+      "bf": 107,
+      "xr_allowed": -2.102
     },
     "687911": {
       "name": "Bryan King",
@@ -4235,8 +4235,8 @@
     "666171": {
       "name": "Ryan Zeferjahn",
       "team": "Los Angeles Angels",
-      "bf": 141,
-      "xr_allowed": -0.6109
+      "bf": 143,
+      "xr_allowed": -0.928
     },
     "595345": {
       "name": "Steven Okert",
@@ -5231,8 +5231,8 @@
     "669438": {
       "name": "Mason Englert",
       "team": "Tampa Bay Rays",
-      "bf": 80,
-      "xr_allowed": 3.8465
+      "bf": 98,
+      "xr_allowed": 2.7522
     },
     "684007": {
       "name": "Shota Imanaga",
@@ -5627,8 +5627,8 @@
     "663556": {
       "name": "Shane McClanahan",
       "team": "Tampa Bay Rays",
-      "bf": 247,
-      "xr_allowed": 1.1514
+      "bf": 268,
+      "xr_allowed": 2.0957
     },
     "669467": {
       "name": "Andre Pallante",
@@ -5903,8 +5903,8 @@
     "815083": {
       "name": "Mitch Farris",
       "team": "Los Angeles Angels",
-      "bf": 91,
-      "xr_allowed": -2.2204
+      "bf": 104,
+      "xr_allowed": -2.1768
     },
     "689147": {
       "name": "Orion Kerkering",
@@ -6239,8 +6239,8 @@
     "691951": {
       "name": "Sam Aldegheri",
       "team": "Los Angeles Angels",
-      "bf": 52,
-      "xr_allowed": -0.5519
+      "bf": 73,
+      "xr_allowed": 0.1076
     },
     "683409": {
       "name": "Angel Chivilli",
@@ -8406,6 +8406,7 @@
     822726,
     824102,
     823617,
-    823695
+    823695,
+    824020
   ]
 }
