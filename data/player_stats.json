@@ -117,14 +117,14 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 255,
-      "xr": 11.0655
+      "pa": 259,
+      "xr": 10.659
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 284,
-      "xr": 12.1782
+      "pa": 288,
+      "xr": 11.8908
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 201,
-      "xr": 5.5742
+      "pa": 205,
+      "xr": 4.7333
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,20 +195,20 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 112,
-      "xr": -3.8805
+      "pa": 115,
+      "xr": -4.5464
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 230,
-      "xr": 1.8358
+      "pa": 234,
+      "xr": 1.1409
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 239,
-      "xr": 5.4501
+      "pa": 243,
+      "xr": 5.4653
     },
     "680779": {
       "name": "Henry Davis",
@@ -1617,14 +1617,14 @@
     "805300": {
       "name": "Jakob Marsee",
       "team": "Miami Marlins",
-      "pa": 266,
-      "xr": 0.1425
+      "pa": 271,
+      "xr": -0.8255
     },
     "672640": {
       "name": "Otto Lopez",
       "team": "Miami Marlins",
-      "pa": 272,
-      "xr": 13.5626
+      "pa": 277,
+      "xr": 13.45
     },
     "681393": {
       "name": "Connor Norby",
@@ -1653,26 +1653,26 @@
     "681715": {
       "name": "Heriberto Hern\u00e1ndez",
       "team": "Miami Marlins",
-      "pa": 124,
-      "xr": 3.0637
+      "pa": 129,
+      "xr": 3.9929
     },
     "669364": {
       "name": "Xavier Edwards",
       "team": "Miami Marlins",
-      "pa": 278,
-      "xr": 8.921
+      "pa": 283,
+      "xr": 8.9579
     },
     "683357": {
       "name": "Owen Caissie",
       "team": "Miami Marlins",
-      "pa": 181,
-      "xr": -4.9668
+      "pa": 186,
+      "xr": -3.6119
     },
     "691594": {
       "name": "Javier Sanoja",
       "team": "Miami Marlins",
-      "pa": 145,
-      "xr": -6.6674
+      "pa": 149,
+      "xr": -6.371
     },
     "686668": {
       "name": "Brenton Doyle",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 144,
-      "xr": -7.003
+      "pa": 147,
+      "xr": -6.657
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2043,8 +2043,8 @@
     "689414": {
       "name": "Liam Hicks",
       "team": "Miami Marlins",
-      "pa": 242,
-      "xr": 4.6609
+      "pa": 247,
+      "xr": 5.4628
     },
     "688363": {
       "name": "Graham Pauley",
@@ -2613,8 +2613,8 @@
     "669065": {
       "name": "Kyle Stowers",
       "team": "Miami Marlins",
-      "pa": 179,
-      "xr": 3.4395
+      "pa": 184,
+      "xr": 4.6274
     },
     "669899": {
       "name": "Ryan Ward",
@@ -2787,8 +2787,8 @@
     "691788": {
       "name": "Joe Mack",
       "team": "Miami Marlins",
-      "pa": 86,
-      "xr": -1.8354
+      "pa": 90,
+      "xr": -2.6621
     },
     "694192": {
       "name": "Jackson Chourio",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 59,
-      "xr": 0.8891
+      "pa": 63,
+      "xr": 1.7195
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3039,8 +3039,8 @@
     "699013": {
       "name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
-      "pa": 20,
-      "xr": 0.86
+      "pa": 21,
+      "xr": 0.5862
     },
     "694224": {
       "name": "Gabriel Gonzalez",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 19,
-      "xr": 2.68
+      "pa": 22,
+      "xr": 2.1353
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -4103,8 +4103,8 @@
     "645261": {
       "name": "Sandy Alcantara",
       "team": "Miami Marlins",
-      "bf": 352,
-      "xr_allowed": 5.731
+      "bf": 382,
+      "xr_allowed": 3.873
     },
     "607536": {
       "name": "Kyle Freeland",
@@ -5123,8 +5123,8 @@
     "667463": {
       "name": "John King",
       "team": "Miami Marlins",
-      "bf": 97,
-      "xr_allowed": -6.191
+      "bf": 101,
+      "xr_allowed": -6.8555
     },
     "680767": {
       "name": "Victor Vodnik",
@@ -5297,8 +5297,8 @@
     "677952": {
       "name": "Braxton Ashcraft",
       "team": "Pittsburgh Pirates",
-      "bf": 296,
-      "xr_allowed": -8.5748
+      "bf": 318,
+      "xr_allowed": -8.5567
     },
     "683742": {
       "name": "Jose Franco",
@@ -6281,8 +6281,8 @@
     "696062": {
       "name": "Wilber Dotel",
       "team": "Pittsburgh Pirates",
-      "bf": 67,
-      "xr_allowed": 0.4818
+      "bf": 79,
+      "xr_allowed": 3.1363
     },
     "692230": {
       "name": "Carlos Rodriguez",
@@ -7375,6 +7375,12 @@
       "team": "Minnesota Twins",
       "bf": 6,
       "xr_allowed": 0.174
+    },
+    "699008": {
+      "name": "Antwone Kelly",
+      "team": "Pittsburgh Pirates",
+      "bf": 9,
+      "xr_allowed": 0.0273
     }
   },
   "processed_games": [
@@ -8352,6 +8358,7 @@
     824346,
     824101,
     824827,
-    823371
+    823371,
+    823370
   ]
 }
