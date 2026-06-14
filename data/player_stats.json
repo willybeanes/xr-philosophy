@@ -21,32 +21,32 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 282,
-      "xr": 0.2692
+      "pa": 287,
+      "xr": 0.459
     },
     "656305": {
       "name": "Matt Chapman",
       "team": "San Francisco Giants",
-      "pa": 276,
-      "xr": -0.4751
+      "pa": 280,
+      "xr": -0.9127
     },
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 287,
-      "xr": -3.2228
+      "pa": 291,
+      "xr": -3.2707
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 277,
-      "xr": -5.0036
+      "pa": 281,
+      "xr": -4.9449
     },
     "808982": {
       "name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
-      "pa": 238,
-      "xr": 7.1816
+      "pa": 242,
+      "xr": 7.0929
     },
     "700250": {
       "name": "Ben Rice",
@@ -93,8 +93,8 @@
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 258,
-      "xr": 9.0293
+      "pa": 262,
+      "xr": 8.5308
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 293,
-      "xr": 11.2219
+      "pa": 298,
+      "xr": 11.9944
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 306,
-      "xr": -0.2034
+      "pa": 311,
+      "xr": -0.1415
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 280,
-      "xr": 2.6669
+      "pa": 285,
+      "xr": 2.3246
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 284,
-      "xr": 7.104
+      "pa": 289,
+      "xr": 7.7195
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,8 +435,8 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 299,
-      "xr": 3.0891
+      "pa": 304,
+      "xr": 2.6132
     },
     "608348": {
       "name": "Carson Kelly",
@@ -465,14 +465,14 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 246,
-      "xr": -3.7025
+      "pa": 251,
+      "xr": -4.4585
     },
     "807713": {
       "name": "Matt Shaw",
       "team": "Chicago Cubs",
-      "pa": 102,
-      "xr": -1.1224
+      "pa": 104,
+      "xr": -0.8832
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 113,
-      "xr": 0.2489
+      "pa": 118,
+      "xr": 0.901
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 220,
-      "xr": -1.3656
+      "pa": 223,
+      "xr": -1.0936
     },
     "695257": {
       "name": "Billy Cook",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 135,
-      "xr": -7.2215
+      "pa": 139,
+      "xr": -5.9055
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2667,8 +2667,8 @@
     "606992": {
       "name": "Eric Haase",
       "team": "San Francisco Giants",
-      "pa": 47,
-      "xr": 0.3292
+      "pa": 51,
+      "xr": -0.4161
     },
     "669717": {
       "name": "Will Wilson",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 107,
-      "xr": 5.9989
+      "pa": 111,
+      "xr": 6.8123
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 26,
-      "xr": 1.1156
+      "pa": 31,
+      "xr": 1.5137
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3383,8 +3383,8 @@
     "668873": {
       "name": "Caleb Kilian",
       "team": "San Francisco Giants",
-      "bf": 113,
-      "xr_allowed": 3.2058
+      "bf": 117,
+      "xr_allowed": 3.368
     },
     "666808": {
       "name": "Camilo Doval",
@@ -3533,8 +3533,8 @@
     "676962": {
       "name": "Ben Brown",
       "team": "Chicago Cubs",
-      "bf": 207,
-      "xr_allowed": -5.6128
+      "bf": 230,
+      "xr_allowed": -4.9697
     },
     "676571": {
       "name": "PJ Poulin",
@@ -4061,8 +4061,8 @@
     "676254": {
       "name": "Ryan Walker",
       "team": "San Francisco Giants",
-      "bf": 71,
-      "xr_allowed": 1.7968
+      "bf": 75,
+      "xr_allowed": 1.3892
     },
     "621366": {
       "name": "Ryan Borucki",
@@ -4451,14 +4451,14 @@
     "664208": {
       "name": "Phil Maton",
       "team": "Chicago Cubs",
-      "bf": 101,
-      "xr_allowed": 6.4438
+      "bf": 106,
+      "xr_allowed": 6.1884
     },
     "573204": {
       "name": "Caleb Thielbar",
       "team": "Chicago Cubs",
-      "bf": 69,
-      "xr_allowed": -3.3292
+      "bf": 74,
+      "xr_allowed": -3.0795
     },
     "669371": {
       "name": "Cole Henry",
@@ -5843,8 +5843,8 @@
     "681799": {
       "name": "Ethan Roberts",
       "team": "Chicago Cubs",
-      "bf": 66,
-      "xr_allowed": 1.8067
+      "bf": 70,
+      "xr_allowed": 1.7292
     },
     "691946": {
       "name": "George Klassen",
@@ -6719,8 +6719,8 @@
     "686790": {
       "name": "Trevor McDonald",
       "team": "San Francisco Giants",
-      "bf": 165,
-      "xr_allowed": -1.9245
+      "bf": 185,
+      "xr_allowed": 0.277
     },
     "687941": {
       "name": "Alec Gamboa",
@@ -6857,8 +6857,8 @@
     "656529": {
       "name": "Sam Hentges",
       "team": "San Francisco Giants",
-      "bf": 48,
-      "xr_allowed": -0.8106
+      "bf": 53,
+      "xr_allowed": -1.1961
     },
     "684049": {
       "name": "Brandan Bidois",
@@ -7313,8 +7313,8 @@
     "681916": {
       "name": "Dylan Smith",
       "team": "San Francisco Giants",
-      "bf": 11,
-      "xr_allowed": -2.8744
+      "bf": 16,
+      "xr_allowed": -3.6852
     },
     "676604": {
       "name": "Tyler Zuber",
@@ -7385,8 +7385,8 @@
     "665665": {
       "name": "Reiver Sanmartin",
       "team": "San Francisco Giants",
-      "bf": 8,
-      "xr_allowed": 0.0353
+      "bf": 15,
+      "xr_allowed": 0.7126
     },
     "675916": {
       "name": "James Karinchak",
@@ -8447,6 +8447,7 @@
     823776,
     824100,
     824995,
-    824019
+    824019,
+    823213
   ]
 }
