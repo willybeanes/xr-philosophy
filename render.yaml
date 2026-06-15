@@ -6,6 +6,7 @@ services:
     repo: https://github.com/willybeanes/xr-philosophy
     branch: main
     plan: starter
+    autoDeploy: false  # bot commits data back to main every run — don't rebuild on those pushes
     schedule: "*/10 15-23,0-7 * 4-10 *"  # Every 10 min, 11 AM–3 AM ET (UTC)
     buildCommand: pip install -r requirements.txt
     startCommand: bash run_bot.sh
@@ -26,6 +27,7 @@ services:
     repo: https://github.com/willybeanes/xr-philosophy
     branch: main
     plan: starter
+    autoDeploy: false  # bot commits data back to main every run — don't rebuild on those pushes
     schedule: "0 13 * * 1"  # Monday 9 AM ET = 13:00 UTC
     buildCommand: |
       apt-get update && apt-get install -y libcairo2
