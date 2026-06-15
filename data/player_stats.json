@@ -621,20 +621,20 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 269,
-      "xr": 0.8641
+      "pa": 273,
+      "xr": 0.6786
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 267,
-      "xr": 15.6687
+      "pa": 271,
+      "xr": 15.2807
     },
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 208,
-      "xr": -4.4744
+      "pa": 212,
+      "xr": -4.7224
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,26 +657,26 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 279,
-      "xr": 10.7115
+      "pa": 283,
+      "xr": 10.4734
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 118,
-      "xr": -0.7904
+      "pa": 122,
+      "xr": -1.2775
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
       "team": "Boston Red Sox",
-      "pa": 127,
-      "xr": -3.6393
+      "pa": 130,
+      "xr": -4.1113
     },
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 242,
-      "xr": 4.5336
+      "pa": 246,
+      "xr": 4.1153
     },
     "701398": {
       "name": "Sal Stewart",
@@ -717,8 +717,8 @@
     "691785": {
       "name": "Marcelo Mayer",
       "team": "Boston Red Sox",
-      "pa": 185,
-      "xr": -5.7978
+      "pa": 188,
+      "xr": -5.493
     },
     "666181": {
       "name": "Will Benson",
@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 280,
-      "xr": 14.2457
+      "pa": 285,
+      "xr": 14.3221
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 118,
-      "xr": -3.2601
+      "pa": 123,
+      "xr": -2.758
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 271,
-      "xr": 0.7694
+      "pa": 276,
+      "xr": -0.4289
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 264,
-      "xr": 16.3969
+      "pa": 269,
+      "xr": 17.2274
     },
     "669701": {
       "name": "Josh Smith",
@@ -1209,8 +1209,8 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 200,
-      "xr": 9.1393
+      "pa": 201,
+      "xr": 9.1094
     },
     "694497": {
       "name": "Evan Carter",
@@ -1221,14 +1221,14 @@
     "543309": {
       "name": "Kyle Higashioka",
       "team": "Texas Rangers",
-      "pa": 121,
-      "xr": -1.5182
+      "pa": 125,
+      "xr": -0.5608
     },
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 214,
-      "xr": 4.0322
+      "pa": 219,
+      "xr": 2.6194
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1989,8 +1989,8 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 138,
-      "xr": 0.1861
+      "pa": 142,
+      "xr": 0.3822
     },
     "657136": {
       "name": "Connor Wong",
@@ -2175,8 +2175,8 @@
     "655316": {
       "name": "Andruw Monasterio",
       "team": "Boston Red Sox",
-      "pa": 107,
-      "xr": -5.2554
+      "pa": 108,
+      "xr": -5.3529
     },
     "676724": {
       "name": "Jared Young",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 102,
-      "xr": 2.3985
+      "pa": 106,
+      "xr": 1.9684
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 49,
-      "xr": -1.8369
+      "pa": 51,
+      "xr": -1.4881
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 68,
-      "xr": 0.2393
+      "pa": 71,
+      "xr": 0.3976
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3207,8 +3207,8 @@
     "683227": {
       "name": "Cody Freeman",
       "team": "Texas Rangers",
-      "pa": 6,
-      "xr": -1.5881
+      "pa": 11,
+      "xr": -1.9385
     },
     "678011": {
       "name": "Anthony Seigler",
@@ -3875,8 +3875,8 @@
     "543135": {
       "name": "Nathan Eovaldi",
       "team": "Texas Rangers",
-      "bf": 338,
-      "xr_allowed": 6.4116
+      "bf": 364,
+      "xr_allowed": 4.8988
     },
     "656222": {
       "name": "Jalen Beeks",
@@ -4607,8 +4607,8 @@
     "656641": {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
-      "bf": 110,
-      "xr_allowed": -6.2387
+      "bf": 114,
+      "xr_allowed": -6.8667
     },
     "668390": {
       "name": "Cole Winn",
@@ -4631,8 +4631,8 @@
     "596001": {
       "name": "Jakob Junis",
       "team": "Texas Rangers",
-      "bf": 103,
-      "xr_allowed": -3.2659
+      "bf": 108,
+      "xr_allowed": -3.1587
     },
     "641835": {
       "name": "Tim Mayza",
@@ -4667,8 +4667,8 @@
     "669711": {
       "name": "Greg Weissert",
       "team": "Boston Red Sox",
-      "bf": 106,
-      "xr_allowed": -1.6643
+      "bf": 111,
+      "xr_allowed": -2.1646
     },
     "543056": {
       "name": "Danny Coulombe",
@@ -4679,8 +4679,8 @@
     "670245": {
       "name": "Ryan Watson",
       "team": "Boston Red Sox",
-      "bf": 158,
-      "xr_allowed": 10.8056
+      "bf": 166,
+      "xr_allowed": 11.3962
     },
     "663574": {
       "name": "Tony Santillan",
@@ -5105,8 +5105,8 @@
     "813349": {
       "name": "Connelly Early",
       "team": "Boston Red Sox",
-      "bf": 274,
-      "xr_allowed": 4.9558
+      "bf": 301,
+      "xr_allowed": 4.4636
     },
     "663558": {
       "name": "Jovani Mor\u00e1n",
@@ -7301,8 +7301,8 @@
     "592454": {
       "name": "Tommy Kahnle",
       "team": "Boston Red Sox",
-      "bf": 16,
-      "xr_allowed": 1.2854
+      "bf": 20,
+      "xr_allowed": 1.1393
     },
     "689149": {
       "name": "Chad Dallas",
@@ -8479,6 +8479,7 @@
     824506,
     823212,
     824994,
-    824021
+    824021,
+    824751
   ]
 }
