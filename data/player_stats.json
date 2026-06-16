@@ -117,14 +117,14 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 269,
-      "xr": 9.1548
+      "pa": 274,
+      "xr": 8.2501
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 297,
-      "xr": 13.3079
+      "pa": 301,
+      "xr": 13.3706
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 214,
-      "xr": 4.2587
+      "pa": 218,
+      "xr": 4.0854
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -201,14 +201,14 @@
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 244,
-      "xr": 0.7955
+      "pa": 249,
+      "xr": 1.2311
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 251,
-      "xr": 5.8744
+      "pa": 255,
+      "xr": 5.5246
     },
     "680779": {
       "name": "Henry Davis",
@@ -1473,20 +1473,20 @@
     "701762": {
       "name": "Nick Kurtz",
       "team": "Athletics",
-      "pa": 302,
-      "xr": 22.476
+      "pa": 307,
+      "xr": 26.0267
     },
     "669127": {
       "name": "Shea Langeliers",
       "team": "Athletics",
-      "pa": 276,
-      "xr": 10.2937
+      "pa": 281,
+      "xr": 10.3514
     },
     "691016": {
       "name": "Tyler Soderstrom",
       "team": "Athletics",
-      "pa": 268,
-      "xr": 8.811
+      "pa": 274,
+      "xr": 8.9892
     },
     "543807": {
       "name": "George Springer",
@@ -1521,14 +1521,14 @@
     "805779": {
       "name": "Jacob Wilson",
       "team": "Athletics",
-      "pa": 162,
-      "xr": -4.023
+      "pa": 167,
+      "xr": -5.386
     },
     "671732": {
       "name": "Lawrence Butler",
       "team": "Athletics",
-      "pa": 178,
-      "xr": -2.9228
+      "pa": 182,
+      "xr": -2.6939
     },
     "672386": {
       "name": "Alejandro Kirk",
@@ -1557,8 +1557,8 @@
     "643446": {
       "name": "Jeff McNeil",
       "team": "Athletics",
-      "pa": 217,
-      "xr": 1.3538
+      "pa": 221,
+      "xr": 1.9049
     },
     "672016": {
       "name": "Denzel Clarke",
@@ -1581,8 +1581,8 @@
     "666126": {
       "name": "Carlos Cortes",
       "team": "Athletics",
-      "pa": 175,
-      "xr": 9.0523
+      "pa": 180,
+      "xr": 7.5102
     },
     "664983": {
       "name": "Jake McCarthy",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 155,
-      "xr": -6.4764
+      "pa": 159,
+      "xr": -6.424
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2523,8 +2523,8 @@
     "680869": {
       "name": "Zack Gelof",
       "team": "Athletics",
-      "pa": 184,
-      "xr": -5.6418
+      "pa": 188,
+      "xr": -6.4582
     },
     "502054": {
       "name": "Tommy Pham",
@@ -2931,8 +2931,8 @@
     "703607": {
       "name": "Henry Bolte",
       "team": "Athletics",
-      "pa": 101,
-      "xr": -0.6368
+      "pa": 105,
+      "xr": -1.6342
     },
     "683021": {
       "name": "Michael Stefanic",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 68,
-      "xr": 1.892
+      "pa": 72,
+      "xr": 3.7926
     },
     "663584": {
       "name": "Hayden Senger",
@@ -3039,8 +3039,8 @@
     "699013": {
       "name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
-      "pa": 21,
-      "xr": 0.5862
+      "pa": 25,
+      "xr": 0.2017
     },
     "694224": {
       "name": "Gabriel Gonzalez",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 30,
-      "xr": 1.5122
+      "pa": 34,
+      "xr": 0.9383
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -3467,8 +3467,8 @@
     "642701": {
       "name": "Dennis Santana",
       "team": "Pittsburgh Pirates",
-      "bf": 120,
-      "xr_allowed": 3.7641
+      "bf": 123,
+      "xr_allowed": 3.4191
     },
     "472610": {
       "name": "Luis Garc\u00eda",
@@ -4151,8 +4151,8 @@
     "686993": {
       "name": "Justin Sterner",
       "team": "Athletics",
-      "bf": 123,
-      "xr_allowed": -6.44
+      "bf": 127,
+      "xr_allowed": -6.846
     },
     "645261": {
       "name": "Sandy Alcantara",
@@ -5105,8 +5105,8 @@
     "669372": {
       "name": "J.T. Ginn",
       "team": "Athletics",
-      "bf": 264,
-      "xr_allowed": -2.5041
+      "bf": 290,
+      "xr_allowed": -1.9353
     },
     "695076": {
       "name": "Rhett Lowder",
@@ -5135,8 +5135,8 @@
     "669387": {
       "name": "Carmen Mlodzinski",
       "team": "Pittsburgh Pirates",
-      "bf": 248,
-      "xr_allowed": 7.7686
+      "bf": 266,
+      "xr_allowed": 8.2677
     },
     "640455": {
       "name": "Sean Manaea",
@@ -6359,8 +6359,8 @@
     "686930": {
       "name": "Mason Barnett",
       "team": "Athletics",
-      "bf": 35,
-      "xr_allowed": -2.7665
+      "bf": 43,
+      "xr_allowed": -2.8642
     },
     "694680": {
       "name": "Trevor Martin",
@@ -7217,8 +7217,8 @@
     "683003": {
       "name": "Jared Jones",
       "team": "Pittsburgh Pirates",
-      "bf": 58,
-      "xr_allowed": 1.4254
+      "bf": 79,
+      "xr_allowed": 1.119
     },
     "689225": {
       "name": "Beau Brieske",
@@ -8500,6 +8500,7 @@
     822887,
     824181,
     824666,
-    825071
+    825071,
+    824993
   ]
 }
