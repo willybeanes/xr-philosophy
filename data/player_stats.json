@@ -969,32 +969,32 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 274,
-      "xr": 17.7045
+      "pa": 279,
+      "xr": 17.3832
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 111,
-      "xr": 0.4532
+      "pa": 115,
+      "xr": 1.9915
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 283,
-      "xr": 18.8591
+      "pa": 287,
+      "xr": 19.2241
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 290,
-      "xr": 6.346
+      "pa": 294,
+      "xr": 6.8833
     },
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "pa": 156,
-      "xr": 0.5002
+      "pa": 160,
+      "xr": 0.2892
     },
     "802139": {
       "name": "JJ Wetherholt",
@@ -1035,14 +1035,14 @@
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 163,
-      "xr": -5.6578
+      "pa": 167,
+      "xr": -5.5332
     },
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 231,
-      "xr": -11.2776
+      "pa": 235,
+      "xr": -10.9438
     },
     "700246": {
       "name": "Carson Williams",
@@ -1257,26 +1257,26 @@
     "660271": {
       "name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "pa": 297,
-      "xr": 28.65
+      "pa": 301,
+      "xr": 28.0153
     },
     "663656": {
       "name": "Kyle Tucker",
       "team": "Los Angeles Dodgers",
-      "pa": 285,
-      "xr": 6.3517
+      "pa": 289,
+      "xr": 6.6267
     },
     "605141": {
       "name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
-      "pa": 161,
-      "xr": 3.4999
+      "pa": 165,
+      "xr": 3.6097
     },
     "518692": {
       "name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
-      "pa": 292,
-      "xr": 18.3713
+      "pa": 296,
+      "xr": 18.8308
     },
     "571448": {
       "name": "Nolan Arenado",
@@ -1299,8 +1299,8 @@
     "571970": {
       "name": "Max Muncy",
       "team": "Los Angeles Dodgers",
-      "pa": 242,
-      "xr": 14.826
+      "pa": 246,
+      "xr": 15.2839
     },
     "606192": {
       "name": "Teoscar Hern\u00e1ndez",
@@ -1311,8 +1311,8 @@
     "681624": {
       "name": "Andy Pages",
       "team": "Los Angeles Dodgers",
-      "pa": 291,
-      "xr": 11.4552
+      "pa": 295,
+      "xr": 11.1607
     },
     "691783": {
       "name": "Jordan Lawlar",
@@ -1335,8 +1335,8 @@
     "500743": {
       "name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
-      "pa": 117,
-      "xr": 2.3929
+      "pa": 118,
+      "xr": 2.5938
     },
     "680757": {
       "name": "Steven Kwan",
@@ -1605,8 +1605,8 @@
     "596103": {
       "name": "Austin Slater",
       "team": "Tampa Bay Rays",
-      "pa": 61,
-      "xr": -5.9246
+      "pa": 65,
+      "xr": -5.4982
     },
     "682663": {
       "name": "Agust\u00edn Ram\u00edrez",
@@ -1881,8 +1881,8 @@
     "690976": {
       "name": "Alex Freeland",
       "team": "Los Angeles Dodgers",
-      "pa": 154,
-      "xr": 1.3583
+      "pa": 156,
+      "xr": 1.0357
     },
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
@@ -2271,8 +2271,8 @@
     "687221": {
       "name": "Dalton Rushing",
       "team": "Los Angeles Dodgers",
-      "pa": 131,
-      "xr": 1.8279
+      "pa": 134,
+      "xr": 1.4888
     },
     "678554": {
       "name": "Curtis Mead",
@@ -2325,8 +2325,8 @@
     "669743": {
       "name": "Alex Call",
       "team": "Los Angeles Dodgers",
-      "pa": 96,
-      "xr": -2.2565
+      "pa": 97,
+      "xr": -2.6819
     },
     "650968": {
       "name": "Yohel Pozo",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 171,
-      "xr": -9.3797
+      "pa": 175,
+      "xr": -10.4649
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2619,8 +2619,8 @@
     "669899": {
       "name": "Ryan Ward",
       "team": "Los Angeles Dodgers",
-      "pa": 41,
-      "xr": 1.4943
+      "pa": 43,
+      "xr": 1.7157
     },
     "553869": {
       "name": "Elias D\u00edaz",
@@ -3977,14 +3977,14 @@
     "694361": {
       "name": "Will Klein",
       "team": "Los Angeles Dodgers",
-      "bf": 113,
-      "xr_allowed": -4.3422
+      "bf": 116,
+      "xr_allowed": -4.3003
     },
     "656945": {
       "name": "Tanner Scott",
       "team": "Los Angeles Dodgers",
-      "bf": 105,
-      "xr_allowed": -2.2827
+      "bf": 108,
+      "xr_allowed": -2.6175
     },
     "669302": {
       "name": "Logan Gilbert",
@@ -4403,8 +4403,8 @@
     "681911": {
       "name": "Alex Vesia",
       "team": "Los Angeles Dodgers",
-      "bf": 92,
-      "xr_allowed": -6.1568
+      "bf": 93,
+      "xr_allowed": -6.0142
     },
     "683618": {
       "name": "Edgardo Henriquez",
@@ -5093,8 +5093,8 @@
     "641778": {
       "name": "Eric Lauer",
       "team": "Los Angeles Dodgers",
-      "bf": 204,
-      "xr_allowed": 8.4117
+      "bf": 230,
+      "xr_allowed": 10.6493
     },
     "806960": {
       "name": "Luis Morales",
@@ -5237,8 +5237,8 @@
     "571927": {
       "name": "Steven Matz",
       "team": "Tampa Bay Rays",
-      "bf": 204,
-      "xr_allowed": 15.1428
+      "bf": 212,
+      "xr_allowed": 14.9211
     },
     "687330": {
       "name": "Kevin Kelly",
@@ -5471,8 +5471,8 @@
     "607259": {
       "name": "Nick Martinez",
       "team": "Tampa Bay Rays",
-      "bf": 293,
-      "xr_allowed": 5.6227
+      "bf": 315,
+      "xr_allowed": 6.0719
     },
     "681517": {
       "name": "Kyle Leahy",
@@ -6263,8 +6263,8 @@
     "669165": {
       "name": "Kyle Hurt",
       "team": "Los Angeles Dodgers",
-      "bf": 84,
-      "xr_allowed": -1.8775
+      "bf": 88,
+      "xr_allowed": -2.2569
     },
     "691951": {
       "name": "Sam Aldegheri",
@@ -7283,8 +7283,8 @@
     "592155": {
       "name": "Cam Booser",
       "team": "Tampa Bay Rays",
-      "bf": 21,
-      "xr_allowed": -3.4032
+      "bf": 24,
+      "xr_allowed": -3.9225
     },
     "669298": {
       "name": "TJ Shook",
@@ -8501,6 +8501,7 @@
     824181,
     824666,
     825071,
-    824993
+    824993,
+    823938
   ]
 }
