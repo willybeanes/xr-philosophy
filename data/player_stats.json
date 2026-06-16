@@ -489,20 +489,20 @@
     "668885": {
       "name": "Austin Martin",
       "team": "Minnesota Twins",
-      "pa": 222,
-      "xr": 0.5029
+      "pa": 226,
+      "xr": 0.2703
     },
     "621439": {
       "name": "Byron Buxton",
       "team": "Minnesota Twins",
-      "pa": 259,
-      "xr": 2.4173
+      "pa": 263,
+      "xr": 2.6163
     },
     "807712": {
       "name": "Luke Keaschall",
       "team": "Minnesota Twins",
-      "pa": 258,
-      "xr": -0.9422
+      "pa": 261,
+      "xr": -1.4069
     },
     "621493": {
       "name": "Taylor Ward",
@@ -537,8 +537,8 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 264,
-      "xr": 8.7673
+      "pa": 268,
+      "xr": 9.6467
     },
     "605170": {
       "name": "Victor Caratini",
@@ -549,8 +549,8 @@
     "668904": {
       "name": "Royce Lewis",
       "team": "Minnesota Twins",
-      "pa": 140,
-      "xr": -2.7346
+      "pa": 144,
+      "xr": -3.1895
     },
     "686797": {
       "name": "Brooks Lee",
@@ -597,8 +597,8 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 221,
-      "xr": 7.1241
+      "pa": 225,
+      "xr": 6.8242
     },
     "663616": {
       "name": "Trevor Larnach",
@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 285,
-      "xr": 14.3221
+      "pa": 289,
+      "xr": 14.0888
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 123,
-      "xr": -2.758
+      "pa": 127,
+      "xr": -3.1874
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 276,
-      "xr": -0.4289
+      "pa": 280,
+      "xr": -0.727
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,14 +1167,14 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 269,
-      "xr": 17.2274
+      "pa": 273,
+      "xr": 17.1652
     },
     "669701": {
       "name": "Josh Smith",
       "team": "Texas Rangers",
-      "pa": 109,
-      "xr": -0.9719
+      "pa": 110,
+      "xr": -1.1275
     },
     "643376": {
       "name": "Danny Jansen",
@@ -1209,8 +1209,8 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 201,
-      "xr": 9.1094
+      "pa": 205,
+      "xr": 10.5594
     },
     "694497": {
       "name": "Evan Carter",
@@ -2487,8 +2487,8 @@
     "668952": {
       "name": "Ryan Kreidler",
       "team": "Minnesota Twins",
-      "pa": 74,
-      "xr": 2.1142
+      "pa": 77,
+      "xr": 2.0591
     },
     "687093": {
       "name": "Vaughn Grissom",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 33,
-      "xr": 0.6409
+      "pa": 35,
+      "xr": 0.9737
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 106,
-      "xr": 1.9684
+      "pa": 109,
+      "xr": 1.7128
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 51,
-      "xr": -1.4881
+      "pa": 54,
+      "xr": -1.6401
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -3051,8 +3051,8 @@
     "656577": {
       "name": "Alex Jackson",
       "team": "Minnesota Twins",
-      "pa": 31,
-      "xr": -2.0932
+      "pa": 34,
+      "xr": -2.4517
     },
     "685133": {
       "name": "Wade Meckler",
@@ -3207,8 +3207,8 @@
     "683227": {
       "name": "Cody Freeman",
       "team": "Texas Rangers",
-      "pa": 11,
-      "xr": -1.9385
+      "pa": 14,
+      "xr": -2.101
     },
     "678011": {
       "name": "Anthony Seigler",
@@ -3359,6 +3359,12 @@
       "team": "Kansas City Royals",
       "pa": 1,
       "xr": 0.126
+    },
+    "693459": {
+      "name": "Kyler Fedko",
+      "team": "Minnesota Twins",
+      "pa": 4,
+      "xr": -0.4565
     }
   },
   "pitchers": {
@@ -3623,8 +3629,8 @@
     "573124": {
       "name": "Taylor Rogers",
       "team": "Minnesota Twins",
-      "bf": 117,
-      "xr_allowed": 3.3808
+      "bf": 118,
+      "xr_allowed": 3.1587
     },
     "664854": {
       "name": "Ryan Helsley",
@@ -3863,8 +3869,8 @@
     "672782": {
       "name": "Yoendrys G\u00f3mez",
       "team": "Minnesota Twins",
-      "bf": 145,
-      "xr_allowed": 7.0468
+      "bf": 149,
+      "xr_allowed": 6.5839
     },
     "592773": {
       "name": "Ryne Stanek",
@@ -4583,8 +4589,8 @@
     "679358": {
       "name": "Eric Orze",
       "team": "Minnesota Twins",
-      "bf": 134,
-      "xr_allowed": -2.3387
+      "bf": 140,
+      "xr_allowed": -3.0209
     },
     "682274": {
       "name": "Yaramil Hiraldo",
@@ -4972,9 +4978,9 @@
     },
     "605452": {
       "name": "Joe Ross",
-      "team": "Arizona Diamondbacks",
-      "bf": 22,
-      "xr_allowed": 2.3825
+      "team": "Texas Rangers",
+      "bf": 25,
+      "xr_allowed": 2.0075
     },
     "623149": {
       "name": "Paul Sewald",
@@ -5051,8 +5057,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 309,
-      "xr_allowed": 0.6614
+      "bf": 336,
+      "xr_allowed": -0.488
     },
     "641745": {
       "name": "Brad Keller",
@@ -6059,8 +6065,8 @@
     "702193": {
       "name": "Andrew Morris",
       "team": "Minnesota Twins",
-      "bf": 138,
-      "xr_allowed": -5.1379
+      "bf": 141,
+      "xr_allowed": -5.5638
     },
     "680704": {
       "name": "Nick Sandlin",
@@ -6461,8 +6467,8 @@
     "682608": {
       "name": "Peyton Gray",
       "team": "Texas Rangers",
-      "bf": 99,
-      "xr_allowed": -1.3928
+      "bf": 102,
+      "xr_allowed": -1.1122
     },
     "552640": {
       "name": "Andrew Kittredge",
@@ -7247,8 +7253,8 @@
     "702474": {
       "name": "Mike Paredes",
       "team": "Minnesota Twins",
-      "bf": 45,
-      "xr_allowed": -0.9679
+      "bf": 63,
+      "xr_allowed": 0.8593
     },
     "687985": {
       "name": "Josh White",
@@ -8490,6 +8496,7 @@
     822724,
     823452,
     823046,
-    824505
+    824505,
+    822887
   ]
 }
