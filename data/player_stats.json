@@ -363,8 +363,8 @@
     "656537": {
       "name": "Derek Hill",
       "team": "Philadelphia Phillies",
-      "pa": 98,
-      "xr": -3.1993
+      "pa": 99,
+      "xr": -3.2592
     },
     "695578": {
       "name": "James Wood",
@@ -1137,26 +1137,26 @@
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 293,
-      "xr": 15.7126
+      "pa": 297,
+      "xr": 15.896
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 287,
-      "xr": 19.2706
+      "pa": 291,
+      "xr": 19.2558
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 266,
-      "xr": -4.1153
+      "pa": 270,
+      "xr": -1.9364
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 232,
-      "xr": -0.7705
+      "pa": 236,
+      "xr": 0.5436
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 242,
-      "xr": 1.9944
+      "pa": 246,
+      "xr": 3.1922
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 168,
-      "xr": 0.2616
+      "pa": 172,
+      "xr": -0.9978
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 203,
-      "xr": -9.769
+      "pa": 206,
+      "xr": -10.0006
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1617,20 +1617,20 @@
     "805300": {
       "name": "Jakob Marsee",
       "team": "Miami Marlins",
-      "pa": 282,
-      "xr": -1.4591
+      "pa": 286,
+      "xr": -2.0703
     },
     "672640": {
       "name": "Otto Lopez",
       "team": "Miami Marlins",
-      "pa": 290,
-      "xr": 12.8371
+      "pa": 294,
+      "xr": 12.7992
     },
     "681393": {
       "name": "Connor Norby",
       "team": "Miami Marlins",
-      "pa": 207,
-      "xr": -2.2717
+      "pa": 211,
+      "xr": -2.3379
     },
     "678662": {
       "name": "Ezequiel Tovar",
@@ -1653,14 +1653,14 @@
     "681715": {
       "name": "Heriberto Hern\u00e1ndez",
       "team": "Miami Marlins",
-      "pa": 141,
-      "xr": 3.5809
+      "pa": 145,
+      "xr": 3.2169
     },
     "669364": {
       "name": "Xavier Edwards",
       "team": "Miami Marlins",
-      "pa": 295,
-      "xr": 8.3939
+      "pa": 299,
+      "xr": 8.0483
     },
     "683357": {
       "name": "Owen Caissie",
@@ -1671,8 +1671,8 @@
     "691594": {
       "name": "Javier Sanoja",
       "team": "Miami Marlins",
-      "pa": 157,
-      "xr": -5.9979
+      "pa": 161,
+      "xr": -6.5761
     },
     "686668": {
       "name": "Brenton Doyle",
@@ -1971,8 +1971,8 @@
     "624641": {
       "name": "Edmundo Sosa",
       "team": "Philadelphia Phillies",
-      "pa": 106,
-      "xr": 0.6444
+      "pa": 109,
+      "xr": 0.6645
     },
     "805249": {
       "name": "Otto Kemp",
@@ -2043,8 +2043,8 @@
     "689414": {
       "name": "Liam Hicks",
       "team": "Miami Marlins",
-      "pa": 261,
-      "xr": 6.797
+      "pa": 265,
+      "xr": 6.2522
     },
     "688363": {
       "name": "Graham Pauley",
@@ -2301,8 +2301,8 @@
     "677870": {
       "name": "Leo Jim\u00e9nez",
       "team": "Miami Marlins",
-      "pa": 69,
-      "xr": -3.4976
+      "pa": 73,
+      "xr": -4.2395
     },
     "621438": {
       "name": "Tyrone Taylor",
@@ -2679,8 +2679,8 @@
     "665923": {
       "name": "Esteury Ruiz",
       "team": "Miami Marlins",
-      "pa": 62,
-      "xr": -2.092
+      "pa": 66,
+      "xr": -1.3346
     },
     "691011": {
       "name": "Drew Romo",
@@ -3315,8 +3315,8 @@
     "687282": {
       "name": "Gabriel Rincones Jr.",
       "team": "Philadelphia Phillies",
-      "pa": 7,
-      "xr": -0.8032
+      "pa": 10,
+      "xr": -1.7365
     },
     "642020": {
       "name": "Chuckie Robinson",
@@ -4631,8 +4631,8 @@
     "621383": {
       "name": "Tanner Banks",
       "team": "Philadelphia Phillies",
-      "bf": 111,
-      "xr_allowed": 0.0081
+      "bf": 115,
+      "xr_allowed": -0.1572
     },
     "621237": {
       "name": "Jos\u00e9 Alvarado",
@@ -5051,8 +5051,8 @@
     "666200": {
       "name": "Jes\u00fas Luzardo",
       "team": "Philadelphia Phillies",
-      "bf": 320,
-      "xr_allowed": -3.5647
+      "bf": 348,
+      "xr_allowed": -5.5583
     },
     "669022": {
       "name": "MacKenzie Gore",
@@ -5165,8 +5165,8 @@
     "663969": {
       "name": "Tyler Phillips",
       "team": "Miami Marlins",
-      "bf": 199,
-      "xr_allowed": -3.9704
+      "bf": 220,
+      "xr_allowed": -0.2259
     },
     "622608": {
       "name": "Antonio Senzatela",
@@ -5177,8 +5177,8 @@
     "667463": {
       "name": "John King",
       "team": "Miami Marlins",
-      "bf": 105,
-      "xr_allowed": -6.5529
+      "bf": 108,
+      "xr_allowed": -6.993
     },
     "680767": {
       "name": "Victor Vodnik",
@@ -5393,8 +5393,8 @@
     "669199": {
       "name": "Lake Bachar",
       "team": "Miami Marlins",
-      "bf": 149,
-      "xr_allowed": -0.8035
+      "bf": 152,
+      "xr_allowed": -0.9775
     },
     "664074": {
       "name": "Cody Ponce",
@@ -6791,8 +6791,8 @@
     "690978": {
       "name": "Dax Fulton",
       "team": "Miami Marlins",
-      "bf": 16,
-      "xr_allowed": -0.8571
+      "bf": 23,
+      "xr_allowed": -1.5922
     },
     "622088": {
       "name": "Tejay Antone",
@@ -7471,6 +7471,12 @@
       "team": "Colorado Rockies",
       "bf": 12,
       "xr_allowed": 0.4326
+    },
+    "676661": {
+      "name": "Max Lazar",
+      "team": "Philadelphia Phillies",
+      "bf": 4,
+      "xr_allowed": -0.3735
     }
   },
   "processed_games": [
@@ -8502,6 +8508,7 @@
     824666,
     825071,
     824993,
-    823938
+    823938,
+    823451
   ]
 }
