@@ -122,7 +122,7 @@ def main():
 
     print(f"  {len(new_games)} new game(s) to process\n")
 
-    POST_DELAY = 60  # seconds between Bluesky posts
+    POST_DELAY = 10  # seconds between Bluesky posts
 
     player_stats = load_player_stats()
     errors = 0

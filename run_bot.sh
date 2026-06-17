@@ -25,6 +25,8 @@ if git diff --staged --quiet; then
     echo "No changes to commit"
 else
     git commit -m "Update xR scores [skip ci]"
+    # Rebase onto any changes pushed by a concurrent run, then push
+    git pull --rebase origin main
     git push origin main
 fi
 
