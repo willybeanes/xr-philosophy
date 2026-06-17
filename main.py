@@ -112,6 +112,12 @@ def main():
         except Exception as e:
             print(f"  ERROR fetching games for {d}: {e}")
 
+    # Deduplicate across date windows (same game can appear in today + yesterday)
+    seen: dict = {}
+    for g in games:
+        seen.setdefault(str(g["gamePk"]), g)
+    games = list(seen.values())
+
     print(f"Total: {len(games)} final game(s) found")
 
     new_games = [g for g in games if str(g["gamePk"]) not in posted]
