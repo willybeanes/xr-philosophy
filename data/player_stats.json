@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 290,
-      "xr": 10.2417
+      "pa": 294,
+      "xr": 10.4324
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 250,
-      "xr": 6.6408
+      "pa": 254,
+      "xr": 5.9275
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 270,
-      "xr": -0.0882
+      "pa": 274,
+      "xr": -0.6158
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 269,
-      "xr": 5.0822
+      "pa": 273,
+      "xr": 5.0335
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 223,
-      "xr": 8.3136
+      "pa": 226,
+      "xr": 8.2945
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -999,26 +999,26 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 282,
-      "xr": 14.0556
+      "pa": 287,
+      "xr": 14.4798
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 301,
-      "xr": 15.9366
+      "pa": 306,
+      "xr": 15.6074
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 285,
-      "xr": 21.4872
+      "pa": 290,
+      "xr": 22.013
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 251,
-      "xr": -3.8648
+      "pa": 255,
+      "xr": -3.6019
     },
     "669357": {
       "name": "Nolan Gorman",
@@ -1053,14 +1053,14 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 280,
-      "xr": 11.083
+      "pa": 284,
+      "xr": 11.9503
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 166,
-      "xr": -3.6384
+      "pa": 170,
+      "xr": -2.59
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 138,
-      "xr": -1.0448
+      "pa": 141,
+      "xr": -0.8653
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2925,8 +2925,8 @@
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
       "team": "San Diego Padres",
-      "pa": 39,
-      "xr": 1.9085
+      "pa": 42,
+      "xr": 1.7221
     },
     "703607": {
       "name": "Henry Bolte",
@@ -3165,8 +3165,8 @@
     "699625": {
       "name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
-      "pa": 31,
-      "xr": 1.7496
+      "pa": 35,
+      "xr": 1.9813
     },
     "694378": {
       "name": "Jacob Gonzalez",
@@ -3201,8 +3201,8 @@
     "669392": {
       "name": "Samad Taylor",
       "team": "San Diego Padres",
-      "pa": 32,
-      "xr": 2.058
+      "pa": 35,
+      "xr": 1.8491
     },
     "683227": {
       "name": "Cody Freeman",
@@ -3237,8 +3237,8 @@
     "663457": {
       "name": "Lars Nootbaar",
       "team": "St. Louis Cardinals",
-      "pa": 41,
-      "xr": 1.2153
+      "pa": 45,
+      "xr": 1.1409
     },
     "694410": {
       "name": "LuJames Groover",
@@ -3285,8 +3285,8 @@
     "695238": {
       "name": "Will Wagner",
       "team": "San Diego Padres",
-      "pa": 17,
-      "xr": 1.0263
+      "pa": 20,
+      "xr": 0.7762
     },
     "681987": {
       "name": "Nate Eaton",
@@ -3333,8 +3333,8 @@
     "691458": {
       "name": "Blaze Jordan",
       "team": "St. Louis Cardinals",
-      "pa": 15,
-      "xr": 1.3301
+      "pa": 19,
+      "xr": 2.0981
     },
     "669256": {
       "name": "Nick Solak",
@@ -3773,8 +3773,8 @@
     "676760": {
       "name": "Ron Marinaccio",
       "team": "San Diego Padres",
-      "bf": 140,
-      "xr_allowed": 0.5275
+      "bf": 147,
+      "xr_allowed": 1.686
     },
     "699134": {
       "name": "Bradgley Rodriguez",
@@ -3803,8 +3803,8 @@
     "593974": {
       "name": "Wandy Peralta",
       "team": "San Diego Padres",
-      "bf": 135,
-      "xr_allowed": 0.6125
+      "bf": 139,
+      "xr_allowed": 0.3944
     },
     "676684": {
       "name": "Will Vest",
@@ -3869,8 +3869,8 @@
     "676617": {
       "name": "Riley O'Brien",
       "team": "St. Louis Cardinals",
-      "bf": 122,
-      "xr_allowed": 1.4645
+      "bf": 126,
+      "xr_allowed": 1.1636
     },
     "672782": {
       "name": "Yoendrys G\u00f3mez",
@@ -3881,8 +3881,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 123,
-      "xr_allowed": -0.5504
+      "bf": 126,
+      "xr_allowed": -0.9825
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4295,8 +4295,8 @@
     "650633": {
       "name": "Michael King",
       "team": "San Diego Padres",
-      "bf": 307,
-      "xr_allowed": 5.7435
+      "bf": 329,
+      "xr_allowed": 9.1291
     },
     "664285": {
       "name": "Framber Valdez",
@@ -5669,8 +5669,8 @@
     "669467": {
       "name": "Andre Pallante",
       "team": "St. Louis Cardinals",
-      "bf": 298,
-      "xr_allowed": 2.3172
+      "bf": 322,
+      "xr_allowed": 1.4663
     },
     "673540": {
       "name": "Kodai Senga",
@@ -6869,8 +6869,8 @@
     "673513": {
       "name": "Yuki Matsui",
       "team": "San Diego Padres",
-      "bf": 69,
-      "xr_allowed": -2.8123
+      "bf": 75,
+      "xr_allowed": -3.4136
     },
     "682445": {
       "name": "Domingo Gonzalez",
@@ -8526,6 +8526,7 @@
     824750,
     823535,
     824504,
-    823775
+    823775,
+    823045
   ]
 }
