@@ -507,20 +507,20 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Baltimore Orioles",
-      "pa": 316,
-      "xr": 13.3879
+      "pa": 320,
+      "xr": 13.7733
     },
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 313,
-      "xr": 3.2964
+      "pa": 317,
+      "xr": 2.9537
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 302,
-      "xr": 14.1064
+      "pa": 306,
+      "xr": 14.1407
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -561,14 +561,14 @@
     "668939": {
       "name": "Adley Rutschman",
       "team": "Baltimore Orioles",
-      "pa": 203,
-      "xr": 8.1309
+      "pa": 207,
+      "xr": 7.7499
     },
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 201,
-      "xr": 6.6246
+      "pa": 205,
+      "xr": 7.0201
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,8 +579,8 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 166,
-      "xr": -1.0771
+      "pa": 169,
+      "xr": -1.7494
     },
     "691723": {
       "name": "Coby Mayo",
@@ -591,8 +591,8 @@
     "677942": {
       "name": "Blaze Alexander",
       "team": "Baltimore Orioles",
-      "pa": 167,
-      "xr": 8.8209
+      "pa": 170,
+      "xr": 8.6416
     },
     "665019": {
       "name": "Kody Clemens",
@@ -1371,14 +1371,14 @@
     "663728": {
       "name": "Cal Raleigh",
       "team": "Seattle Mariners",
-      "pa": 168,
-      "xr": -2.1317
+      "pa": 172,
+      "xr": -0.9984
     },
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 310,
-      "xr": 14.5666
+      "pa": 314,
+      "xr": 14.4876
     },
     "647304": {
       "name": "Josh Naylor",
@@ -1425,14 +1425,14 @@
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 178,
-      "xr": 10.4406
+      "pa": 182,
+      "xr": 10.1729
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 287,
-      "xr": 2.7526
+      "pa": 291,
+      "xr": 2.214
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 205,
-      "xr": 2.6339
+      "pa": 208,
+      "xr": 1.8372
     },
     "681546": {
       "name": "James Outman",
@@ -2103,8 +2103,8 @@
     "608701": {
       "name": "Rob Refsnyder",
       "team": "Seattle Mariners",
-      "pa": 90,
-      "xr": -5.4704
+      "pa": 94,
+      "xr": -5.224
     },
     "681807": {
       "name": "David Fry",
@@ -2115,8 +2115,8 @@
     "645302": {
       "name": "Victor Robles",
       "team": "Seattle Mariners",
-      "pa": 44,
-      "xr": -0.4029
+      "pa": 48,
+      "xr": -1.007
     },
     "669208": {
       "name": "Ryan Bliss",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 220,
-      "xr": 16.5279
+      "pa": 224,
+      "xr": 16.9294
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 84,
-      "xr": -5.1234
+      "pa": 87,
+      "xr": -4.327
     },
     "680737": {
       "name": "Michael Helman",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 82,
-      "xr": -1.1189
+      "pa": 85,
+      "xr": -1.4695
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3297,8 +3297,8 @@
     "670156": {
       "name": "Miles Mastrobuoni",
       "team": "Seattle Mariners",
-      "pa": 18,
-      "xr": -2.1733
+      "pa": 21,
+      "xr": -1.9983
     },
     "804668": {
       "name": "Rafael Flores Jr.",
@@ -3995,8 +3995,8 @@
     "669302": {
       "name": "Logan Gilbert",
       "team": "Seattle Mariners",
-      "bf": 304,
-      "xr_allowed": 7.0688
+      "bf": 329,
+      "xr_allowed": 6.0387
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -4355,8 +4355,8 @@
     "660825": {
       "name": "Eduard Bazardo",
       "team": "Seattle Mariners",
-      "bf": 123,
-      "xr_allowed": -1.856
+      "bf": 126,
+      "xr_allowed": -2.3292
     },
     "688883": {
       "name": "Peyton Pallette",
@@ -4373,8 +4373,8 @@
     "662253": {
       "name": "Andr\u00e9s Mu\u00f1oz",
       "team": "Seattle Mariners",
-      "bf": 110,
-      "xr_allowed": -0.3539
+      "bf": 114,
+      "xr_allowed": -0.758
     },
     "686218": {
       "name": "Emmet Sheehan",
@@ -5045,8 +5045,8 @@
     "664991": {
       "name": "Grant Wolfram",
       "team": "Baltimore Orioles",
-      "bf": 87,
-      "xr_allowed": -2.4074
+      "bf": 90,
+      "xr_allowed": -1.2045
     },
     "670329": {
       "name": "Rico Garcia",
@@ -5909,8 +5909,8 @@
     "687064": {
       "name": "Brandon Young",
       "team": "Baltimore Orioles",
-      "bf": 240,
-      "xr_allowed": 4.5479
+      "bf": 266,
+      "xr_allowed": 4.9532
     },
     "660853": {
       "name": "Enyel De Los Santos",
@@ -6479,8 +6479,8 @@
     "552640": {
       "name": "Andrew Kittredge",
       "team": "Baltimore Orioles",
-      "bf": 63,
-      "xr_allowed": -1.0785
+      "bf": 64,
+      "xr_allowed": -1.6654
     },
     "683000": {
       "name": "Riley Cornelio",
@@ -6491,8 +6491,8 @@
     "669211": {
       "name": "Keegan Akin",
       "team": "Baltimore Orioles",
-      "bf": 83,
-      "xr_allowed": 2.796
+      "bf": 87,
+      "xr_allowed": 3.0379
     },
     "642215": {
       "name": "Weston Wilson",
@@ -8536,6 +8536,7 @@
     823045,
     822888,
     824182,
-    824667
+    824667,
+    823128
   ]
 }
