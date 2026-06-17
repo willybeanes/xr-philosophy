@@ -621,20 +621,20 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 273,
-      "xr": 0.6786
+      "pa": 278,
+      "xr": 0.889
     },
     "575929": {
       "name": "Willson Contreras",
       "team": "Boston Red Sox",
-      "pa": 271,
-      "xr": 15.2807
+      "pa": 276,
+      "xr": 14.2096
     },
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 212,
-      "xr": -4.7224
+      "pa": 216,
+      "xr": -4.1568
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,14 +657,14 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 283,
-      "xr": 10.4734
+      "pa": 288,
+      "xr": 10.1938
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 122,
-      "xr": -1.2775
+      "pa": 126,
+      "xr": -1.6222
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 246,
-      "xr": 4.1153
+      "pa": 251,
+      "xr": 4.0402
     },
     "701398": {
       "name": "Sal Stewart",
@@ -717,8 +717,8 @@
     "691785": {
       "name": "Marcelo Mayer",
       "team": "Boston Red Sox",
-      "pa": 188,
-      "xr": -5.493
+      "pa": 192,
+      "xr": -5.3637
     },
     "666181": {
       "name": "Will Benson",
@@ -1491,20 +1491,20 @@
     "543807": {
       "name": "George Springer",
       "team": "Toronto Blue Jays",
-      "pa": 212,
-      "xr": -0.9405
+      "pa": 217,
+      "xr": 0.4508
     },
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 131,
-      "xr": -0.1026
+      "pa": 135,
+      "xr": -0.2607
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 276,
-      "xr": 12.8649
+      "pa": 280,
+      "xr": 12.374
     },
     "680718": {
       "name": "Addison Barger",
@@ -1533,8 +1533,8 @@
     "672386": {
       "name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
-      "pa": 31,
-      "xr": 0.5527
+      "pa": 35,
+      "xr": -0.181
     },
     "662139": {
       "name": "Daulton Varsho",
@@ -1545,8 +1545,8 @@
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 275,
-      "xr": -3.743
+      "pa": 279,
+      "xr": -3.6729
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 274,
-      "xr": -10.716
+      "pa": 279,
+      "xr": -11.4965
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 233,
-      "xr": -12.4164
+      "pa": 237,
+      "xr": -12.6078
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1917,14 +1917,14 @@
     "676914": {
       "name": "Davis Schneider",
       "team": "Toronto Blue Jays",
-      "pa": 91,
-      "xr": -0.531
+      "pa": 95,
+      "xr": -0.1788
     },
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "pa": 117,
-      "xr": 0.8379
+      "pa": 121,
+      "xr": 0.6213
     },
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
@@ -1989,14 +1989,14 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 142,
-      "xr": 0.3822
+      "pa": 147,
+      "xr": -0.4726
     },
     "657136": {
       "name": "Connor Wong",
       "team": "Boston Red Sox",
-      "pa": 83,
-      "xr": -1.9729
+      "pa": 86,
+      "xr": -1.342
     },
     "663993": {
       "name": "Nathaniel Lowe",
@@ -2889,8 +2889,8 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 89,
-      "xr": -1.752
+      "pa": 90,
+      "xr": -2.1774
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -4127,8 +4127,8 @@
     "686973": {
       "name": "Louis Varland",
       "team": "Toronto Blue Jays",
-      "bf": 143,
-      "xr_allowed": -15.433
+      "bf": 149,
+      "xr_allowed": -16.2415
     },
     "663687": {
       "name": "Hogan Harris",
@@ -4139,14 +4139,14 @@
     "643511": {
       "name": "Tyler Rogers",
       "team": "Toronto Blue Jays",
-      "bf": 125,
-      "xr_allowed": -6.2213
+      "bf": 129,
+      "xr_allowed": -6.5419
     },
     "656546": {
       "name": "Jeff Hoffman",
       "team": "Toronto Blue Jays",
-      "bf": 137,
-      "xr_allowed": 1.3909
+      "bf": 140,
+      "xr_allowed": 1.0589
     },
     "686993": {
       "name": "Justin Sterner",
@@ -4493,8 +4493,8 @@
     "656302": {
       "name": "Dylan Cease",
       "team": "Toronto Blue Jays",
-      "bf": 257,
-      "xr_allowed": -2.5399
+      "bf": 280,
+      "xr_allowed": -3.5215
     },
     "605488": {
       "name": "Jeffrey Springs",
@@ -4529,8 +4529,8 @@
     "667297": {
       "name": "Tommy Nance",
       "team": "Toronto Blue Jays",
-      "bf": 89,
-      "xr_allowed": 0.6947
+      "bf": 94,
+      "xr_allowed": 1.6229
     },
     "665660": {
       "name": "Elvis Alvarado",
@@ -4679,8 +4679,8 @@
     "669711": {
       "name": "Greg Weissert",
       "team": "Boston Red Sox",
-      "bf": 111,
-      "xr_allowed": -2.1646
+      "bf": 114,
+      "xr_allowed": -2.6132
     },
     "543056": {
       "name": "Danny Coulombe",
@@ -4691,8 +4691,8 @@
     "670245": {
       "name": "Ryan Watson",
       "team": "Boston Red Sox",
-      "bf": 166,
-      "xr_allowed": 11.3962
+      "bf": 174,
+      "xr_allowed": 12.1397
     },
     "663574": {
       "name": "Tony Santillan",
@@ -6455,8 +6455,8 @@
     "801139": {
       "name": "Payton Tolle",
       "team": "Boston Red Sox",
-      "bf": 195,
-      "xr_allowed": -11.3451
+      "bf": 216,
+      "xr_allowed": -11.8922
     },
     "681035": {
       "name": "Christian Scott",
@@ -7313,8 +7313,8 @@
     "592454": {
       "name": "Tommy Kahnle",
       "team": "Boston Red Sox",
-      "bf": 20,
-      "xr_allowed": 1.1393
+      "bf": 26,
+      "xr_allowed": 0.6339
     },
     "689149": {
       "name": "Chad Dallas",
@@ -8510,6 +8510,7 @@
     824993,
     823938,
     823451,
-    822723
+    822723,
+    824750
   ]
 }
