@@ -117,14 +117,14 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 288,
-      "xr": 9.6283
+      "pa": 292,
+      "xr": 9.5321
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 312,
-      "xr": 14.4283
+      "pa": 316,
+      "xr": 14.312
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 232,
-      "xr": 4.2156
+      "pa": 236,
+      "xr": 3.1816
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,26 +195,26 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 136,
-      "xr": -5.1537
+      "pa": 139,
+      "xr": -5.5467
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 264,
-      "xr": 2.9515
+      "pa": 268,
+      "xr": 3.598
     },
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 268,
-      "xr": 3.9789
+      "pa": 272,
+      "xr": 3.6585
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 145,
-      "xr": -3.2116
+      "pa": 147,
+      "xr": -2.1616
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 203,
-      "xr": 2.3418
+      "pa": 207,
+      "xr": 2.4332
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 283,
-      "xr": 1.858
+      "pa": 287,
+      "xr": 1.0703
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 238,
-      "xr": 5.4348
+      "pa": 242,
+      "xr": 4.6103
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 265,
-      "xr": -10.3885
+      "pa": 268,
+      "xr": -10.8217
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 284,
-      "xr": 5.7445
+      "pa": 288,
+      "xr": 6.6385
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1683,8 +1683,8 @@
     "666397": {
       "name": "Edouard Julien",
       "team": "Colorado Rockies",
-      "pa": 194,
-      "xr": 4.6894
+      "pa": 197,
+      "xr": 5.2568
     },
     "691720": {
       "name": "Kyle Karros",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 168,
-      "xr": -6.1893
+      "pa": 172,
+      "xr": -6.8614
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 255,
-      "xr": 7.0019
+      "pa": 259,
+      "xr": 7.1126
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2943,8 +2943,8 @@
     "682848": {
       "name": "Endy Rodr\u00edguez",
       "team": "Pittsburgh Pirates",
-      "pa": 80,
-      "xr": 3.6236
+      "pa": 81,
+      "xr": 3.4685
     },
     "663584": {
       "name": "Hayden Senger",
@@ -2955,8 +2955,8 @@
     "694514": {
       "name": "Sterlin Thompson",
       "team": "Colorado Rockies",
-      "pa": 72,
-      "xr": -2.1121
+      "pa": 75,
+      "xr": -2.3157
     },
     "668974": {
       "name": "Maverick Handley",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 40,
-      "xr": 0.0896
+      "pa": 44,
+      "xr": -0.551
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -3279,8 +3279,8 @@
     "694249": {
       "name": "Cole Carrigg",
       "team": "Colorado Rockies",
-      "pa": 42,
-      "xr": 2.1188
+      "pa": 45,
+      "xr": 3.106
     },
     "695238": {
       "name": "Will Wagner",
@@ -3479,8 +3479,8 @@
     "694973": {
       "name": "Paul Skenes",
       "team": "Pittsburgh Pirates",
-      "bf": 327,
-      "xr_allowed": -11.1434
+      "bf": 351,
+      "xr_allowed": -10.0507
     },
     "670990": {
       "name": "Yohan Ram\u00edrez",
@@ -4223,14 +4223,14 @@
     "623474": {
       "name": "Jimmy Herget",
       "team": "Colorado Rockies",
-      "bf": 70,
-      "xr_allowed": -1.5731
+      "bf": 74,
+      "xr_allowed": -1.8722
     },
     "657514": {
       "name": "Brennan Bernardino",
       "team": "Colorado Rockies",
-      "bf": 125,
-      "xr_allowed": -6.1948
+      "bf": 130,
+      "xr_allowed": -6.841
     },
     "675848": {
       "name": "Juan Mejia",
@@ -4829,8 +4829,8 @@
     "677955": {
       "name": "Jaden Hill",
       "team": "Colorado Rockies",
-      "bf": 120,
-      "xr_allowed": 0.4069
+      "bf": 123,
+      "xr_allowed": -0.7674
     },
     "676534": {
       "name": "Calvin Faucher",
@@ -5189,8 +5189,8 @@
     "669387": {
       "name": "Carmen Mlodzinski",
       "team": "Pittsburgh Pirates",
-      "bf": 266,
-      "xr_allowed": 8.2677
+      "bf": 274,
+      "xr_allowed": 7.5767
     },
     "640455": {
       "name": "Sean Manaea",
@@ -5459,8 +5459,8 @@
     "608372": {
       "name": "Tomoyuki Sugano",
       "team": "Colorado Rockies",
-      "bf": 291,
-      "xr_allowed": 18.0625
+      "bf": 313,
+      "xr_allowed": 18.4509
     },
     "801403": {
       "name": "Chase Dollander",
@@ -8688,6 +8688,7 @@
     823854,
     824909,
     824180,
-    823447
+    823447,
+    824342
   ]
 }
