@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 320,
-      "xr": 17.0659
+      "pa": 324,
+      "xr": 17.7333
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 159,
-      "xr": -1.5627
+      "pa": 163,
+      "xr": -0.8226
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 304,
-      "xr": -1.1409
+      "pa": 307,
+      "xr": -1.4701
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 305,
-      "xr": 17.1493
+      "pa": 309,
+      "xr": 16.7982
     },
     "669701": {
       "name": "Josh Smith",
@@ -1209,8 +1209,8 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 235,
-      "xr": 10.475
+      "pa": 240,
+      "xr": 10.5723
     },
     "694497": {
       "name": "Evan Carter",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 247,
-      "xr": 2.051
+      "pa": 250,
+      "xr": 1.6396
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1617,14 +1617,14 @@
     "805300": {
       "name": "Jakob Marsee",
       "team": "Miami Marlins",
-      "pa": 315,
-      "xr": -2.7772
+      "pa": 318,
+      "xr": -3.571
     },
     "672640": {
       "name": "Otto Lopez",
       "team": "Miami Marlins",
-      "pa": 320,
-      "xr": 11.2479
+      "pa": 324,
+      "xr": 12.9657
     },
     "681393": {
       "name": "Connor Norby",
@@ -1653,20 +1653,20 @@
     "681715": {
       "name": "Heriberto Hern\u00e1ndez",
       "team": "Miami Marlins",
-      "pa": 161,
-      "xr": 5.0498
+      "pa": 165,
+      "xr": 4.1877
     },
     "669364": {
       "name": "Xavier Edwards",
       "team": "Miami Marlins",
-      "pa": 320,
-      "xr": 5.2071
+      "pa": 324,
+      "xr": 5.7181
     },
     "683357": {
       "name": "Owen Caissie",
       "team": "Miami Marlins",
-      "pa": 212,
-      "xr": -4.9934
+      "pa": 214,
+      "xr": -4.6965
     },
     "691594": {
       "name": "Javier Sanoja",
@@ -1695,8 +1695,8 @@
     "665052": {
       "name": "Griffin Conine",
       "team": "Miami Marlins",
-      "pa": 32,
-      "xr": 3.0063
+      "pa": 36,
+      "xr": 2.7714
     },
     "690924": {
       "name": "Braxton Fulford",
@@ -2301,8 +2301,8 @@
     "677870": {
       "name": "Leo Jim\u00e9nez",
       "team": "Miami Marlins",
-      "pa": 79,
-      "xr": -3.8781
+      "pa": 82,
+      "xr": -3.522
     },
     "621438": {
       "name": "Tyrone Taylor",
@@ -2613,8 +2613,8 @@
     "669065": {
       "name": "Kyle Stowers",
       "team": "Miami Marlins",
-      "pa": 223,
-      "xr": 7.1088
+      "pa": 227,
+      "xr": 6.5424
     },
     "669899": {
       "name": "Ryan Ward",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 46,
-      "xr": 1.2121
+      "pa": 49,
+      "xr": 0.7669
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 129,
-      "xr": 2.2696
+      "pa": 133,
+      "xr": 1.7099
     },
     "672012": {
       "name": "Tyler Black",
@@ -2679,8 +2679,8 @@
     "665923": {
       "name": "Esteury Ruiz",
       "team": "Miami Marlins",
-      "pa": 80,
-      "xr": 0.4147
+      "pa": 81,
+      "xr": 0.2591
     },
     "691011": {
       "name": "Drew Romo",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 75,
-      "xr": -3.4512
+      "pa": 76,
+      "xr": -3.5029
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 78,
-      "xr": 0.3477
+      "pa": 80,
+      "xr": 0.455
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3449,6 +3449,12 @@
       "team": "Detroit Tigers",
       "pa": 3,
       "xr": 0.6472
+    },
+    "640459": {
+      "name": "Brian Navarreto",
+      "team": "Miami Marlins",
+      "pa": 3,
+      "xr": -0.1009
     }
   },
   "pitchers": {
@@ -3989,8 +3995,8 @@
     "641302": {
       "name": "Tyler Alexander",
       "team": "Texas Rangers",
-      "bf": 135,
-      "xr_allowed": -5.948
+      "bf": 138,
+      "xr_allowed": -6.4262
     },
     "647315": {
       "name": "Zach Pop",
@@ -4277,14 +4283,14 @@
     "669622": {
       "name": "Anthony Bender",
       "team": "Miami Marlins",
-      "bf": 127,
-      "xr_allowed": -6.1084
+      "bf": 132,
+      "xr_allowed": -6.7008
     },
     "664126": {
       "name": "Pete Fairbanks",
       "team": "Miami Marlins",
-      "bf": 102,
-      "xr_allowed": 0.8919
+      "bf": 106,
+      "xr_allowed": 2.0598
     },
     "519242": {
       "name": "Chris Sale",
@@ -4709,8 +4715,8 @@
     "668390": {
       "name": "Cole Winn",
       "team": "Texas Rangers",
-      "bf": 102,
-      "xr_allowed": 1.7638
+      "bf": 107,
+      "xr_allowed": 3.6836
     },
     "621383": {
       "name": "Tanner Banks",
@@ -4841,8 +4847,8 @@
     "691587": {
       "name": "Eury P\u00e9rez",
       "team": "Miami Marlins",
-      "bf": 265,
-      "xr_allowed": 12.6031
+      "bf": 282,
+      "xr_allowed": 11.9394
     },
     "547179": {
       "name": "Michael Lorenzen",
@@ -5261,8 +5267,8 @@
     "667463": {
       "name": "John King",
       "team": "Miami Marlins",
-      "bf": 122,
-      "xr_allowed": -7.0136
+      "bf": 126,
+      "xr_allowed": -6.9839
     },
     "680767": {
       "name": "Victor Vodnik",
@@ -5273,8 +5279,8 @@
     "656848": {
       "name": "Michael Petersen",
       "team": "Miami Marlins",
-      "bf": 127,
-      "xr_allowed": -6.0327
+      "bf": 130,
+      "xr_allowed": -6.5104
     },
     "837227": {
       "name": "Tatsuya Imai",
@@ -5657,8 +5663,8 @@
     "594798": {
       "name": "Jacob deGrom",
       "team": "Texas Rangers",
-      "bf": 311,
-      "xr_allowed": 1.2297
+      "bf": 334,
+      "xr_allowed": 0.2723
     },
     "682227": {
       "name": "Brandon Williamson",
@@ -7385,8 +7391,8 @@
     "695239": {
       "name": "Robby Ahlstrom",
       "team": "Texas Rangers",
-      "bf": 34,
-      "xr_allowed": 0.7862
+      "bf": 35,
+      "xr_allowed": 0.4701
     },
     "623352": {
       "name": "Josh Hader",
@@ -8818,6 +8824,7 @@
     824340,
     824017,
     823286,
-    823210
+    823210,
+    823850
   ]
 }
