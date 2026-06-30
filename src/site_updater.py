@@ -283,9 +283,7 @@ def _find_most_backwards(scores: list) -> dict | None:
     for g in scores:
         if not _is_mismatch(g):
             continue
-        xr_diff = g["away_xr"] - g["home_xr"]
-        actual_diff = g["away_score"] - g["home_score"]
-        gap = abs(xr_diff - actual_diff)
+        gap = abs(g["away_xr"] - g["home_xr"])
         if gap > best_gap:
             best_gap = gap
             best = g
