@@ -55,6 +55,17 @@ def _get_color(team_name: str, fallback: str) -> str:
     return TEAM_COLORS.get(team_name, fallback)
 
 
+def _colors_too_similar(hex1: str, hex2: str, threshold: int = 80) -> bool:
+    """Check if two hex colors are too visually similar."""
+    r1, g1, b1 = int(hex1[1:3], 16), int(hex1[3:5], 16), int(hex1[5:7], 16)
+    r2, g2, b2 = int(hex2[1:3], 16), int(hex2[3:5], 16), int(hex2[5:7], 16)
+    return ((r1 - r2) ** 2 + (g1 - g2) ** 2 + (b1 - b2) ** 2) ** 0.5 < threshold
+
+
+CONTRAST_AWAY = "#2563eb"
+CONTRAST_HOME = "#2563eb"
+
+
 def _generate_chart_svg(g: dict) -> str:
     cd = g.get("chart_data")
     if not cd:
@@ -64,6 +75,9 @@ def _generate_chart_svg(g: dict) -> str:
     home_abbr = _get_abbr(g, "home")
     away_color = _get_color(g["away_team"], "#2563eb")
     home_color = _get_color(g["home_team"], "#dc2626")
+
+    if _colors_too_similar(away_color, home_color):
+        away_color = CONTRAST_AWAY
 
     points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1, "top": True}]
     for p in cd:
