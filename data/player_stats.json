@@ -141,20 +141,20 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 118,
-      "xr": 4.6322
+      "pa": 122,
+      "xr": 5.614
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 265,
-      "xr": 33.1485
+      "pa": 269,
+      "xr": 33.4717
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 355,
-      "xr": 5.4297
+      "pa": 359,
+      "xr": 5.677
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,8 +171,8 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 269,
-      "xr": 0.24
+      "pa": 271,
+      "xr": 0.7013
     },
     "543760": {
       "name": "Marcus Semien",
@@ -183,14 +183,14 @@
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 319,
-      "xr": 3.3562
+      "pa": 323,
+      "xr": 3.1303
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 186,
-      "xr": 6.4809
+      "pa": 189,
+      "xr": 7.0028
     },
     "669707": {
       "name": "Jared Triolo",
@@ -1491,20 +1491,20 @@
     "543807": {
       "name": "George Springer",
       "team": "Toronto Blue Jays",
-      "pa": 262,
-      "xr": 0.4109
+      "pa": 266,
+      "xr": 0.0873
     },
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 171,
-      "xr": 1.316
+      "pa": 175,
+      "xr": 1.2673
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 327,
-      "xr": 15.2045
+      "pa": 331,
+      "xr": 15.1639
     },
     "680718": {
       "name": "Addison Barger",
@@ -1545,8 +1545,8 @@
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 324,
-      "xr": -1.3441
+      "pa": 328,
+      "xr": -2.0365
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,8 +1569,8 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 310,
-      "xr": -12.4918
+      "pa": 314,
+      "xr": -11.6469
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
@@ -1923,8 +1923,8 @@
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "pa": 139,
-      "xr": 0.3665
+      "pa": 142,
+      "xr": -0.0564
     },
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
@@ -2025,8 +2025,8 @@
     "668901": {
       "name": "Mark Vientos",
       "team": "New York Mets",
-      "pa": 229,
-      "xr": 0.0892
+      "pa": 233,
+      "xr": -1.0425
     },
     "620443": {
       "name": "Luis Torrens",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 116,
-      "xr": 0.9146
+      "pa": 120,
+      "xr": 0.351
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2385,8 +2385,8 @@
     "678218": {
       "name": "Brandon Valenzuela",
       "team": "Toronto Blue Jays",
-      "pa": 161,
-      "xr": 0.7694
+      "pa": 165,
+      "xr": 0.0421
     },
     "666185": {
       "name": "Dylan Carlson",
@@ -2427,8 +2427,8 @@
     "677595": {
       "name": "Ronny Mauricio",
       "team": "New York Mets",
-      "pa": 43,
-      "xr": -2.5533
+      "pa": 45,
+      "xr": -3.1648
     },
     "666931": {
       "name": "Jared Oliva",
@@ -2703,8 +2703,8 @@
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
       "team": "Toronto Blue Jays",
-      "pa": 143,
-      "xr": 3.2189
+      "pa": 146,
+      "xr": 2.9254
     },
     "668709": {
       "name": "JJ Bleday",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 169,
-      "xr": 4.9689
+      "pa": 173,
+      "xr": 5.1574
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3123,8 +3123,8 @@
     "676572": {
       "name": "Eric Wagaman",
       "team": "New York Mets",
-      "pa": 29,
-      "xr": 0.299
+      "pa": 30,
+      "xr": 0.075
     },
     "682997": {
       "name": "Tyler Callihan",
@@ -3441,8 +3441,8 @@
     "649966": {
       "name": "Luis Ur\u00edas",
       "team": "Toronto Blue Jays",
-      "pa": 11,
-      "xr": -0.9667
+      "pa": 14,
+      "xr": -1.1114
     },
     "701162": {
       "name": "Ben Malgeri",
@@ -4259,8 +4259,8 @@
     "686973": {
       "name": "Louis Varland",
       "team": "Toronto Blue Jays",
-      "bf": 170,
-      "xr_allowed": -19.708
+      "bf": 175,
+      "xr_allowed": -20.1437
     },
     "663687": {
       "name": "Hogan Harris",
@@ -4271,8 +4271,8 @@
     "643511": {
       "name": "Tyler Rogers",
       "team": "Toronto Blue Jays",
-      "bf": 156,
-      "xr_allowed": -5.7939
+      "bf": 161,
+      "xr_allowed": -5.222
     },
     "656546": {
       "name": "Jeff Hoffman",
@@ -4649,8 +4649,8 @@
     "689254": {
       "name": "Mason Fluharty",
       "team": "Toronto Blue Jays",
-      "bf": 142,
-      "xr_allowed": -2.2307
+      "bf": 143,
+      "xr_allowed": -2.4547
     },
     "663893": {
       "name": "Brendon Little",
@@ -5273,8 +5273,8 @@
     "640455": {
       "name": "Sean Manaea",
       "team": "New York Mets",
-      "bf": 253,
-      "xr_allowed": -0.6422
+      "bf": 276,
+      "xr_allowed": -0.9209
     },
     "664353": {
       "name": "Jos\u00e9 Urquidy",
@@ -6299,8 +6299,8 @@
     "680702": {
       "name": "Joey Gerber",
       "team": "New York Mets",
-      "bf": 21,
-      "xr_allowed": -1.2943
+      "bf": 24,
+      "xr_allowed": -2.6452
     },
     "518876": {
       "name": "Merrill Kelly",
@@ -6389,8 +6389,8 @@
     "681810": {
       "name": "Austin Warren",
       "team": "New York Mets",
-      "bf": 127,
-      "xr_allowed": -1.3379
+      "bf": 134,
+      "xr_allowed": -1.5571
     },
     "669165": {
       "name": "Kyle Hurt",
@@ -6701,8 +6701,8 @@
     "702056": {
       "name": "Trey Yesavage",
       "team": "Toronto Blue Jays",
-      "bf": 232,
-      "xr_allowed": -8.6888
+      "bf": 257,
+      "xr_allowed": -8.6337
     },
     "695684": {
       "name": "Elmer Rodr\u00edguez",
@@ -8989,6 +8989,7 @@
     824011,
     823204,
     823281,
-    824744
+    824744,
+    822792
   ]
 }
