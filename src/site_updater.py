@@ -276,6 +276,68 @@ def _build_players_html(player_stats: dict) -> str:
     return bat_rows, pit_rows
 
 
+def _find_most_backwards(scores: list) -> dict | None:
+    """Find the game with the biggest xR-vs-actual mismatch where xR winner lost."""
+    best = None
+    best_gap = 0
+    for g in scores:
+        if not _is_mismatch(g):
+            continue
+        xr_diff = g["away_xr"] - g["home_xr"]
+        actual_diff = g["away_score"] - g["home_score"]
+        gap = abs(xr_diff - actual_diff)
+        if gap > best_gap:
+            best_gap = gap
+            best = g
+    return best
+
+
+def _build_backwards_callout(game: dict) -> str:
+    """Build the 'Most Backwards Game' callout card with expandable chart."""
+    if not game:
+        return ""
+
+    away_abbr = _get_abbr(game, "away")
+    home_abbr = _get_abbr(game, "home")
+    xr_diff = abs(game["away_xr"] - game["home_xr"])
+    actual_diff = abs(game["away_score"] - game["home_score"])
+
+    if game["away_xr"] > game["home_xr"]:
+        xr_winner = away_abbr
+        xr_loser = home_abbr
+        xr_winner_xr = game["away_xr"]
+        xr_loser_xr = game["home_xr"]
+    else:
+        xr_winner = home_abbr
+        xr_loser = away_abbr
+        xr_winner_xr = game["home_xr"]
+        xr_loser_xr = game["away_xr"]
+
+    gpk = game["gamePk"]
+    has_chart = "chart_data" in game and game["chart_data"]
+    chart_svg = _generate_chart_svg(game) if has_chart else ""
+    toggle_js = f'toggleBackwards()' if has_chart else ''
+    click_attr = f' onclick="{toggle_js}"' if has_chart else ''
+    arrow = ' <span class="bw-arrow" id="bw-arrow">&#9656;</span>' if has_chart else ''
+
+    chart_html = ""
+    if chart_svg:
+        chart_html = f'<div class="bw-chart" id="bw-chart" style="display:none">{chart_svg}</div>'
+
+    return f"""<div class="backwards-callout"{click_attr}>
+  <div class="bw-label">Most Backwards Game{arrow}</div>
+  <div class="bw-matchup">
+    <span class="bw-team">{away_abbr}</span>
+    <span class="bw-xr">{game['away_xr']:.2f}</span>
+    <span class="bw-score">{game['away_score']} &ndash; {game['home_score']}</span>
+    <span class="bw-xr">{game['home_xr']:.2f}</span>
+    <span class="bw-team">{home_abbr}</span>
+  </div>
+  <div class="bw-detail">{xr_winner} deserved {xr_winner_xr:.2f} xR but lost &middot; {game['date']}</div>
+  {chart_html}
+</div>"""
+
+
 def _build_scatter_svg(scores: list, x_key: str, y_key: str,
                        x_label: str, y_label: str, title: str,
                        invert_y: bool = False, tier_lines: bool = False) -> str:
@@ -413,6 +475,10 @@ def regenerate_site() -> None:
     total_games = len(scores)
     mismatch_count = sum(1 for s in scores if _is_mismatch(s))
     mismatch_pct = (mismatch_count / total_games * 100) if total_games else 0
+
+    # ── Most backwards game callout ──
+    backwards_game = _find_most_backwards(scores)
+    backwards_html = _build_backwards_callout(backwards_game) if backwards_game else ""
 
     # ── Games tab rows ──
     games_rows = ""
@@ -606,6 +672,43 @@ tr.expanded .arrow {{ transform: rotate(90deg); }}
   text-align: center; font-size: 0.85rem;
 }}
 
+/* Backwards callout */
+.backwards-callout {{
+  background: var(--red-bg); border: 1px solid var(--red); border-radius: 8px;
+  padding: 0.75rem 1rem; margin-bottom: 1rem; cursor: pointer;
+  transition: background 0.15s;
+}}
+.backwards-callout:hover {{ background: #ffe0e0; }}
+.bw-label {{
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--red); margin-bottom: 0.4rem;
+}}
+.bw-arrow {{
+  display: inline-block; font-size: 0.65rem; transition: transform 0.15s;
+}}
+.bw-arrow.expanded {{ transform: rotate(90deg); }}
+.bw-matchup {{
+  display: flex; align-items: center; justify-content: center; gap: 0.6rem;
+  font-size: 1.05rem;
+}}
+.bw-team {{ font-weight: 700; }}
+.bw-xr {{
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  color: var(--text-secondary); font-size: 0.9rem;
+}}
+.bw-score {{
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  font-weight: 700; font-size: 1.1rem;
+}}
+.bw-detail {{
+  text-align: center; font-size: 0.8rem; color: var(--text-secondary);
+  margin-top: 0.3rem;
+}}
+.bw-chart {{
+  margin-top: 0.75rem; background: var(--bg); border-radius: 6px;
+  padding: 0.5rem 0; text-align: center;
+}}
+
 footer {{
   color: var(--text-secondary); font-size: 0.8rem;
   border-top: 1px solid var(--border); padding-top: 1rem; line-height: 1.6;
@@ -628,6 +731,7 @@ footer strong {{ color: var(--text); }}
 </div>
 
 <div id="games-tab" class="tab-content active">
+  {backwards_html}
   <div class="toolbar">
     <button class="expand-btn" onclick="expandAll()">Expand all</button>
   </div>
@@ -730,6 +834,16 @@ footer strong {{ color: var(--text); }}
 </footer>
 
 <script>
+function toggleBackwards() {{
+  var chart = document.getElementById('bw-chart');
+  var arrow = document.getElementById('bw-arrow');
+  if (!chart) return;
+  if (chart.style.display === 'none') {{
+    chart.style.display = ''; arrow.classList.add('expanded');
+  }} else {{
+    chart.style.display = 'none'; arrow.classList.remove('expanded');
+  }}
+}}
 function toggle(gpk) {{
   var chart = document.getElementById('chart-' + gpk);
   var row = document.querySelector('tr[data-gpk="' + gpk + '"]');

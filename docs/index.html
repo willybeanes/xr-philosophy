@@ -128,6 +128,43 @@ tr.expanded .arrow { transform: rotate(90deg); }
   text-align: center; font-size: 0.85rem;
 }
 
+/* Backwards callout */
+.backwards-callout {
+  background: var(--red-bg); border: 1px solid var(--red); border-radius: 8px;
+  padding: 0.75rem 1rem; margin-bottom: 1rem; cursor: pointer;
+  transition: background 0.15s;
+}
+.backwards-callout:hover { background: #ffe0e0; }
+.bw-label {
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--red); margin-bottom: 0.4rem;
+}
+.bw-arrow {
+  display: inline-block; font-size: 0.65rem; transition: transform 0.15s;
+}
+.bw-arrow.expanded { transform: rotate(90deg); }
+.bw-matchup {
+  display: flex; align-items: center; justify-content: center; gap: 0.6rem;
+  font-size: 1.05rem;
+}
+.bw-team { font-weight: 700; }
+.bw-xr {
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  color: var(--text-secondary); font-size: 0.9rem;
+}
+.bw-score {
+  font-family: "SF Mono", "Cascadia Code", "Fira Code", monospace;
+  font-weight: 700; font-size: 1.1rem;
+}
+.bw-detail {
+  text-align: center; font-size: 0.8rem; color: var(--text-secondary);
+  margin-top: 0.3rem;
+}
+.bw-chart {
+  margin-top: 0.75rem; background: var(--bg); border-radius: 6px;
+  padding: 0.5rem 0; text-align: center;
+}
+
 footer {
   color: var(--text-secondary); font-size: 0.8rem;
   border-top: 1px solid var(--border); padding-top: 1rem; line-height: 1.6;
@@ -150,6 +187,35 @@ footer strong { color: var(--text); }
 </div>
 
 <div id="games-tab" class="tab-content active">
+  <div class="backwards-callout" onclick="toggleBackwards()">
+  <div class="bw-label">Most Backwards Game <span class="bw-arrow" id="bw-arrow">&#9656;</span></div>
+  <div class="bw-matchup">
+    <span class="bw-team">ARI</span>
+    <span class="bw-xr">7.98</span>
+    <span class="bw-score">2 &ndash; 13</span>
+    <span class="bw-xr">6.00</span>
+    <span class="bw-team">MIL</span>
+  </div>
+  <div class="bw-detail">ARI deserved 7.98 xR but lost &middot; 2026-04-28</div>
+  <div class="bw-chart" id="bw-chart" style="display:none"><svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:720px;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif">
+<line x1="42" y1="304" x2="680" y2="304" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="308" text-anchor="end" fill="#9ca3af" font-size="10">0</text><line x1="42" y1="265" x2="680" y2="265" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="269" text-anchor="end" fill="#9ca3af" font-size="10">2</text><line x1="42" y1="226" x2="680" y2="226" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="230" text-anchor="end" fill="#9ca3af" font-size="10">4</text><line x1="42" y1="188" x2="680" y2="188" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="192" text-anchor="end" fill="#9ca3af" font-size="10">6</text><line x1="42" y1="149" x2="680" y2="149" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="153" text-anchor="end" fill="#9ca3af" font-size="10">8</text><line x1="42" y1="110" x2="680" y2="110" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="114" text-anchor="end" fill="#9ca3af" font-size="10">10</text><line x1="42" y1="71" x2="680" y2="71" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="75" text-anchor="end" fill="#9ca3af" font-size="10">12</text><line x1="42" y1="32" x2="680" y2="32" stroke="#e5e7eb" stroke-width="0.5"/><text x="36" y="36" text-anchor="end" fill="#9ca3af" font-size="10">14</text><line x1="82" y1="14" x2="82" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="131" y1="14" x2="131" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="155" y1="14" x2="155" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="187" y1="14" x2="187" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="212" y1="14" x2="212" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="236" y1="14" x2="236" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="260" y1="14" x2="260" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="309" y1="14" x2="309" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="365" y1="14" x2="365" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="413" y1="14" x2="413" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="438" y1="14" x2="438" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="543" y1="14" x2="543" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="575" y1="14" x2="575" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="607" y1="14" x2="607" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="640" y1="14" x2="640" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="664" y1="14" x2="664" y2="304" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/><line x1="50" y1="14" x2="50" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="90" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">1</text><line x1="131" y1="14" x2="131" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="159" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">2</text><line x1="187" y1="14" x2="187" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="212" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">3</text><line x1="236" y1="14" x2="236" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="272" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">4</text><line x1="309" y1="14" x2="309" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="361" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">5</text><line x1="413" y1="14" x2="413" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="478" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">6</text><line x1="543" y1="14" x2="543" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="575" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">7</text><line x1="607" y1="14" x2="607" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="636" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">8</text><line x1="664" y1="14" x2="664" y2="304" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/><text x="672" y="318" text-anchor="middle" fill="#9ca3af" font-size="10">9</text>
+<path d="M 42.0 304.0 H 50.1 V 304.0 H 58.2 V 304.0 H 66.2 V 304.0 H 74.3 V 304.0 H 82.4 V 304.0 H 90.5 V 304.0 H 98.5 V 304.0 H 106.6 V 304.0 H 114.7 V 304.0 H 122.8 V 304.0 H 130.8 V 304.0 H 138.9 V 304.0 H 147.0 V 304.0 H 155.1 V 304.0 H 163.1 V 304.0 H 171.2 V 304.0 H 179.3 V 304.0 H 187.4 V 304.0 H 195.4 V 304.0 H 203.5 V 304.0 H 211.6 V 304.0 H 219.7 V 304.0 H 227.7 V 304.0 H 235.8 V 304.0 H 243.9 V 304.0 H 252.0 V 304.0 H 260.1 V 304.0 H 268.1 V 304.0 H 276.2 V 304.0 H 284.3 V 304.0 H 292.4 V 304.0 H 300.4 V 304.0 H 308.5 V 304.0 H 316.6 V 304.0 H 324.7 V 304.0 H 332.7 V 304.0 H 340.8 V 265.2 H 348.9 V 265.2 H 357.0 V 265.2 H 365.0 V 265.2 H 373.1 V 265.2 H 381.2 V 265.2 H 389.3 V 265.2 H 397.3 V 265.2 H 405.4 V 265.2 H 413.5 V 265.2 H 421.6 V 265.2 H 429.6 V 265.2 H 437.7 V 265.2 H 445.8 V 265.2 H 453.9 V 265.2 H 461.9 V 265.2 H 470.0 V 265.2 H 478.1 V 265.2 H 486.2 V 265.2 H 494.3 V 265.2 H 502.3 V 265.2 H 510.4 V 265.2 H 518.5 V 265.2 H 526.6 V 265.2 H 534.6 V 265.2 H 542.7 V 265.2 H 550.8 V 265.2 H 558.9 V 265.2 H 566.9 V 265.2 H 575.0 V 265.2 H 583.1 V 265.2 H 591.2 V 265.2 H 599.2 V 265.2 H 607.3 V 265.2 H 615.4 V 265.2 H 623.5 V 265.2 H 631.5 V 265.2 H 639.6 V 265.2 H 647.7 V 265.2 H 655.8 V 265.2 H 663.8 V 265.2 H 671.9 V 265.2 H 680.0 V 265.2" fill="none" stroke="#A71930" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
+<path d="M 42.0 304.0 H 50.1 V 304.0 H 58.2 V 304.0 H 66.2 V 304.0 H 74.3 V 304.0 H 82.4 V 304.0 H 90.5 V 304.0 H 98.5 V 304.0 H 106.6 V 304.0 H 114.7 V 304.0 H 122.8 V 304.0 H 130.8 V 304.0 H 138.9 V 304.0 H 147.0 V 304.0 H 155.1 V 284.6 H 163.1 V 284.6 H 171.2 V 284.6 H 179.3 V 284.6 H 187.4 V 284.6 H 195.4 V 284.6 H 203.5 V 284.6 H 211.6 V 284.6 H 219.7 V 284.6 H 227.7 V 284.6 H 235.8 V 284.6 H 243.9 V 284.6 H 252.0 V 284.6 H 260.1 V 284.6 H 268.1 V 284.6 H 276.2 V 284.6 H 284.3 V 284.6 H 292.4 V 245.8 H 300.4 V 245.8 H 308.5 V 245.8 H 316.6 V 245.8 H 324.7 V 245.8 H 332.7 V 245.8 H 340.8 V 245.8 H 348.9 V 245.8 H 357.0 V 245.8 H 365.0 V 245.8 H 373.1 V 245.8 H 381.2 V 245.8 H 389.3 V 207.0 H 397.3 V 207.0 H 405.4 V 207.0 H 413.5 V 207.0 H 421.6 V 207.0 H 429.6 V 207.0 H 437.7 V 207.0 H 445.8 V 207.0 H 453.9 V 207.0 H 461.9 V 187.6 H 470.0 V 148.8 H 478.1 V 148.8 H 486.2 V 129.4 H 494.3 V 90.6 H 502.3 V 90.6 H 510.4 V 90.6 H 518.5 V 51.8 H 526.6 V 51.8 H 534.6 V 51.8 H 542.7 V 51.8 H 550.8 V 51.8 H 558.9 V 51.8 H 566.9 V 51.8 H 575.0 V 51.8 H 583.1 V 51.8 H 591.2 V 51.8 H 599.2 V 51.8 H 607.3 V 51.8 H 615.4 V 51.8 H 623.5 V 51.8 H 631.5 V 51.8 H 639.6 V 51.8 H 647.7 V 51.8 H 655.8 V 51.8 H 663.8 V 51.8 H 671.9 V 51.8 H 680.0 V 51.8" fill="none" stroke="#FFC52F" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
+<path d="M 42.0 304.0 H 50.1 V 287.3 H 58.2 V 276.8 H 66.2 V 282.1 H 74.3 V 286.3 H 82.4 V 286.3 H 90.5 V 286.3 H 98.5 V 286.3 H 106.6 V 286.3 H 114.7 V 286.3 H 122.8 V 286.3 H 130.8 V 269.7 H 138.9 V 257.8 H 147.0 V 254.1 H 155.1 V 254.1 H 163.1 V 254.1 H 171.2 V 254.1 H 179.3 V 254.1 H 187.4 V 249.3 H 195.4 V 252.2 H 203.5 V 252.6 H 211.6 V 252.6 H 219.7 V 252.6 H 227.7 V 252.6 H 235.8 V 240.4 H 243.9 V 243.5 H 252.0 V 245.2 H 260.1 V 245.2 H 268.1 V 245.2 H 276.2 V 245.2 H 284.3 V 245.2 H 292.4 V 245.2 H 300.4 V 245.2 H 308.5 V 228.5 H 316.6 V 217.3 H 324.7 V 202.4 H 332.7 V 187.8 H 340.8 V 187.8 H 348.9 V 190.5 H 357.0 V 184.1 H 365.0 V 184.1 H 373.1 V 184.1 H 381.2 V 184.1 H 389.3 V 184.1 H 397.3 V 184.1 H 405.4 V 184.1 H 413.5 V 176.9 H 421.6 V 178.9 H 429.6 V 180.6 H 437.7 V 180.6 H 445.8 V 180.6 H 453.9 V 180.6 H 461.9 V 180.6 H 470.0 V 180.6 H 478.1 V 180.6 H 486.2 V 180.6 H 494.3 V 180.6 H 502.3 V 180.6 H 510.4 V 180.6 H 518.5 V 180.6 H 526.6 V 180.6 H 534.6 V 180.6 H 542.7 V 175.0 H 550.8 V 170.0 H 558.9 V 165.5 H 566.9 V 169.8 H 575.0 V 169.8 H 583.1 V 169.8 H 591.2 V 169.8 H 599.2 V 169.8 H 607.3 V 153.5 H 615.4 V 154.6 H 623.5 V 159.3 H 631.5 V 150.9 H 639.6 V 150.9 H 647.7 V 150.9 H 655.8 V 150.9 H 663.8 V 144.9 H 671.9 V 147.3 H 680.0 V 149.2" fill="none" stroke="#A71930" stroke-width="2.5"/>
+<path d="M 42.0 304.0 H 50.1 V 304.0 H 58.2 V 304.0 H 66.2 V 304.0 H 74.3 V 304.0 H 82.4 V 287.3 H 90.5 V 276.1 H 98.5 V 267.9 H 106.6 V 275.9 H 114.7 V 272.6 H 122.8 V 286.7 H 130.8 V 286.7 H 138.9 V 286.7 H 147.0 V 286.7 H 155.1 V 264.4 H 163.1 V 261.3 H 171.2 V 264.2 H 179.3 V 250.5 H 187.4 V 250.5 H 195.4 V 250.5 H 203.5 V 250.5 H 211.6 V 241.0 H 219.7 V 241.9 H 227.7 V 242.5 H 235.8 V 242.5 H 243.9 V 242.5 H 252.0 V 242.5 H 260.1 V 229.9 H 268.1 V 224.9 H 276.2 V 218.1 H 284.3 V 213.0 H 292.4 V 195.6 H 300.4 V 200.0 H 308.5 V 200.0 H 316.6 V 200.0 H 324.7 V 200.0 H 332.7 V 200.0 H 340.8 V 200.0 H 348.9 V 200.0 H 357.0 V 200.0 H 365.0 V 192.5 H 373.1 V 189.9 H 381.2 V 167.1 H 389.3 V 164.5 H 397.3 V 165.7 H 405.4 V 169.2 H 413.5 V 169.2 H 421.6 V 169.2 H 429.6 V 169.2 H 437.7 V 159.7 H 445.8 V 159.9 H 453.9 V 159.5 H 461.9 V 156.4 H 470.0 V 167.4 H 478.1 V 158.9 H 486.2 V 165.7 H 494.3 V 150.4 H 502.3 V 163.6 H 510.4 V 157.0 H 518.5 V 166.7 H 526.6 V 181.8 H 534.6 V 193.0 H 542.7 V 193.0 H 550.8 V 193.0 H 558.9 V 193.0 H 566.9 V 193.0 H 575.0 V 188.0 H 583.1 V 190.7 H 591.2 V 192.3 H 599.2 V 193.4 H 607.3 V 193.4 H 615.4 V 193.4 H 623.5 V 193.4 H 631.5 V 193.4 H 639.6 V 183.3 H 647.7 V 185.7 H 655.8 V 187.6 H 663.8 V 187.6 H 671.9 V 187.6 H 680.0 V 187.6" fill="none" stroke="#FFC52F" stroke-width="2.5"/>
+<text x="684" y="153" fill="#A71930" font-size="10" font-weight="600" opacity="1">8.0</text><text x="684" y="269" fill="#A71930" font-size="10" font-weight="600" opacity="0.6">2</text><text x="684" y="192" fill="#FFC52F" font-size="10" font-weight="600" opacity="1">6.0</text><text x="684" y="56" fill="#FFC52F" font-size="10" font-weight="600" opacity="0.6">13</text>
+<line x1="42" y1="14" x2="42" y2="304" stroke="#d1d5db" stroke-width="1"/>
+<line x1="42" y1="304" x2="680" y2="304" stroke="#d1d5db" stroke-width="1"/>
+<line x1="48" y1="21" x2="64" y2="21" stroke="#A71930" stroke-width="2.5"/>
+<text x="67" y="24" fill="#A71930" font-size="10" font-weight="600">ARI xR</text>
+<line x1="114" y1="21" x2="130" y2="21" stroke="#A71930" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="133" y="24" fill="#A71930" font-size="10" opacity="0.5">ARI actual</text>
+<line x1="202" y1="21" x2="218" y2="21" stroke="#FFC52F" stroke-width="2.5"/>
+<text x="221" y="24" fill="#FFC52F" font-size="10" font-weight="600">MIL xR</text>
+<line x1="268" y1="21" x2="284" y2="21" stroke="#FFC52F" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
+<text x="287" y="24" fill="#FFC52F" font-size="10" opacity="0.5">MIL actual</text>
+</svg></div>
+</div>
   <div class="toolbar">
     <button class="expand-btn" onclick="expandAll()">Expand all</button>
   </div>
@@ -23434,7 +23500,7 @@ footer strong { color: var(--text); }
 
     </tbody>
   </table>
-  <div class="last-updated">Last updated: Jun 30, 2026 05:26 AM ET</div>
+  <div class="last-updated">Last updated: Jun 30, 2026 12:08 PM ET</div>
 </div>
 
 <div id="players-tab" class="tab-content">
@@ -24649,7 +24715,7 @@ footer strong { color: var(--text); }
       </tbody>
     </table>
   </div>
-  <div class="last-updated">Last updated: Jun 30, 2026 05:26 AM ET</div>
+  <div class="last-updated">Last updated: Jun 30, 2026 12:08 PM ET</div>
 </div>
 
 <div id="graphs-tab" class="tab-content">
@@ -24683,7 +24749,7 @@ footer strong { color: var(--text); }
 </svg></div>
   </div>
   <p class="scatter-note">First two charts: dashed line = xR matches actual. Third chart: bottom-right = best (high xR, low xRA).</p>
-  <div class="last-updated">Last updated: Jun 30, 2026 05:26 AM ET</div>
+  <div class="last-updated">Last updated: Jun 30, 2026 12:08 PM ET</div>
 </div>
 
 <footer>
@@ -24696,6 +24762,16 @@ footer strong { color: var(--text); }
 </footer>
 
 <script>
+function toggleBackwards() {
+  var chart = document.getElementById('bw-chart');
+  var arrow = document.getElementById('bw-arrow');
+  if (!chart) return;
+  if (chart.style.display === 'none') {
+    chart.style.display = ''; arrow.classList.add('expanded');
+  } else {
+    chart.style.display = 'none'; arrow.classList.remove('expanded');
+  }
+}
 function toggle(gpk) {
   var chart = document.getElementById('chart-' + gpk);
   var row = document.querySelector('tr[data-gpk="' + gpk + '"]');
