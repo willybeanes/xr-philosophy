@@ -141,20 +141,20 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 126,
-      "xr": 5.069
+      "pa": 130,
+      "xr": 5.8471
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 273,
-      "xr": 33.972
+      "pa": 277,
+      "xr": 33.7692
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 363,
-      "xr": 5.5757
+      "pa": 366,
+      "xr": 5.3931
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,8 +171,8 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 275,
-      "xr": -0.0337
+      "pa": 278,
+      "xr": -0.144
     },
     "543760": {
       "name": "Marcus Semien",
@@ -183,14 +183,14 @@
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 328,
-      "xr": 3.177
+      "pa": 332,
+      "xr": 4.2892
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 193,
-      "xr": 6.9915
+      "pa": 197,
+      "xr": 6.4809
     },
     "669707": {
       "name": "Jared Triolo",
@@ -1497,14 +1497,14 @@
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 179,
-      "xr": 1.1886
+      "pa": 184,
+      "xr": 1.4591
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 331,
-      "xr": 15.1639
+      "pa": 336,
+      "xr": 15.4089
     },
     "680718": {
       "name": "Addison Barger",
@@ -1533,20 +1533,20 @@
     "672386": {
       "name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
-      "pa": 69,
-      "xr": -3.0132
+      "pa": 73,
+      "xr": -1.8901
     },
     "662139": {
       "name": "Daulton Varsho",
       "team": "Toronto Blue Jays",
-      "pa": 259,
-      "xr": -2.8159
+      "pa": 263,
+      "xr": -3.469
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 328,
-      "xr": -2.0365
+      "pa": 332,
+      "xr": -0.968
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 318,
-      "xr": -11.4145
+      "pa": 322,
+      "xr": -11.8309
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 275,
-      "xr": -12.9717
+      "pa": 279,
+      "xr": -13.2334
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1923,8 +1923,8 @@
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "pa": 144,
-      "xr": -0.4547
+      "pa": 145,
+      "xr": -0.2859
     },
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 124,
-      "xr": -0.5451
+      "pa": 127,
+      "xr": -0.806
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2307,8 +2307,8 @@
     "621438": {
       "name": "Tyrone Taylor",
       "team": "New York Mets",
-      "pa": 100,
-      "xr": -2.6814
+      "pa": 103,
+      "xr": -2.9167
     },
     "666464": {
       "name": "Jerar Encarnacion",
@@ -2427,8 +2427,8 @@
     "677595": {
       "name": "Ronny Mauricio",
       "team": "New York Mets",
-      "pa": 45,
-      "xr": -3.1648
+      "pa": 46,
+      "xr": -3.3899
     },
     "666931": {
       "name": "Jared Oliva",
@@ -2703,8 +2703,8 @@
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
       "team": "Toronto Blue Jays",
-      "pa": 148,
-      "xr": 2.982
+      "pa": 151,
+      "xr": 1.761
     },
     "668709": {
       "name": "JJ Bleday",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 177,
-      "xr": 4.6148
+      "pa": 181,
+      "xr": 4.1786
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3483,8 +3483,8 @@
     "815873": {
       "name": "Sean Keys",
       "team": "Toronto Blue Jays",
-      "pa": 8,
-      "xr": -0.778
+      "pa": 12,
+      "xr": -1.5594
     },
     "663853": {
       "name": "Romy Gonzalez",
@@ -3569,8 +3569,8 @@
     "642547": {
       "name": "Freddy Peralta",
       "team": "New York Mets",
-      "bf": 400,
-      "xr_allowed": -9.8664
+      "bf": 422,
+      "xr_allowed": -11.592
     },
     "694973": {
       "name": "Paul Skenes",
@@ -3743,8 +3743,8 @@
     "672335": {
       "name": "Cionel P\u00e9rez",
       "team": "New York Mets",
-      "bf": 134,
-      "xr_allowed": 7.3012
+      "bf": 142,
+      "xr_allowed": 8.7033
     },
     "669432": {
       "name": "Trevor Rogers",
@@ -4655,8 +4655,8 @@
     "680755": {
       "name": "Braydon Fisher",
       "team": "Toronto Blue Jays",
-      "bf": 174,
-      "xr_allowed": 0.677
+      "bf": 178,
+      "xr_allowed": 0.8435
     },
     "643410": {
       "name": "Mark Leiter Jr.",
@@ -4697,8 +4697,8 @@
     "693686": {
       "name": "Spencer Miles",
       "team": "Toronto Blue Jays",
-      "bf": 197,
-      "xr_allowed": -4.3602
+      "bf": 208,
+      "xr_allowed": -5.5884
     },
     "665622": {
       "name": "Luis Medina",
@@ -6155,8 +6155,8 @@
     "571578": {
       "name": "Patrick Corbin",
       "team": "Toronto Blue Jays",
-      "bf": 314,
-      "xr_allowed": 15.4727
+      "bf": 332,
+      "xr_allowed": 16.2609
     },
     "678022": {
       "name": "Jack Perkins",
@@ -6317,8 +6317,8 @@
     "680702": {
       "name": "Joey Gerber",
       "team": "New York Mets",
-      "bf": 24,
-      "xr_allowed": -2.6452
+      "bf": 28,
+      "xr_allowed": -2.5809
     },
     "518876": {
       "name": "Merrill Kelly",
@@ -7313,8 +7313,8 @@
     "621345": {
       "name": "A.J. Minter",
       "team": "New York Mets",
-      "bf": 47,
-      "xr_allowed": -4.0288
+      "bf": 51,
+      "xr_allowed": -4.2273
     },
     "695611": {
       "name": "Gage Jump",
@@ -9058,6 +9058,7 @@
     824419,
     824740,
     823530,
-    824660
+    824660,
+    822791
   ]
 }
