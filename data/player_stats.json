@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 375,
-      "xr": 11.0237
+      "pa": 379,
+      "xr": 10.1955
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 383,
-      "xr": 2.9367
+      "pa": 387,
+      "xr": 2.7297
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 352,
-      "xr": -0.8622
+      "pa": 355,
+      "xr": -1.2365
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 367,
-      "xr": 11.662
+      "pa": 370,
+      "xr": 11.7483
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,14 +435,14 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 372,
-      "xr": -1.7074
+      "pa": 376,
+      "xr": -2.0298
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 213,
-      "xr": 6.1931
+      "pa": 217,
+      "xr": 5.9419
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
@@ -465,8 +465,8 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 316,
-      "xr": -0.979
+      "pa": 318,
+      "xr": -1.3863
     },
     "807713": {
       "name": "Matt Shaw",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 131,
-      "xr": 6.0213
+      "pa": 135,
+      "xr": 5.1978
     },
     "668885": {
       "name": "Austin Martin",
@@ -999,26 +999,26 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 347,
-      "xr": 17.1689
+      "pa": 353,
+      "xr": 18.2536
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 362,
-      "xr": 16.8566
+      "pa": 367,
+      "xr": 17.926
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 341,
-      "xr": 25.2539
+      "pa": 346,
+      "xr": 26.26
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 303,
-      "xr": -2.9703
+      "pa": 307,
+      "xr": -3.3842
     },
     "669357": {
       "name": "Nolan Gorman",
@@ -1053,20 +1053,20 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 333,
-      "xr": 10.4936
+      "pa": 339,
+      "xr": 10.4814
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 205,
-      "xr": -2.0481
+      "pa": 210,
+      "xr": -1.3473
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 141,
-      "xr": -7.5284
+      "pa": 142,
+      "xr": -7.5852
     },
     "687363": {
       "name": "Victor Scott II",
@@ -2337,8 +2337,8 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 134,
-      "xr": -2.8873
+      "pa": 139,
+      "xr": -3.0817
     },
     "666160": {
       "name": "Mickey Moniak",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 292,
-      "xr": -0.5203
+      "pa": 296,
+      "xr": -0.3417
     },
     "695257": {
       "name": "Billy Cook",
@@ -3075,20 +3075,20 @@
     "663494": {
       "name": "Bryan Torres",
       "team": "St. Louis Cardinals",
-      "pa": 53,
-      "xr": 0.6947
+      "pa": 55,
+      "xr": 1.4613
     },
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
       "team": "Chicago Cubs",
-      "pa": 13,
-      "xr": -0.9446
+      "pa": 14,
+      "xr": -1.0662
     },
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 56,
-      "xr": -0.8789
+      "pa": 58,
+      "xr": -0.7368
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3147,8 +3147,8 @@
     "676369": {
       "name": "Nelson Vel\u00e1zquez",
       "team": "St. Louis Cardinals",
-      "pa": 44,
-      "xr": 3.0379
+      "pa": 50,
+      "xr": 3.2952
     },
     "672642": {
       "name": "Steward Berroa",
@@ -3165,8 +3165,8 @@
     "699625": {
       "name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
-      "pa": 61,
-      "xr": 0.5608
+      "pa": 62,
+      "xr": 0.6868
     },
     "694378": {
       "name": "Jacob Gonzalez",
@@ -3333,8 +3333,8 @@
     "691458": {
       "name": "Blaze Jordan",
       "team": "St. Louis Cardinals",
-      "pa": 63,
-      "xr": 1.4226
+      "pa": 68,
+      "xr": 1.6633
     },
     "669256": {
       "name": "Nick Solak",
@@ -3405,8 +3405,8 @@
     "681909": {
       "name": "Justin Dean",
       "team": "Chicago Cubs",
-      "pa": 5,
-      "xr": 0.3044
+      "pa": 6,
+      "xr": -0.282
     },
     "669360": {
       "name": "Trei Cruz",
@@ -3886,9 +3886,9 @@
     },
     "519141": {
       "name": "Drew Pomeranz",
-      "team": "Los Angeles Angels",
-      "bf": 108,
-      "xr_allowed": 5.1861
+      "team": "Chicago Cubs",
+      "bf": 111,
+      "xr_allowed": 4.8062
     },
     "685005": {
       "name": "Christian Roa",
@@ -4025,8 +4025,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 136,
-      "xr_allowed": -0.5332
+      "bf": 139,
+      "xr_allowed": -0.9072
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4859,8 +4859,8 @@
     "656849": {
       "name": "David Peterson",
       "team": "Chicago Cubs",
-      "bf": 319,
-      "xr_allowed": 15.27
+      "bf": 342,
+      "xr_allowed": 18.7947
     },
     "656605": {
       "name": "Mitch Keller",
@@ -5813,8 +5813,8 @@
     "669467": {
       "name": "Andre Pallante",
       "team": "St. Louis Cardinals",
-      "bf": 374,
-      "xr_allowed": 0.1832
+      "bf": 398,
+      "xr_allowed": -1.4038
     },
     "673540": {
       "name": "Kodai Senga",
@@ -6971,8 +6971,8 @@
     "668970": {
       "name": "Gavin Hollowell",
       "team": "Chicago Cubs",
-      "bf": 28,
-      "xr_allowed": 1.4895
+      "bf": 32,
+      "xr_allowed": 1.5618
     },
     "489446": {
       "name": "Kirby Yates",
@@ -7667,14 +7667,14 @@
     "669060": {
       "name": "Bryse Wilson",
       "team": "Chicago Cubs",
-      "bf": 24,
-      "xr_allowed": -0.8988
+      "bf": 45,
+      "xr_allowed": 0.4584
     },
     "691008": {
       "name": "Max Rajcic",
       "team": "St. Louis Cardinals",
-      "bf": 30,
-      "xr_allowed": 0.0589
+      "bf": 39,
+      "xr_allowed": -1.495
     },
     "664702": {
       "name": "Myles Straw",
@@ -9094,6 +9094,7 @@
     824093,
     822884,
     823119,
-    823935
+    823935,
+    824659
   ]
 }
