@@ -117,14 +117,14 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 346,
-      "xr": 9.8114
+      "pa": 351,
+      "xr": 9.9715
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 373,
-      "xr": 16.445
+      "pa": 378,
+      "xr": 16.1992
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 288,
-      "xr": 2.4952
+      "pa": 293,
+      "xr": 1.9579
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -207,14 +207,14 @@
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 322,
-      "xr": 4.8383
+      "pa": 326,
+      "xr": 5.3364
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 163,
-      "xr": -4.5635
+      "pa": 167,
+      "xr": -4.6384
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -369,14 +369,14 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 404,
-      "xr": 36.9764
+      "pa": 408,
+      "xr": 38.2603
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
-      "pa": 58,
-      "xr": 4.857
+      "pa": 59,
+      "xr": 4.4136
     },
     "691781": {
       "name": "Brady House",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 361,
-      "xr": 2.6908
+      "pa": 365,
+      "xr": 2.5755
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -423,14 +423,14 @@
     "682928": {
       "name": "CJ Abrams",
       "team": "Washington Nationals",
-      "pa": 347,
-      "xr": 9.1862
+      "pa": 351,
+      "xr": 8.813
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team": "Washington Nationals",
-      "pa": 277,
-      "xr": -13.1562
+      "pa": 280,
+      "xr": -13.0778
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -477,8 +477,8 @@
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team": "Washington Nationals",
-      "pa": 276,
-      "xr": 9.7116
+      "pa": 279,
+      "xr": 9.447
     },
     "624424": {
       "name": "Michael Conforto",
@@ -1893,8 +1893,8 @@
     "686452": {
       "name": "Drew Millas",
       "team": "Washington Nationals",
-      "pa": 133,
-      "xr": -9.3516
+      "pa": 137,
+      "xr": -8.9655
     },
     "678391": {
       "name": "Jorbit Vivas",
@@ -1911,8 +1911,8 @@
     "677588": {
       "name": "Jos\u00e9 Tena",
       "team": "Washington Nationals",
-      "pa": 165,
-      "xr": -3.7874
+      "pa": 169,
+      "xr": -3.3776
     },
     "676914": {
       "name": "Davis Schneider",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 221,
-      "xr": -7.5172
+      "pa": 225,
+      "xr": -6.8341
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2277,8 +2277,8 @@
     "678554": {
       "name": "Curtis Mead",
       "team": "Washington Nationals",
-      "pa": 259,
-      "xr": 6.775
+      "pa": 263,
+      "xr": 6.9238
     },
     "699912": {
       "name": "Jose Fernandez",
@@ -2349,8 +2349,8 @@
     "804606": {
       "name": "Konnor Griffin",
       "team": "Pittsburgh Pirates",
-      "pa": 219,
-      "xr": -2.0598
+      "pa": 224,
+      "xr": -3.4292
     },
     "641487": {
       "name": "J.P. Crawford",
@@ -2469,8 +2469,8 @@
     "695257": {
       "name": "Billy Cook",
       "team": "Pittsburgh Pirates",
-      "pa": 22,
-      "xr": -2.9748
+      "pa": 23,
+      "xr": -3.0723
     },
     "672761": {
       "name": "Wenceel P\u00e9rez",
@@ -3015,8 +3015,8 @@
     "686611": {
       "name": "Dylan Crews",
       "team": "Washington Nationals",
-      "pa": 159,
-      "xr": 4.1771
+      "pa": 163,
+      "xr": 4.1589
     },
     "606115": {
       "name": "Orlando Arcia",
@@ -3039,8 +3039,8 @@
     "699013": {
       "name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
-      "pa": 69,
-      "xr": 5.6542
+      "pa": 73,
+      "xr": 4.8517
     },
     "694224": {
       "name": "Gabriel Gonzalez",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 69,
-      "xr": -1.3245
+      "pa": 73,
+      "xr": -1.4703
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -3581,14 +3581,14 @@
     "670990": {
       "name": "Yohan Ram\u00edrez",
       "team": "Pittsburgh Pirates",
-      "bf": 199,
-      "xr_allowed": -3.25
+      "bf": 204,
+      "xr_allowed": -2.5565
     },
     "682254": {
       "name": "Mason Montgomery",
       "team": "Pittsburgh Pirates",
-      "bf": 137,
-      "xr_allowed": -5.8402
+      "bf": 138,
+      "xr_allowed": -6.2836
     },
     "676755": {
       "name": "Isaac Mattson",
@@ -3617,8 +3617,8 @@
     "642701": {
       "name": "Dennis Santana",
       "team": "Pittsburgh Pirates",
-      "bf": 150,
-      "xr_allowed": 3.547
+      "bf": 153,
+      "xr_allowed": 3.4808
     },
     "472610": {
       "name": "Luis Garc\u00eda",
@@ -5501,8 +5501,8 @@
     "677952": {
       "name": "Braxton Ashcraft",
       "team": "Pittsburgh Pirates",
-      "bf": 390,
-      "xr_allowed": -10.2246
+      "bf": 413,
+      "xr_allowed": -9.1573
     },
     "683742": {
       "name": "Jose Franco",
@@ -5747,8 +5747,8 @@
     "641793": {
       "name": "Zack Littell",
       "team": "Washington Nationals",
-      "bf": 331,
-      "xr_allowed": 24.2824
+      "bf": 353,
+      "xr_allowed": 22.6441
     },
     "676083": {
       "name": "Janson Junk",
@@ -6473,8 +6473,8 @@
     "676742": {
       "name": "Cam Sanders",
       "team": "Pittsburgh Pirates",
-      "bf": 26,
-      "xr_allowed": -2.1679
+      "bf": 29,
+      "xr_allowed": -2.3268
     },
     "674841": {
       "name": "Andrew Alvarez",
@@ -6629,8 +6629,8 @@
     "683000": {
       "name": "Riley Cornelio",
       "team": "Washington Nationals",
-      "bf": 47,
-      "xr_allowed": 2.209
+      "bf": 58,
+      "xr_allowed": 2.053
     },
     "669211": {
       "name": "Keegan Akin",
@@ -7751,8 +7751,8 @@
     "687223": {
       "name": "Carson Palmquist",
       "team": "Washington Nationals",
-      "bf": 18,
-      "xr_allowed": -1.1718
+      "bf": 26,
+      "xr_allowed": -1.3094
     },
     "683352": {
       "name": "Mitch Bratt",
@@ -9119,6 +9119,7 @@
     824982,
     823933,
     823120,
-    825062
+    825062,
+    822716
   ]
 }
