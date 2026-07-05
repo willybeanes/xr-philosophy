@@ -219,20 +219,20 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 350,
-      "xr": -1.0535
+      "pa": 355,
+      "xr": -1.524
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 334,
-      "xr": -1.9734
+      "pa": 339,
+      "xr": -1.4468
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 361,
-      "xr": 28.7106
+      "pa": 366,
+      "xr": 28.2565
     },
     "643217": {
       "name": "Andrew Benintendi",
@@ -321,8 +321,8 @@
     "682668": {
       "name": "Luisangel Acu\u00f1a",
       "team": "Chicago White Sox",
-      "pa": 153,
-      "xr": -7.391
+      "pa": 155,
+      "xr": -6.6297
     },
     "672820": {
       "name": "Lenyn Sosa",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 241,
-      "xr": -4.7154
+      "pa": 245,
+      "xr": -4.2122
     },
     "624512": {
       "name": "Reese McGuire",
@@ -1341,14 +1341,14 @@
     "680757": {
       "name": "Steven Kwan",
       "team": "Cleveland Guardians",
-      "pa": 314,
-      "xr": 2.0037
+      "pa": 317,
+      "xr": 1.7942
     },
     "800050": {
       "name": "Chase DeLauter",
       "team": "Cleveland Guardians",
-      "pa": 287,
-      "xr": 4.1242
+      "pa": 291,
+      "xr": 3.4437
     },
     "608070": {
       "name": "Jos\u00e9 Ram\u00edrez",
@@ -1359,8 +1359,8 @@
     "700932": {
       "name": "Kyle Manzardo",
       "team": "Cleveland Guardians",
-      "pa": 273,
-      "xr": 2.0708
+      "pa": 276,
+      "xr": 1.9535
     },
     "680977": {
       "name": "Brendan Donovan",
@@ -1395,20 +1395,20 @@
     "656555": {
       "name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
-      "pa": 242,
-      "xr": -8.5224
+      "pa": 243,
+      "xr": -8.6199
     },
     "682177": {
       "name": "Daniel Schneemann",
       "team": "Cleveland Guardians",
-      "pa": 232,
-      "xr": -0.7434
+      "pa": 234,
+      "xr": -1.2913
     },
     "672356": {
       "name": "Gabriel Arias",
       "team": "Cleveland Guardians",
-      "pa": 76,
-      "xr": -2.872
+      "pa": 77,
+      "xr": -2.746
     },
     "668227": {
       "name": "Randy Arozarena",
@@ -1437,8 +1437,8 @@
     "677587": {
       "name": "Brayan Rocchio",
       "team": "Cleveland Guardians",
-      "pa": 316,
-      "xr": -1.2975
+      "pa": 320,
+      "xr": -1.3627
     },
     "660844": {
       "name": "Leo Rivas",
@@ -1467,8 +1467,8 @@
     "545341": {
       "name": "Randal Grichuk",
       "team": "Chicago White Sox",
-      "pa": 119,
-      "xr": 6.9506
+      "pa": 122,
+      "xr": 6.7308
     },
     "701762": {
       "name": "Nick Kurtz",
@@ -2109,8 +2109,8 @@
     "681807": {
       "name": "David Fry",
       "team": "Cleveland Guardians",
-      "pa": 134,
-      "xr": -4.8857
+      "pa": 136,
+      "xr": -5.1058
     },
     "645302": {
       "name": "Victor Robles",
@@ -2265,8 +2265,8 @@
     "595978": {
       "name": "Austin Hedges",
       "team": "Cleveland Guardians",
-      "pa": 128,
-      "xr": -4.2863
+      "pa": 132,
+      "xr": -4.146
     },
     "687221": {
       "name": "Dalton Rushing",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 265,
-      "xr": 11.3338
+      "pa": 267,
+      "xr": 11.1629
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2685,8 +2685,8 @@
     "691011": {
       "name": "Drew Romo",
       "team": "Chicago White Sox",
-      "pa": 104,
-      "xr": -6.6821
+      "pa": 108,
+      "xr": -6.1228
     },
     "687515": {
       "name": "Colby Thomas",
@@ -2721,8 +2721,8 @@
     "683953": {
       "name": "Travis Bazzana",
       "team": "Cleveland Guardians",
-      "pa": 231,
-      "xr": -4.3036
+      "pa": 235,
+      "xr": -5.382
     },
     "665861": {
       "name": "Sebasti\u00e1n Rivero",
@@ -3273,8 +3273,8 @@
     "695731": {
       "name": "Braden Montgomery",
       "team": "Chicago White Sox",
-      "pa": 88,
-      "xr": -4.4158
+      "pa": 92,
+      "xr": -4.8865
     },
     "694249": {
       "name": "Cole Carrigg",
@@ -3387,14 +3387,14 @@
     "696135": {
       "name": "Kahlil Watson",
       "team": "Cleveland Guardians",
-      "pa": 50,
-      "xr": 0.0211
+      "pa": 54,
+      "xr": -1.1604
     },
     "678577": {
       "name": "Junior Perez",
       "team": "Chicago White Sox",
-      "pa": 18,
-      "xr": -0.0822
+      "pa": 22,
+      "xr": -0.8506
     },
     "695681": {
       "name": "Christian Moore",
@@ -3435,8 +3435,8 @@
     "691019": {
       "name": "Kyle Teel",
       "team": "Chicago White Sox",
-      "pa": 40,
-      "xr": -0.5874
+      "pa": 42,
+      "xr": -0.1171
     },
     "649966": {
       "name": "Luis Ur\u00edas",
@@ -3459,8 +3459,8 @@
     "694876": {
       "name": "Cooper Ingle",
       "team": "Cleveland Guardians",
-      "pa": 17,
-      "xr": -1.0461
+      "pa": 20,
+      "xr": -1.9075
     },
     "596146": {
       "name": "Max Kepler",
@@ -4175,8 +4175,8 @@
     "542888": {
       "name": "Shawn Armstrong",
       "team": "Cleveland Guardians",
-      "bf": 112,
-      "xr_allowed": -1.4819
+      "bf": 116,
+      "xr_allowed": -2.0207
     },
     "681870": {
       "name": "Erik Sabrowski",
@@ -4985,8 +4985,8 @@
     "680732": {
       "name": "Sean Burke",
       "team": "Chicago White Sox",
-      "bf": 367,
-      "xr_allowed": -7.3921
+      "bf": 392,
+      "xr_allowed": -11.0915
     },
     "669684": {
       "name": "Chris Murphy",
@@ -4997,8 +4997,8 @@
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 177,
-      "xr_allowed": -10.3965
+      "bf": 181,
+      "xr_allowed": -10.7819
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -5159,14 +5159,14 @@
     "670036": {
       "name": "Matt Festa",
       "team": "Cleveland Guardians",
-      "bf": 150,
-      "xr_allowed": -5.7903
+      "bf": 156,
+      "xr_allowed": -4.5516
     },
     "682120": {
       "name": "Tim Herrin",
       "team": "Cleveland Guardians",
-      "bf": 123,
-      "xr_allowed": -1.9346
+      "bf": 127,
+      "xr_allowed": -0.8531
     },
     "677961": {
       "name": "Cole Wilcox",
@@ -5711,8 +5711,8 @@
     "800048": {
       "name": "Parker Messick",
       "team": "Cleveland Guardians",
-      "bf": 377,
-      "xr_allowed": -10.8195
+      "bf": 400,
+      "xr_allowed": -11.8958
     },
     "680736": {
       "name": "Justin Wrobleski",
@@ -6239,8 +6239,8 @@
     "685126": {
       "name": "Brandon Eisert",
       "team": "Chicago White Sox",
-      "bf": 103,
-      "xr_allowed": -4.1499
+      "bf": 109,
+      "xr_allowed": -4.8581
     },
     "681151": {
       "name": "Jayden Murray",
@@ -6317,8 +6317,8 @@
     "683769": {
       "name": "Hunter Gaddis",
       "team": "Cleveland Guardians",
-      "bf": 111,
-      "xr_allowed": 0.2008
+      "bf": 114,
+      "xr_allowed": -0.238
     },
     "680702": {
       "name": "Joey Gerber",
@@ -9135,6 +9135,7 @@
     822716,
     823526,
     822882,
-    823118
+    823118,
+    824415
   ]
 }
