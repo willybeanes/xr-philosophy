@@ -855,8 +855,8 @@
     "681481": {
       "name": "Kerry Carpenter",
       "team": "Detroit Tigers",
-      "pa": 208,
-      "xr": 2.4392
+      "pa": 212,
+      "xr": 2.9588
     },
     "650402": {
       "name": "Gleyber Torres",
@@ -867,32 +867,32 @@
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 243,
-      "xr": 1.1758
+      "pa": 247,
+      "xr": 1.3163
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 355,
-      "xr": 4.6772
+      "pa": 359,
+      "xr": 5.9847
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 326,
-      "xr": 2.5029
+      "pa": 330,
+      "xr": 2.8682
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 366,
-      "xr": 19.5407
+      "pa": 370,
+      "xr": 19.4773
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 326,
-      "xr": 23.813
+      "pa": 330,
+      "xr": 23.7457
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1101,8 +1101,8 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 342,
-      "xr": 19.2203
+      "pa": 346,
+      "xr": 19.4374
     },
     "694671": {
       "name": "Wyatt Langford",
@@ -1167,14 +1167,14 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 343,
-      "xr": 18.3249
+      "pa": 347,
+      "xr": 18.047
     },
     "669701": {
       "name": "Josh Smith",
       "team": "Texas Rangers",
-      "pa": 122,
-      "xr": -2.2739
+      "pa": 126,
+      "xr": -1.7791
     },
     "643376": {
       "name": "Danny Jansen",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 260,
-      "xr": 12.6504
+      "pa": 264,
+      "xr": 12.4142
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 230,
-      "xr": -5.5037
+      "pa": 233,
+      "xr": -5.2157
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 283,
-      "xr": 2.656
+      "pa": 286,
+      "xr": 2.7911
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1371,8 +1371,8 @@
     "663728": {
       "name": "Cal Raleigh",
       "team": "Seattle Mariners",
-      "pa": 233,
-      "xr": -2.1219
+      "pa": 237,
+      "xr": -0.016
     },
     "677594": {
       "name": "Julio Rodr\u00edguez",
@@ -1383,8 +1383,8 @@
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 343,
-      "xr": 0.636
+      "pa": 347,
+      "xr": 0.2216
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 331,
-      "xr": 10.0326
+      "pa": 336,
+      "xr": 12.1815
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 226,
-      "xr": 6.8718
+      "pa": 230,
+      "xr": 6.5508
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 224,
-      "xr": 11.1913
+      "pa": 229,
+      "xr": 12.6147
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 346,
-      "xr": 5.0215
+      "pa": 349,
+      "xr": 4.8242
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1497,14 +1497,14 @@
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 189,
-      "xr": 1.1563
+      "pa": 193,
+      "xr": 0.7107
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 340,
-      "xr": 15.4253
+      "pa": 343,
+      "xr": 14.9252
     },
     "680718": {
       "name": "Addison Barger",
@@ -1539,14 +1539,14 @@
     "662139": {
       "name": "Daulton Varsho",
       "team": "Toronto Blue Jays",
-      "pa": 267,
-      "xr": -3.7471
+      "pa": 269,
+      "xr": -4.1205
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 336,
-      "xr": 0.8303
+      "pa": 339,
+      "xr": 0.6627
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 326,
-      "xr": -12.1973
+      "pa": 329,
+      "xr": -12.4279
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 283,
-      "xr": -12.243
+      "pa": 285,
+      "xr": -12.4961
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 211,
-      "xr": -8.0872
+      "pa": 215,
+      "xr": -8.2476
     },
     "664034": {
       "name": "Ty France",
@@ -1965,8 +1965,8 @@
     "681546": {
       "name": "James Outman",
       "team": "Detroit Tigers",
-      "pa": 119,
-      "xr": -12.0297
+      "pa": 123,
+      "xr": -12.5567
     },
     "624641": {
       "name": "Edmundo Sosa",
@@ -2115,8 +2115,8 @@
     "645302": {
       "name": "Victor Robles",
       "team": "Seattle Mariners",
-      "pa": 80,
-      "xr": -2.3535
+      "pa": 84,
+      "xr": -2.2912
     },
     "669208": {
       "name": "Ryan Bliss",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 287,
-      "xr": 12.6847
+      "pa": 291,
+      "xr": 12.6253
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2385,8 +2385,8 @@
     "678218": {
       "name": "Brandon Valenzuela",
       "team": "Toronto Blue Jays",
-      "pa": 165,
-      "xr": 0.0421
+      "pa": 168,
+      "xr": -0.1773
     },
     "666185": {
       "name": "Dylan Carlson",
@@ -2553,8 +2553,8 @@
     "642215": {
       "name": "Weston Wilson",
       "team": "Seattle Mariners",
-      "pa": 54,
-      "xr": -1.3435
+      "pa": 55,
+      "xr": -1.5387
     },
     "669087": {
       "name": "Sam Huff",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 70,
-      "xr": 0.1424
+      "pa": 73,
+      "xr": -0.2803
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 167,
-      "xr": 1.4029
+      "pa": 171,
+      "xr": 1.2695
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,14 +2697,14 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 105,
-      "xr": -5.517
+      "pa": 108,
+      "xr": -5.7171
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
       "team": "Toronto Blue Jays",
-      "pa": 155,
-      "xr": 1.4314
+      "pa": 158,
+      "xr": 1.3427
     },
     "668709": {
       "name": "JJ Bleday",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 138,
-      "xr": -6.5956
+      "pa": 142,
+      "xr": -6.9347
     },
     "680737": {
       "name": "Michael Helman",
@@ -3188,9 +3188,9 @@
     },
     "671083": {
       "name": "Buddy Kennedy",
-      "team": "San Francisco Giants",
-      "pa": 8,
-      "xr": -1.062
+      "team": "Seattle Mariners",
+      "pa": 9,
+      "xr": -1.2871
     },
     "687749": {
       "name": "Jase Bowen",
@@ -3441,14 +3441,14 @@
     "649966": {
       "name": "Luis Ur\u00edas",
       "team": "Toronto Blue Jays",
-      "pa": 18,
-      "xr": -0.9148
+      "pa": 19,
+      "xr": -1.0699
     },
     "701162": {
       "name": "Ben Malgeri",
       "team": "Detroit Tigers",
-      "pa": 15,
-      "xr": 1.1469
+      "pa": 19,
+      "xr": 0.6811
     },
     "640459": {
       "name": "Brian Navarreto",
@@ -3483,8 +3483,8 @@
     "815873": {
       "name": "Sean Keys",
       "team": "Toronto Blue Jays",
-      "pa": 16,
-      "xr": -1.4181
+      "pa": 19,
+      "xr": -1.0971
     },
     "663853": {
       "name": "Romy Gonzalez",
@@ -3515,6 +3515,12 @@
       "team": "Cincinnati Reds",
       "pa": 4,
       "xr": -0.8945
+    },
+    "682729": {
+      "name": "Jonatan Clase",
+      "team": "Toronto Blue Jays",
+      "pa": 1,
+      "xr": -0.0975
     }
   },
   "pitchers": {
@@ -3941,8 +3947,8 @@
     "663947": {
       "name": "Tyler Holton",
       "team": "Detroit Tigers",
-      "bf": 163,
-      "xr_allowed": -0.3203
+      "bf": 164,
+      "xr_allowed": -0.572
     },
     "593974": {
       "name": "Wandy Peralta",
@@ -4055,8 +4061,8 @@
     "641302": {
       "name": "Tyler Alexander",
       "team": "Texas Rangers",
-      "bf": 152,
-      "xr_allowed": -7.3943
+      "bf": 155,
+      "xr_allowed": -7.6303
     },
     "647315": {
       "name": "Zach Pop",
@@ -4139,8 +4145,8 @@
     "669302": {
       "name": "Logan Gilbert",
       "team": "Seattle Mariners",
-      "bf": 379,
-      "xr_allowed": 4.606
+      "bf": 402,
+      "xr_allowed": 2.4965
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -4655,8 +4661,8 @@
     "680755": {
       "name": "Braydon Fisher",
       "team": "Toronto Blue Jays",
-      "bf": 178,
-      "xr_allowed": 0.8435
+      "bf": 181,
+      "xr_allowed": 0.3658
     },
     "643410": {
       "name": "Mark Leiter Jr.",
@@ -4679,8 +4685,8 @@
     "667297": {
       "name": "Tommy Nance",
       "team": "Toronto Blue Jays",
-      "bf": 122,
-      "xr_allowed": -1.0102
+      "bf": 125,
+      "xr_allowed": 1.3362
     },
     "665660": {
       "name": "Elvis Alvarado",
@@ -4811,8 +4817,8 @@
     "455119": {
       "name": "Chris Martin",
       "team": "Texas Rangers",
-      "bf": 49,
-      "xr_allowed": 5.4931
+      "bf": 53,
+      "xr_allowed": 5.5613
     },
     "663903": {
       "name": "Brady Singer",
@@ -5087,8 +5093,8 @@
     "656427": {
       "name": "Jack Flaherty",
       "team": "Detroit Tigers",
-      "bf": 326,
-      "xr_allowed": 4.6904
+      "bf": 347,
+      "xr_allowed": 4.5848
     },
     "676428": {
       "name": "Brant Hurter",
@@ -5165,8 +5171,8 @@
     "677961": {
       "name": "Cole Wilcox",
       "team": "Seattle Mariners",
-      "bf": 70,
-      "xr_allowed": 4.546
+      "bf": 75,
+      "xr_allowed": 4.4454
     },
     "669358": {
       "name": "Shane Baz",
@@ -6029,8 +6035,8 @@
     "672456": {
       "name": "Keider Montero",
       "team": "Detroit Tigers",
-      "bf": 333,
-      "xr_allowed": -6.7938
+      "bf": 343,
+      "xr_allowed": -6.5718
     },
     "702303": {
       "name": "Riley Martin",
@@ -6431,8 +6437,8 @@
     "615698": {
       "name": "Cal Quantrill",
       "team": "Texas Rangers",
-      "bf": 133,
-      "xr_allowed": 6.3857
+      "bf": 154,
+      "xr_allowed": 7.521
     },
     "671382": {
       "name": "Cameron Foster",
@@ -7157,8 +7163,8 @@
     "671936": {
       "name": "Adam Macko",
       "team": "Toronto Blue Jays",
-      "bf": 61,
-      "xr_allowed": -0.172
+      "bf": 70,
+      "xr_allowed": -0.8392
     },
     "621389": {
       "name": "Ty Blach",
@@ -7679,8 +7685,8 @@
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "bf": 9,
-      "xr_allowed": -0.16
+      "bf": 12,
+      "xr_allowed": -0.3899
     },
     "680474": {
       "name": "Max Schuemann",
@@ -7733,8 +7739,8 @@
     "669456": {
       "name": "Shane Bieber",
       "team": "Toronto Blue Jays",
-      "bf": 43,
-      "xr_allowed": 6.8017
+      "bf": 64,
+      "xr_allowed": 9.8191
     },
     "692030": {
       "name": "Jose Corniell",
@@ -7849,6 +7855,12 @@
       "team": "Colorado Rockies",
       "bf": 11,
       "xr_allowed": -0.1413
+    },
+    "687239": {
+      "name": "Ben Peoples",
+      "team": "Texas Rangers",
+      "bf": 8,
+      "xr_allowed": 0.0815
     }
   },
   "processed_games": [
@@ -9121,6 +9133,8 @@
     823120,
     825062,
     822716,
-    823526
+    823526,
+    822882,
+    823118
   ]
 }
