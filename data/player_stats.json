@@ -117,14 +117,14 @@
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 370,
-      "xr": 10.0034
+      "pa": 375,
+      "xr": 10.5642
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 396,
-      "xr": 18.0065
+      "pa": 400,
+      "xr": 17.5959
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 311,
-      "xr": 4.7336
+      "pa": 315,
+      "xr": 3.8131
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,8 +195,8 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 194,
-      "xr": -6.0971
+      "pa": 198,
+      "xr": -5.9204
     },
     "687462": {
       "name": "Spencer Horwitz",
@@ -207,14 +207,14 @@
     "693304": {
       "name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
-      "pa": 344,
-      "xr": 7.0975
+      "pa": 348,
+      "xr": 6.9698
     },
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 176,
-      "xr": -5.4183
+      "pa": 180,
+      "xr": -4.8535
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -243,26 +243,26 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 393,
-      "xr": 10.4305
+      "pa": 398,
+      "xr": 11.8975
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 365,
-      "xr": 10.9982
+      "pa": 370,
+      "xr": 10.9059
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 263,
-      "xr": -3.7528
+      "pa": 268,
+      "xr": -4.5015
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 159,
-      "xr": 3.9125
+      "pa": 160,
+      "xr": 3.5427
     },
     "669720": {
       "name": "Austin Hays",
@@ -291,14 +291,14 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 330,
-      "xr": 19.2791
+      "pa": 334,
+      "xr": 20.601
     },
     "686217": {
       "name": "Sal Frelick",
       "team": "Milwaukee Brewers",
-      "pa": 295,
-      "xr": -2.8863
+      "pa": 299,
+      "xr": -2.736
     },
     "666152": {
       "name": "David Hamilton",
@@ -309,14 +309,14 @@
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 289,
-      "xr": 7.2129
+      "pa": 293,
+      "xr": 7.226
     },
     "687401": {
       "name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
-      "pa": 223,
-      "xr": -5.0443
+      "pa": 227,
+      "xr": -5.3794
     },
     "682668": {
       "name": "Luisangel Acu\u00f1a",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 244,
-      "xr": -4.8546
+      "pa": 248,
+      "xr": -4.5151
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 259,
-      "xr": 7.0465
+      "pa": 260,
+      "xr": 6.7541
     },
     "805904": {
       "name": "Zach Cole",
@@ -3039,8 +3039,8 @@
     "699013": {
       "name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
-      "pa": 92,
-      "xr": 2.8237
+      "pa": 96,
+      "xr": 5.263
     },
     "694224": {
       "name": "Gabriel Gonzalez",
@@ -3129,8 +3129,8 @@
     "682997": {
       "name": "Tyler Callihan",
       "team": "Pittsburgh Pirates",
-      "pa": 84,
-      "xr": -1.1998
+      "pa": 88,
+      "xr": -2.5821
     },
     "807727": {
       "name": "Charles McAdoo",
@@ -3369,8 +3369,8 @@
     "806198": {
       "name": "Cooper Pratt",
       "team": "Milwaukee Brewers",
-      "pa": 81,
-      "xr": 2.4857
+      "pa": 85,
+      "xr": 3.3348
     },
     "669242": {
       "name": "Tommy Edman",
@@ -3543,8 +3543,8 @@
     "800325": {
       "name": "Luis Lara",
       "team": "Milwaukee Brewers",
-      "pa": 9,
-      "xr": -0.3005
+      "pa": 13,
+      "xr": -0.0861
     },
     "687394": {
       "name": "Jack Brannigan",
@@ -3665,8 +3665,8 @@
     "642397": {
       "name": "Gregory Soto",
       "team": "Pittsburgh Pirates",
-      "bf": 151,
-      "xr_allowed": -2.3602
+      "bf": 156,
+      "xr_allowed": -2.8246
     },
     "642701": {
       "name": "Dennis Santana",
@@ -3707,8 +3707,8 @@
     "676879": {
       "name": "Aaron Ashby",
       "team": "Milwaukee Brewers",
-      "bf": 228,
-      "xr_allowed": -5.1945
+      "bf": 234,
+      "xr_allowed": -3.4599
     },
     "663855": {
       "name": "Jordan Hicks",
@@ -5027,8 +5027,8 @@
     "694477": {
       "name": "Chad Patrick",
       "team": "Milwaukee Brewers",
-      "bf": 284,
-      "xr_allowed": 4.0144
+      "bf": 288,
+      "xr_allowed": 4.1889
     },
     "680732": {
       "name": "Sean Burke",
@@ -5339,8 +5339,8 @@
     "669387": {
       "name": "Carmen Mlodzinski",
       "team": "Pittsburgh Pirates",
-      "bf": 312,
-      "xr_allowed": 10.1964
+      "bf": 326,
+      "xr_allowed": 12.0019
     },
     "640455": {
       "name": "Sean Manaea",
@@ -5411,8 +5411,8 @@
     "687075": {
       "name": "Brandon Sproat",
       "team": "Milwaukee Brewers",
-      "bf": 337,
-      "xr_allowed": 6.9307
+      "bf": 354,
+      "xr_allowed": 6.4878
     },
     "641743": {
       "name": "Anthony Kay",
@@ -5555,8 +5555,8 @@
     "677952": {
       "name": "Braxton Ashcraft",
       "team": "Pittsburgh Pirates",
-      "bf": 413,
-      "xr_allowed": -9.1573
+      "bf": 435,
+      "xr_allowed": -8.3209
     },
     "683742": {
       "name": "Jose Franco",
@@ -7559,8 +7559,8 @@
     "684974": {
       "name": "Craig Yoho",
       "team": "Milwaukee Brewers",
-      "bf": 38,
-      "xr_allowed": -1.2374
+      "bf": 45,
+      "xr_allowed": -1.2344
     },
     "669704": {
       "name": "Kade Strowd",
@@ -7720,9 +7720,9 @@
     },
     "669060": {
       "name": "Bryse Wilson",
-      "team": "Chicago Cubs",
-      "bf": 45,
-      "xr_allowed": 0.4584
+      "team": "Milwaukee Brewers",
+      "bf": 48,
+      "xr_allowed": 0.2292
     },
     "691008": {
       "name": "Max Rajcic",
@@ -9377,6 +9377,7 @@
     823033,
     823278,
     823927,
-    823200
+    823200,
+    823357
   ]
 }
