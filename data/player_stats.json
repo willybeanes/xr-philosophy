@@ -21,8 +21,8 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 384,
-      "xr": 3.3728
+      "pa": 388,
+      "xr": 3.0454
     },
     "656305": {
       "name": "Matt Chapman",
@@ -33,20 +33,20 @@
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 391,
-      "xr": 1.7773
+      "pa": 395,
+      "xr": 2.077
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 366,
-      "xr": -10.2255
+      "pa": 370,
+      "xr": -10.0541
     },
     "808982": {
       "name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
-      "pa": 332,
-      "xr": 1.9726
+      "pa": 336,
+      "xr": 1.2018
     },
     "700250": {
       "name": "Ben Rice",
@@ -87,14 +87,14 @@
     "671218": {
       "name": "Heliot Ramos",
       "team": "San Francisco Giants",
-      "pa": 217,
-      "xr": 3.1921
+      "pa": 221,
+      "xr": 3.9136
     },
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 359,
-      "xr": 18.5019
+      "pa": 363,
+      "xr": 18.7792
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -759,20 +759,20 @@
     "514888": {
       "name": "Jose Altuve",
       "team": "Houston Astros",
-      "pa": 303,
-      "xr": -6.7
+      "pa": 307,
+      "xr": -7.6497
     },
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 402,
-      "xr": 51.7838
+      "pa": 407,
+      "xr": 52.1215
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 366,
-      "xr": 3.4591
+      "pa": 371,
+      "xr": 4.3567
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 348,
-      "xr": 1.9326
+      "pa": 352,
+      "xr": 2.1377
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 384,
-      "xr": 1.5572
+      "pa": 388,
+      "xr": 0.9821
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -831,8 +831,8 @@
     "673237": {
       "name": "Yainer Diaz",
       "team": "Houston Astros",
-      "pa": 173,
-      "xr": -4.2337
+      "pa": 175,
+      "xr": -3.3071
     },
     "676694": {
       "name": "Jake Meyers",
@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 397,
-      "xr": 14.0139
+      "pa": 401,
+      "xr": 12.7099
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 345,
-      "xr": 6.9881
+      "pa": 349,
+      "xr": 7.2918
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 370,
-      "xr": 3.0837
+      "pa": 374,
+      "xr": 4.541
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 372,
-      "xr": 5.3583
+      "pa": 376,
+      "xr": 4.0962
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 309,
-      "xr": 11.6639
+      "pa": 313,
+      "xr": 11.9119
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -957,8 +957,8 @@
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 159,
-      "xr": 0.4028
+      "pa": 163,
+      "xr": 0.7762
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -999,26 +999,26 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 386,
-      "xr": 21.1286
+      "pa": 390,
+      "xr": 20.3357
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 402,
-      "xr": 15.0298
+      "pa": 406,
+      "xr": 14.4787
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 377,
-      "xr": 26.7439
+      "pa": 381,
+      "xr": 27.5632
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 337,
-      "xr": -5.3823
+      "pa": 341,
+      "xr": -4.9576
     },
     "669357": {
       "name": "Nolan Gorman",
@@ -1053,14 +1053,14 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 374,
-      "xr": 16.9162
+      "pa": 378,
+      "xr": 17.1182
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 237,
-      "xr": -3.4076
+      "pa": 239,
+      "xr": -3.6638
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 367,
-      "xr": 21.9652
+      "pa": 372,
+      "xr": 21.62
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 186,
-      "xr": -1.581
+      "pa": 191,
+      "xr": -1.1407
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 365,
-      "xr": -1.3426
+      "pa": 369,
+      "xr": -2.0162
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1167,8 +1167,8 @@
     "673962": {
       "name": "Josh Jung",
       "team": "Texas Rangers",
-      "pa": 359,
-      "xr": 17.0294
+      "pa": 364,
+      "xr": 18.3557
     },
     "669701": {
       "name": "Josh Smith",
@@ -1209,26 +1209,26 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 283,
-      "xr": 13.1894
+      "pa": 286,
+      "xr": 12.7987
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 252,
-      "xr": -5.0454
+      "pa": 255,
+      "xr": -4.3869
     },
     "543309": {
       "name": "Kyle Higashioka",
       "team": "Texas Rangers",
-      "pa": 170,
-      "xr": -3.5463
+      "pa": 174,
+      "xr": -3.6699
     },
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 310,
-      "xr": 3.6185
+      "pa": 314,
+      "xr": 3.4069
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1497,14 +1497,14 @@
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 217,
-      "xr": 1.4108
+      "pa": 220,
+      "xr": 1.3496
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 370,
-      "xr": 15.3785
+      "pa": 375,
+      "xr": 15.2754
     },
     "680718": {
       "name": "Addison Barger",
@@ -1533,20 +1533,20 @@
     "672386": {
       "name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
-      "pa": 98,
-      "xr": -2.2016
+      "pa": 99,
+      "xr": -2.0911
     },
     "662139": {
       "name": "Daulton Varsho",
       "team": "Toronto Blue Jays",
-      "pa": 292,
-      "xr": -4.2014
+      "pa": 296,
+      "xr": -4.8987
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 366,
-      "xr": 0.7627
+      "pa": 370,
+      "xr": 1.7041
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 356,
-      "xr": -12.6903
+      "pa": 361,
+      "xr": -12.498
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 299,
-      "xr": -13.1552
+      "pa": 303,
+      "xr": -13.9603
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1587,14 +1587,14 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 295,
-      "xr": 1.6893
+      "pa": 299,
+      "xr": 1.9406
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 359,
-      "xr": 3.9774
+      "pa": 363,
+      "xr": 4.0036
     },
     "650489": {
       "name": "Willi Castro",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 332,
-      "xr": -15.9574
+      "pa": 335,
+      "xr": -15.8074
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 371,
-      "xr": 7.971
+      "pa": 375,
+      "xr": 7.6157
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1689,8 +1689,8 @@
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 311,
-      "xr": 7.5066
+      "pa": 315,
+      "xr": 6.5575
     },
     "665052": {
       "name": "Griffin Conine",
@@ -1737,32 +1737,32 @@
     "686948": {
       "name": "Drake Baldwin",
       "team": "Atlanta Braves",
-      "pa": 300,
-      "xr": 21.822
+      "pa": 305,
+      "xr": 23.4832
     },
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 391,
-      "xr": 0.9884
+      "pa": 396,
+      "xr": -0.1243
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 398,
-      "xr": 15.2696
+      "pa": 403,
+      "xr": 15.2941
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 368,
-      "xr": -11.4649
+      "pa": 373,
+      "xr": -11.6455
     },
     "642201": {
       "name": "Eli White",
       "team": "Atlanta Braves",
-      "pa": 117,
-      "xr": -6.4515
+      "pa": 120,
+      "xr": -6.0017
     },
     "521692": {
       "name": "Salvador Perez",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 354,
-      "xr": 5.5928
+      "pa": 359,
+      "xr": 4.7038
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 338,
-      "xr": 16.3595
+      "pa": 343,
+      "xr": 15.9784
     },
     "695600": {
       "name": "Carter Jensen",
@@ -1827,8 +1827,8 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 211,
-      "xr": 6.0258
+      "pa": 216,
+      "xr": 5.7213
     },
     "694728": {
       "name": "Brice Matthews",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 217,
-      "xr": -0.571
+      "pa": 221,
+      "xr": 1.9945
     },
     "669134": {
       "name": "Luis Campusano",
@@ -1923,8 +1923,8 @@
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "pa": 155,
-      "xr": -0.9736
+      "pa": 157,
+      "xr": -1.216
     },
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 305,
-      "xr": 6.2489
+      "pa": 308,
+      "xr": 6.4615
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2067,8 +2067,8 @@
     "642086": {
       "name": "Dominic Smith",
       "team": "Atlanta Braves",
-      "pa": 225,
-      "xr": 1.5647
+      "pa": 227,
+      "xr": 1.7189
     },
     "686475": {
       "name": "Tyler Tolbert",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 182,
-      "xr": -6.1797
+      "pa": 184,
+      "xr": -6.0788
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2295,8 +2295,8 @@
     "671289": {
       "name": "Tyler Freeman",
       "team": "Colorado Rockies",
-      "pa": 239,
-      "xr": 1.5607
+      "pa": 242,
+      "xr": 1.5897
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -2337,14 +2337,14 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 167,
-      "xr": -4.7483
+      "pa": 171,
+      "xr": -3.7152
     },
     "666160": {
       "name": "Mickey Moniak",
       "team": "Colorado Rockies",
-      "pa": 214,
-      "xr": 0.7744
+      "pa": 218,
+      "xr": 0.2163
     },
     "804606": {
       "name": "Konnor Griffin",
@@ -2385,8 +2385,8 @@
     "678218": {
       "name": "Brandon Valenzuela",
       "team": "Toronto Blue Jays",
-      "pa": 173,
-      "xr": -0.3409
+      "pa": 177,
+      "xr": -0.5406
     },
     "666185": {
       "name": "Dylan Carlson",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 122,
-      "xr": 2.1232
+      "pa": 124,
+      "xr": 1.9078
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 198,
-      "xr": -3.7657
+      "pa": 202,
+      "xr": -2.3196
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 89,
-      "xr": -0.2133
+      "pa": 90,
+      "xr": -0.3689
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 123,
-      "xr": -7.2147
+      "pa": 126,
+      "xr": -6.7598
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 207,
-      "xr": 8.4007
+      "pa": 211,
+      "xr": 8.6966
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -2823,14 +2823,14 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 109,
-      "xr": 2.5494
+      "pa": 111,
+      "xr": 2.5864
     },
     "823550": {
       "name": "Sung-Mun Song",
       "team": "San Diego Padres",
-      "pa": 87,
-      "xr": -1.8875
+      "pa": 90,
+      "xr": -1.6757
     },
     "693409": {
       "name": "C\u00e9sar Prieto",
@@ -2841,8 +2841,8 @@
     "701305": {
       "name": "Zach Dezenzo",
       "team": "Houston Astros",
-      "pa": 57,
-      "xr": -2.4199
+      "pa": 59,
+      "xr": -1.9333
     },
     "663967": {
       "name": "C\u00e9sar Salazar",
@@ -2853,8 +2853,8 @@
     "805347": {
       "name": "Jim Jarvis",
       "team": "Atlanta Braves",
-      "pa": 25,
-      "xr": -0.178
+      "pa": 29,
+      "xr": -0.2747
     },
     "694362": {
       "name": "Blake Dunn",
@@ -2925,8 +2925,8 @@
     "660710": {
       "name": "Rodolfo Dur\u00e1n",
       "team": "San Diego Padres",
-      "pa": 81,
-      "xr": -2.3721
+      "pa": 85,
+      "xr": -3.7643
     },
     "703607": {
       "name": "Henry Bolte",
@@ -3075,8 +3075,8 @@
     "663494": {
       "name": "Bryan Torres",
       "team": "St. Louis Cardinals",
-      "pa": 71,
-      "xr": -0.9285
+      "pa": 73,
+      "xr": -1.7757
     },
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
@@ -3165,8 +3165,8 @@
     "699625": {
       "name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
-      "pa": 66,
-      "xr": 1.1504
+      "pa": 70,
+      "xr": 0.225
     },
     "694378": {
       "name": "Jacob Gonzalez",
@@ -3219,8 +3219,8 @@
     "664774": {
       "name": "LaMonte Wade Jr.",
       "team": "Houston Astros",
-      "pa": 30,
-      "xr": -0.8813
+      "pa": 34,
+      "xr": -1.0435
     },
     "805672": {
       "name": "Collin Price",
@@ -3237,8 +3237,8 @@
     "663457": {
       "name": "Lars Nootbaar",
       "team": "St. Louis Cardinals",
-      "pa": 117,
-      "xr": 2.5096
+      "pa": 121,
+      "xr": 2.6668
     },
     "694410": {
       "name": "LuJames Groover",
@@ -3279,8 +3279,8 @@
     "694249": {
       "name": "Cole Carrigg",
       "team": "Colorado Rockies",
-      "pa": 115,
-      "xr": 5.6515
+      "pa": 119,
+      "xr": 5.5514
     },
     "695238": {
       "name": "Will Wagner",
@@ -3477,14 +3477,14 @@
     "701852": {
       "name": "Drew Cavanaugh",
       "team": "San Francisco Giants",
-      "pa": 35,
-      "xr": -0.0547
+      "pa": 39,
+      "xr": -0.2715
     },
     "815873": {
       "name": "Sean Keys",
       "team": "Toronto Blue Jays",
-      "pa": 29,
-      "xr": -2.449
+      "pa": 32,
+      "xr": -2.9012
     },
     "663853": {
       "name": "Romy Gonzalez",
@@ -3501,8 +3501,8 @@
     "695508": {
       "name": "Cam Cauley",
       "team": "Texas Rangers",
-      "pa": 22,
-      "xr": -0.6606
+      "pa": 23,
+      "xr": -0.8857
     },
     "811965": {
       "name": "Joshua Kuroda-Grauer",
@@ -3519,8 +3519,8 @@
     "682729": {
       "name": "Jonatan Clase",
       "team": "Toronto Blue Jays",
-      "pa": 15,
-      "xr": -0.9683
+      "pa": 19,
+      "xr": -0.4942
     },
     "661531": {
       "name": "Brian Serven",
@@ -3575,6 +3575,12 @@
       "team": "Washington Nationals",
       "pa": 2,
       "xr": 0.207
+    },
+    "676551": {
+      "name": "Brewer Hicklen",
+      "team": "Atlanta Braves",
+      "pa": 4,
+      "xr": -0.1716
     }
   },
   "pitchers": {
@@ -3593,8 +3599,8 @@
     "676775": {
       "name": "Keaton Winn",
       "team": "San Francisco Giants",
-      "bf": 115,
-      "xr_allowed": 0.2246
+      "bf": 118,
+      "xr_allowed": 0.384
     },
     "664141": {
       "name": "JT Brubaker",
@@ -3941,8 +3947,8 @@
     "687911": {
       "name": "Bryan King",
       "team": "Houston Astros",
-      "bf": 175,
-      "xr_allowed": -3.8498
+      "bf": 185,
+      "xr_allowed": -3.1849
     },
     "519141": {
       "name": "Drew Pomeranz",
@@ -3977,8 +3983,8 @@
     "676760": {
       "name": "Ron Marinaccio",
       "team": "San Diego Padres",
-      "bf": 186,
-      "xr_allowed": 6.6262
+      "bf": 190,
+      "xr_allowed": 6.2307
     },
     "699134": {
       "name": "Bradgley Rodriguez",
@@ -4037,8 +4043,8 @@
     "677865": {
       "name": "Justin Bruihl",
       "team": "St. Louis Cardinals",
-      "bf": 198,
-      "xr_allowed": 0.6032
+      "bf": 206,
+      "xr_allowed": 1.8059
     },
     "688297": {
       "name": "Chris Roycroft",
@@ -4067,8 +4073,8 @@
     "668941": {
       "name": "JoJo Romero",
       "team": "St. Louis Cardinals",
-      "bf": 172,
-      "xr_allowed": 2.555
+      "bf": 179,
+      "xr_allowed": 2.7218
     },
     "676617": {
       "name": "Riley O'Brien",
@@ -4085,8 +4091,8 @@
     "592773": {
       "name": "Ryne Stanek",
       "team": "St. Louis Cardinals",
-      "bf": 153,
-      "xr_allowed": -0.9395
+      "bf": 157,
+      "xr_allowed": -1.4131
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -4115,8 +4121,8 @@
     "641302": {
       "name": "Tyler Alexander",
       "team": "Texas Rangers",
-      "bf": 164,
-      "xr_allowed": -6.691
+      "bf": 169,
+      "xr_allowed": -7.111
     },
     "647315": {
       "name": "Zach Pop",
@@ -4283,8 +4289,8 @@
     "669062": {
       "name": "Erik Miller",
       "team": "San Francisco Giants",
-      "bf": 116,
-      "xr_allowed": -0.2363
+      "bf": 121,
+      "xr_allowed": -1.119
     },
     "657612": {
       "name": "Tim Hill",
@@ -4319,8 +4325,8 @@
     "592332": {
       "name": "Kevin Gausman",
       "team": "Toronto Blue Jays",
-      "bf": 447,
-      "xr_allowed": 0.9257
+      "bf": 472,
+      "xr_allowed": 1.0367
     },
     "622663": {
       "name": "Luis Severino",
@@ -4349,14 +4355,14 @@
     "643511": {
       "name": "Tyler Rogers",
       "team": "Toronto Blue Jays",
-      "bf": 170,
-      "xr_allowed": -5.1687
+      "bf": 174,
+      "xr_allowed": -5.4319
     },
     "656546": {
       "name": "Jeff Hoffman",
       "team": "Toronto Blue Jays",
-      "bf": 176,
-      "xr_allowed": -2.6582
+      "bf": 182,
+      "xr_allowed": -1.3046
     },
     "686993": {
       "name": "Justin Sterner",
@@ -4379,14 +4385,14 @@
     "623474": {
       "name": "Jimmy Herget",
       "team": "Colorado Rockies",
-      "bf": 99,
-      "xr_allowed": -4.0359
+      "bf": 103,
+      "xr_allowed": -4.4692
     },
     "657514": {
       "name": "Brennan Bernardino",
       "team": "Colorado Rockies",
-      "bf": 160,
-      "xr_allowed": -5.1425
+      "bf": 164,
+      "xr_allowed": -4.8029
     },
     "675848": {
       "name": "Juan Mejia",
@@ -4433,8 +4439,8 @@
     "669276": {
       "name": "Dylan Lee",
       "team": "Atlanta Braves",
-      "bf": 147,
-      "xr_allowed": -11.408
+      "bf": 152,
+      "xr_allowed": -11.9062
     },
     "663158": {
       "name": "Robert Suarez",
@@ -4451,8 +4457,8 @@
     "641755": {
       "name": "Tyler Kinley",
       "team": "Atlanta Braves",
-      "bf": 132,
-      "xr_allowed": -7.2236
+      "bf": 133,
+      "xr_allowed": -7.3211
     },
     "681347": {
       "name": "Mike Burrows",
@@ -4481,8 +4487,8 @@
     "595345": {
       "name": "Steven Okert",
       "team": "Houston Astros",
-      "bf": 172,
-      "xr_allowed": -6.5529
+      "bf": 175,
+      "xr_allowed": -6.9125
     },
     "696147": {
       "name": "Sam Bachman",
@@ -4511,8 +4517,8 @@
     "670970": {
       "name": "Adrian Morejon",
       "team": "San Diego Padres",
-      "bf": 191,
-      "xr_allowed": -9.6917
+      "bf": 200,
+      "xr_allowed": -10.3155
     },
     "646241": {
       "name": "Enmanuel De Jesus",
@@ -4829,14 +4835,14 @@
     "656641": {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
-      "bf": 153,
-      "xr_allowed": -6.4451
+      "bf": 157,
+      "xr_allowed": -6.0663
     },
     "668390": {
       "name": "Cole Winn",
       "team": "Texas Rangers",
-      "bf": 140,
-      "xr_allowed": 4.309
+      "bf": 143,
+      "xr_allowed": 4.3142
     },
     "621383": {
       "name": "Tanner Banks",
@@ -4973,8 +4979,8 @@
     "547179": {
       "name": "Michael Lorenzen",
       "team": "Colorado Rockies",
-      "bf": 441,
-      "xr_allowed": 11.2299
+      "bf": 463,
+      "xr_allowed": 13.9152
     },
     "688642": {
       "name": "Zach Agnos",
@@ -4997,8 +5003,8 @@
     "664299": {
       "name": "Cristian Javier",
       "team": "Houston Astros",
-      "bf": 63,
-      "xr_allowed": 6.9787
+      "bf": 79,
+      "xr_allowed": 8.1122
     },
     "672282": {
       "name": "Reid Detmers",
@@ -5027,8 +5033,8 @@
     "650556": {
       "name": "Bryan Abreu",
       "team": "Houston Astros",
-      "bf": 137,
-      "xr_allowed": 2.5244
+      "bf": 142,
+      "xr_allowed": 2.1694
     },
     "694477": {
       "name": "Chad Patrick",
@@ -5165,14 +5171,14 @@
     "606996": {
       "name": "Kyle Hart",
       "team": "San Diego Padres",
-      "bf": 134,
-      "xr_allowed": -2.315
+      "bf": 137,
+      "xr_allowed": -2.4702
     },
     "695243": {
       "name": "Mason Miller",
       "team": "San Diego Padres",
-      "bf": 139,
-      "xr_allowed": -11.2415
+      "bf": 142,
+      "xr_allowed": -11.5513
     },
     "607192": {
       "name": "Tyler Glasnow",
@@ -5267,8 +5273,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 433,
-      "xr_allowed": -0.4336
+      "bf": 448,
+      "xr_allowed": -1.5748
     },
     "641745": {
       "name": "Brad Keller",
@@ -5291,8 +5297,8 @@
     "800311": {
       "name": "Didier Fuentes",
       "team": "Atlanta Braves",
-      "bf": 154,
-      "xr_allowed": -5.5993
+      "bf": 157,
+      "xr_allowed": -6.0775
     },
     "670167": {
       "name": "John Schreiber",
@@ -5381,8 +5387,8 @@
     "622608": {
       "name": "Antonio Senzatela",
       "team": "Colorado Rockies",
-      "bf": 196,
-      "xr_allowed": -1.3017
+      "bf": 202,
+      "xr_allowed": -1.9964
     },
     "667463": {
       "name": "John King",
@@ -5441,8 +5447,8 @@
     "669160": {
       "name": "Dustin May",
       "team": "St. Louis Cardinals",
-      "bf": 349,
-      "xr_allowed": 0.2573
+      "bf": 369,
+      "xr_allowed": -0.9376
     },
     "571927": {
       "name": "Steven Matz",
@@ -5645,8 +5651,8 @@
     "628452": {
       "name": "Raisel Iglesias",
       "team": "Atlanta Braves",
-      "bf": 121,
-      "xr_allowed": -5.9936
+      "bf": 124,
+      "xr_allowed": -6.1096
     },
     "665795": {
       "name": "Edward Cabrera",
@@ -5885,8 +5891,8 @@
     "700669": {
       "name": "Gordon Graceffo",
       "team": "St. Louis Cardinals",
-      "bf": 169,
-      "xr_allowed": 8.1766
+      "bf": 173,
+      "xr_allowed": 7.9336
     },
     "678394": {
       "name": "Brayan Bello",
@@ -5915,8 +5921,8 @@
     "608566": {
       "name": "Germ\u00e1n M\u00e1rquez",
       "team": "San Diego Padres",
-      "bf": 162,
-      "xr_allowed": 8.5295
+      "bf": 182,
+      "xr_allowed": 9.1711
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -6119,8 +6125,8 @@
     "660853": {
       "name": "Enyel De Los Santos",
       "team": "Houston Astros",
-      "bf": 173,
-      "xr_allowed": -0.5168
+      "bf": 176,
+      "xr_allowed": -0.8121
     },
     "665871": {
       "name": "Javier Assad",
@@ -6305,8 +6311,8 @@
     "689266": {
       "name": "Dylan Dodd",
       "team": "Atlanta Braves",
-      "bf": 97,
-      "xr_allowed": -3.0721
+      "bf": 100,
+      "xr_allowed": -1.8777
     },
     "595978": {
       "name": "Austin Hedges",
@@ -6641,8 +6647,8 @@
     "702275": {
       "name": "JR Ritchie",
       "team": "Atlanta Braves",
-      "bf": 201,
-      "xr_allowed": 6.0236
+      "bf": 217,
+      "xr_allowed": 4.4933
     },
     "471911": {
       "name": "Carlos Carrasco",
@@ -6677,8 +6683,8 @@
     "682608": {
       "name": "Peyton Gray",
       "team": "Texas Rangers",
-      "bf": 142,
-      "xr_allowed": -4.6261
+      "bf": 147,
+      "xr_allowed": -3.5948
     },
     "552640": {
       "name": "Andrew Kittredge",
@@ -6953,8 +6959,8 @@
     "686790": {
       "name": "Trevor McDonald",
       "team": "San Francisco Giants",
-      "bf": 266,
-      "xr_allowed": 1.1304
+      "bf": 291,
+      "xr_allowed": 0.5602
     },
     "687941": {
       "name": "Alec Gamboa",
@@ -7511,14 +7517,14 @@
     "695239": {
       "name": "Robby Ahlstrom",
       "team": "Texas Rangers",
-      "bf": 62,
-      "xr_allowed": 4.3616
+      "bf": 65,
+      "xr_allowed": 5.1483
     },
     "623352": {
       "name": "Josh Hader",
       "team": "Houston Astros",
-      "bf": 57,
-      "xr_allowed": -6.3386
+      "bf": 60,
+      "xr_allowed": -6.3355
     },
     "592454": {
       "name": "Tommy Kahnle",
@@ -7901,8 +7907,8 @@
     "664849": {
       "name": "Danny Young",
       "team": "Atlanta Braves",
-      "bf": 12,
-      "xr_allowed": -0.2425
+      "bf": 17,
+      "xr_allowed": 0.5468
     },
     "687312": {
       "name": "Gabriel Hughes",
@@ -7913,8 +7919,8 @@
     "687239": {
       "name": "Ben Peoples",
       "team": "Texas Rangers",
-      "bf": 11,
-      "xr_allowed": 0.1043
+      "bf": 15,
+      "xr_allowed": 0.2111
     },
     "668881": {
       "name": "Hunter Greene",
@@ -9415,6 +9421,10 @@
     824250,
     823842,
     823681,
-    824574
+    824574,
+    823029,
+    822876,
+    823199,
+    823274
   ]
 }
