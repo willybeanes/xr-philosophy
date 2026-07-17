@@ -141,26 +141,26 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 171,
-      "xr": 7.0251
+      "pa": 175,
+      "xr": 6.5422
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 322,
-      "xr": 40.6593
+      "pa": 326,
+      "xr": 41.2515
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 401,
-      "xr": 6.7421
+      "pa": 405,
+      "xr": 5.9579
     },
     "593871": {
       "name": "Jorge Polanco",
       "team": "New York Mets",
-      "pa": 79,
-      "xr": -3.8496
+      "pa": 83,
+      "xr": -4.5993
     },
     "673357": {
       "name": "Luis Robert Jr.",
@@ -171,8 +171,8 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 320,
-      "xr": 2.061
+      "pa": 324,
+      "xr": 2.2722
     },
     "543760": {
       "name": "Marcus Semien",
@@ -183,14 +183,14 @@
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 375,
-      "xr": 7.8778
+      "pa": 379,
+      "xr": 7.7303
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 225,
-      "xr": 7.0725
+      "pa": 229,
+      "xr": 8.5308
     },
     "669707": {
       "name": "Jared Triolo",
@@ -1131,32 +1131,32 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 397,
-      "xr": -6.9569
+      "pa": 401,
+      "xr": -7.0216
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 396,
-      "xr": 22.331
+      "pa": 400,
+      "xr": 22.2317
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 396,
-      "xr": 25.6384
+      "pa": 400,
+      "xr": 25.6464
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 370,
-      "xr": -2.7622
+      "pa": 374,
+      "xr": -3.4079
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 337,
-      "xr": 2.1413
+      "pa": 340,
+      "xr": 1.9101
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 347,
-      "xr": -0.532
+      "pa": 351,
+      "xr": -1.2777
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 244,
-      "xr": -0.8377
+      "pa": 247,
+      "xr": -0.8298
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 275,
-      "xr": -11.1151
+      "pa": 278,
+      "xr": -11.6508
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 157,
-      "xr": -0.3956
+      "pa": 161,
+      "xr": -0.2845
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2307,8 +2307,8 @@
     "621438": {
       "name": "Tyrone Taylor",
       "team": "New York Mets",
-      "pa": 123,
-      "xr": -2.0789
+      "pa": 124,
+      "xr": -2.6504
     },
     "666464": {
       "name": "Jerar Encarnacion",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 222,
-      "xr": 4.7448
+      "pa": 227,
+      "xr": 4.6003
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3315,8 +3315,8 @@
     "687282": {
       "name": "Gabriel Rincones Jr.",
       "team": "Philadelphia Phillies",
-      "pa": 71,
-      "xr": -7.8009
+      "pa": 74,
+      "xr": -7.8668
     },
     "642020": {
       "name": "Chuckie Robinson",
@@ -4115,8 +4115,8 @@
     "680742": {
       "name": "Jonathan Bowlan",
       "team": "Philadelphia Phillies",
-      "bf": 116,
-      "xr_allowed": -11.1038
+      "bf": 119,
+      "xr_allowed": -11.1558
     },
     "641302": {
       "name": "Tyler Alexander",
@@ -4829,8 +4829,8 @@
     "605400": {
       "name": "Aaron Nola",
       "team": "Philadelphia Phillies",
-      "bf": 404,
-      "xr_allowed": 9.4972
+      "bf": 431,
+      "xr_allowed": 9.9575
     },
     "656641": {
       "name": "Jacob Latz",
@@ -4937,26 +4937,26 @@
     "623211": {
       "name": "Huascar Brazob\u00e1n",
       "team": "New York Mets",
-      "bf": 180,
-      "xr_allowed": -6.3181
+      "bf": 183,
+      "xr_allowed": -6.4385
     },
     "596133": {
       "name": "Luke Weaver",
       "team": "New York Mets",
-      "bf": 144,
-      "xr_allowed": -5.286
+      "bf": 148,
+      "xr_allowed": -4.9842
     },
     "548384": {
       "name": "Brooks Raley",
       "team": "New York Mets",
-      "bf": 144,
-      "xr_allowed": -1.5778
+      "bf": 146,
+      "xr_allowed": -1.896
     },
     "642207": {
       "name": "Devin Williams",
       "team": "New York Mets",
-      "bf": 147,
-      "xr_allowed": -1.9063
+      "bf": 150,
+      "xr_allowed": -1.7596
     },
     "682995": {
       "name": "Hunter Barco",
@@ -6359,8 +6359,8 @@
     "686751": {
       "name": "Seth Johnson",
       "team": "Philadelphia Phillies",
-      "bf": 55,
-      "xr_allowed": 0.667
+      "bf": 63,
+      "xr_allowed": -0.2488
     },
     "691548": {
       "name": "Rolddy Mu\u00f1oz",
@@ -6677,8 +6677,8 @@
     "681035": {
       "name": "Christian Scott",
       "team": "New York Mets",
-      "bf": 233,
-      "xr_allowed": -0.1884
+      "bf": 253,
+      "xr_allowed": -2.5706
     },
     "682608": {
       "name": "Peyton Gray",
@@ -9426,6 +9426,7 @@
     822876,
     823199,
     823274,
-    823925
+    823925,
+    823440
   ]
 }
