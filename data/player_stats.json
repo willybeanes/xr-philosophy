@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 417,
-      "xr": 11.6947
+      "pa": 422,
+      "xr": 11.6802
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 427,
-      "xr": 0.6296
+      "pa": 431,
+      "xr": 0.221
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 391,
-      "xr": -2.7149
+      "pa": 395,
+      "xr": -2.9325
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 411,
-      "xr": 14.2881
+      "pa": 416,
+      "xr": 12.6685
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,8 +435,8 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 412,
-      "xr": -2.5178
+      "pa": 416,
+      "xr": -1.5484
     },
     "608348": {
       "name": "Carson Kelly",
@@ -465,8 +465,8 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 351,
-      "xr": -2.5918
+      "pa": 355,
+      "xr": -1.5595
     },
     "807713": {
       "name": "Matt Shaw",
@@ -489,8 +489,8 @@
     "668885": {
       "name": "Austin Martin",
       "team": "Minnesota Twins",
-      "pa": 265,
-      "xr": 1.4113
+      "pa": 268,
+      "xr": 0.6543
     },
     "621439": {
       "name": "Byron Buxton",
@@ -501,8 +501,8 @@
     "807712": {
       "name": "Luke Keaschall",
       "team": "Minnesota Twins",
-      "pa": 348,
-      "xr": 0.4366
+      "pa": 351,
+      "xr": 0.3068
     },
     "621493": {
       "name": "Taylor Ward",
@@ -525,8 +525,8 @@
     "680777": {
       "name": "Ryan Jeffers",
       "team": "Minnesota Twins",
-      "pa": 152,
-      "xr": 16.6208
+      "pa": 156,
+      "xr": 16.7228
     },
     "670242": {
       "name": "Matt Wallner",
@@ -537,14 +537,14 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 367,
-      "xr": 16.9467
+      "pa": 371,
+      "xr": 16.2224
     },
     "605170": {
       "name": "Victor Caratini",
       "team": "Minnesota Twins",
-      "pa": 255,
-      "xr": 0.8274
+      "pa": 259,
+      "xr": 0.7787
     },
     "668904": {
       "name": "Royce Lewis",
@@ -555,8 +555,8 @@
     "686797": {
       "name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "pa": 366,
-      "xr": -5.3756
+      "pa": 370,
+      "xr": -4.9733
     },
     "668939": {
       "name": "Adley Rutschman",
@@ -597,14 +597,14 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 329,
-      "xr": 11.7325
+      "pa": 333,
+      "xr": 11.8538
     },
     "663616": {
       "name": "Trevor Larnach",
       "team": "Minnesota Twins",
-      "pa": 291,
-      "xr": 11.5475
+      "pa": 294,
+      "xr": 11.5395
     },
     "701350": {
       "name": "Roman Anthony",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 158,
-      "xr": -0.1403
+      "pa": 162,
+      "xr": -0.4894
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 334,
-      "xr": -0.3555
+      "pa": 339,
+      "xr": -0.0469
     },
     "695257": {
       "name": "Billy Cook",
@@ -2487,8 +2487,8 @@
     "668952": {
       "name": "Ryan Kreidler",
       "team": "Minnesota Twins",
-      "pa": 145,
-      "xr": 0.5089
+      "pa": 148,
+      "xr": 0.4815
     },
     "687093": {
       "name": "Vaughn Grissom",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 63,
-      "xr": -1.1902
+      "pa": 67,
+      "xr": -0.8388
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3555,8 +3555,8 @@
     "702176": {
       "name": "Alan Roden",
       "team": "Minnesota Twins",
-      "pa": 19,
-      "xr": 1.8295
+      "pa": 20,
+      "xr": 1.9174
     },
     "680664": {
       "name": "Eduardo Valencia",
@@ -3785,8 +3785,8 @@
     "571510": {
       "name": "Matthew Boyd",
       "team": "Chicago Cubs",
-      "bf": 196,
-      "xr_allowed": 9.0571
+      "bf": 217,
+      "xr_allowed": 8.1821
     },
     "676917": {
       "name": "Cade Cavalli",
@@ -3827,8 +3827,8 @@
     "657097": {
       "name": "Jacob Webb",
       "team": "Chicago Cubs",
-      "bf": 171,
-      "xr_allowed": 2.6157
+      "bf": 175,
+      "xr_allowed": 2.7382
     },
     "672335": {
       "name": "Cionel P\u00e9rez",
@@ -4721,8 +4721,8 @@
     "573204": {
       "name": "Caleb Thielbar",
       "team": "Chicago Cubs",
-      "bf": 118,
-      "xr_allowed": -0.3933
+      "bf": 122,
+      "xr_allowed": -0.3819
     },
     "669371": {
       "name": "Cole Henry",
@@ -4805,8 +4805,8 @@
     "671737": {
       "name": "Taj Bradley",
       "team": "Minnesota Twins",
-      "bf": 431,
-      "xr_allowed": -0.7565
+      "bf": 456,
+      "xr_allowed": 0.021
     },
     "666974": {
       "name": "Yennier Cano",
@@ -6659,8 +6659,8 @@
     "696070": {
       "name": "Kendry Rojas",
       "team": "Minnesota Twins",
-      "bf": 65,
-      "xr_allowed": -1.2431
+      "bf": 69,
+      "xr_allowed": -1.5474
     },
     "660604": {
       "name": "Alan Rangel",
@@ -7043,8 +7043,8 @@
     "663423": {
       "name": "Trent Thornton",
       "team": "Chicago Cubs",
-      "bf": 110,
-      "xr_allowed": 1.6371
+      "bf": 114,
+      "xr_allowed": 1.3965
     },
     "672021": {
       "name": "Eric Cerantola",
@@ -7493,8 +7493,8 @@
     "702474": {
       "name": "Mike Paredes",
       "team": "Minnesota Twins",
-      "bf": 128,
-      "xr_allowed": 2.7673
+      "bf": 138,
+      "xr_allowed": 2.3464
     },
     "687985": {
       "name": "Josh White",
@@ -9490,6 +9490,7 @@
     824981,
     825060,
     823115,
-    824414
+    824414,
+    824657
   ]
 }
