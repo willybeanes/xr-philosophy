@@ -639,8 +639,8 @@
     "670770": {
       "name": "TJ Friedl",
       "team": "Cincinnati Reds",
-      "pa": 212,
-      "xr": -9.7997
+      "pa": 216,
+      "xr": -9.9829
     },
     "680574": {
       "name": "Matt McLain",
@@ -651,8 +651,8 @@
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 338,
-      "xr": 14.4962
+      "pa": 343,
+      "xr": 15.6358
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,26 +681,26 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 413,
-      "xr": 14.4767
+      "pa": 418,
+      "xr": 15.1545
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 275,
-      "xr": -13.9931
+      "pa": 279,
+      "xr": -14.6383
     },
     "668715": {
       "name": "Spencer Steer",
       "team": "Cincinnati Reds",
-      "pa": 354,
-      "xr": 3.8759
+      "pa": 359,
+      "xr": 3.5411
     },
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 255,
-      "xr": 8.3285
+      "pa": 259,
+      "xr": 10.2965
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -729,8 +729,8 @@
     "667472": {
       "name": "Dane Myers",
       "team": "Cincinnati Reds",
-      "pa": 142,
-      "xr": 1.4712
+      "pa": 146,
+      "xr": 2.5961
     },
     "687263": {
       "name": "Zach Neto",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 308,
-      "xr": 0.8315
+      "pa": 312,
+      "xr": 0.5664
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 367,
-      "xr": 3.2632
+      "pa": 371,
+      "xr": 7.0406
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 319,
-      "xr": 1.5517
+      "pa": 323,
+      "xr": 1.4344
     },
     "596103": {
       "name": "Austin Slater",
@@ -1641,8 +1641,8 @@
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 384,
-      "xr": 9.5972
+      "pa": 388,
+      "xr": 9.0828
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1683,14 +1683,14 @@
     "666397": {
       "name": "Edouard Julien",
       "team": "Colorado Rockies",
-      "pa": 246,
-      "xr": 8.1434
+      "pa": 250,
+      "xr": 7.8307
     },
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 319,
-      "xr": 6.1431
+      "pa": 323,
+      "xr": 6.1872
     },
     "665052": {
       "name": "Griffin Conine",
@@ -2001,8 +2001,8 @@
     "663993": {
       "name": "Nathaniel Lowe",
       "team": "Cincinnati Reds",
-      "pa": 220,
-      "xr": 8.7983
+      "pa": 225,
+      "xr": 10.2262
     },
     "694377": {
       "name": "Nick Yorke",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 316,
-      "xr": 6.5051
+      "pa": 320,
+      "xr": 6.0784
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2295,8 +2295,8 @@
     "671289": {
       "name": "Tyler Freeman",
       "team": "Colorado Rockies",
-      "pa": 246,
-      "xr": 1.4133
+      "pa": 250,
+      "xr": 0.9508
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -2343,8 +2343,8 @@
     "666160": {
       "name": "Mickey Moniak",
       "team": "Colorado Rockies",
-      "pa": 226,
-      "xr": 0.524
+      "pa": 230,
+      "xr": 0.03
     },
     "804606": {
       "name": "Konnor Griffin",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 280,
-      "xr": 12.7561
+      "pa": 285,
+      "xr": 12.8092
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -3911,8 +3911,8 @@
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 174,
-      "xr_allowed": -1.5986
+      "bf": 179,
+      "xr_allowed": -0.1032
     },
     "686580": {
       "name": "Justin Slaten",
@@ -3941,8 +3941,8 @@
     "656271": {
       "name": "Brock Burke",
       "team": "Cincinnati Reds",
-      "bf": 195,
-      "xr_allowed": -0.5386
+      "bf": 198,
+      "xr_allowed": -0.586
     },
     "547973": {
       "name": "Aroldis Chapman",
@@ -4001,8 +4001,8 @@
     "605447": {
       "name": "Jordan Romano",
       "team": "Colorado Rockies",
-      "bf": 61,
-      "xr_allowed": -0.029
+      "bf": 64,
+      "xr_allowed": -0.0623
     },
     "601713": {
       "name": "Nick Pivetta",
@@ -4955,8 +4955,8 @@
     "641941": {
       "name": "Emilio Pag\u00e1n",
       "team": "Cincinnati Reds",
-      "bf": 73,
-      "xr_allowed": -0.7821
+      "bf": 78,
+      "xr_allowed": -0.901
     },
     "656849": {
       "name": "David Peterson",
@@ -5873,8 +5873,8 @@
     "663372": {
       "name": "Ryan Feltner",
       "team": "Colorado Rockies",
-      "bf": 269,
-      "xr_allowed": 8.8608
+      "bf": 287,
+      "xr_allowed": 14.185
     },
     "660761": {
       "name": "Jos\u00e9 Suarez",
@@ -6491,8 +6491,8 @@
     "685299": {
       "name": "Tanner Gordon",
       "team": "Colorado Rockies",
-      "bf": 215,
-      "xr_allowed": 1.7856
+      "bf": 235,
+      "xr_allowed": 1.7228
     },
     "686560": {
       "name": "Gavin Collyer",
@@ -7961,8 +7961,8 @@
     "668881": {
       "name": "Hunter Greene",
       "team": "Cincinnati Reds",
-      "bf": 45,
-      "xr_allowed": 2.7422
+      "bf": 68,
+      "xr_allowed": 2.6419
     },
     "620443": {
       "name": "Luis Torrens",
@@ -9538,6 +9538,7 @@
     824168,
     824086,
     823764,
-    824653
+    824653,
+    824330
   ]
 }
