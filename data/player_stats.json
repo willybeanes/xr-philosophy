@@ -855,44 +855,44 @@
     "681481": {
       "name": "Kerry Carpenter",
       "team": "Detroit Tigers",
-      "pa": 248,
-      "xr": 1.2376
+      "pa": 252,
+      "xr": 1.2718
     },
     "650402": {
       "name": "Gleyber Torres",
       "team": "Detroit Tigers",
-      "pa": 200,
-      "xr": 4.6181
+      "pa": 204,
+      "xr": 4.3431
     },
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 278,
-      "xr": 5.1132
+      "pa": 280,
+      "xr": 5.1675
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 412,
-      "xr": 7.1241
+      "pa": 416,
+      "xr": 8.3605
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 383,
-      "xr": 2.4824
+      "pa": 387,
+      "xr": 0.8809
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 427,
-      "xr": 20.7038
+      "pa": 432,
+      "xr": 20.73
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 374,
-      "xr": 25.1671
+      "pa": 378,
+      "xr": 26.0438
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1725,8 +1725,8 @@
     "657041": {
       "name": "Lane Thomas",
       "team": "Kansas City Royals",
-      "pa": 288,
-      "xr": 7.2
+      "pa": 293,
+      "xr": 6.5495
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
@@ -1767,14 +1767,14 @@
     "521692": {
       "name": "Salvador Perez",
       "team": "Kansas City Royals",
-      "pa": 394,
-      "xr": -3.6316
+      "pa": 399,
+      "xr": -3.559
     },
     "686469": {
       "name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
-      "pa": 310,
-      "xr": 1.1805
+      "pa": 315,
+      "xr": 1.6427
     },
     "516782": {
       "name": "Starling Marte",
@@ -1791,8 +1791,8 @@
     "686555": {
       "name": "Isaac Collins",
       "team": "Kansas City Royals",
-      "pa": 330,
-      "xr": -1.076
+      "pa": 334,
+      "xr": -0.8966
     },
     "643289": {
       "name": "Mauricio Dub\u00f3n",
@@ -1815,8 +1815,8 @@
     "695600": {
       "name": "Carter Jensen",
       "team": "Kansas City Royals",
-      "pa": 364,
-      "xr": -8.7867
+      "pa": 369,
+      "xr": -8.6726
     },
     "695506": {
       "name": "Jac Caglianone",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 260,
-      "xr": -10.4257
+      "pa": 263,
+      "xr": -10.5065
     },
     "664034": {
       "name": "Ty France",
@@ -1965,8 +1965,8 @@
     "681546": {
       "name": "James Outman",
       "team": "Detroit Tigers",
-      "pa": 157,
-      "xr": -15.3942
+      "pa": 161,
+      "xr": -15.887
     },
     "624641": {
       "name": "Edmundo Sosa",
@@ -2139,8 +2139,8 @@
     "679845": {
       "name": "Nick Loftin",
       "team": "Kansas City Royals",
-      "pa": 224,
-      "xr": -2.6648
+      "pa": 228,
+      "xr": -3.471
     },
     "622761": {
       "name": "Jorge Mateo",
@@ -2439,8 +2439,8 @@
     "686681": {
       "name": "Michael Massey",
       "team": "Kansas City Royals",
-      "pa": 261,
-      "xr": -5.4772
+      "pa": 265,
+      "xr": -6.2195
     },
     "656582": {
       "name": "Connor Joe",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu Lee",
       "team": "Detroit Tigers",
-      "pa": 171,
-      "xr": -1.4903
+      "pa": 173,
+      "xr": -1.3894
     },
     "694025": {
       "name": "Felix Reyes",
@@ -3231,8 +3231,8 @@
     "668942": {
       "name": "Josh Rojas",
       "team": "Kansas City Royals",
-      "pa": 46,
-      "xr": -3.7994
+      "pa": 50,
+      "xr": -3.5287
     },
     "663457": {
       "name": "Lars Nootbaar",
@@ -3627,8 +3627,8 @@
     "623205": {
       "name": "Andrew Velazquez",
       "team": "Kansas City Royals",
-      "pa": 3,
-      "xr": -0.4919
+      "pa": 7,
+      "xr": -1.0175
     },
     "650559": {
       "name": "Bryan De La Cruz",
@@ -4049,8 +4049,8 @@
     "623454": {
       "name": "Drew Anderson",
       "team": "Detroit Tigers",
-      "bf": 244,
-      "xr_allowed": -2.6345
+      "bf": 249,
+      "xr_allowed": -3.2941
     },
     "688158": {
       "name": "David Morgan",
@@ -4061,8 +4061,8 @@
     "663947": {
       "name": "Tyler Holton",
       "team": "Detroit Tigers",
-      "bf": 181,
-      "xr_allowed": -1.4791
+      "bf": 187,
+      "xr_allowed": -2.1732
     },
     "593974": {
       "name": "Wandy Peralta",
@@ -4589,8 +4589,8 @@
     "640448": {
       "name": "Kyle Finnegan",
       "team": "Detroit Tigers",
-      "bf": 180,
-      "xr_allowed": -2.0081
+      "bf": 181,
+      "xr_allowed": -2.115
     },
     "445276": {
       "name": "Kenley Jansen",
@@ -5153,8 +5153,8 @@
     "621381": {
       "name": "Matt Strahm",
       "team": "Kansas City Royals",
-      "bf": 143,
-      "xr_allowed": 0.499
+      "bf": 147,
+      "xr_allowed": 1.7575
     },
     "606303": {
       "name": "Joel Payamps",
@@ -5357,8 +5357,8 @@
     "670167": {
       "name": "John Schreiber",
       "team": "Kansas City Royals",
-      "bf": 151,
-      "xr_allowed": 0.154
+      "bf": 157,
+      "xr_allowed": 0.4077
     },
     "641778": {
       "name": "Eric Lauer",
@@ -6029,8 +6029,8 @@
     "674444": {
       "name": "Steven Cruz",
       "team": "Kansas City Royals",
-      "bf": 138,
-      "xr_allowed": 0.2332
+      "bf": 144,
+      "xr_allowed": -0.4658
     },
     "543510": {
       "name": "James McCann",
@@ -7379,8 +7379,8 @@
     "675512": {
       "name": "Troy Melton",
       "team": "Detroit Tigers",
-      "bf": 212,
-      "xr_allowed": -7.981
+      "bf": 236,
+      "xr_allowed": -8.1789
     },
     "802408": {
       "name": "Brycen Mautz",
@@ -7469,8 +7469,8 @@
     "805427": {
       "name": "Drew Sommers",
       "team": "Detroit Tigers",
-      "bf": 55,
-      "xr_allowed": -2.6086
+      "bf": 58,
+      "xr_allowed": -2.4835
     },
     "687721": {
       "name": "Cameron Weston",
@@ -7709,8 +7709,8 @@
     "621097": {
       "name": "Jacob Waguespack",
       "team": "Detroit Tigers",
-      "bf": 57,
-      "xr_allowed": -2.6366
+      "bf": 58,
+      "xr_allowed": -2.7288
     },
     "621074": {
       "name": "Michael Rucker",
@@ -7955,8 +7955,8 @@
     "677976": {
       "name": "Randy Dobnak",
       "team": "Kansas City Royals",
-      "bf": 62,
-      "xr_allowed": 1.7356
+      "bf": 82,
+      "xr_allowed": 0.801
     },
     "664849": {
       "name": "Danny Young",
@@ -9659,6 +9659,7 @@
     824893,
     824406,
     822785,
-    823042
+    823042,
+    824247
   ]
 }
