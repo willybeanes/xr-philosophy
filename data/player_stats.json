@@ -21,8 +21,8 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "San Francisco Giants",
-      "pa": 419,
-      "xr": 1.0047
+      "pa": 424,
+      "xr": 0.7409
     },
     "656305": {
       "name": "Matt Chapman",
@@ -33,14 +33,14 @@
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 430,
-      "xr": 2.2581
+      "pa": 434,
+      "xr": 2.7847
     },
     "642715": {
       "name": "Willy Adames",
       "team": "San Francisco Giants",
-      "pa": 402,
-      "xr": -11.0855
+      "pa": 406,
+      "xr": -10.9767
     },
     "808982": {
       "name": "Jung Hoo Lee",
@@ -87,14 +87,14 @@
     "671218": {
       "name": "Heliot Ramos",
       "team": "San Francisco Giants",
-      "pa": 256,
-      "xr": 1.6533
+      "pa": 261,
+      "xr": 1.1245
     },
     "669477": {
       "name": "Casey Schmitt",
       "team": "San Francisco Giants",
-      "pa": 397,
-      "xr": 20.4136
+      "pa": 401,
+      "xr": 19.8551
     },
     "672275": {
       "name": "Patrick Bailey",
@@ -735,26 +735,26 @@
     "687263": {
       "name": "Zach Neto",
       "team": "Los Angeles Angels",
-      "pa": 444,
-      "xr": -6.8624
+      "pa": 448,
+      "xr": -7.3468
     },
     "545361": {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 379,
-      "xr": 31.7229
+      "pa": 383,
+      "xr": 31.9495
     },
     "694384": {
       "name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
-      "pa": 342,
-      "xr": 5.311
+      "pa": 346,
+      "xr": 5.9614
     },
     "624585": {
       "name": "Jorge Soler",
       "team": "Los Angeles Angels",
-      "pa": 330,
-      "xr": -7.1054
+      "pa": 334,
+      "xr": -6.2856
     },
     "514888": {
       "name": "Jose Altuve",
@@ -783,8 +783,8 @@
     "666176": {
       "name": "Jo Adell",
       "team": "Los Angeles Angels",
-      "pa": 420,
-      "xr": 6.7212
+      "pa": 424,
+      "xr": 8.6353
     },
     "666139": {
       "name": "Josh Lowe",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Los Angeles Angels",
-      "pa": 250,
-      "xr": -3.6498
+      "pa": 253,
+      "xr": -4.7604
     },
     "621043": {
       "name": "Carlos Correa",
@@ -2319,8 +2319,8 @@
     "691740": {
       "name": "Daniel Susac",
       "team": "San Francisco Giants",
-      "pa": 130,
-      "xr": -3.6267
+      "pa": 131,
+      "xr": -3.0694
     },
     "669743": {
       "name": "Alex Call",
@@ -2493,8 +2493,8 @@
     "687093": {
       "name": "Vaughn Grissom",
       "team": "Los Angeles Angels",
-      "pa": 235,
-      "xr": 5.7148
+      "pa": 239,
+      "xr": 5.719
     },
     "671286": {
       "name": "Johnathan Rodr\u00edguez",
@@ -2571,8 +2571,8 @@
     "687551": {
       "name": "Drew Gilbert",
       "team": "San Francisco Giants",
-      "pa": 229,
-      "xr": -1.6509
+      "pa": 231,
+      "xr": -0.9146
     },
     "803011": {
       "name": "Sam Antonacci",
@@ -2811,14 +2811,14 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 246,
-      "xr": 6.7932
+      "pa": 250,
+      "xr": 6.2274
     },
     "683679": {
       "name": "Jesus Rodriguez",
       "team": "San Francisco Giants",
-      "pa": 42,
-      "xr": -0.4483
+      "pa": 44,
+      "xr": -0.2927
     },
     "679822": {
       "name": "Justin Foscue",
@@ -2967,8 +2967,8 @@
     "642350": {
       "name": "Jose Siri",
       "team": "Los Angeles Angels",
-      "pa": 108,
-      "xr": 2.4468
+      "pa": 112,
+      "xr": 1.9438
     },
     "686765": {
       "name": "Nick Sogard",
@@ -3255,8 +3255,8 @@
     "694203": {
       "name": "Denzer Guzman",
       "team": "Los Angeles Angels",
-      "pa": 135,
-      "xr": -0.6796
+      "pa": 139,
+      "xr": -1.0847
     },
     "641820": {
       "name": "Trey Mancini",
@@ -3477,8 +3477,8 @@
     "701852": {
       "name": "Drew Cavanaugh",
       "team": "San Francisco Giants",
-      "pa": 50,
-      "xr": -0.6259
+      "pa": 54,
+      "xr": 0.5257
     },
     "815873": {
       "name": "Sean Keys",
@@ -3567,8 +3567,8 @@
     "687529": {
       "name": "Grant McCray",
       "team": "San Francisco Giants",
-      "pa": 5,
-      "xr": -0.4544
+      "pa": 8,
+      "xr": -0.7776
     },
     "694673": {
       "name": "Abimelec Ortiz",
@@ -3989,8 +3989,8 @@
     "667755": {
       "name": "Jos\u00e9 Soriano",
       "team": "Los Angeles Angels",
-      "bf": 465,
-      "xr_allowed": 1.3863
+      "bf": 485,
+      "xr_allowed": 1.5527
     },
     "805123": {
       "name": "AJ Blubaugh",
@@ -4007,8 +4007,8 @@
     "681217": {
       "name": "Chase Silseth",
       "team": "Los Angeles Angels",
-      "bf": 166,
-      "xr_allowed": -4.9887
+      "bf": 170,
+      "xr_allowed": -4.7983
     },
     "687911": {
       "name": "Bryan King",
@@ -4547,8 +4547,8 @@
     "666171": {
       "name": "Ryan Zeferjahn",
       "team": "Los Angeles Angels",
-      "bf": 204,
-      "xr_allowed": -7.104
+      "bf": 208,
+      "xr_allowed": -7.56
     },
     "595345": {
       "name": "Steven Okert",
@@ -4559,8 +4559,8 @@
     "696147": {
       "name": "Sam Bachman",
       "team": "Los Angeles Angels",
-      "bf": 183,
-      "xr_allowed": -4.2088
+      "bf": 186,
+      "xr_allowed": -3.5511
     },
     "680802": {
       "name": "Ryan Weiss",
@@ -6017,8 +6017,8 @@
     "605288": {
       "name": "Adrian Houser",
       "team": "San Francisco Giants",
-      "bf": 368,
-      "xr_allowed": 12.9934
+      "bf": 382,
+      "xr_allowed": 12.4088
     },
     "702070": {
       "name": "Noah Cameron",
@@ -6215,8 +6215,8 @@
     "815083": {
       "name": "Mitch Farris",
       "team": "Los Angeles Angels",
-      "bf": 165,
-      "xr_allowed": 3.1753
+      "bf": 168,
+      "xr_allowed": 3.0849
     },
     "689147": {
       "name": "Orion Kerkering",
@@ -7673,8 +7673,8 @@
     "696519": {
       "name": "Samy Natera Jr.",
       "team": "Los Angeles Angels",
-      "bf": 76,
-      "xr_allowed": -4.3847
+      "bf": 80,
+      "xr_allowed": -3.8567
     },
     "686747": {
       "name": "Joe La Sorsa",
@@ -7787,8 +7787,8 @@
     "687931": {
       "name": "Carson Whisenhunt",
       "team": "San Francisco Giants",
-      "bf": 46,
-      "xr_allowed": 2.7801
+      "bf": 67,
+      "xr_allowed": 4.4767
     },
     "682982": {
       "name": "Daniel Espino",
@@ -9727,6 +9727,7 @@
     824572,
     823755,
     823028,
-    822870
+    822870,
+    823194
   ]
 }
