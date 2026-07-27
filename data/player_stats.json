@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 409,
-      "xr": 21.7359
+      "pa": 413,
+      "xr": 21.1724
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 228,
-      "xr": 2.5618
+      "pa": 232,
+      "xr": 2.1542
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 403,
-      "xr": -1.8673
+      "pa": 407,
+      "xr": -1.5798
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1173,8 +1173,8 @@
     "669701": {
       "name": "Josh Smith",
       "team": "Texas Rangers",
-      "pa": 145,
-      "xr": -3.8091
+      "pa": 149,
+      "xr": -4.478
     },
     "643376": {
       "name": "Danny Jansen",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 310,
-      "xr": 14.0784
+      "pa": 314,
+      "xr": 14.6803
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 280,
-      "xr": -4.1158
+      "pa": 284,
+      "xr": -2.8999
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 350,
-      "xr": 2.1686
+      "pa": 354,
+      "xr": 3.1432
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 399,
-      "xr": 17.9509
+      "pa": 403,
+      "xr": 18.2026
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 414,
-      "xr": 2.4909
+      "pa": 418,
+      "xr": 2.0093
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,26 +1413,26 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 407,
-      "xr": 16.1583
+      "pa": 411,
+      "xr": 15.893
     },
     "670042": {
       "name": "Luke Raley",
       "team": "Seattle Mariners",
-      "pa": 273,
-      "xr": 4.2433
+      "pa": 277,
+      "xr": 4.3711
     },
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 286,
-      "xr": 13.6143
+      "pa": 290,
+      "xr": 13.8358
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 413,
-      "xr": 8.009
+      "pa": 417,
+      "xr": 8.2382
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -2253,8 +2253,8 @@
     "641598": {
       "name": "Mitch Garver",
       "team": "Seattle Mariners",
-      "pa": 135,
-      "xr": 3.3256
+      "pa": 139,
+      "xr": 2.7274
     },
     "545121": {
       "name": "Ildemaro Vargas",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 343,
-      "xr": 16.3302
+      "pa": 347,
+      "xr": 15.7267
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 112,
-      "xr": -1.6802
+      "pa": 116,
+      "xr": -2.4846
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 158,
-      "xr": -6.2131
+      "pa": 162,
+      "xr": -6.4455
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2985,8 +2985,8 @@
     "806068": {
       "name": "Colt Emerson",
       "team": "Seattle Mariners",
-      "pa": 194,
-      "xr": -10.1597
+      "pa": 198,
+      "xr": -9.6158
     },
     "680737": {
       "name": "Michael Helman",
@@ -4283,8 +4283,8 @@
     "678606": {
       "name": "Jos\u00e9 A. Ferrer",
       "team": "Seattle Mariners",
-      "bf": 181,
-      "xr_allowed": -5.6832
+      "bf": 185,
+      "xr_allowed": -5.8759
     },
     "641401": {
       "name": "Connor Brogdon",
@@ -4613,8 +4613,8 @@
     "669923": {
       "name": "George Kirby",
       "team": "Seattle Mariners",
-      "bf": 477,
-      "xr_allowed": -4.2862
+      "bf": 497,
+      "xr_allowed": -2.2883
     },
     "668909": {
       "name": "Gavin Williams",
@@ -4901,8 +4901,8 @@
     "656641": {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
-      "bf": 168,
-      "xr_allowed": -6.9055
+      "bf": 173,
+      "xr_allowed": -7.7227
     },
     "668390": {
       "name": "Cole Winn",
@@ -4925,8 +4925,8 @@
     "596001": {
       "name": "Jakob Junis",
       "team": "Texas Rangers",
-      "bf": 150,
-      "xr_allowed": -4.2087
+      "bf": 155,
+      "xr_allowed": -4.3994
     },
     "641835": {
       "name": "Tim Mayza",
@@ -5297,8 +5297,8 @@
     "677961": {
       "name": "Cole Wilcox",
       "team": "Seattle Mariners",
-      "bf": 103,
-      "xr_allowed": 3.7655
+      "bf": 106,
+      "xr_allowed": 3.5054
     },
     "669358": {
       "name": "Shane Baz",
@@ -6107,8 +6107,8 @@
     "677958": {
       "name": "Kumar Rocker",
       "team": "Texas Rangers",
-      "bf": 393,
-      "xr_allowed": 6.965
+      "bf": 418,
+      "xr_allowed": 7.5845
     },
     "683766": {
       "name": "Christian Koss",
@@ -6839,8 +6839,8 @@
     "695380": {
       "name": "Alex Hoppe",
       "team": "Seattle Mariners",
-      "bf": 101,
-      "xr_allowed": -1.2883
+      "bf": 106,
+      "xr_allowed": -1.746
     },
     "820862": {
       "name": "Jos\u00e9 Fermin",
@@ -7583,8 +7583,8 @@
     "695239": {
       "name": "Robby Ahlstrom",
       "team": "Texas Rangers",
-      "bf": 85,
-      "xr_allowed": 3.3925
+      "bf": 86,
+      "xr_allowed": 3.2064
     },
     "623352": {
       "name": "Josh Hader",
@@ -7727,8 +7727,8 @@
     "621074": {
       "name": "Michael Rucker",
       "team": "Seattle Mariners",
-      "bf": 76,
-      "xr_allowed": -1.1481
+      "bf": 80,
+      "xr_allowed": -1.8324
     },
     "807743": {
       "name": "Sean Sullivan",
@@ -9729,6 +9729,7 @@
     823028,
     822870,
     823194,
-    823433
+    823433,
+    822868
   ]
 }
