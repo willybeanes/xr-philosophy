@@ -969,32 +969,32 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 437,
-      "xr": 21.3646
+      "pa": 441,
+      "xr": 21.389
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 168,
-      "xr": -0.9514
+      "pa": 171,
+      "xr": -0.0447
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 442,
-      "xr": 20.6655
+      "pa": 446,
+      "xr": 20.5492
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 455,
-      "xr": 20.1573
+      "pa": 458,
+      "xr": 19.6346
     },
     "810938": {
       "name": "Ben Williamson",
       "team": "Tampa Bay Rays",
-      "pa": 241,
-      "xr": -1.2258
+      "pa": 244,
+      "xr": -1.1704
     },
     "802139": {
       "name": "JJ Wetherholt",
@@ -1029,14 +1029,14 @@
     "676356": {
       "name": "Jonny DeLuca",
       "team": "Tampa Bay Rays",
-      "pa": 195,
-      "xr": -7.3738
+      "pa": 198,
+      "xr": -7.8654
     },
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 240,
-      "xr": -7.4048
+      "pa": 243,
+      "xr": -7.6757
     },
     "656775": {
       "name": "Cedric Mullins",
@@ -1077,8 +1077,8 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 391,
-      "xr": -11.28
+      "pa": 394,
+      "xr": -11.5945
     },
     "680700": {
       "name": "Richie Palacios",
@@ -1101,14 +1101,14 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 417,
-      "xr": 20.5816
+      "pa": 421,
+      "xr": 20.7527
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 237,
-      "xr": 2.1184
+      "pa": 241,
+      "xr": 1.2982
     },
     "608369": {
       "name": "Corey Seager",
@@ -1119,8 +1119,8 @@
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 411,
-      "xr": -2.3497
+      "pa": 415,
+      "xr": -2.6927
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 319,
-      "xr": 14.0159
+      "pa": 320,
+      "xr": 13.8608
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 288,
-      "xr": -2.4294
+      "pa": 289,
+      "xr": -2.6545
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 358,
-      "xr": 2.852
+      "pa": 362,
+      "xr": 2.2316
     },
     "606466": {
       "name": "Ketel Marte",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 284,
-      "xr": -16.4628
+      "pa": 287,
+      "xr": -16.7906
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2625,8 +2625,8 @@
     "553869": {
       "name": "Elias D\u00edaz",
       "team": "Texas Rangers",
-      "pa": 116,
-      "xr": -2.4846
+      "pa": 118,
+      "xr": -2.6183
     },
     "669288": {
       "name": "Daniel Johnson",
@@ -2649,8 +2649,8 @@
     "696030": {
       "name": "Alejandro Osuna",
       "team": "Texas Rangers",
-      "pa": 200,
-      "xr": 0.5653
+      "pa": 203,
+      "xr": 0.123
     },
     "672012": {
       "name": "Tyler Black",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 166,
-      "xr": -6.791
+      "pa": 170,
+      "xr": -6.3624
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 129,
-      "xr": 0.8643
+      "pa": 131,
+      "xr": 0.658
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3501,8 +3501,8 @@
     "695508": {
       "name": "Cam Cauley",
       "team": "Texas Rangers",
-      "pa": 41,
-      "xr": -0.9779
+      "pa": 44,
+      "xr": -1.5352
     },
     "811965": {
       "name": "Joshua Kuroda-Grauer",
@@ -4127,14 +4127,14 @@
     "693855": {
       "name": "Ian Seymour",
       "team": "Tampa Bay Rays",
-      "bf": 307,
-      "xr_allowed": 0.9174
+      "bf": 324,
+      "xr_allowed": -0.5888
     },
     "664076": {
       "name": "Garrett Cleavinger",
       "team": "Tampa Bay Rays",
-      "bf": 123,
-      "xr_allowed": -3.6562
+      "bf": 125,
+      "xr_allowed": -4.1827
     },
     "643377": {
       "name": "Griffin Jax",
@@ -4319,8 +4319,8 @@
     "668984": {
       "name": "Casey Legumina",
       "team": "Tampa Bay Rays",
-      "bf": 185,
-      "xr_allowed": 0.9622
+      "bf": 191,
+      "xr_allowed": 0.4082
     },
     "681867": {
       "name": "Cooper Criswell",
@@ -4733,8 +4733,8 @@
     "641329": {
       "name": "Bryan Baker",
       "team": "Tampa Bay Rays",
-      "bf": 150,
-      "xr_allowed": -5.5035
+      "bf": 154,
+      "xr_allowed": -5.3428
     },
     "690990": {
       "name": "Cade Horton",
@@ -5345,8 +5345,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 498,
-      "xr_allowed": -1.9742
+      "bf": 523,
+      "xr_allowed": -2.8983
     },
     "641745": {
       "name": "Brad Keller",
@@ -5531,8 +5531,8 @@
     "687330": {
       "name": "Kevin Kelly",
       "team": "Tampa Bay Rays",
-      "bf": 174,
-      "xr_allowed": 3.9897
+      "bf": 177,
+      "xr_allowed": 3.512
     },
     "666277": {
       "name": "George Soriano",
@@ -7991,8 +7991,8 @@
     "687239": {
       "name": "Ben Peoples",
       "team": "Texas Rangers",
-      "bf": 32,
-      "xr_allowed": -0.297
+      "bf": 36,
+      "xr_allowed": -0.4302
     },
     "668881": {
       "name": "Hunter Greene",
@@ -9804,6 +9804,7 @@
     823596,
     824242,
     823192,
-    823273
+    823273,
+    822947
   ]
 }
