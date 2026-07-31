@@ -3,8 +3,8 @@
     "663757": {
       "name": "Trent Grisham",
       "team": "New York Yankees",
-      "pa": 348,
-      "xr": 14.2203
+      "pa": 352,
+      "xr": 13.8887
     },
     "592450": {
       "name": "Aaron Judge",
@@ -51,8 +51,8 @@
     "700250": {
       "name": "Ben Rice",
       "team": "New York Yankees",
-      "pa": 437,
-      "xr": 33.0118
+      "pa": 441,
+      "xr": 32.7204
     },
     "519317": {
       "name": "Giancarlo Stanton",
@@ -69,20 +69,20 @@
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
-      "pa": 323,
-      "xr": -7.1658
+      "pa": 326,
+      "xr": -6.6871
     },
     "641857": {
       "name": "Ryan McMahon",
       "team": "New York Yankees",
-      "pa": 252,
-      "xr": 1.5833
+      "pa": 253,
+      "xr": 1.7549
     },
     "669224": {
       "name": "Austin Wells",
       "team": "New York Yankees",
-      "pa": 243,
-      "xr": -5.1697
+      "pa": 244,
+      "xr": -4.586
     },
     "671218": {
       "name": "Heliot Ramos",
@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 477,
-      "xr": 10.9177
+      "pa": 481,
+      "xr": 10.6734
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 479,
-      "xr": -0.3261
+      "pa": 483,
+      "xr": -0.4957
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 446,
-      "xr": -2.8286
+      "pa": 449,
+      "xr": -3.0104
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 469,
-      "xr": 15.4417
+      "pa": 473,
+      "xr": 15.0563
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,8 +435,8 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 463,
-      "xr": 3.2812
+      "pa": 466,
+      "xr": 3.0889
     },
     "608348": {
       "name": "Carson Kelly",
@@ -465,8 +465,8 @@
     "621020": {
       "name": "Dansby Swanson",
       "team": "Chicago Cubs",
-      "pa": 396,
-      "xr": -0.8603
+      "pa": 399,
+      "xr": -1.3651
     },
     "807713": {
       "name": "Matt Shaw",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 182,
-      "xr": 3.4389
+      "pa": 185,
+      "xr": 2.8912
     },
     "668885": {
       "name": "Austin Martin",
@@ -1455,14 +1455,14 @@
     "502671": {
       "name": "Paul Goldschmidt",
       "team": "New York Yankees",
-      "pa": 305,
-      "xr": 0.9967
+      "pa": 309,
+      "xr": 0.7248
     },
     "642708": {
       "name": "Amed Rosario",
       "team": "New York Yankees",
-      "pa": 176,
-      "xr": 0.5635
+      "pa": 179,
+      "xr": 1.2083
     },
     "545341": {
       "name": "Randal Grichuk",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 177,
-      "xr": 0.2826
+      "pa": 180,
+      "xr": 0.0511
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2715,8 +2715,8 @@
     "691176": {
       "name": "Jasson Dom\u00ednguez",
       "team": "New York Yankees",
-      "pa": 198,
-      "xr": -3.6294
+      "pa": 202,
+      "xr": -3.8734
     },
     "683953": {
       "name": "Travis Bazzana",
@@ -2871,8 +2871,8 @@
     "682987": {
       "name": "Spencer Jones",
       "team": "New York Yankees",
-      "pa": 89,
-      "xr": -0.5748
+      "pa": 92,
+      "xr": 0.2847
     },
     "814439": {
       "name": "Ryan Waldschmidt",
@@ -2913,8 +2913,8 @@
     "683011": {
       "name": "Anthony Volpe",
       "team": "New York Yankees",
-      "pa": 189,
-      "xr": 0.5937
+      "pa": 192,
+      "xr": 0.2584
     },
     "506702": {
       "name": "Sandy Le\u00f3n",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 100,
-      "xr": -2.0515
+      "pa": 104,
+      "xr": -1.9829
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3249,8 +3249,8 @@
     "645305": {
       "name": "Ali S\u00e1nchez",
       "team": "New York Yankees",
-      "pa": 53,
-      "xr": 0.1147
+      "pa": 55,
+      "xr": 0.0585
     },
     "694203": {
       "name": "Denzer Guzman",
@@ -4391,8 +4391,8 @@
     "670280": {
       "name": "David Bednar",
       "team": "New York Yankees",
-      "bf": 182,
-      "xr_allowed": -8.4491
+      "bf": 186,
+      "xr_allowed": -8.922
     },
     "592332": {
       "name": "Kevin Gausman",
@@ -5213,8 +5213,8 @@
     "701542": {
       "name": "Will Warren",
       "team": "New York Yankees",
-      "bf": 451,
-      "xr_allowed": 7.0679
+      "bf": 474,
+      "xr_allowed": 5.6225
     },
     "681190": {
       "name": "Randy V\u00e1squez",
@@ -5555,8 +5555,8 @@
     "684007": {
       "name": "Shota Imanaga",
       "team": "Chicago Cubs",
-      "bf": 489,
-      "xr_allowed": -2.9815
+      "bf": 512,
+      "xr_allowed": -2.4114
     },
     "663623": {
       "name": "Jake Irvin",
@@ -5819,8 +5819,8 @@
     "621112": {
       "name": "Paul Blackburn",
       "team": "New York Yankees",
-      "bf": 224,
-      "xr_allowed": -4.2043
+      "bf": 228,
+      "xr_allowed": -4.6748
     },
     "647336": {
       "name": "Michael Soroka",
@@ -7043,8 +7043,8 @@
     "621053": {
       "name": "Tyler Ferguson",
       "team": "Chicago Cubs",
-      "bf": 57,
-      "xr_allowed": 3.1642
+      "bf": 62,
+      "xr_allowed": 3.6034
     },
     "687531": {
       "name": "William Kempner",
@@ -8245,6 +8245,12 @@
       "team": "Pittsburgh Pirates",
       "bf": 10,
       "xr_allowed": -0.0872
+    },
+    "681520": {
+      "name": "Antoine Kelly",
+      "team": "Chicago Cubs",
+      "bf": 4,
+      "xr_allowed": 0.1986
     }
   },
   "processed_games": [
@@ -9835,6 +9841,7 @@
     823595,
     824974,
     823271,
-    823921
+    823921,
+    824651
   ]
 }
