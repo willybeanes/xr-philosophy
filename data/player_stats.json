@@ -999,26 +999,26 @@
     "802139": {
       "name": "JJ Wetherholt",
       "team": "St. Louis Cardinals",
-      "pa": 457,
-      "xr": 23.0936
+      "pa": 462,
+      "xr": 23.0213
     },
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 468,
-      "xr": 11.663
+      "pa": 472,
+      "xr": 11.1114
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 445,
-      "xr": 31.3587
+      "pa": 450,
+      "xr": 31.5519
     },
     "691026": {
       "name": "Masyn Winn",
       "team": "St. Louis Cardinals",
-      "pa": 401,
-      "xr": -3.4869
+      "pa": 405,
+      "xr": -3.5549
     },
     "669357": {
       "name": "Nolan Gorman",
@@ -1053,14 +1053,14 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 443,
-      "xr": 16.0342
+      "pa": 448,
+      "xr": 15.7347
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 280,
-      "xr": -7.3074
+      "pa": 284,
+      "xr": -7.436
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
@@ -1491,20 +1491,20 @@
     "543807": {
       "name": "George Springer",
       "team": "Toronto Blue Jays",
-      "pa": 339,
-      "xr": 2.3388
+      "pa": 343,
+      "xr": 2.535
     },
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 267,
-      "xr": -1.886
+      "pa": 269,
+      "xr": -2.5559
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 427,
-      "xr": 18.6618
+      "pa": 432,
+      "xr": 18.4242
     },
     "680718": {
       "name": "Addison Barger",
@@ -1533,20 +1533,20 @@
     "672386": {
       "name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
-      "pa": 136,
-      "xr": 0.2704
+      "pa": 140,
+      "xr": 1.7611
     },
     "662139": {
       "name": "Daulton Varsho",
       "team": "Toronto Blue Jays",
-      "pa": 346,
-      "xr": -5.6533
+      "pa": 350,
+      "xr": -6.4255
     },
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 425,
-      "xr": -4.0101
+      "pa": 429,
+      "xr": -5.3256
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 422,
-      "xr": -16.0994
+      "pa": 426,
+      "xr": -16.6776
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 339,
-      "xr": -15.6263
+      "pa": 341,
+      "xr": -15.4034
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -1917,14 +1917,14 @@
     "676914": {
       "name": "Davis Schneider",
       "team": "Toronto Blue Jays",
-      "pa": 126,
-      "xr": -5.1575
+      "pa": 128,
+      "xr": -5.3845
     },
     "664702": {
       "name": "Myles Straw",
       "team": "Toronto Blue Jays",
-      "pa": 183,
-      "xr": 0.0375
+      "pa": 187,
+      "xr": -0.6191
     },
     "628451": {
       "name": "Andy Ib\u00e1\u00f1ez",
@@ -3075,8 +3075,8 @@
     "663494": {
       "name": "Bryan Torres",
       "team": "St. Louis Cardinals",
-      "pa": 89,
-      "xr": 0.9163
+      "pa": 90,
+      "xr": 0.6332
     },
     "682634": {
       "name": "Kevin Alc\u00e1ntara",
@@ -3165,8 +3165,8 @@
     "699625": {
       "name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
-      "pa": 95,
-      "xr": -0.5822
+      "pa": 98,
+      "xr": -0.9823
     },
     "694378": {
       "name": "Jacob Gonzalez",
@@ -3237,8 +3237,8 @@
     "663457": {
       "name": "Lars Nootbaar",
       "team": "St. Louis Cardinals",
-      "pa": 174,
-      "xr": 1.4201
+      "pa": 178,
+      "xr": 1.9349
     },
     "694410": {
       "name": "LuJames Groover",
@@ -3333,8 +3333,8 @@
     "691458": {
       "name": "Blaze Jordan",
       "team": "St. Louis Cardinals",
-      "pa": 126,
-      "xr": 2.7531
+      "pa": 130,
+      "xr": 2.6899
     },
     "669256": {
       "name": "Nick Solak",
@@ -3441,8 +3441,8 @@
     "649966": {
       "name": "Luis Ur\u00edas",
       "team": "Toronto Blue Jays",
-      "pa": 48,
-      "xr": -3.3325
+      "pa": 51,
+      "xr": -2.7217
     },
     "701162": {
       "name": "Ben Malgeri",
@@ -4409,8 +4409,8 @@
     "592332": {
       "name": "Kevin Gausman",
       "team": "Toronto Blue Jays",
-      "bf": 517,
-      "xr_allowed": 1.9652
+      "bf": 542,
+      "xr_allowed": 1.8179
     },
     "622663": {
       "name": "Luis Severino",
@@ -4439,14 +4439,14 @@
     "643511": {
       "name": "Tyler Rogers",
       "team": "Toronto Blue Jays",
-      "bf": 191,
-      "xr_allowed": -5.3528
+      "bf": 194,
+      "xr_allowed": -5.5614
     },
     "656546": {
       "name": "Jeff Hoffman",
       "team": "Toronto Blue Jays",
-      "bf": 208,
-      "xr_allowed": -1.0636
+      "bf": 213,
+      "xr_allowed": -1.1079
     },
     "686993": {
       "name": "Justin Sterner",
@@ -4805,8 +4805,8 @@
     "680755": {
       "name": "Braydon Fisher",
       "team": "Toronto Blue Jays",
-      "bf": 212,
-      "xr_allowed": 0.2054
+      "bf": 216,
+      "xr_allowed": -0.3412
     },
     "643410": {
       "name": "Mark Leiter Jr.",
@@ -4817,8 +4817,8 @@
     "689254": {
       "name": "Mason Fluharty",
       "team": "Toronto Blue Jays",
-      "bf": 186,
-      "xr_allowed": -3.8782
+      "bf": 188,
+      "xr_allowed": -4.0898
     },
     "663893": {
       "name": "Brendon Little",
@@ -8087,8 +8087,8 @@
     "703725": {
       "name": "Luis Gastelum",
       "team": "St. Louis Cardinals",
-      "bf": 44,
-      "xr_allowed": 3.061
+      "bf": 51,
+      "xr_allowed": 1.8959
     },
     "808970": {
       "name": "Woo-Suk Go",
@@ -8219,8 +8219,8 @@
     "657265": {
       "name": "Peter Strzelecki",
       "team": "St. Louis Cardinals",
-      "bf": 13,
-      "xr_allowed": 1.5842
+      "bf": 20,
+      "xr_allowed": 1.6736
     },
     "592866": {
       "name": "Trevor Williams",
@@ -8287,6 +8287,12 @@
       "team": "Los Angeles Dodgers",
       "bf": 30,
       "xr_allowed": 2.9573
+    },
+    "687273": {
+      "name": "Quinn Mathews",
+      "team": "St. Louis Cardinals",
+      "bf": 24,
+      "xr_allowed": -0.8607
     }
   },
   "processed_games": [
@@ -9892,6 +9898,7 @@
     823999,
     824975,
     823922,
-    823111
+    823111,
+    822781
   ]
 }
