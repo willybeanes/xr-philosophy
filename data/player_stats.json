@@ -969,8 +969,8 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 457,
-      "xr": 21.1342
+      "pa": 462,
+      "xr": 21.401
     },
     "668723": {
       "name": "Ryan Vilade",
@@ -981,14 +981,14 @@
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 459,
-      "xr": 20.8729
+      "pa": 464,
+      "xr": 22.3644
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 474,
-      "xr": 21.9182
+      "pa": 479,
+      "xr": 24.6822
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1041,8 +1041,8 @@
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 363,
-      "xr": -25.0328
+      "pa": 368,
+      "xr": -24.3088
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,14 +1077,14 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 406,
-      "xr": -12.5784
+      "pa": 411,
+      "xr": -14.2183
     },
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 261,
-      "xr": -2.7395
+      "pa": 266,
+      "xr": -1.6556
     },
     "641584": {
       "name": "Jake Fraley",
@@ -1587,20 +1587,20 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 363,
-      "xr": -2.4797
+      "pa": 368,
+      "xr": -0.4823
     },
     "696100": {
       "name": "Hunter Goodman",
       "team": "Colorado Rockies",
-      "pa": 413,
-      "xr": 5.6173
+      "pa": 418,
+      "xr": 4.0495
     },
     "650489": {
       "name": "Willi Castro",
       "team": "Colorado Rockies",
-      "pa": 364,
-      "xr": 0.5122
+      "pa": 369,
+      "xr": 0.0559
     },
     "596103": {
       "name": "Austin Slater",
@@ -1635,14 +1635,14 @@
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 372,
-      "xr": -21.9208
+      "pa": 376,
+      "xr": -19.5606
     },
     "681198": {
       "name": "TJ Rumfield",
       "team": "Colorado Rockies",
-      "pa": 432,
-      "xr": 10.2677
+      "pa": 433,
+      "xr": 10.0764
     },
     "687597": {
       "name": "Jordan Beck",
@@ -1689,8 +1689,8 @@
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 357,
-      "xr": 7.6503
+      "pa": 362,
+      "xr": 8.7468
     },
     "665052": {
       "name": "Griffin Conine",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 346,
-      "xr": 4.822
+      "pa": 350,
+      "xr": 4.615
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2295,8 +2295,8 @@
     "671289": {
       "name": "Tyler Freeman",
       "team": "Colorado Rockies",
-      "pa": 270,
-      "xr": 0.6377
+      "pa": 274,
+      "xr": 0.559
     },
     "677870": {
       "name": "Leo Jim\u00e9nez",
@@ -2343,8 +2343,8 @@
     "666160": {
       "name": "Mickey Moniak",
       "team": "Colorado Rockies",
-      "pa": 269,
-      "xr": -0.6769
+      "pa": 274,
+      "xr": -0.1653
     },
     "804606": {
       "name": "Konnor Griffin",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 296,
-      "xr": -17.6236
+      "pa": 301,
+      "xr": -17.3529
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -3105,8 +3105,8 @@
     "683748": {
       "name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
-      "pa": 140,
-      "xr": -3.0464
+      "pa": 145,
+      "xr": -2.1454
     },
     "686554": {
       "name": "Oliver Dunn",
@@ -3279,8 +3279,8 @@
     "694249": {
       "name": "Cole Carrigg",
       "team": "Colorado Rockies",
-      "pa": 168,
-      "xr": 9.244
+      "pa": 173,
+      "xr": 8.421
     },
     "695238": {
       "name": "Will Wagner",
@@ -3671,6 +3671,12 @@
       "team": "San Francisco Giants",
       "pa": 5,
       "xr": -0.3177
+    },
+    "700652": {
+      "name": "Kenny Piper",
+      "team": "Tampa Bay Rays",
+      "pa": 5,
+      "xr": -0.1007
     }
   },
   "pitchers": {
@@ -4145,8 +4151,8 @@
     "693855": {
       "name": "Ian Seymour",
       "team": "Tampa Bay Rays",
-      "bf": 324,
-      "xr_allowed": -0.5888
+      "bf": 349,
+      "xr_allowed": 0.4237
     },
     "664076": {
       "name": "Garrett Cleavinger",
@@ -4337,8 +4343,8 @@
     "668984": {
       "name": "Casey Legumina",
       "team": "Tampa Bay Rays",
-      "bf": 194,
-      "xr_allowed": 0.863
+      "bf": 201,
+      "xr_allowed": 1.7654
     },
     "681867": {
       "name": "Cooper Criswell",
@@ -5069,8 +5075,8 @@
     "547179": {
       "name": "Michael Lorenzen",
       "team": "Colorado Rockies",
-      "bf": 502,
-      "xr_allowed": 16.2713
+      "bf": 520,
+      "xr_allowed": 21.0736
     },
     "688642": {
       "name": "Zach Agnos",
@@ -5549,8 +5555,8 @@
     "687330": {
       "name": "Kevin Kelly",
       "team": "Tampa Bay Rays",
-      "bf": 180,
-      "xr_allowed": 2.9296
+      "bf": 181,
+      "xr_allowed": 2.7383
     },
     "666277": {
       "name": "George Soriano",
@@ -6545,8 +6551,8 @@
     "685299": {
       "name": "Tanner Gordon",
       "team": "Colorado Rockies",
-      "bf": 244,
-      "xr_allowed": 0.8545
+      "bf": 271,
+      "xr_allowed": 1.8135
     },
     "686560": {
       "name": "Gavin Collyer",
@@ -7943,8 +7949,8 @@
     "675627": {
       "name": "Michael Grove",
       "team": "Tampa Bay Rays",
-      "bf": 10,
-      "xr_allowed": 0.2404
+      "bf": 20,
+      "xr_allowed": 1.1584
     },
     "694397": {
       "name": "Marco Raya",
@@ -9964,6 +9970,7 @@
     823757,
     824647,
     822867,
-    824160
+    824160,
+    824324
   ]
 }
