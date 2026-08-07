@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 451,
-      "xr": -0.7191
+      "pa": 458,
+      "xr": 0.944
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 438,
-      "xr": -9.8378
+      "pa": 445,
+      "xr": -8.5167
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 476,
-      "xr": 31.899
+      "pa": 483,
+      "xr": 30.49
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 339,
-      "xr": 8.6142
+      "pa": 344,
+      "xr": 8.1602
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 326,
-      "xr": 21.3796
+      "pa": 333,
+      "xr": 20.3732
     },
     "677592": {
       "name": "Everson Pereira",
@@ -321,8 +321,8 @@
     "682668": {
       "name": "Luisangel Acu\u00f1a",
       "team": "Chicago White Sox",
-      "pa": 183,
-      "xr": -7.8476
+      "pa": 184,
+      "xr": -8.14
     },
     "672820": {
       "name": "Lenyn Sosa",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 327,
-      "xr": -9.8176
+      "pa": 331,
+      "xr": -10.2264
     },
     "624512": {
       "name": "Reese McGuire",
@@ -621,8 +621,8 @@
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 441,
-      "xr": -3.0576
+      "pa": 447,
+      "xr": -4.4425
     },
     "575929": {
       "name": "Willson Contreras",
@@ -633,8 +633,8 @@
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 387,
-      "xr": -2.3442
+      "pa": 396,
+      "xr": -2.5362
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,8 +657,8 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 472,
-      "xr": 16.5475
+      "pa": 479,
+      "xr": 16.5
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 437,
-      "xr": 2.5917
+      "pa": 444,
+      "xr": 1.1492
     },
     "701398": {
       "name": "Sal Stewart",
@@ -1467,8 +1467,8 @@
     "545341": {
       "name": "Randal Grichuk",
       "team": "Chicago White Sox",
-      "pa": 165,
-      "xr": 4.1835
+      "pa": 167,
+      "xr": 4.6774
     },
     "701762": {
       "name": "Nick Kurtz",
@@ -1677,8 +1677,8 @@
     "686668": {
       "name": "Brenton Doyle",
       "team": "Chicago White Sox",
-      "pa": 125,
-      "xr": -6.6522
+      "pa": 127,
+      "xr": -6.4919
     },
     "666397": {
       "name": "Edouard Julien",
@@ -1857,8 +1857,8 @@
     "663330": {
       "name": "Jahmai Jones",
       "team": "Boston Red Sox",
-      "pa": 116,
-      "xr": -2.8208
+      "pa": 117,
+      "xr": -2.7465
     },
     "663837": {
       "name": "Matt Vierling",
@@ -1989,14 +1989,14 @@
     "807799": {
       "name": "Masataka Yoshida",
       "team": "Boston Red Sox",
-      "pa": 251,
-      "xr": 8.191
+      "pa": 256,
+      "xr": 7.9774
     },
     "657136": {
       "name": "Connor Wong",
       "team": "Boston Red Sox",
-      "pa": 170,
-      "xr": -3.634
+      "pa": 175,
+      "xr": -2.9231
     },
     "663993": {
       "name": "Nathaniel Lowe",
@@ -2013,8 +2013,8 @@
     "663698": {
       "name": "Joey Bart",
       "team": "Chicago White Sox",
-      "pa": 112,
-      "xr": -3.8518
+      "pa": 116,
+      "xr": -5.0804
     },
     "663968": {
       "name": "Jake Mangum",
@@ -2078,9 +2078,9 @@
     },
     "668670": {
       "name": "Jake Rogers",
-      "team": "Baltimore Orioles",
-      "pa": 114,
-      "xr": -4.4991
+      "team": "Boston Red Sox",
+      "pa": 116,
+      "xr": -4.419
     },
     "543510": {
       "name": "James McCann",
@@ -2175,8 +2175,8 @@
     "655316": {
       "name": "Andruw Monasterio",
       "team": "Boston Red Sox",
-      "pa": 225,
-      "xr": -5.4118
+      "pa": 231,
+      "xr": -4.8982
     },
     "676724": {
       "name": "Jared Young",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 361,
-      "xr": 15.2002
+      "pa": 366,
+      "xr": 15.7503
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2685,8 +2685,8 @@
     "691011": {
       "name": "Drew Romo",
       "team": "Chicago White Sox",
-      "pa": 146,
-      "xr": -10.3241
+      "pa": 149,
+      "xr": -10.9865
     },
     "687515": {
       "name": "Colby Thomas",
@@ -2973,8 +2973,8 @@
     "686765": {
       "name": "Nick Sogard",
       "team": "Boston Red Sox",
-      "pa": 70,
-      "xr": -0.3251
+      "pa": 77,
+      "xr": 0.5334
     },
     "675961": {
       "name": "Alika Williams",
@@ -3213,8 +3213,8 @@
     "678011": {
       "name": "Anthony Seigler",
       "team": "Boston Red Sox",
-      "pa": 136,
-      "xr": 2.2107
+      "pa": 142,
+      "xr": 3.1814
     },
     "664774": {
       "name": "LaMonte Wade Jr.",
@@ -3273,8 +3273,8 @@
     "695731": {
       "name": "Braden Montgomery",
       "team": "Chicago White Sox",
-      "pa": 186,
-      "xr": -7.8874
+      "pa": 192,
+      "xr": -6.4512
     },
     "694249": {
       "name": "Cole Carrigg",
@@ -3881,8 +3881,8 @@
     "663855": {
       "name": "Jordan Hicks",
       "team": "Chicago White Sox",
-      "bf": 141,
-      "xr_allowed": -6.2222
+      "bf": 145,
+      "xr_allowed": -6.4668
     },
     "699151": {
       "name": "Jedixson Paez",
@@ -4037,8 +4037,8 @@
     "686580": {
       "name": "Justin Slaten",
       "team": "Boston Red Sox",
-      "bf": 120,
-      "xr_allowed": -6.9767
+      "bf": 126,
+      "xr_allowed": -6.4947
     },
     "668933": {
       "name": "Graham Ashcraft",
@@ -4049,8 +4049,8 @@
     "676477": {
       "name": "Garrett Whitlock",
       "team": "Boston Red Sox",
-      "bf": 157,
-      "xr_allowed": -4.3751
+      "bf": 160,
+      "xr_allowed": -5.0196
     },
     "683175": {
       "name": "Connor Phillips",
@@ -4067,8 +4067,8 @@
     "547973": {
       "name": "Aroldis Chapman",
       "team": "Boston Red Sox",
-      "bf": 155,
-      "xr_allowed": -8.776
+      "bf": 159,
+      "xr_allowed": -9.2627
     },
     "686613": {
       "name": "Hunter Brown",
@@ -4445,8 +4445,8 @@
     "669062": {
       "name": "Erik Miller",
       "team": "Boston Red Sox",
-      "bf": 143,
-      "xr_allowed": -3.2398
+      "bf": 152,
+      "xr_allowed": -3.7977
     },
     "657612": {
       "name": "Tim Hill",
@@ -5051,8 +5051,8 @@
     "669711": {
       "name": "Greg Weissert",
       "team": "Boston Red Sox",
-      "bf": 179,
-      "xr_allowed": -2.6606
+      "bf": 185,
+      "xr_allowed": -3.5472
     },
     "543056": {
       "name": "Danny Coulombe",
@@ -5093,8 +5093,8 @@
     "623211": {
       "name": "Huascar Brazob\u00e1n",
       "team": "Chicago White Sox",
-      "bf": 207,
-      "xr_allowed": -9.0491
+      "bf": 213,
+      "xr_allowed": -10.2388
     },
     "596133": {
       "name": "Luke Weaver",
@@ -5207,14 +5207,14 @@
     "669684": {
       "name": "Chris Murphy",
       "team": "Chicago White Sox",
-      "bf": 129,
-      "xr_allowed": -3.835
+      "bf": 133,
+      "xr_allowed": -5.1165
     },
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 218,
-      "xr_allowed": -11.9128
+      "bf": 228,
+      "xr_allowed": -11.6057
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -5225,8 +5225,8 @@
     "663542": {
       "name": "Bryan Hudson",
       "team": "Chicago White Sox",
-      "bf": 189,
-      "xr_allowed": -2.1977
+      "bf": 193,
+      "xr_allowed": -2.9433
     },
     "682842": {
       "name": "Abner Uribe",
@@ -5495,8 +5495,8 @@
     "663558": {
       "name": "Jovani Mor\u00e1n",
       "team": "Boston Red Sox",
-      "bf": 181,
-      "xr_allowed": -1.009
+      "bf": 186,
+      "xr_allowed": -0.3614
     },
     "690997": {
       "name": "Nolan McLean",
@@ -5867,8 +5867,8 @@
     "624133": {
       "name": "Ranger Suarez",
       "team": "Boston Red Sox",
-      "bf": 409,
-      "xr_allowed": -4.1898
+      "bf": 424,
+      "xr_allowed": -2.6431
     },
     "670912": {
       "name": "Johan Oviedo",
@@ -5890,9 +5890,9 @@
     },
     "622491": {
       "name": "Luis Castillo",
-      "team": "Seattle Mariners",
-      "bf": 427,
-      "xr_allowed": 8.6463
+      "team": "Chicago White Sox",
+      "bf": 445,
+      "xr_allowed": 9.9703
     },
     "677960": {
       "name": "Ryan Weathers",
@@ -5981,8 +5981,8 @@
     "607200": {
       "name": "Erick Fedde",
       "team": "Chicago White Sox",
-      "bf": 458,
-      "xr_allowed": 8.8952
+      "bf": 461,
+      "xr_allowed": 9.2609
     },
     "453286": {
       "name": "Max Scherzer",
@@ -6053,8 +6053,8 @@
     "678394": {
       "name": "Brayan Bello",
       "team": "Boston Red Sox",
-      "bf": 342,
-      "xr_allowed": 9.2176
+      "bf": 351,
+      "xr_allowed": 9.6311
     },
     "675989": {
       "name": "Cody Bolton",
@@ -7001,8 +7001,8 @@
     "670950": {
       "name": "Trevor Richards",
       "team": "Chicago White Sox",
-      "bf": 187,
-      "xr_allowed": -8.439
+      "bf": 199,
+      "xr_allowed": -7.0468
     },
     "805299": {
       "name": "Brandyn Garcia",
@@ -7451,8 +7451,8 @@
     "594027": {
       "name": "Tyron Guerrero",
       "team": "Boston Red Sox",
-      "bf": 114,
-      "xr_allowed": -6.3541
+      "bf": 117,
+      "xr_allowed": -6.7051
     },
     "801434": {
       "name": "Paul Gervase",
@@ -10119,6 +10119,7 @@
     823105,
     823430,
     824885,
-    824080
+    824080,
+    824729
   ]
 }
