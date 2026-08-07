@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "San Diego Padres",
-      "pa": 268,
-      "xr": -3.5357
+      "pa": 273,
+      "xr": -3.5063
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 484,
-      "xr": 20.688
+      "pa": 489,
+      "xr": 21.1355
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 421,
-      "xr": 6.3519
+      "pa": 425,
+      "xr": 8.5751
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 459,
-      "xr": 7.0618
+      "pa": 464,
+      "xr": 7.3127
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 455,
-      "xr": 7.5248
+      "pa": 460,
+      "xr": 7.8184
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 357,
-      "xr": 7.3858
+      "pa": 361,
+      "xr": 7.1638
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -951,14 +951,14 @@
     "666023": {
       "name": "Freddy Fermin",
       "team": "San Diego Padres",
-      "pa": 187,
-      "xr": -6.443
+      "pa": 191,
+      "xr": -5.6097
     },
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 238,
-      "xr": -0.094
+      "pa": 242,
+      "xr": -0.5216
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -1233,26 +1233,26 @@
     "606466": {
       "name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
-      "pa": 471,
-      "xr": 12.6672
+      "pa": 475,
+      "xr": 12.7121
     },
     "682998": {
       "name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
-      "pa": 467,
-      "xr": 14.0844
+      "pa": 471,
+      "xr": 14.4249
     },
     "672695": {
       "name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
-      "pa": 464,
-      "xr": 7.4805
+      "pa": 468,
+      "xr": 6.8059
     },
     "672515": {
       "name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
-      "pa": 350,
-      "xr": 17.1668
+      "pa": 354,
+      "xr": 17.9046
     },
     "660271": {
       "name": "Shohei Ohtani",
@@ -1281,8 +1281,8 @@
     "571448": {
       "name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
-      "pa": 406,
-      "xr": 6.1398
+      "pa": 410,
+      "xr": 4.9744
     },
     "467793": {
       "name": "Carlos Santana",
@@ -1329,8 +1329,8 @@
     "694374": {
       "name": "Tim Tawa",
       "team": "Arizona Diamondbacks",
-      "pa": 170,
-      "xr": -1.4783
+      "pa": 174,
+      "xr": -1.9458
     },
     "500743": {
       "name": "Miguel Rojas",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 304,
-      "xr": 8.3457
+      "pa": 309,
+      "xr": 7.7528
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2877,8 +2877,8 @@
     "814439": {
       "name": "Ryan Waldschmidt",
       "team": "Arizona Diamondbacks",
-      "pa": 167,
-      "xr": -5.5022
+      "pa": 170,
+      "xr": -5.624
     },
     "683079": {
       "name": "Omar Martinez",
@@ -3237,8 +3237,8 @@
     "663457": {
       "name": "Lars Nootbaar",
       "team": "Arizona Diamondbacks",
-      "pa": 192,
-      "xr": 2.8037
+      "pa": 196,
+      "xr": 2.5114
     },
     "694410": {
       "name": "LuJames Groover",
@@ -3465,8 +3465,8 @@
     "596146": {
       "name": "Max Kepler",
       "team": "Arizona Diamondbacks",
-      "pa": 98,
-      "xr": -0.9399
+      "pa": 102,
+      "xr": -1.3961
     },
     "691907": {
       "name": "Tsung-Che Cheng",
@@ -4145,8 +4145,8 @@
     "699134": {
       "name": "Bradgley Rodriguez",
       "team": "San Diego Padres",
-      "bf": 196,
-      "xr_allowed": -13.236
+      "bf": 202,
+      "xr_allowed": -13.5939
     },
     "623454": {
       "name": "Drew Anderson",
@@ -4319,8 +4319,8 @@
     "666661": {
       "name": "Juan Morillo",
       "team": "Arizona Diamondbacks",
-      "bf": 177,
-      "xr_allowed": -12.4599
+      "bf": 181,
+      "xr_allowed": -12.1108
     },
     "657044": {
       "name": "Ryan Thompson",
@@ -4673,8 +4673,8 @@
     "670970": {
       "name": "Adrian Morejon",
       "team": "San Diego Padres",
-      "bf": 242,
-      "xr_allowed": -12.4997
+      "bf": 246,
+      "xr_allowed": -12.9797
     },
     "646241": {
       "name": "Enmanuel De Jesus",
@@ -4685,8 +4685,8 @@
     "669093": {
       "name": "Jeremiah Estrada",
       "team": "San Diego Padres",
-      "bf": 89,
-      "xr_allowed": -1.7143
+      "bf": 92,
+      "xr_allowed": -2.0266
     },
     "640448": {
       "name": "Kyle Finnegan",
@@ -4763,8 +4763,8 @@
     "642528": {
       "name": "Jonathan Lo\u00e1isiga",
       "team": "Arizona Diamondbacks",
-      "bf": 178,
-      "xr_allowed": -5.3284
+      "bf": 182,
+      "xr_allowed": -5.3381
     },
     "676508": {
       "name": "Ben Casparius",
@@ -5333,8 +5333,8 @@
     "695243": {
       "name": "Mason Miller",
       "team": "San Diego Padres",
-      "bf": 172,
-      "xr_allowed": -14.9465
+      "bf": 176,
+      "xr_allowed": -15.3159
     },
     "607192": {
       "name": "Tyler Glasnow",
@@ -5879,8 +5879,8 @@
     "621111": {
       "name": "Walker Buehler",
       "team": "San Diego Padres",
-      "bf": 435,
-      "xr_allowed": 5.8217
+      "bf": 453,
+      "xr_allowed": 5.2867
     },
     "694738": {
       "name": "Landen Roupp",
@@ -6995,8 +6995,8 @@
     "691769": {
       "name": "Philip Abner",
       "team": "Arizona Diamondbacks",
-      "bf": 41,
-      "xr_allowed": 4.1718
+      "bf": 56,
+      "xr_allowed": 4.956
     },
     "670950": {
       "name": "Trevor Richards",
@@ -8249,8 +8249,8 @@
     "684442": {
       "name": "Kohl Drake",
       "team": "Arizona Diamondbacks",
-      "bf": 59,
-      "xr_allowed": 6.7247
+      "bf": 77,
+      "xr_allowed": 8.4365
     },
     "665645": {
       "name": "Kervin Castro",
@@ -10120,6 +10120,7 @@
     823430,
     824885,
     824080,
-    824729
+    824729,
+    825053
   ]
 }
