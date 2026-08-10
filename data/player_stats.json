@@ -266,9 +266,9 @@
     },
     "669720": {
       "name": "Austin Hays",
-      "team": "Chicago White Sox",
-      "pa": 44,
-      "xr": 0.54
+      "team": "San Diego Padres",
+      "pa": 45,
+      "xr": 1.0004
     },
     "808959": {
       "name": "Munetaka Murakami",
@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "San Diego Padres",
-      "pa": 280,
-      "xr": -3.0989
+      "pa": 284,
+      "xr": -2.475
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -759,20 +759,20 @@
     "514888": {
       "name": "Jose Altuve",
       "team": "Houston Astros",
-      "pa": 390,
-      "xr": -8.7582
+      "pa": 393,
+      "xr": -9.0239
     },
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 500,
-      "xr": 64.6816
+      "pa": 504,
+      "xr": 64.5353
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 459,
-      "xr": 4.6939
+      "pa": 462,
+      "xr": 4.4752
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -819,8 +819,8 @@
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 461,
-      "xr": -2.3612
+      "pa": 464,
+      "xr": -2.3688
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -831,8 +831,8 @@
     "673237": {
       "name": "Yainer Diaz",
       "team": "Houston Astros",
-      "pa": 233,
-      "xr": -1.7259
+      "pa": 236,
+      "xr": -1.9325
     },
     "676694": {
       "name": "Jake Meyers",
@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 498,
-      "xr": 21.3395
+      "pa": 503,
+      "xr": 23.6856
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 432,
-      "xr": 7.7256
+      "pa": 436,
+      "xr": 7.4617
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 472,
-      "xr": 7.4938
+      "pa": 476,
+      "xr": 8.0344
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 468,
-      "xr": 8.5797
+      "pa": 472,
+      "xr": 9.6247
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 366,
-      "xr": 6.9643
+      "pa": 369,
+      "xr": 7.3849
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -951,14 +951,14 @@
     "666023": {
       "name": "Freddy Fermin",
       "team": "San Diego Padres",
-      "pa": 191,
-      "xr": -5.6097
+      "pa": 195,
+      "xr": -5.621
     },
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 251,
-      "xr": -0.5588
+      "pa": 255,
+      "xr": -1.2122
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -1539,8 +1539,8 @@
     "662139": {
       "name": "Daulton Varsho",
       "team": "Houston Astros",
-      "pa": 375,
-      "xr": -6.408
+      "pa": 378,
+      "xr": -5.0773
     },
     "672960": {
       "name": "Kazuma Okamoto",
@@ -1827,8 +1827,8 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 305,
-      "xr": 5.6826
+      "pa": 309,
+      "xr": 5.2283
     },
     "694728": {
       "name": "Brice Matthews",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 315,
-      "xr": 8.4875
+      "pa": 319,
+      "xr": 8.2906
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 178,
-      "xr": 2.8083
+      "pa": 181,
+      "xr": 2.7799
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -3219,8 +3219,8 @@
     "664774": {
       "name": "LaMonte Wade Jr.",
       "team": "Houston Astros",
-      "pa": 85,
-      "xr": 0.1946
+      "pa": 88,
+      "xr": -0.223
     },
     "805672": {
       "name": "Collin Price",
@@ -4109,8 +4109,8 @@
     "805123": {
       "name": "AJ Blubaugh",
       "team": "Houston Astros",
-      "bf": 288,
-      "xr_allowed": 0.9094
+      "bf": 296,
+      "xr_allowed": 1.6543
     },
     "700712": {
       "name": "Walbert Ure\u00f1a",
@@ -4127,8 +4127,8 @@
     "687911": {
       "name": "Bryan King",
       "team": "Houston Astros",
-      "bf": 212,
-      "xr_allowed": -3.5014
+      "bf": 217,
+      "xr_allowed": -3.3514
     },
     "519141": {
       "name": "Drew Pomeranz",
@@ -4169,8 +4169,8 @@
     "699134": {
       "name": "Bradgley Rodriguez",
       "team": "San Diego Padres",
-      "bf": 202,
-      "xr_allowed": -13.5939
+      "bf": 208,
+      "xr_allowed": -13.7016
     },
     "623454": {
       "name": "Drew Anderson",
@@ -4709,8 +4709,8 @@
     "669093": {
       "name": "Jeremiah Estrada",
       "team": "San Diego Padres",
-      "bf": 96,
-      "xr_allowed": -2.1881
+      "bf": 99,
+      "xr_allowed": -2.6342
     },
     "640448": {
       "name": "Kyle Finnegan",
@@ -5183,8 +5183,8 @@
     "664299": {
       "name": "Cristian Javier",
       "team": "Houston Astros",
-      "bf": 125,
-      "xr_allowed": 4.6434
+      "bf": 149,
+      "xr_allowed": 8.0596
     },
     "672282": {
       "name": "Reid Detmers",
@@ -5327,8 +5327,8 @@
     "681190": {
       "name": "Randy V\u00e1squez",
       "team": "San Diego Padres",
-      "bf": 416,
-      "xr_allowed": 21.8184
+      "bf": 433,
+      "xr_allowed": 22.2927
     },
     "656427": {
       "name": "Jack Flaherty",
@@ -5351,8 +5351,8 @@
     "606996": {
       "name": "Kyle Hart",
       "team": "San Diego Padres",
-      "bf": 188,
-      "xr_allowed": -5.5069
+      "bf": 191,
+      "xr_allowed": -5.8419
     },
     "695243": {
       "name": "Mason Miller",
@@ -10243,6 +10243,7 @@
     823190,
     825050,
     823104,
-    824564
+    824564,
+    823268
   ]
 }
