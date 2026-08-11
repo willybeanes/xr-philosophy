@@ -243,26 +243,26 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 499,
-      "xr": 14.5669
+      "pa": 503,
+      "xr": 14.3391
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 455,
-      "xr": 9.1372
+      "pa": 459,
+      "xr": 9.8781
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 357,
-      "xr": -2.4913
+      "pa": 361,
+      "xr": -2.3482
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 225,
-      "xr": 5.6059
+      "pa": 230,
+      "xr": 4.5903
     },
     "669720": {
       "name": "Austin Hays",
@@ -291,8 +291,8 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 413,
-      "xr": 23.8533
+      "pa": 417,
+      "xr": 23.3529
     },
     "686217": {
       "name": "Sal Frelick",
@@ -303,14 +303,14 @@
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 278,
-      "xr": -9.5392
+      "pa": 281,
+      "xr": -9.9514
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 388,
-      "xr": 7.6863
+      "pa": 392,
+      "xr": 7.2762
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "San Diego Padres",
-      "pa": 284,
-      "xr": -2.475
+      "pa": 287,
+      "xr": -2.5996
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -909,8 +909,8 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 503,
-      "xr": 23.6856
+      "pa": 507,
+      "xr": 23.4656
     },
     "593428": {
       "name": "Xander Bogaerts",
@@ -921,14 +921,14 @@
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 476,
-      "xr": 8.0344
+      "pa": 480,
+      "xr": 7.3669
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 472,
-      "xr": 9.6247
+      "pa": 475,
+      "xr": 10.8895
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 369,
-      "xr": 7.3849
+      "pa": 372,
+      "xr": 7.4839
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -951,14 +951,14 @@
     "666023": {
       "name": "Freddy Fermin",
       "team": "San Diego Padres",
-      "pa": 195,
-      "xr": -5.621
+      "pa": 198,
+      "xr": -5.9141
     },
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 255,
-      "xr": -1.2122
+      "pa": 259,
+      "xr": -1.6567
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 319,
-      "xr": 8.2906
+      "pa": 322,
+      "xr": 8.4924
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 368,
-      "xr": 8.9681
+      "pa": 372,
+      "xr": 9.1968
     },
     "805904": {
       "name": "Zach Cole",
@@ -2829,8 +2829,8 @@
     "823550": {
       "name": "Sung-Mun Song",
       "team": "San Diego Padres",
-      "pa": 119,
-      "xr": -2.7931
+      "pa": 122,
+      "xr": -3.1335
     },
     "693409": {
       "name": "C\u00e9sar Prieto",
@@ -3543,8 +3543,8 @@
     "800325": {
       "name": "Luis Lara",
       "team": "Milwaukee Brewers",
-      "pa": 78,
-      "xr": -1.52
+      "pa": 81,
+      "xr": -1.4262
     },
     "687394": {
       "name": "Jack Brannigan",
@@ -4697,8 +4697,8 @@
     "670970": {
       "name": "Adrian Morejon",
       "team": "San Diego Padres",
-      "bf": 252,
-      "xr_allowed": -14.1202
+      "bf": 255,
+      "xr_allowed": -14.1578
     },
     "646241": {
       "name": "Enmanuel De Jesus",
@@ -5357,8 +5357,8 @@
     "695243": {
       "name": "Mason Miller",
       "team": "San Diego Padres",
-      "bf": 181,
-      "xr_allowed": -15.2184
+      "bf": 185,
+      "xr_allowed": -15.5745
     },
     "607192": {
       "name": "Tyler Glasnow",
@@ -6095,8 +6095,8 @@
     "663554": {
       "name": "Casey Mize",
       "team": "San Diego Padres",
-      "bf": 365,
-      "xr_allowed": -11.3063
+      "bf": 390,
+      "xr_allowed": -11.9274
     },
     "608566": {
       "name": "Germ\u00e1n M\u00e1rquez",
@@ -6209,8 +6209,8 @@
     "701656": {
       "name": "Logan Henderson",
       "team": "Milwaukee Brewers",
-      "bf": 174,
-      "xr_allowed": -11.4003
+      "bf": 198,
+      "xr_allowed": -11.5059
     },
     "669212": {
       "name": "Eli Morgan",
@@ -7259,8 +7259,8 @@
     "673513": {
       "name": "Yuki Matsui",
       "team": "San Diego Padres",
-      "bf": 175,
-      "xr_allowed": -12.7389
+      "bf": 178,
+      "xr_allowed": -13.0837
     },
     "682445": {
       "name": "Domingo Gonzalez",
@@ -7636,9 +7636,9 @@
     },
     "680689": {
       "name": "Lyon Richardson",
-      "team": "Cincinnati Reds",
-      "bf": 10,
-      "xr_allowed": 3.4239
+      "team": "Milwaukee Brewers",
+      "bf": 16,
+      "xr_allowed": 3.005
     },
     "696522": {
       "name": "Hayden Juenger",
@@ -10248,6 +10248,7 @@
     822780,
     824887,
     823675,
-    823018
+    823018,
+    823265
   ]
 }
