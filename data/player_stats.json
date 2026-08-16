@@ -1101,26 +1101,26 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 482,
-      "xr": 24.6177
+      "pa": 486,
+      "xr": 24.8511
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 303,
-      "xr": -0.9898
+      "pa": 307,
+      "xr": 0.4572
     },
     "608369": {
       "name": "Corey Seager",
       "team": "Texas Rangers",
-      "pa": 258,
-      "xr": 9.1846
+      "pa": 262,
+      "xr": 9.0244
     },
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 465,
-      "xr": -3.0132
+      "pa": 469,
+      "xr": -2.7883
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 360,
-      "xr": 16.5982
+      "pa": 365,
+      "xr": 15.5717
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 337,
-      "xr": -6.2796
+      "pa": 341,
+      "xr": -6.4248
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 424,
-      "xr": -2.6341
+      "pa": 429,
+      "xr": -3.8397
     },
     "606466": {
       "name": "Ketel Marte",
@@ -1527,8 +1527,8 @@
     "671732": {
       "name": "Lawrence Butler",
       "team": "Athletics",
-      "pa": 354,
-      "xr": -1.8262
+      "pa": 358,
+      "xr": -1.7758
     },
     "672386": {
       "name": "Alejandro Kirk",
@@ -1551,14 +1551,14 @@
     "691777": {
       "name": "Max Muncy",
       "team": "Athletics",
-      "pa": 203,
-      "xr": -6.4753
+      "pa": 207,
+      "xr": -7.2142
     },
     "643446": {
       "name": "Jeff McNeil",
       "team": "Athletics",
-      "pa": 350,
-      "xr": 3.1529
+      "pa": 354,
+      "xr": 2.3715
     },
     "672016": {
       "name": "Denzel Clarke",
@@ -1803,8 +1803,8 @@
     "641680": {
       "name": "Jonah Heim",
       "team": "Athletics",
-      "pa": 276,
-      "xr": -0.2051
+      "pa": 280,
+      "xr": -0.1523
     },
     "671739": {
       "name": "Michael Harris II",
@@ -2163,8 +2163,8 @@
     "642851": {
       "name": "Austin Wynns",
       "team": "Texas Rangers",
-      "pa": 84,
-      "xr": -5.4539
+      "pa": 87,
+      "xr": -5.611
     },
     "623168": {
       "name": "Tyler Heineman",
@@ -2523,8 +2523,8 @@
     "680869": {
       "name": "Zack Gelof",
       "team": "Athletics",
-      "pa": 249,
-      "xr": -3.9375
+      "pa": 253,
+      "xr": -4.3441
     },
     "502054": {
       "name": "Tommy Pham",
@@ -2697,8 +2697,8 @@
     "670032": {
       "name": "Nicky Lopez",
       "team": "Texas Rangers",
-      "pa": 213,
-      "xr": -11.3811
+      "pa": 217,
+      "xr": -12.1179
     },
     "682818": {
       "name": "Yohendrick Pi\u00f1ango",
@@ -2739,8 +2739,8 @@
     "672284": {
       "name": "Jarred Kelenic",
       "team": "Texas Rangers",
-      "pa": 65,
-      "xr": 2.2482
+      "pa": 66,
+      "xr": 2.8824
     },
     "680474": {
       "name": "Max Schuemann",
@@ -2931,8 +2931,8 @@
     "703607": {
       "name": "Henry Bolte",
       "team": "Athletics",
-      "pa": 291,
-      "xr": -3.4053
+      "pa": 296,
+      "xr": -2.2944
     },
     "683021": {
       "name": "Michael Stefanic",
@@ -2979,8 +2979,8 @@
     "675961": {
       "name": "Alika Williams",
       "team": "Athletics",
-      "pa": 139,
-      "xr": -8.9618
+      "pa": 143,
+      "xr": -8.7838
     },
     "806068": {
       "name": "Colt Emerson",
@@ -3525,8 +3525,8 @@
     "661531": {
       "name": "Brian Serven",
       "team": "Athletics",
-      "pa": 28,
-      "xr": 0.7989
+      "pa": 32,
+      "xr": 0.4018
     },
     "672613": {
       "name": "Eliezer Alfonzo",
@@ -3603,8 +3603,8 @@
     "695720": {
       "name": "Tommy White",
       "team": "Athletics",
-      "pa": 93,
-      "xr": -2.2005
+      "pa": 97,
+      "xr": -2.1534
     },
     "687952": {
       "name": "Christian Encarnacion-Strand",
@@ -4169,8 +4169,8 @@
     "681217": {
       "name": "Chase Silseth",
       "team": "Texas Rangers",
-      "bf": 205,
-      "xr_allowed": -3.8664
+      "bf": 206,
+      "xr_allowed": -4.14
     },
     "687911": {
       "name": "Bryan King",
@@ -5063,8 +5063,8 @@
     "656641": {
       "name": "Jacob Latz",
       "team": "Texas Rangers",
-      "bf": 194,
-      "xr_allowed": -9.6567
+      "bf": 200,
+      "xr_allowed": -10.3326
     },
     "668390": {
       "name": "Cole Winn",
@@ -5087,8 +5087,8 @@
     "596001": {
       "name": "Jakob Junis",
       "team": "Texas Rangers",
-      "bf": 159,
-      "xr_allowed": -4.0824
+      "bf": 162,
+      "xr_allowed": -4.3006
     },
     "641835": {
       "name": "Tim Mayza",
@@ -5501,8 +5501,8 @@
     "669022": {
       "name": "MacKenzie Gore",
       "team": "Texas Rangers",
-      "bf": 570,
-      "xr_allowed": -5.7717
+      "bf": 597,
+      "xr_allowed": -5.4888
     },
     "641745": {
       "name": "Brad Keller",
@@ -5549,8 +5549,8 @@
     "669372": {
       "name": "J.T. Ginn",
       "team": "Athletics",
-      "bf": 482,
-      "xr_allowed": -1.2139
+      "bf": 507,
+      "xr_allowed": -1.8466
     },
     "695076": {
       "name": "Rhett Lowder",
@@ -6845,8 +6845,8 @@
     "669620": {
       "name": "Brady Basso",
       "team": "Athletics",
-      "bf": 85,
-      "xr_allowed": -2.3792
+      "bf": 91,
+      "xr_allowed": -2.6229
     },
     "700842": {
       "name": "Eduardo Rivera",
@@ -8315,8 +8315,8 @@
     "656240": {
       "name": "Scott Blewett",
       "team": "Athletics",
-      "bf": 52,
-      "xr_allowed": -0.2601
+      "bf": 59,
+      "xr_allowed": -0.2756
     },
     "684442": {
       "name": "Kohl Drake",
@@ -10417,6 +10417,7 @@
     823347,
     824884,
     823914,
-    823990
+    823990,
+    824966
   ]
 }
