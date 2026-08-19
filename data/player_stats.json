@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 494,
-      "xr": -1.3172
+      "pa": 498,
+      "xr": -1.7454
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 483,
-      "xr": -12.4304
+      "pa": 487,
+      "xr": -12.0424
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 525,
-      "xr": 30.4776
+      "pa": 529,
+      "xr": 30.8656
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 367,
-      "xr": 7.4956
+      "pa": 371,
+      "xr": 6.6748
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 375,
-      "xr": 25.9998
+      "pa": 380,
+      "xr": 26.5279
     },
     "677592": {
       "name": "Everson Pereira",
@@ -351,8 +351,8 @@
     "671976": {
       "name": "Tristan Peters",
       "team": "Chicago White Sox",
-      "pa": 355,
-      "xr": -9.5088
+      "pa": 359,
+      "xr": -8.7763
     },
     "624512": {
       "name": "Reese McGuire",
@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 547,
-      "xr": 9.5252
+      "pa": 551,
+      "xr": 10.7954
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 554,
-      "xr": 2.0327
+      "pa": 559,
+      "xr": 2.8405
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 507,
-      "xr": -4.7376
+      "pa": 511,
+      "xr": -5.1226
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 550,
-      "xr": 15.7089
+      "pa": 555,
+      "xr": 15.6411
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,14 +435,14 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 530,
-      "xr": 6.0123
+      "pa": 534,
+      "xr": 6.3275
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 319,
-      "xr": 4.6488
+      "pa": 320,
+      "xr": 5.0233
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 212,
-      "xr": 2.3056
+      "pa": 216,
+      "xr": 1.7207
     },
     "668885": {
       "name": "Austin Martin",
@@ -1467,8 +1467,8 @@
     "545341": {
       "name": "Randal Grichuk",
       "team": "Chicago White Sox",
-      "pa": 190,
-      "xr": 5.2946
+      "pa": 191,
+      "xr": 5.139
     },
     "701762": {
       "name": "Nick Kurtz",
@@ -1905,8 +1905,8 @@
     "665804": {
       "name": "Miguel Amaya",
       "team": "Chicago Cubs",
-      "pa": 205,
-      "xr": -0.9518
+      "pa": 208,
+      "xr": -1.4218
     },
     "677588": {
       "name": "Jos\u00e9 Tena",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 461,
-      "xr": 5.0825
+      "pa": 466,
+      "xr": 3.4647
     },
     "695257": {
       "name": "Billy Cook",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 404,
-      "xr": 14.8922
+      "pa": 409,
+      "xr": 15.0067
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2685,8 +2685,8 @@
     "691011": {
       "name": "Drew Romo",
       "team": "Chicago White Sox",
-      "pa": 166,
-      "xr": -11.3486
+      "pa": 169,
+      "xr": -11.3966
     },
     "687515": {
       "name": "Colby Thomas",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 145,
-      "xr": -2.6548
+      "pa": 149,
+      "xr": -2.8267
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3273,8 +3273,8 @@
     "695731": {
       "name": "Braden Montgomery",
       "team": "Chicago White Sox",
-      "pa": 236,
-      "xr": -5.3857
+      "pa": 240,
+      "xr": -5.8784
     },
     "694249": {
       "name": "Cole Carrigg",
@@ -4043,8 +4043,8 @@
     "657097": {
       "name": "Jacob Webb",
       "team": "Chicago Cubs",
-      "bf": 222,
-      "xr_allowed": -0.8183
+      "bf": 226,
+      "xr_allowed": -0.8351
     },
     "672335": {
       "name": "Cionel P\u00e9rez",
@@ -4565,8 +4565,8 @@
     "592332": {
       "name": "Kevin Gausman",
       "team": "Chicago Cubs",
-      "bf": 590,
-      "xr_allowed": 4.8077
+      "bf": 611,
+      "xr_allowed": 6.7647
     },
     "622663": {
       "name": "Luis Severino",
@@ -4937,8 +4937,8 @@
     "573204": {
       "name": "Caleb Thielbar",
       "team": "Chicago Cubs",
-      "bf": 160,
-      "xr_allowed": 1.0443
+      "bf": 163,
+      "xr_allowed": 0.733
     },
     "669371": {
       "name": "Cole Henry",
@@ -5177,8 +5177,8 @@
     "623211": {
       "name": "Huascar Brazob\u00e1n",
       "team": "Chicago White Sox",
-      "bf": 233,
-      "xr_allowed": -8.2609
+      "bf": 236,
+      "xr_allowed": -7.6892
     },
     "596133": {
       "name": "Luke Weaver",
@@ -5297,8 +5297,8 @@
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 248,
-      "xr_allowed": -12.8191
+      "bf": 252,
+      "xr_allowed": -12.8023
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -5309,8 +5309,8 @@
     "663542": {
       "name": "Bryan Hudson",
       "team": "Chicago White Sox",
-      "bf": 211,
-      "xr_allowed": -3.8559
+      "bf": 216,
+      "xr_allowed": -3.7428
     },
     "682842": {
       "name": "Abner Uribe",
@@ -6065,8 +6065,8 @@
     "607200": {
       "name": "Erick Fedde",
       "team": "Chicago White Sox",
-      "bf": 480,
-      "xr_allowed": 10.8717
+      "bf": 499,
+      "xr_allowed": 9.0472
     },
     "453286": {
       "name": "Max Scherzer",
@@ -6371,8 +6371,8 @@
     "665871": {
       "name": "Javier Assad",
       "team": "Chicago Cubs",
-      "bf": 310,
-      "xr_allowed": 5.2034
+      "bf": 320,
+      "xr_allowed": 3.7803
     },
     "687606": {
       "name": "Paxton Schultz",
@@ -7085,8 +7085,8 @@
     "670950": {
       "name": "Trevor Richards",
       "team": "Chicago White Sox",
-      "bf": 226,
-      "xr_allowed": -7.6022
+      "bf": 234,
+      "xr_allowed": -7.009
     },
     "805299": {
       "name": "Brandyn Garcia",
@@ -10518,6 +10518,7 @@
     823749,
     822859,
     824154,
-    824319
+    824319,
+    824639
   ]
 }
