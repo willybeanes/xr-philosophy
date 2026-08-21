@@ -3,8 +3,8 @@
     "663757": {
       "name": "Trent Grisham",
       "team": "New York Yankees",
-      "pa": 416,
-      "xr": 15.3918
+      "pa": 421,
+      "xr": 15.4347
     },
     "592450": {
       "name": "Aaron Judge",
@@ -51,8 +51,8 @@
     "700250": {
       "name": "Ben Rice",
       "team": "New York Yankees",
-      "pa": 507,
-      "xr": 31.8182
+      "pa": 512,
+      "xr": 32.5367
     },
     "519317": {
       "name": "Giancarlo Stanton",
@@ -63,14 +63,14 @@
     "665862": {
       "name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
-      "pa": 448,
-      "xr": -10.2963
+      "pa": 452,
+      "xr": -10.4973
     },
     "676609": {
       "name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
-      "pa": 351,
-      "xr": -2.8513
+      "pa": 355,
+      "xr": -3.6799
     },
     "641857": {
       "name": "Ryan McMahon",
@@ -81,14 +81,14 @@
     "669224": {
       "name": "Austin Wells",
       "team": "New York Yankees",
-      "pa": 284,
-      "xr": -5.7237
+      "pa": 288,
+      "xr": -6.057
     },
     "671218": {
       "name": "Heliot Ramos",
       "team": "New York Yankees",
-      "pa": 343,
-      "xr": -1.3685
+      "pa": 347,
+      "xr": -0.7553
     },
     "669477": {
       "name": "Casey Schmitt",
@@ -477,8 +477,8 @@
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
       "team": "New York Yankees",
-      "pa": 419,
-      "xr": 16.6811
+      "pa": 423,
+      "xr": 17.2167
     },
     "624424": {
       "name": "Michael Conforto",
@@ -513,14 +513,14 @@
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 556,
-      "xr": 8.3996
+      "pa": 560,
+      "xr": 8.3834
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 538,
-      "xr": 40.5168
+      "pa": 542,
+      "xr": 40.7375
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -567,8 +567,8 @@
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 301,
-      "xr": 12.9819
+      "pa": 305,
+      "xr": 11.8919
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,8 +579,8 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 297,
-      "xr": -2.0716
+      "pa": 300,
+      "xr": -2.3962
     },
     "691723": {
       "name": "Coby Mayo",
@@ -669,8 +669,8 @@
     "665966": {
       "name": "Carlos Narv\u00e1ez",
       "team": "Baltimore Orioles",
-      "pa": 233,
-      "xr": -10.2128
+      "pa": 236,
+      "xr": -10.3025
     },
     "678882": {
       "name": "Ceddanne Rafaela",
@@ -1941,8 +1941,8 @@
     "687637": {
       "name": "Dylan Beavers",
       "team": "Baltimore Orioles",
-      "pa": 224,
-      "xr": -1.5146
+      "pa": 227,
+      "xr": -1.2582
     },
     "669236": {
       "name": "Jeremiah Jackson",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 376,
-      "xr": -7.3369
+      "pa": 379,
+      "xr": -7.2554
     },
     "681546": {
       "name": "James Outman",
@@ -2871,8 +2871,8 @@
     "682987": {
       "name": "Spencer Jones",
       "team": "New York Yankees",
-      "pa": 154,
-      "xr": 0.3569
+      "pa": 158,
+      "xr": 1.9803
     },
     "814439": {
       "name": "Ryan Waldschmidt",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 260,
-      "xr": -3.8772
+      "pa": 264,
+      "xr": -4.5125
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3609,8 +3609,8 @@
     "687952": {
       "name": "Christian Encarnacion-Strand",
       "team": "Baltimore Orioles",
-      "pa": 93,
-      "xr": 0.4075
+      "pa": 97,
+      "xr": 0.3743
     },
     "681190": {
       "name": "Randy V\u00e1squez",
@@ -3693,8 +3693,8 @@
     "806146": {
       "name": "George Lombard Jr.",
       "team": "New York Yankees",
-      "pa": 50,
-      "xr": -0.0731
+      "pa": 54,
+      "xr": -0.7241
     },
     "666163": {
       "name": "Ben Rortvedt",
@@ -5015,8 +5015,8 @@
     "680694": {
       "name": "Kyle Bradish",
       "team": "Baltimore Orioles",
-      "bf": 534,
-      "xr_allowed": 0.0713
+      "bf": 559,
+      "xr_allowed": 2.1886
     },
     "671737": {
       "name": "Taj Bradley",
@@ -5495,8 +5495,8 @@
     "664991": {
       "name": "Grant Wolfram",
       "team": "Baltimore Orioles",
-      "bf": 169,
-      "xr_allowed": 0.5475
+      "bf": 173,
+      "xr_allowed": 0.0611
     },
     "670329": {
       "name": "Rico Garcia",
@@ -6179,8 +6179,8 @@
     "544150": {
       "name": "Albert Su\u00e1rez",
       "team": "Baltimore Orioles",
-      "bf": 222,
-      "xr_allowed": 0.7958
+      "bf": 231,
+      "xr_allowed": 0.6846
     },
     "608371": {
       "name": "Lucas Sims",
@@ -6233,8 +6233,8 @@
     "642232": {
       "name": "Ryan Yarbrough",
       "team": "New York Yankees",
-      "bf": 196,
-      "xr_allowed": -4.0559
+      "bf": 205,
+      "xr_allowed": -4.9007
     },
     "685801": {
       "name": "Hunter Bigge",
@@ -7529,8 +7529,8 @@
     "543037": {
       "name": "Gerrit Cole",
       "team": "New York Yankees",
-      "bf": 353,
-      "xr_allowed": -6.2177
+      "bf": 376,
+      "xr_allowed": -7.0033
     },
     "594027": {
       "name": "Tyron Guerrero",
@@ -10564,6 +10564,7 @@
     822934,
     824589,
     824074,
-    823747
+    823747,
+    824802
   ]
 }
