@@ -333,8 +333,8 @@
     "650859": {
       "name": "Luis Rengifo",
       "team": "San Diego Padres",
-      "pa": 321,
-      "xr": -3.6965
+      "pa": 325,
+      "xr": -4.2809
     },
     "663604": {
       "name": "Brandon Lockridge",
@@ -495,14 +495,14 @@
     "621439": {
       "name": "Byron Buxton",
       "team": "Minnesota Twins",
-      "pa": 376,
-      "xr": 3.7859
+      "pa": 381,
+      "xr": 4.461
     },
     "807712": {
       "name": "Luke Keaschall",
       "team": "Minnesota Twins",
-      "pa": 464,
-      "xr": 1.6292
+      "pa": 469,
+      "xr": 3.4131
     },
     "621493": {
       "name": "Taylor Ward",
@@ -525,8 +525,8 @@
     "680777": {
       "name": "Ryan Jeffers",
       "team": "Minnesota Twins",
-      "pa": 254,
-      "xr": 16.9756
+      "pa": 259,
+      "xr": 16.2185
     },
     "670242": {
       "name": "Matt Wallner",
@@ -537,8 +537,8 @@
     "605137": {
       "name": "Josh Bell",
       "team": "Minnesota Twins",
-      "pa": 491,
-      "xr": 23.058
+      "pa": 496,
+      "xr": 22.2967
     },
     "605170": {
       "name": "Victor Caratini",
@@ -549,14 +549,14 @@
     "668904": {
       "name": "Royce Lewis",
       "team": "Minnesota Twins",
-      "pa": 372,
-      "xr": -0.4827
+      "pa": 376,
+      "xr": -1.0104
     },
     "686797": {
       "name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "pa": 481,
-      "xr": -7.7295
+      "pa": 485,
+      "xr": -7.8391
     },
     "668939": {
       "name": "Adley Rutschman",
@@ -597,14 +597,14 @@
     "665019": {
       "name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "pa": 445,
-      "xr": 15.0466
+      "pa": 449,
+      "xr": 15.7298
     },
     "663616": {
       "name": "Trevor Larnach",
       "team": "Minnesota Twins",
-      "pa": 376,
-      "xr": 10.492
+      "pa": 380,
+      "xr": 9.6415
     },
     "701350": {
       "name": "Roman Anthony",
@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 544,
-      "xr": 30.9722
+      "pa": 549,
+      "xr": 31.2511
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 472,
-      "xr": 9.772
+      "pa": 476,
+      "xr": 9.6386
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 520,
-      "xr": 9.1076
+      "pa": 525,
+      "xr": 8.6717
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 512,
-      "xr": 10.193
+      "pa": 516,
+      "xr": 11.7241
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -939,8 +939,8 @@
     "657757": {
       "name": "Gavin Sheets",
       "team": "San Diego Padres",
-      "pa": 390,
-      "xr": 7.4864
+      "pa": 392,
+      "xr": 7.2298
     },
     "657656": {
       "name": "Ram\u00f3n Laureano",
@@ -951,14 +951,14 @@
     "666023": {
       "name": "Freddy Fermin",
       "team": "San Diego Padres",
-      "pa": 214,
-      "xr": -7.0343
+      "pa": 218,
+      "xr": -5.9864
     },
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 298,
-      "xr": -1.8827
+      "pa": 303,
+      "xr": -1.937
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -1845,14 +1845,14 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 362,
-      "xr": 10.8706
+      "pa": 366,
+      "xr": 10.6319
     },
     "669134": {
       "name": "Luis Campusano",
       "team": "San Diego Padres",
-      "pa": 157,
-      "xr": 6.1528
+      "pa": 159,
+      "xr": 6.2815
     },
     "663330": {
       "name": "Jahmai Jones",
@@ -3741,8 +3741,8 @@
     "701785": {
       "name": "Kaelen Culpepper",
       "team": "Minnesota Twins",
-      "pa": 43,
-      "xr": -1.232
+      "pa": 47,
+      "xr": -0.6029
     },
     "703520": {
       "name": "Brett Bateman",
@@ -4769,8 +4769,8 @@
     "670970": {
       "name": "Adrian Morejon",
       "team": "San Diego Padres",
-      "bf": 275,
-      "xr_allowed": -16.7064
+      "bf": 278,
+      "xr_allowed": -16.7039
     },
     "646241": {
       "name": "Enmanuel De Jesus",
@@ -4997,8 +4997,8 @@
     "667297": {
       "name": "Tommy Nance",
       "team": "Minnesota Twins",
-      "bf": 187,
-      "xr_allowed": -1.5433
+      "bf": 193,
+      "xr_allowed": -3.0512
     },
     "665660": {
       "name": "Elvis Alvarado",
@@ -5423,14 +5423,14 @@
     "606996": {
       "name": "Kyle Hart",
       "team": "San Diego Padres",
-      "bf": 209,
-      "xr_allowed": -7.4293
+      "bf": 215,
+      "xr_allowed": -6.8612
     },
     "695243": {
       "name": "Mason Miller",
       "team": "San Diego Padres",
-      "bf": 196,
-      "xr_allowed": -16.3276
+      "bf": 199,
+      "xr_allowed": -16.771
     },
     "607192": {
       "name": "Tyler Glasnow",
@@ -6167,8 +6167,8 @@
     "663554": {
       "name": "Casey Mize",
       "team": "San Diego Padres",
-      "bf": 412,
-      "xr_allowed": -13.3407
+      "bf": 425,
+      "xr_allowed": -12.6079
     },
     "608566": {
       "name": "Germ\u00e1n M\u00e1rquez",
@@ -6533,8 +6533,8 @@
     "702193": {
       "name": "Andrew Morris",
       "team": "Minnesota Twins",
-      "bf": 246,
-      "xr_allowed": -12.0557
+      "bf": 254,
+      "xr_allowed": -10.5533
     },
     "680704": {
       "name": "Nick Sandlin",
@@ -6575,8 +6575,8 @@
     "665152": {
       "name": "Dean Kremer",
       "team": "Minnesota Twins",
-      "bf": 218,
-      "xr_allowed": 1.161
+      "bf": 240,
+      "xr_allowed": 2.1182
     },
     "671131": {
       "name": "Jackson Rutledge",
@@ -7181,8 +7181,8 @@
     "656288": {
       "name": "Griffin Canning",
       "team": "San Diego Padres",
-      "bf": 297,
-      "xr_allowed": 4.8336
+      "bf": 312,
+      "xr_allowed": 4.7387
     },
     "676568": {
       "name": "Ricky Vanasco",
@@ -7631,8 +7631,8 @@
     "621345": {
       "name": "A.J. Minter",
       "team": "Minnesota Twins",
-      "bf": 126,
-      "xr_allowed": -5.2213
+      "bf": 129,
+      "xr_allowed": -4.8897
     },
     "695611": {
       "name": "Gage Jump",
@@ -10638,6 +10638,7 @@
     824560,
     824718,
     825044,
-    824316
+    824316,
+    823261
   ]
 }
