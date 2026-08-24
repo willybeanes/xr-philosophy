@@ -243,26 +243,26 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 536,
-      "xr": 12.603
+      "pa": 541,
+      "xr": 13.0272
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 504,
-      "xr": 12.5559
+      "pa": 509,
+      "xr": 13.2256
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 395,
-      "xr": 4.0661
+      "pa": 399,
+      "xr": 4.6398
     },
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 264,
-      "xr": 5.5779
+      "pa": 268,
+      "xr": 5.4024
     },
     "669720": {
       "name": "Austin Hays",
@@ -291,8 +291,8 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 465,
-      "xr": 27.1633
+      "pa": 470,
+      "xr": 25.7185
     },
     "686217": {
       "name": "Sal Frelick",
@@ -303,20 +303,20 @@
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 309,
-      "xr": -10.2669
+      "pa": 312,
+      "xr": -9.3876
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 420,
-      "xr": 8.5672
+      "pa": 422,
+      "xr": 7.8993
     },
     "687401": {
       "name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
-      "pa": 316,
-      "xr": -5.3413
+      "pa": 320,
+      "xr": -5.4473
     },
     "682668": {
       "name": "Luisangel Acu\u00f1a",
@@ -1725,38 +1725,38 @@
     "657041": {
       "name": "Lane Thomas",
       "team": "Atlanta Braves",
-      "pa": 347,
-      "xr": 2.5404
+      "pa": 350,
+      "xr": 3.5805
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
-      "pa": 343,
-      "xr": 16.5308
+      "pa": 348,
+      "xr": 17.0342
     },
     "686948": {
       "name": "Drake Baldwin",
       "team": "Atlanta Braves",
-      "pa": 461,
-      "xr": 27.0665
+      "pa": 465,
+      "xr": 26.6982
     },
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 540,
-      "xr": -7.8584
+      "pa": 545,
+      "xr": -7.6063
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 552,
-      "xr": 23.1725
+      "pa": 557,
+      "xr": 22.2814
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 504,
-      "xr": -11.23
+      "pa": 508,
+      "xr": -11.0846
     },
     "642201": {
       "name": "Eli White",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 483,
-      "xr": -0.1162
+      "pa": 487,
+      "xr": -0.4301
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 487,
-      "xr": 13.8024
+      "pa": 492,
+      "xr": 12.5751
     },
     "695600": {
       "name": "Carter Jensen",
@@ -2055,8 +2055,8 @@
     "573262": {
       "name": "Mike Yastrzemski",
       "team": "Atlanta Braves",
-      "pa": 321,
-      "xr": 1.2218
+      "pa": 322,
+      "xr": 0.9967
     },
     "664728": {
       "name": "Kyle Isbel",
@@ -2223,8 +2223,8 @@
     "596142": {
       "name": "Gary S\u00e1nchez",
       "team": "Milwaukee Brewers",
-      "pa": 220,
-      "xr": 8.751
+      "pa": 221,
+      "xr": 8.4156
     },
     "691620": {
       "name": "Jeferson Quero",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 419,
-      "xr": 8.1615
+      "pa": 424,
+      "xr": 7.7914
     },
     "805904": {
       "name": "Zach Cole",
@@ -2805,8 +2805,8 @@
     "669221": {
       "name": "Sean Murphy",
       "team": "Atlanta Braves",
-      "pa": 30,
-      "xr": -2.1216
+      "pa": 34,
+      "xr": -3.1981
     },
     "805811": {
       "name": "Bryce Eldridge",
@@ -3543,8 +3543,8 @@
     "800325": {
       "name": "Luis Lara",
       "team": "Milwaukee Brewers",
-      "pa": 120,
-      "xr": -0.9015
+      "pa": 122,
+      "xr": -0.683
     },
     "687394": {
       "name": "Jack Brannigan",
@@ -3971,8 +3971,8 @@
     "676879": {
       "name": "Aaron Ashby",
       "team": "Milwaukee Brewers",
-      "bf": 304,
-      "xr_allowed": -9.4515
+      "bf": 308,
+      "xr_allowed": -9.8393
     },
     "663855": {
       "name": "Jordan Hicks",
@@ -3989,14 +3989,14 @@
     "681982": {
       "name": "Grant Anderson",
       "team": "Milwaukee Brewers",
-      "bf": 202,
-      "xr_allowed": -6.4465
+      "bf": 206,
+      "xr_allowed": -6.4395
     },
     "669084": {
       "name": "DL Hall",
       "team": "Milwaukee Brewers",
-      "bf": 156,
-      "xr_allowed": -2.1094
+      "bf": 161,
+      "xr_allowed": -2.7012
     },
     "673929": {
       "name": "Jordan Leasure",
@@ -4691,8 +4691,8 @@
     "669276": {
       "name": "Dylan Lee",
       "team": "Atlanta Braves",
-      "bf": 212,
-      "xr_allowed": -13.4161
+      "bf": 216,
+      "xr_allowed": -13.5822
     },
     "663158": {
       "name": "Robert Suarez",
@@ -5387,8 +5387,8 @@
     "641816": {
       "name": "Tyler Mahle",
       "team": "Atlanta Braves",
-      "bf": 450,
-      "xr_allowed": 5.4503
+      "bf": 474,
+      "xr_allowed": 6.6806
     },
     "701542": {
       "name": "Will Warren",
@@ -5549,8 +5549,8 @@
     "800311": {
       "name": "Didier Fuentes",
       "team": "Atlanta Braves",
-      "bf": 227,
-      "xr_allowed": -10.7682
+      "bf": 234,
+      "xr_allowed": -11.9884
     },
     "670167": {
       "name": "John Schreiber",
@@ -5903,8 +5903,8 @@
     "628452": {
       "name": "Raisel Iglesias",
       "team": "Atlanta Braves",
-      "bf": 189,
-      "xr_allowed": -4.1265
+      "bf": 194,
+      "xr_allowed": -4.3048
     },
     "665795": {
       "name": "Edward Cabrera",
@@ -6419,8 +6419,8 @@
     "675660": {
       "name": "Shane Drohan",
       "team": "Milwaukee Brewers",
-      "bf": 411,
-      "xr_allowed": -4.4671
+      "bf": 434,
+      "xr_allowed": -5.684
     },
     "701719": {
       "name": "Tyler Samaniego",
@@ -7985,8 +7985,8 @@
     "669060": {
       "name": "Bryse Wilson",
       "team": "Milwaukee Brewers",
-      "bf": 124,
-      "xr_allowed": -1.436
+      "bf": 128,
+      "xr_allowed": -1.4077
     },
     "691008": {
       "name": "Max Rajcic",
@@ -10671,6 +10671,7 @@
     823909,
     823258,
     825043,
-    823099
+    823099,
+    823745
   ]
 }
