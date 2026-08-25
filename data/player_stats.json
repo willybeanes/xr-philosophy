@@ -867,8 +867,8 @@
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 363,
-      "xr": 13.9946
+      "pa": 367,
+      "xr": 13.5102
     },
     "682985": {
       "name": "Riley Greene",
@@ -879,20 +879,20 @@
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 493,
-      "xr": -3.1146
+      "pa": 497,
+      "xr": -4.3349
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 559,
-      "xr": 22.7826
+      "pa": 563,
+      "xr": 22.8433
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 496,
-      "xr": 22.336
+      "pa": 500,
+      "xr": 22.6609
     },
     "678009": {
       "name": "Parker Meadows",
@@ -903,8 +903,8 @@
     "595879": {
       "name": "Javier B\u00e1ez",
       "team": "Detroit Tigers",
-      "pa": 150,
-      "xr": -9.7985
+      "pa": 153,
+      "xr": -10.289
     },
     "665487": {
       "name": "Fernando Tatis Jr.",
@@ -969,26 +969,26 @@
     "650490": {
       "name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
-      "pa": 544,
-      "xr": 25.675
+      "pa": 549,
+      "xr": 25.9868
     },
     "668723": {
       "name": "Ryan Vilade",
       "team": "Tampa Bay Rays",
-      "pa": 209,
-      "xr": 1.6599
+      "pa": 212,
+      "xr": 2.4463
     },
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 543,
-      "xr": 22.803
+      "pa": 547,
+      "xr": 21.9188
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 558,
-      "xr": 24.964
+      "pa": 562,
+      "xr": 24.6077
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1029,20 +1029,20 @@
     "676356": {
       "name": "Jonny DeLuca",
       "team": "Tampa Bay Rays",
-      "pa": 255,
-      "xr": -13.9748
+      "pa": 259,
+      "xr": -13.8578
     },
     "663743": {
       "name": "Nick Fortes",
       "team": "Tampa Bay Rays",
-      "pa": 269,
-      "xr": -7.6857
+      "pa": 274,
+      "xr": -8.5226
     },
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 425,
-      "xr": -24.3377
+      "pa": 426,
+      "xr": -24.5938
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,8 +1077,8 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 486,
-      "xr": -19.2293
+      "pa": 490,
+      "xr": -19.5845
     },
     "680700": {
       "name": "Richie Palacios",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 351,
-      "xr": -7.449
+      "pa": 355,
+      "xr": -8.3173
     },
     "664034": {
       "name": "Ty France",
@@ -2145,8 +2145,8 @@
     "622761": {
       "name": "Jorge Mateo",
       "team": "Tampa Bay Rays",
-      "pa": 142,
-      "xr": -2.0234
+      "pa": 146,
+      "xr": -1.5393
     },
     "571657": {
       "name": "Kyle Farmer",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 363,
-      "xr": -19.5236
+      "pa": 367,
+      "xr": -19.9291
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu Lee",
       "team": "Detroit Tigers",
-      "pa": 233,
-      "xr": 0.676
+      "pa": 237,
+      "xr": 0.1657
     },
     "694025": {
       "name": "Felix Reyes",
@@ -3447,8 +3447,8 @@
     "701162": {
       "name": "Ben Malgeri",
       "team": "Detroit Tigers",
-      "pa": 78,
-      "xr": 0.876
+      "pa": 80,
+      "xr": 1.3571
     },
     "640459": {
       "name": "Brian Navarreto",
@@ -3657,8 +3657,8 @@
     "703601": {
       "name": "Max Clark",
       "team": "Detroit Tigers",
-      "pa": 86,
-      "xr": -2.4643
+      "pa": 89,
+      "xr": -2.8207
     },
     "680716": {
       "name": "Jonathan Ornelas",
@@ -3819,8 +3819,8 @@
     "814430": {
       "name": "Brett Callahan",
       "team": "Detroit Tigers",
-      "pa": 20,
-      "xr": -0.4954
+      "pa": 22,
+      "xr": -0.2066
     },
     "677943": {
       "name": "Will Banfield",
@@ -4259,8 +4259,8 @@
     "663947": {
       "name": "Tyler Holton",
       "team": "Detroit Tigers",
-      "bf": 244,
-      "xr_allowed": -2.1315
+      "bf": 248,
+      "xr_allowed": -2.6427
     },
     "593974": {
       "name": "Wandy Peralta",
@@ -4283,8 +4283,8 @@
     "656876": {
       "name": "Drew Rasmussen",
       "team": "Tampa Bay Rays",
-      "bf": 529,
-      "xr_allowed": -9.1266
+      "bf": 550,
+      "xr_allowed": -9.52
     },
     "694335": {
       "name": "Matt Svanson",
@@ -4313,8 +4313,8 @@
     "664076": {
       "name": "Garrett Cleavinger",
       "team": "Tampa Bay Rays",
-      "bf": 157,
-      "xr_allowed": -1.1166
+      "bf": 160,
+      "xr_allowed": -1.5603
     },
     "643377": {
       "name": "Griffin Jax",
@@ -4763,8 +4763,8 @@
     "664285": {
       "name": "Framber Valdez",
       "team": "Detroit Tigers",
-      "bf": 613,
-      "xr_allowed": 10.8789
+      "bf": 639,
+      "xr_allowed": 10.7831
     },
     "670970": {
       "name": "Adrian Morejon",
@@ -4913,8 +4913,8 @@
     "641329": {
       "name": "Bryan Baker",
       "team": "Tampa Bay Rays",
-      "bf": 194,
-      "xr_allowed": -4.9067
+      "bf": 199,
+      "xr_allowed": -5.7414
     },
     "690990": {
       "name": "Cade Horton",
@@ -8609,8 +8609,8 @@
     "663432": {
       "name": "Tanner Rainey",
       "team": "Detroit Tigers",
-      "bf": 18,
-      "xr_allowed": -1.883
+      "bf": 26,
+      "xr_allowed": -2.6709
     },
     "800600": {
       "name": "Jackson Kent",
@@ -8755,6 +8755,12 @@
       "team": "Seattle Mariners",
       "bf": 4,
       "xr_allowed": 0.5194
+    },
+    "655889": {
+      "name": "Manuel Rodr\u00edguez",
+      "team": "Tampa Bay Rays",
+      "bf": 5,
+      "xr_allowed": -1.1029
     }
   },
   "processed_games": [
@@ -10672,6 +10678,7 @@
     823258,
     825043,
     823099,
-    823745
+    823745,
+    824235
   ]
 }
