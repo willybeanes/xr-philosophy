@@ -513,14 +513,14 @@
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 582,
-      "xr": 7.0368
+      "pa": 586,
+      "xr": 6.9807
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 563,
-      "xr": 46.4537
+      "pa": 567,
+      "xr": 45.3913
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -567,8 +567,8 @@
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 322,
-      "xr": 10.9293
+      "pa": 326,
+      "xr": 9.727
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -579,14 +579,14 @@
     "681297": {
       "name": "Colton Cowser",
       "team": "Baltimore Orioles",
-      "pa": 311,
-      "xr": -2.0005
+      "pa": 315,
+      "xr": -1.7073
     },
     "691723": {
       "name": "Coby Mayo",
       "team": "Baltimore Orioles",
-      "pa": 336,
-      "xr": -0.7385
+      "pa": 340,
+      "xr": 0.6839
     },
     "677942": {
       "name": "Blaze Alexander",
@@ -1005,14 +1005,14 @@
     "671056": {
       "name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
-      "pa": 578,
-      "xr": 13.8985
+      "pa": 582,
+      "xr": 13.7914
     },
     "676475": {
       "name": "Alec Burleson",
       "team": "St. Louis Cardinals",
-      "pa": 544,
-      "xr": 41.3559
+      "pa": 548,
+      "xr": 41.5811
     },
     "691026": {
       "name": "Masyn Winn",
@@ -1023,8 +1023,8 @@
     "669357": {
       "name": "Nolan Gorman",
       "team": "St. Louis Cardinals",
-      "pa": 221,
-      "xr": -8.4822
+      "pa": 222,
+      "xr": -8.6373
     },
     "676356": {
       "name": "Jonny DeLuca",
@@ -1053,20 +1053,20 @@
     "691023": {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 539,
-      "xr": 20.4957
+      "pa": 543,
+      "xr": 21.4064
     },
     "701675": {
       "name": "Nathan Church",
       "team": "St. Louis Cardinals",
-      "pa": 354,
-      "xr": -8.9023
+      "pa": 358,
+      "xr": -8.9972
     },
     "686780": {
       "name": "Pedro Pag\u00e9s",
       "team": "St. Louis Cardinals",
-      "pa": 186,
-      "xr": -10.7146
+      "pa": 190,
+      "xr": -11.5641
     },
     "687363": {
       "name": "Victor Scott II",
@@ -1887,8 +1887,8 @@
     "602104": {
       "name": "Ram\u00f3n Ur\u00edas",
       "team": "St. Louis Cardinals",
-      "pa": 77,
-      "xr": -2.2254
+      "pa": 81,
+      "xr": -0.6033
     },
     "686452": {
       "name": "Drew Millas",
@@ -1941,8 +1941,8 @@
     "687637": {
       "name": "Dylan Beavers",
       "team": "Baltimore Orioles",
-      "pa": 244,
-      "xr": 0.4845
+      "pa": 248,
+      "xr": 0.9788
     },
     "669236": {
       "name": "Jeremiah Jackson",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 399,
-      "xr": -8.2749
+      "pa": 403,
+      "xr": -8.7682
     },
     "681546": {
       "name": "James Outman",
@@ -2337,8 +2337,8 @@
     "665877": {
       "name": "Jos\u00e9 Ferm\u00edn",
       "team": "St. Louis Cardinals",
-      "pa": 291,
-      "xr": -2.1316
+      "pa": 295,
+      "xr": -2.7306
     },
     "666160": {
       "name": "Mickey Moniak",
@@ -3003,8 +3003,8 @@
     "702616": {
       "name": "Jackson Holliday",
       "team": "Baltimore Orioles",
-      "pa": 287,
-      "xr": -1.9274
+      "pa": 291,
+      "xr": -2.3919
     },
     "703492": {
       "name": "Nick Morabito",
@@ -3333,8 +3333,8 @@
     "691458": {
       "name": "Blaze Jordan",
       "team": "St. Louis Cardinals",
-      "pa": 196,
-      "xr": 2.8684
+      "pa": 199,
+      "xr": 3.3489
     },
     "669256": {
       "name": "Nick Solak",
@@ -3609,8 +3609,8 @@
     "687952": {
       "name": "Christian Encarnacion-Strand",
       "team": "Baltimore Orioles",
-      "pa": 114,
-      "xr": 1.7686
+      "pa": 118,
+      "xr": 1.7289
     },
     "681190": {
       "name": "Randy V\u00e1squez",
@@ -3795,8 +3795,8 @@
     "695491": {
       "name": "Joshua B\u00e1ez",
       "team": "St. Louis Cardinals",
-      "pa": 46,
-      "xr": -0.3214
+      "pa": 50,
+      "xr": -1.4488
     },
     "806367": {
       "name": "Turner Hill",
@@ -4067,8 +4067,8 @@
     "669432": {
       "name": "Trevor Rogers",
       "team": "Baltimore Orioles",
-      "bf": 557,
-      "xr_allowed": 0.3188
+      "bf": 580,
+      "xr_allowed": 1.8731
     },
     "657746": {
       "name": "Joe Ryan",
@@ -4295,8 +4295,8 @@
     "677865": {
       "name": "Justin Bruihl",
       "team": "St. Louis Cardinals",
-      "bf": 281,
-      "xr_allowed": -1.5419
+      "bf": 289,
+      "xr_allowed": -1.7093
     },
     "688297": {
       "name": "Chris Roycroft",
@@ -4331,8 +4331,8 @@
     "676617": {
       "name": "Riley O'Brien",
       "team": "St. Louis Cardinals",
-      "bf": 224,
-      "xr_allowed": 6.1856
+      "bf": 228,
+      "xr_allowed": 5.74
     },
     "672782": {
       "name": "Yoendrys G\u00f3mez",
@@ -5069,8 +5069,8 @@
     "689296": {
       "name": "Anthony Nunez",
       "team": "Baltimore Orioles",
-      "bf": 205,
-      "xr_allowed": 0.5213
+      "bf": 210,
+      "xr_allowed": -0.0206
     },
     "663485": {
       "name": "Cole Sands",
@@ -5717,8 +5717,8 @@
     "666277": {
       "name": "George Soriano",
       "team": "St. Louis Cardinals",
-      "bf": 241,
-      "xr_allowed": 3.7632
+      "bf": 246,
+      "xr_allowed": 2.8359
     },
     "690155": {
       "name": "Matt Pushard",
@@ -6143,8 +6143,8 @@
     "700669": {
       "name": "Gordon Graceffo",
       "team": "St. Louis Cardinals",
-      "bf": 244,
-      "xr_allowed": 8.4538
+      "bf": 253,
+      "xr_allowed": 7.5279
     },
     "678394": {
       "name": "Brayan Bello",
@@ -6791,8 +6791,8 @@
     "676742": {
       "name": "Cam Sanders",
       "team": "Baltimore Orioles",
-      "bf": 76,
-      "xr_allowed": -3.2341
+      "bf": 84,
+      "xr_allowed": -3.941
     },
     "674841": {
       "name": "Andrew Alvarez",
@@ -7661,8 +7661,8 @@
     "657571": {
       "name": "Caleb Ferguson",
       "team": "St. Louis Cardinals",
-      "bf": 143,
-      "xr_allowed": 3.0601
+      "bf": 149,
+      "xr_allowed": 5.0374
     },
     "805427": {
       "name": "Drew Sommers",
@@ -8255,8 +8255,8 @@
     "703725": {
       "name": "Luis Gastelum",
       "team": "St. Louis Cardinals",
-      "bf": 92,
-      "xr_allowed": 1.0576
+      "bf": 96,
+      "xr_allowed": 0.4381
     },
     "808970": {
       "name": "Woo-Suk Go",
@@ -10737,6 +10737,7 @@
     824555,
     823015,
     824963,
-    822694
+    822694,
+    823014
   ]
 }
