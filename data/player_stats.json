@@ -387,26 +387,26 @@
     "683737": {
       "name": "Michael Busch",
       "team": "Chicago Cubs",
-      "pa": 582,
-      "xr": 12.2476
+      "pa": 587,
+      "xr": 13.6201
     },
     "608324": {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 591,
-      "xr": 1.3128
+      "pa": 596,
+      "xr": 0.7537
     },
     "664023": {
       "name": "Ian Happ",
       "team": "Chicago Cubs",
-      "pa": 537,
-      "xr": -1.5907
+      "pa": 542,
+      "xr": -2.4979
     },
     "691718": {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 586,
-      "xr": 16.6788
+      "pa": 591,
+      "xr": 16.4104
     },
     "695734": {
       "name": "Daylen Lile",
@@ -435,14 +435,14 @@
     "663538": {
       "name": "Nico Hoerner",
       "team": "Chicago Cubs",
-      "pa": 562,
-      "xr": 3.3504
+      "pa": 567,
+      "xr": 4.1278
     },
     "608348": {
       "name": "Carson Kelly",
       "team": "Chicago Cubs",
-      "pa": 340,
-      "xr": 5.5912
+      "pa": 344,
+      "xr": 5.64
     },
     "694208": {
       "name": "Mois\u00e9s Ballesteros",
@@ -471,8 +471,8 @@
     "807713": {
       "name": "Matt Shaw",
       "team": "Chicago Cubs",
-      "pa": 143,
-      "xr": -0.9879
+      "pa": 144,
+      "xr": -1.1439
     },
     "671277": {
       "name": "Luis Garc\u00eda Jr.",
@@ -483,8 +483,8 @@
     "624424": {
       "name": "Michael Conforto",
       "team": "Chicago Cubs",
-      "pa": 232,
-      "xr": 3.7549
+      "pa": 235,
+      "xr": 3.3594
     },
     "668885": {
       "name": "Austin Martin",
@@ -639,20 +639,20 @@
     "670770": {
       "name": "TJ Friedl",
       "team": "Cincinnati Reds",
-      "pa": 247,
-      "xr": -14.015
+      "pa": 248,
+      "xr": -13.1129
     },
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 400,
-      "xr": 0.037
+      "pa": 405,
+      "xr": -0.2155
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 505,
-      "xr": 18.7701
+      "pa": 510,
+      "xr": 18.7918
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,14 +681,14 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 571,
-      "xr": 23.8405
+      "pa": 576,
+      "xr": 23.0059
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 410,
-      "xr": -14.3062
+      "pa": 415,
+      "xr": -15.6503
     },
     "668715": {
       "name": "Spencer Steer",
@@ -699,8 +699,8 @@
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 370,
-      "xr": 12.0804
+      "pa": 375,
+      "xr": 13.3549
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -729,8 +729,8 @@
     "667472": {
       "name": "Dane Myers",
       "team": "Cincinnati Reds",
-      "pa": 263,
-      "xr": -3.874
+      "pa": 269,
+      "xr": -3.9216
     },
     "687263": {
       "name": "Zach Neto",
@@ -1983,8 +1983,8 @@
     "624431": {
       "name": "Jose Trevino",
       "team": "Cincinnati Reds",
-      "pa": 114,
-      "xr": -8.9936
+      "pa": 119,
+      "xr": -8.992
     },
     "807799": {
       "name": "Masataka Yoshida",
@@ -2463,8 +2463,8 @@
     "673548": {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 498,
-      "xr": 2.1592
+      "pa": 503,
+      "xr": 2.4236
     },
     "695257": {
       "name": "Billy Cook",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 431,
-      "xr": 12.8803
+      "pa": 436,
+      "xr": 13.3223
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -3087,8 +3087,8 @@
     "699393": {
       "name": "Pedro Ram\u00edrez",
       "team": "Chicago Cubs",
-      "pa": 178,
-      "xr": -2.2217
+      "pa": 182,
+      "xr": -1.1366
     },
     "694371": {
       "name": "Tommy Troy",
@@ -3687,8 +3687,8 @@
     "699302": {
       "name": "H\u00e9ctor Rodr\u00edguez",
       "team": "Cincinnati Reds",
-      "pa": 55,
-      "xr": -1.7119
+      "pa": 59,
+      "xr": -0.9994
     },
     "806146": {
       "name": "George Lombard Jr.",
@@ -4133,8 +4133,8 @@
     "594580": {
       "name": "Sam Moll",
       "team": "Cincinnati Reds",
-      "bf": 242,
-      "xr_allowed": 2.0512
+      "bf": 247,
+      "xr_allowed": 1.452
     },
     "686580": {
       "name": "Justin Slaten",
@@ -4163,8 +4163,8 @@
     "656271": {
       "name": "Brock Burke",
       "team": "Cincinnati Reds",
-      "bf": 272,
-      "xr_allowed": -7.4759
+      "bf": 274,
+      "xr_allowed": -7.9194
     },
     "547973": {
       "name": "Aroldis Chapman",
@@ -5177,14 +5177,14 @@
     "641941": {
       "name": "Emilio Pag\u00e1n",
       "team": "Cincinnati Reds",
-      "bf": 131,
-      "xr_allowed": -4.3321
+      "bf": 134,
+      "xr_allowed": -4.7849
     },
     "656849": {
       "name": "David Peterson",
       "team": "Chicago Cubs",
-      "bf": 512,
-      "xr_allowed": 17.2252
+      "bf": 536,
+      "xr_allowed": 16.3472
     },
     "656605": {
       "name": "Mitch Keller",
@@ -5585,8 +5585,8 @@
     "695076": {
       "name": "Rhett Lowder",
       "team": "Cincinnati Reds",
-      "bf": 478,
-      "xr_allowed": 12.5391
+      "bf": 499,
+      "xr_allowed": 13.4832
     },
     "813349": {
       "name": "Connelly Early",
@@ -5765,8 +5765,8 @@
     "694037": {
       "name": "Daniel Palencia",
       "team": "Chicago Cubs",
-      "bf": 76,
-      "xr_allowed": -2.1608
+      "bf": 80,
+      "xr_allowed": -1.6997
     },
     "676106": {
       "name": "Emerson Hancock",
@@ -6107,8 +6107,8 @@
     "650644": {
       "name": "Aaron Civale",
       "team": "Chicago Cubs",
-      "bf": 401,
-      "xr_allowed": 7.6046
+      "bf": 412,
+      "xr_allowed": 6.8428
     },
     "527048": {
       "name": "Mart\u00edn P\u00e9rez",
@@ -7055,8 +7055,8 @@
     "682825": {
       "name": "Luis Mey",
       "team": "Cincinnati Reds",
-      "bf": 93,
-      "xr_allowed": -3.6131
+      "bf": 101,
+      "xr_allowed": -3.7921
     },
     "624431": {
       "name": "Jose Trevino",
@@ -7271,14 +7271,14 @@
     "622088": {
       "name": "Tejay Antone",
       "team": "Cincinnati Reds",
-      "bf": 182,
-      "xr_allowed": -7.7196
+      "bf": 185,
+      "xr_allowed": -5.7272
     },
     "663423": {
       "name": "Trent Thornton",
       "team": "Chicago Cubs",
-      "bf": 165,
-      "xr_allowed": 1.1514
+      "bf": 172,
+      "xr_allowed": 3.2057
     },
     "672021": {
       "name": "Eric Cerantola",
@@ -10755,6 +10755,7 @@
     822771,
     823581,
     824879,
-    823179
+    823179,
+    824638
   ]
 }
