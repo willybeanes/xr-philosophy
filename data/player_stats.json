@@ -243,20 +243,20 @@
     "668930": {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 556,
-      "xr": 11.704
+      "pa": 560,
+      "xr": 10.7409
     },
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 529,
-      "xr": 10.5709
+      "pa": 533,
+      "xr": 11.792
     },
     "592885": {
       "name": "Christian Yelich",
       "team": "Milwaukee Brewers",
-      "pa": 409,
-      "xr": 6.2587
+      "pa": 413,
+      "xr": 8.0001
     },
     "683734": {
       "name": "Andrew Vaughn",
@@ -291,8 +291,8 @@
     "641343": {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 477,
-      "xr": 27.3508
+      "pa": 481,
+      "xr": 27.2563
     },
     "686217": {
       "name": "Sal Frelick",
@@ -303,14 +303,14 @@
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 327,
-      "xr": -8.2385
+      "pa": 330,
+      "xr": -8.6687
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 434,
-      "xr": 6.7212
+      "pa": 438,
+      "xr": 6.535
     },
     "687401": {
       "name": "Joey Ortiz",
@@ -795,8 +795,8 @@
     "681351": {
       "name": "Logan O'Hoppe",
       "team": "Texas Rangers",
-      "pa": 262,
-      "xr": -5.3202
+      "pa": 264,
+      "xr": -5.6235
     },
     "621043": {
       "name": "Carlos Correa",
@@ -1101,26 +1101,26 @@
     "607043": {
       "name": "Brandon Nimmo",
       "team": "Texas Rangers",
-      "pa": 535,
-      "xr": 22.4923
+      "pa": 539,
+      "xr": 24.2525
     },
     "694671": {
       "name": "Wyatt Langford",
       "team": "Texas Rangers",
-      "pa": 357,
-      "xr": 3.4722
+      "pa": 361,
+      "xr": 3.1048
     },
     "608369": {
       "name": "Corey Seager",
       "team": "Texas Rangers",
-      "pa": 306,
-      "xr": 9.4519
+      "pa": 310,
+      "xr": 10.3797
     },
     "669394": {
       "name": "Jake Burger",
       "team": "Texas Rangers",
-      "pa": 505,
-      "xr": -0.9308
+      "pa": 509,
+      "xr": -1.304
     },
     "457705": {
       "name": "Andrew McCutchen",
@@ -1179,8 +1179,8 @@
     "643376": {
       "name": "Danny Jansen",
       "team": "Texas Rangers",
-      "pa": 153,
-      "xr": -7.585
+      "pa": 157,
+      "xr": -8.0701
     },
     "669016": {
       "name": "Brandon Marsh",
@@ -1209,14 +1209,14 @@
     "592626": {
       "name": "Joc Pederson",
       "team": "Texas Rangers",
-      "pa": 391,
-      "xr": 14.2375
+      "pa": 393,
+      "xr": 14.0956
     },
     "694497": {
       "name": "Evan Carter",
       "team": "Texas Rangers",
-      "pa": 369,
-      "xr": -10.4673
+      "pa": 371,
+      "xr": -10.5437
     },
     "543309": {
       "name": "Kyle Higashioka",
@@ -1227,8 +1227,8 @@
     "677649": {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
-      "pa": 475,
-      "xr": -5.2361
+      "pa": 479,
+      "xr": -6.2002
     },
     "606466": {
       "name": "Ketel Marte",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 439,
-      "xr": 8.5185
+      "pa": 443,
+      "xr": 9.0316
     },
     "805904": {
       "name": "Zach Cole",
@@ -2823,8 +2823,8 @@
     "679822": {
       "name": "Justin Foscue",
       "team": "Texas Rangers",
-      "pa": 187,
-      "xr": -0.2786
+      "pa": 190,
+      "xr": -0.8055
     },
     "823550": {
       "name": "Sung-Mun Song",
@@ -3207,8 +3207,8 @@
     "683227": {
       "name": "Cody Freeman",
       "team": "Texas Rangers",
-      "pa": 57,
-      "xr": -4.729
+      "pa": 61,
+      "xr": -4.1252
     },
     "678011": {
       "name": "Anthony Seigler",
@@ -3369,8 +3369,8 @@
     "806198": {
       "name": "Cooper Pratt",
       "team": "Milwaukee Brewers",
-      "pa": 180,
-      "xr": -1.4772
+      "pa": 183,
+      "xr": -2.4809
     },
     "669242": {
       "name": "Tommy Edman",
@@ -3543,8 +3543,8 @@
     "800325": {
       "name": "Luis Lara",
       "team": "Milwaukee Brewers",
-      "pa": 136,
-      "xr": -0.6516
+      "pa": 140,
+      "xr": -0.7684
     },
     "687394": {
       "name": "Jack Brannigan",
@@ -5123,8 +5123,8 @@
     "596001": {
       "name": "Jakob Junis",
       "team": "Texas Rangers",
-      "bf": 176,
-      "xr_allowed": -3.705
+      "bf": 182,
+      "xr_allowed": -3.7421
     },
     "641835": {
       "name": "Tim Mayza",
@@ -5303,8 +5303,8 @@
     "694477": {
       "name": "Chad Patrick",
       "team": "Milwaukee Brewers",
-      "bf": 373,
-      "xr_allowed": 2.1142
+      "bf": 382,
+      "xr_allowed": 3.1662
     },
     "680732": {
       "name": "Sean Burke",
@@ -5651,8 +5651,8 @@
     "622608": {
       "name": "Antonio Senzatela",
       "team": "Milwaukee Brewers",
-      "bf": 263,
-      "xr_allowed": 0.7882
+      "bf": 266,
+      "xr_allowed": 0.4317
     },
     "667463": {
       "name": "John King",
@@ -5705,8 +5705,8 @@
     "656730": {
       "name": "Trevor Megill",
       "team": "Milwaukee Brewers",
-      "bf": 197,
-      "xr_allowed": -10.683
+      "bf": 200,
+      "xr_allowed": -10.7824
     },
     "669160": {
       "name": "Dustin May",
@@ -6431,8 +6431,8 @@
     "675660": {
       "name": "Shane Drohan",
       "team": "Milwaukee Brewers",
-      "bf": 434,
-      "xr_allowed": -5.684
+      "bf": 456,
+      "xr_allowed": -6.2266
     },
     "701719": {
       "name": "Tyler Samaniego",
@@ -6761,8 +6761,8 @@
     "615698": {
       "name": "Cal Quantrill",
       "team": "Texas Rangers",
-      "bf": 331,
-      "xr_allowed": 3.8032
+      "bf": 352,
+      "xr_allowed": 4.2252
     },
     "671382": {
       "name": "Cameron Foster",
@@ -6947,8 +6947,8 @@
     "682608": {
       "name": "Peyton Gray",
       "team": "Texas Rangers",
-      "bf": 237,
-      "xr_allowed": -3.2909
+      "bf": 244,
+      "xr_allowed": -2.9947
     },
     "552640": {
       "name": "Andrew Kittredge",
@@ -10812,6 +10812,7 @@
     824392,
     823582,
     822936,
-    824874
+    824874,
+    823741
   ]
 }
