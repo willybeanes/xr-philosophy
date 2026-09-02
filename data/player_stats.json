@@ -507,8 +507,8 @@
     "621493": {
       "name": "Taylor Ward",
       "team": "Seattle Mariners",
-      "pa": 565,
-      "xr": 12.877
+      "pa": 570,
+      "xr": 10.5392
     },
     "683002": {
       "name": "Gunnar Henderson",
@@ -609,20 +609,20 @@
     "701350": {
       "name": "Roman Anthony",
       "team": "Boston Red Sox",
-      "pa": 145,
-      "xr": 10.0236
+      "pa": 150,
+      "xr": 10.6427
     },
     "596115": {
       "name": "Trevor Story",
       "team": "Boston Red Sox",
-      "pa": 176,
-      "xr": -6.3489
+      "pa": 180,
+      "xr": -5.9789
     },
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 533,
-      "xr": -5.3408
+      "pa": 537,
+      "xr": -5.668
     },
     "575929": {
       "name": "Willson Contreras",
@@ -633,8 +633,8 @@
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 496,
-      "xr": -5.7528
+      "pa": 500,
+      "xr": -5.4546
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,8 +657,8 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 585,
-      "xr": 18.8433
+      "pa": 589,
+      "xr": 18.8394
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
@@ -675,8 +675,8 @@
     "678882": {
       "name": "Ceddanne Rafaela",
       "team": "Boston Red Sox",
-      "pa": 554,
-      "xr": -4.1266
+      "pa": 557,
+      "xr": -2.9966
     },
     "701398": {
       "name": "Sal Stewart",
@@ -1377,14 +1377,14 @@
     "677594": {
       "name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
-      "pa": 545,
-      "xr": 16.3323
+      "pa": 550,
+      "xr": 16.9668
     },
     "647304": {
       "name": "Josh Naylor",
       "team": "Seattle Mariners",
-      "pa": 540,
-      "xr": 2.6124
+      "pa": 545,
+      "xr": 3.374
     },
     "666310": {
       "name": "Bo Naylor",
@@ -1413,8 +1413,8 @@
     "668227": {
       "name": "Randy Arozarena",
       "team": "Seattle Mariners",
-      "pa": 554,
-      "xr": 18.9324
+      "pa": 559,
+      "xr": 19.137
     },
     "670042": {
       "name": "Luke Raley",
@@ -1425,14 +1425,14 @@
     "686527": {
       "name": "Dominic Canzone",
       "team": "Seattle Mariners",
-      "pa": 427,
-      "xr": 18.3882
+      "pa": 432,
+      "xr": 20.2732
     },
     "702284": {
       "name": "Cole Young",
       "team": "Seattle Mariners",
-      "pa": 547,
-      "xr": 2.8313
+      "pa": 552,
+      "xr": 2.8116
     },
     "677587": {
       "name": "Brayan Rocchio",
@@ -1761,8 +1761,8 @@
     "642201": {
       "name": "Eli White",
       "team": "Boston Red Sox",
-      "pa": 174,
-      "xr": -9.706
+      "pa": 175,
+      "xr": -8.5487
     },
     "521692": {
       "name": "Salvador Perez",
@@ -1995,8 +1995,8 @@
     "657136": {
       "name": "Connor Wong",
       "team": "Boston Red Sox",
-      "pa": 216,
-      "xr": -3.3564
+      "pa": 220,
+      "xr": -4.1069
     },
     "663993": {
       "name": "Nathaniel Lowe",
@@ -2355,8 +2355,8 @@
     "641487": {
       "name": "J.P. Crawford",
       "team": "Seattle Mariners",
-      "pa": 377,
-      "xr": 13.6351
+      "pa": 381,
+      "xr": 14.1744
     },
     "694376": {
       "name": "Shay Whitcomb",
@@ -2553,8 +2553,8 @@
     "642215": {
       "name": "Weston Wilson",
       "team": "Seattle Mariners",
-      "pa": 132,
-      "xr": -8.1293
+      "pa": 137,
+      "xr": -7.4419
     },
     "669087": {
       "name": "Sam Huff",
@@ -2775,8 +2775,8 @@
     "640902": {
       "name": "Jhonny Pereda",
       "team": "Seattle Mariners",
-      "pa": 84,
-      "xr": 3.9941
+      "pa": 88,
+      "xr": 3.9923
     },
     "670097": {
       "name": "Zack Short",
@@ -2889,8 +2889,8 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 162,
-      "xr": 7.0821
+      "pa": 167,
+      "xr": 7.6549
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -2973,8 +2973,8 @@
     "686765": {
       "name": "Nick Sogard",
       "team": "Boston Red Sox",
-      "pa": 191,
-      "xr": 0.8934
+      "pa": 195,
+      "xr": -0.0853
     },
     "675961": {
       "name": "Alika Williams",
@@ -4535,8 +4535,8 @@
     "678606": {
       "name": "Jos\u00e9 A. Ferrer",
       "team": "Seattle Mariners",
-      "bf": 251,
-      "xr_allowed": -2.9538
+      "bf": 253,
+      "xr_allowed": -2.9007
     },
     "641401": {
       "name": "Connor Brogdon",
@@ -4571,8 +4571,8 @@
     "681867": {
       "name": "Cooper Criswell",
       "team": "Seattle Mariners",
-      "bf": 126,
-      "xr_allowed": 0.638
+      "bf": 129,
+      "xr_allowed": 0.6432
     },
     "671922": {
       "name": "Cade Smith",
@@ -5399,8 +5399,8 @@
     "622554": {
       "name": "Seranthony Dom\u00ednguez",
       "team": "Seattle Mariners",
-      "bf": 210,
-      "xr_allowed": -0.0225
+      "bf": 213,
+      "xr_allowed": -0.0731
     },
     "625643": {
       "name": "Reynaldo L\u00f3pez",
@@ -6215,8 +6215,8 @@
     "678394": {
       "name": "Brayan Bello",
       "team": "Boston Red Sox",
-      "bf": 415,
-      "xr_allowed": 11.5369
+      "bf": 432,
+      "xr_allowed": 13.5502
     },
     "675989": {
       "name": "Cody Bolton",
@@ -7445,8 +7445,8 @@
     "682243": {
       "name": "Bryce Miller",
       "team": "Seattle Mariners",
-      "bf": 376,
-      "xr_allowed": -5.6736
+      "bf": 397,
+      "xr_allowed": -5.1698
     },
     "681006": {
       "name": "Josh Simpson",
@@ -7979,8 +7979,8 @@
     "621074": {
       "name": "Michael Rucker",
       "team": "Seattle Mariners",
-      "bf": 142,
-      "xr_allowed": 0.2951
+      "bf": 151,
+      "xr_allowed": 1.8707
     },
     "807743": {
       "name": "Sean Sullivan",
@@ -8333,8 +8333,8 @@
     "663776": {
       "name": "Patrick Sandoval",
       "team": "Boston Red Sox",
-      "bf": 207,
-      "xr_allowed": 1.5134
+      "bf": 227,
+      "xr_allowed": 2.6073
     },
     "676680": {
       "name": "Tom Cosgrove",
@@ -8603,8 +8603,8 @@
     "670103": {
       "name": "Raymond Burgos",
       "team": "Boston Red Sox",
-      "bf": 48,
-      "xr_allowed": -0.2708
+      "bf": 54,
+      "xr_allowed": -1.0249
     },
     "676620": {
       "name": "Blake Weiman",
@@ -10989,6 +10989,7 @@
     822686,
     822851,
     824312,
-    825037
+    825037,
+    824717
   ]
 }
