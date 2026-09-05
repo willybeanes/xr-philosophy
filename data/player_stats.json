@@ -33,8 +33,8 @@
     "646240": {
       "name": "Rafael Devers",
       "team": "San Francisco Giants",
-      "pa": 595,
-      "xr": 15.7351
+      "pa": 599,
+      "xr": 17.3416
     },
     "642715": {
       "name": "Willy Adames",
@@ -141,20 +141,20 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 366,
-      "xr": 9.6054
+      "pa": 371,
+      "xr": 9.3472
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 370,
-      "xr": 39.5743
+      "pa": 374,
+      "xr": 39.3397
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 586,
-      "xr": 9.1057
+      "pa": 590,
+      "xr": 8.8963
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,26 +171,26 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 409,
-      "xr": 3.3666
+      "pa": 413,
+      "xr": 3.6545
     },
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 462,
-      "xr": -1.1698
+      "pa": 466,
+      "xr": -1.2244
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 547,
-      "xr": 7.0047
+      "pa": 551,
+      "xr": 6.5228
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 356,
-      "xr": 8.6541
+      "pa": 360,
+      "xr": 7.6054
     },
     "669707": {
       "name": "Jared Triolo",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 302,
-      "xr": -0.6098
+      "pa": 306,
+      "xr": -0.4506
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2361,8 +2361,8 @@
     "694376": {
       "name": "Shay Whitcomb",
       "team": "San Francisco Giants",
-      "pa": 61,
-      "xr": -5.3769
+      "pa": 65,
+      "xr": -5.0207
     },
     "682641": {
       "name": "Luis Matos",
@@ -2451,8 +2451,8 @@
     "683766": {
       "name": "Christian Koss",
       "team": "San Francisco Giants",
-      "pa": 148,
-      "xr": -11.4631
+      "pa": 152,
+      "xr": -11.2364
     },
     "664731": {
       "name": "P.J. Higgins",
@@ -2811,8 +2811,8 @@
     "805811": {
       "name": "Bryce Eldridge",
       "team": "San Francisco Giants",
-      "pa": 394,
-      "xr": 7.6333
+      "pa": 398,
+      "xr": 7.7668
     },
     "683679": {
       "name": "Jesus Rodriguez",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 409,
-      "xr": -5.6352
+      "pa": 413,
+      "xr": -3.6706
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3177,8 +3177,8 @@
     "813841": {
       "name": "Jonah Cox",
       "team": "San Francisco Giants",
-      "pa": 82,
-      "xr": -5.0822
+      "pa": 87,
+      "xr": -5.6662
     },
     "695490": {
       "name": "Edwin Arroyo",
@@ -3567,8 +3567,8 @@
     "687529": {
       "name": "Grant McCray",
       "team": "San Francisco Giants",
-      "pa": 65,
-      "xr": -2.1219
+      "pa": 70,
+      "xr": -1.3516
     },
     "694673": {
       "name": "Abimelec Ortiz",
@@ -3651,8 +3651,8 @@
     "678545": {
       "name": "Osleivis Basabe",
       "team": "San Francisco Giants",
-      "pa": 107,
-      "xr": -2.9165
+      "pa": 111,
+      "xr": -2.4678
     },
     "703601": {
       "name": "Max Clark",
@@ -3771,8 +3771,8 @@
     "668800": {
       "name": "Andrew Knizner",
       "team": "San Francisco Giants",
-      "pa": 34,
-      "xr": -0.9271
+      "pa": 38,
+      "xr": -0.7444
     },
     "691728": {
       "name": "Zac Veen",
@@ -3801,8 +3801,8 @@
     "806367": {
       "name": "Turner Hill",
       "team": "San Francisco Giants",
-      "pa": 61,
-      "xr": 4.2456
+      "pa": 65,
+      "xr": 3.5174
     },
     "691182": {
       "name": "Adael Amador",
@@ -6466,9 +6466,9 @@
     },
     "669270": {
       "name": "Joel Kuhnel",
-      "team": "Milwaukee Brewers",
-      "bf": 151,
-      "xr_allowed": 6.2762
+      "team": "San Francisco Giants",
+      "bf": 154,
+      "xr_allowed": 6.095
     },
     "815083": {
       "name": "Mitch Farris",
@@ -7133,8 +7133,8 @@
     "606965": {
       "name": "Chris Devenski",
       "team": "New York Mets",
-      "bf": 22,
-      "xr_allowed": 0.1838
+      "bf": 29,
+      "xr_allowed": -0.481
     },
     "702153": {
       "name": "Brian Fitzpatrick",
@@ -7199,8 +7199,8 @@
     "683627": {
       "name": "Anthony Molina",
       "team": "San Francisco Giants",
-      "bf": 56,
-      "xr_allowed": 0.7265
+      "bf": 74,
+      "xr_allowed": 0.6285
     },
     "804619": {
       "name": "John Klein",
@@ -7595,8 +7595,8 @@
     "804267": {
       "name": "Zac Thornton",
       "team": "New York Mets",
-      "bf": 246,
-      "xr_allowed": 4.34
+      "bf": 268,
+      "xr_allowed": 5.3449
     },
     "672442": {
       "name": "Yovanny Cruz",
@@ -7865,8 +7865,8 @@
     "693313": {
       "name": "Carson Seymour",
       "team": "San Francisco Giants",
-      "bf": 98,
-      "xr_allowed": 5.3754
+      "bf": 100,
+      "xr_allowed": 5.8168
     },
     "608348": {
       "name": "Carson Kelly",
@@ -7949,8 +7949,8 @@
     "665665": {
       "name": "Reiver Sanmartin",
       "team": "San Francisco Giants",
-      "bf": 78,
-      "xr_allowed": -0.0161
+      "bf": 83,
+      "xr_allowed": 0.1453
     },
     "675916": {
       "name": "James Karinchak",
@@ -8375,8 +8375,8 @@
     "671345": {
       "name": "Jason Foley",
       "team": "San Francisco Giants",
-      "bf": 73,
-      "xr_allowed": -1.6386
+      "bf": 79,
+      "xr_allowed": -1.5789
     },
     "694753": {
       "name": "Khristian Curtis",
@@ -8591,8 +8591,8 @@
     "642376": {
       "name": "Jefry Yan",
       "team": "New York Mets",
-      "bf": 58,
-      "xr_allowed": -1.1305
+      "bf": 63,
+      "xr_allowed": 0.044
     },
     "673380": {
       "name": "Dedniel N\u00fa\u00f1ez",
@@ -8627,8 +8627,8 @@
     "805345": {
       "name": "Trent Harris",
       "team": "San Francisco Giants",
-      "bf": 56,
-      "xr_allowed": -1.8438
+      "bf": 59,
+      "xr_allowed": -2.1028
     },
     "674073": {
       "name": "Jack Weisenburger",
@@ -8963,8 +8963,8 @@
     "663795": {
       "name": "Justin Hagenman",
       "team": "New York Mets",
-      "bf": 12,
-      "xr_allowed": 1.2152
+      "bf": 16,
+      "xr_allowed": 2.113
     },
     "687134": {
       "name": "Bradley Blalock",
@@ -11060,6 +11060,7 @@
     824311,
     823256,
     823905,
-    823093
+    823093,
+    823577
   ]
 }
