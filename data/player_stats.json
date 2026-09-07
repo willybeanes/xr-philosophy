@@ -21,8 +21,8 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "Philadelphia Phillies",
-      "pa": 575,
-      "xr": 2.8221
+      "pa": 578,
+      "xr": 2.4906
     },
     "656305": {
       "name": "Matt Chapman",
@@ -1131,32 +1131,32 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 597,
-      "xr": -8.759
+      "pa": 601,
+      "xr": -8.8156
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 596,
-      "xr": 32.5983
+      "pa": 600,
+      "xr": 33.1802
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 599,
-      "xr": 41.116
+      "pa": 602,
+      "xr": 41.5817
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 552,
-      "xr": 6.1344
+      "pa": 555,
+      "xr": 6.279
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 518,
-      "xr": 5.45
+      "pa": 521,
+      "xr": 6.5012
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
@@ -1185,20 +1185,20 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 503,
-      "xr": -5.1349
+      "pa": 506,
+      "xr": -5.2028
     },
     "592663": {
       "name": "J.T. Realmuto",
       "team": "Philadelphia Phillies",
-      "pa": 391,
-      "xr": 0.8001
+      "pa": 394,
+      "xr": 0.0871
     },
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 399,
-      "xr": -11.0328
+      "pa": 402,
+      "xr": -11.3587
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1725,38 +1725,38 @@
     "657041": {
       "name": "Lane Thomas",
       "team": "Atlanta Braves",
-      "pa": 365,
-      "xr": 2.1699
+      "pa": 368,
+      "xr": 1.8917
     },
     "660670": {
       "name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
-      "pa": 397,
-      "xr": 18.6012
+      "pa": 401,
+      "xr": 18.4034
     },
     "686948": {
       "name": "Drake Baldwin",
       "team": "Atlanta Braves",
-      "pa": 519,
-      "xr": 27.7983
+      "pa": 523,
+      "xr": 27.1661
     },
     "645277": {
       "name": "Ozzie Albies",
       "team": "Atlanta Braves",
-      "pa": 596,
-      "xr": -9.1882
+      "pa": 600,
+      "xr": -9.6223
     },
     "621566": {
       "name": "Matt Olson",
       "team": "Atlanta Braves",
-      "pa": 608,
-      "xr": 20.5761
+      "pa": 611,
+      "xr": 20.326
     },
     "663586": {
       "name": "Austin Riley",
       "team": "Atlanta Braves",
-      "pa": 549,
-      "xr": -11.6711
+      "pa": 552,
+      "xr": -11.6111
     },
     "642201": {
       "name": "Eli White",
@@ -1797,8 +1797,8 @@
     "643289": {
       "name": "Mauricio Dub\u00f3n",
       "team": "Atlanta Braves",
-      "pa": 531,
-      "xr": -2.3656
+      "pa": 534,
+      "xr": -2.2345
     },
     "641680": {
       "name": "Jonah Heim",
@@ -1809,8 +1809,8 @@
     "671739": {
       "name": "Michael Harris II",
       "team": "Atlanta Braves",
-      "pa": 539,
-      "xr": 13.2407
+      "pa": 542,
+      "xr": 13.1972
     },
     "695600": {
       "name": "Carter Jensen",
@@ -2895,8 +2895,8 @@
     "673490": {
       "name": "Ha-Seong Kim",
       "team": "Atlanta Braves",
-      "pa": 108,
-      "xr": -5.7503
+      "pa": 111,
+      "xr": -6.4136
     },
     "669398": {
       "name": "Gage Workman",
@@ -5609,8 +5609,8 @@
     "666200": {
       "name": "Jes\u00fas Luzardo",
       "team": "Philadelphia Phillies",
-      "bf": 682,
-      "xr_allowed": -20.5148
+      "bf": 712,
+      "xr_allowed": -22.8229
     },
     "669022": {
       "name": "MacKenzie Gore",
@@ -5627,8 +5627,8 @@
     "656550": {
       "name": "Grant Holmes",
       "team": "Atlanta Braves",
-      "bf": 561,
-      "xr_allowed": 11.1805
+      "bf": 583,
+      "xr_allowed": 11.8605
     },
     "607625": {
       "name": "Seth Lugo",
@@ -5639,8 +5639,8 @@
     "800311": {
       "name": "Didier Fuentes",
       "team": "Atlanta Braves",
-      "bf": 258,
-      "xr_allowed": -13.1785
+      "bf": 265,
+      "xr_allowed": -13.11
     },
     "670167": {
       "name": "John Schreiber",
@@ -11132,6 +11132,7 @@
     823091,
     823253,
     824552,
-    823903
+    823903,
+    823415
   ]
 }
