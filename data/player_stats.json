@@ -21,8 +21,8 @@
     "650333": {
       "name": "Luis Arraez",
       "team": "Philadelphia Phillies",
-      "pa": 587,
-      "xr": 3.1227
+      "pa": 590,
+      "xr": 3.4413
     },
     "656305": {
       "name": "Matt Chapman",
@@ -759,20 +759,20 @@
     "514888": {
       "name": "Jose Altuve",
       "team": "Houston Astros",
-      "pa": 495,
-      "xr": -13.9365
+      "pa": 499,
+      "xr": -13.7205
     },
     "670541": {
       "name": "Yordan Alvarez",
       "team": "Houston Astros",
-      "pa": 620,
-      "xr": 68.8666
+      "pa": 624,
+      "xr": 68.7132
     },
     "670623": {
       "name": "Isaac Paredes",
       "team": "Houston Astros",
-      "pa": 580,
-      "xr": 7.1638
+      "pa": 584,
+      "xr": 8.1458
     },
     "660162": {
       "name": "Yo\u00e1n Moncada",
@@ -813,14 +813,14 @@
     "701358": {
       "name": "Cam Smith",
       "team": "Houston Astros",
-      "pa": 501,
-      "xr": -5.3748
+      "pa": 505,
+      "xr": -4.3925
     },
     "572233": {
       "name": "Christian Walker",
       "team": "Houston Astros",
-      "pa": 563,
-      "xr": -6.0862
+      "pa": 567,
+      "xr": -5.8521
     },
     "672724": {
       "name": "Oswald Peraza",
@@ -831,8 +831,8 @@
     "673237": {
       "name": "Yainer Diaz",
       "team": "Houston Astros",
-      "pa": 301,
-      "xr": -1.6045
+      "pa": 303,
+      "xr": -2.4308
     },
     "676694": {
       "name": "Jake Meyers",
@@ -1131,32 +1131,32 @@
     "607208": {
       "name": "Trea Turner",
       "team": "Philadelphia Phillies",
-      "pa": 610,
-      "xr": -8.902
+      "pa": 614,
+      "xr": -9.6326
     },
     "656941": {
       "name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
-      "pa": 610,
-      "xr": 33.5231
+      "pa": 614,
+      "xr": 33.3245
     },
     "547180": {
       "name": "Bryce Harper",
       "team": "Philadelphia Phillies",
-      "pa": 611,
-      "xr": 41.1517
+      "pa": 614,
+      "xr": 41.4643
     },
     "664761": {
       "name": "Alec Bohm",
       "team": "Philadelphia Phillies",
-      "pa": 559,
-      "xr": 5.7449
+      "pa": 562,
+      "xr": 5.7817
     },
     "681082": {
       "name": "Bryson Stott",
       "team": "Philadelphia Phillies",
-      "pa": 529,
-      "xr": 7.1159
+      "pa": 532,
+      "xr": 6.8346
     },
     "666969": {
       "name": "Adolis Garc\u00eda",
@@ -1185,8 +1185,8 @@
     "669016": {
       "name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
-      "pa": 511,
-      "xr": -4.5199
+      "pa": 514,
+      "xr": -5.0943
     },
     "592663": {
       "name": "J.T. Realmuto",
@@ -1197,8 +1197,8 @@
     "702222": {
       "name": "Justin Crawford",
       "team": "Philadelphia Phillies",
-      "pa": 408,
-      "xr": -11.4768
+      "pa": 411,
+      "xr": -11.698
     },
     "664059": {
       "name": "Sam Haggerty",
@@ -1539,8 +1539,8 @@
     "662139": {
       "name": "Daulton Varsho",
       "team": "Houston Astros",
-      "pa": 482,
-      "xr": -9.5757
+      "pa": 486,
+      "xr": -9.9846
     },
     "672960": {
       "name": "Kazuma Okamoto",
@@ -1827,8 +1827,8 @@
     "665161": {
       "name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
-      "pa": 417,
-      "xr": 0.0107
+      "pa": 421,
+      "xr": -0.6043
     },
     "694728": {
       "name": "Brice Matthews",
@@ -1971,8 +1971,8 @@
     "624641": {
       "name": "Edmundo Sosa",
       "team": "Philadelphia Phillies",
-      "pa": 221,
-      "xr": 4.0644
+      "pa": 222,
+      "xr": 3.8393
     },
     "805249": {
       "name": "Otto Kemp",
@@ -2205,8 +2205,8 @@
     "543877": {
       "name": "Christian V\u00e1zquez",
       "team": "Houston Astros",
-      "pa": 248,
-      "xr": -10.6848
+      "pa": 250,
+      "xr": -11.1581
     },
     "624428": {
       "name": "Adam Frazier",
@@ -2241,8 +2241,8 @@
     "665561": {
       "name": "Rafael March\u00e1n",
       "team": "Philadelphia Phillies",
-      "pa": 89,
-      "xr": -7.3046
+      "pa": 91,
+      "xr": -7.6977
     },
     "669369": {
       "name": "Bryce Johnson",
@@ -2481,8 +2481,8 @@
     "666211": {
       "name": "Taylor Trammell",
       "team": "Houston Astros",
-      "pa": 250,
-      "xr": -3.6621
+      "pa": 254,
+      "xr": -3.2922
     },
     "668952": {
       "name": "Ryan Kreidler",
@@ -4487,8 +4487,8 @@
     "661395": {
       "name": "Jhoan Duran",
       "team": "Philadelphia Phillies",
-      "bf": 207,
-      "xr_allowed": -13.98
+      "bf": 211,
+      "xr_allowed": -13.5732
     },
     "808967": {
       "name": "Yoshinobu Yamamoto",
@@ -5195,8 +5195,8 @@
     "621237": {
       "name": "Jos\u00e9 Alvarado",
       "team": "Philadelphia Phillies",
-      "bf": 235,
-      "xr_allowed": -1.4401
+      "bf": 240,
+      "xr_allowed": -0.2048
     },
     "596001": {
       "name": "Jakob Junis",
@@ -5345,8 +5345,8 @@
     "664299": {
       "name": "Cristian Javier",
       "team": "Houston Astros",
-      "bf": 223,
-      "xr_allowed": 7.2049
+      "bf": 243,
+      "xr_allowed": 6.0386
     },
     "672282": {
       "name": "Reid Detmers",
@@ -5375,8 +5375,8 @@
     "650556": {
       "name": "Bryan Abreu",
       "team": "Houston Astros",
-      "bf": 246,
-      "xr_allowed": -1.9594
+      "bf": 249,
+      "xr_allowed": -2.4371
     },
     "694477": {
       "name": "Chad Patrick",
@@ -7067,8 +7067,8 @@
     "656986": {
       "name": "Bennett Sousa",
       "team": "Houston Astros",
-      "bf": 109,
-      "xr_allowed": -0.2861
+      "bf": 112,
+      "xr_allowed": -0.2164
     },
     "592826": {
       "name": "Vince Velasquez",
@@ -7079,8 +7079,8 @@
     "554430": {
       "name": "Zack Wheeler",
       "team": "Philadelphia Phillies",
-      "bf": 548,
-      "xr_allowed": -9.0519
+      "bf": 575,
+      "xr_allowed": -10.3866
     },
     "676510": {
       "name": "Nolan Hoffman",
@@ -7865,8 +7865,8 @@
     "623352": {
       "name": "Josh Hader",
       "team": "Houston Astros",
-      "bf": 148,
-      "xr_allowed": -9.4487
+      "bf": 151,
+      "xr_allowed": -9.8307
     },
     "592454": {
       "name": "Tommy Kahnle",
@@ -11180,6 +11180,7 @@
     824549,
     823739,
     823900,
-    824872
+    824872,
+    823413
   ]
 }
