@@ -9,14 +9,14 @@
     "592450": {
       "name": "Aaron Judge",
       "team": "New York Yankees",
-      "pa": 259,
-      "xr": 24.5071
+      "pa": 263,
+      "xr": 24.4361
     },
     "641355": {
       "name": "Cody Bellinger",
       "team": "New York Yankees",
-      "pa": 498,
-      "xr": 20.6356
+      "pa": 502,
+      "xr": 20.9232
     },
     "650333": {
       "name": "Luis Arraez",
@@ -81,14 +81,14 @@
     "669224": {
       "name": "Austin Wells",
       "team": "New York Yankees",
-      "pa": 352,
-      "xr": -6.4117
+      "pa": 354,
+      "xr": -6.7254
     },
     "671218": {
       "name": "Heliot Ramos",
       "team": "New York Yankees",
-      "pa": 378,
-      "xr": 3.0352
+      "pa": 382,
+      "xr": 2.6824
     },
     "669477": {
       "name": "Casey Schmitt",
@@ -141,20 +141,20 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 397,
-      "xr": 8.7498
+      "pa": 402,
+      "xr": 9.4062
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 400,
-      "xr": 41.6273
+      "pa": 405,
+      "xr": 42.314
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 615,
-      "xr": 11.9769
+      "pa": 620,
+      "xr": 12.193
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -177,14 +177,14 @@
     "543760": {
       "name": "Marcus Semien",
       "team": "New York Mets",
-      "pa": 487,
-      "xr": 0.4256
+      "pa": 493,
+      "xr": -0.62
     },
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 575,
-      "xr": 5.4328
+      "pa": 580,
+      "xr": 5.7621
     },
     "682626": {
       "name": "Francisco Alvarez",
@@ -1455,14 +1455,14 @@
     "502671": {
       "name": "Paul Goldschmidt",
       "team": "New York Yankees",
-      "pa": 353,
-      "xr": 0.1851
+      "pa": 357,
+      "xr": 0.6757
     },
     "642708": {
       "name": "Amed Rosario",
       "team": "New York Yankees",
-      "pa": 222,
-      "xr": 1.7389
+      "pa": 226,
+      "xr": 2.3272
     },
     "545341": {
       "name": "Randal Grichuk",
@@ -2031,8 +2031,8 @@
     "620443": {
       "name": "Luis Torrens",
       "team": "New York Mets",
-      "pa": 250,
-      "xr": -0.3992
+      "pa": 254,
+      "xr": 0.7962
     },
     "687859": {
       "name": "Troy Johnston",
@@ -2181,8 +2181,8 @@
     "676724": {
       "name": "Jared Young",
       "team": "New York Mets",
-      "pa": 320,
-      "xr": 0.5493
+      "pa": 325,
+      "xr": 1.0832
     },
     "664954": {
       "name": "Brett Sullivan",
@@ -2871,8 +2871,8 @@
     "682987": {
       "name": "Spencer Jones",
       "team": "New York Yankees",
-      "pa": 230,
-      "xr": 8.0816
+      "pa": 234,
+      "xr": 8.116
     },
     "814439": {
       "name": "Ryan Waldschmidt",
@@ -2907,14 +2907,14 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 435,
-      "xr": -0.6423
+      "pa": 439,
+      "xr": -0.8279
     },
     "683011": {
       "name": "Anthony Volpe",
       "team": "New York Yankees",
-      "pa": 203,
-      "xr": 2.0501
+      "pa": 206,
+      "xr": 1.7952
     },
     "506702": {
       "name": "Sandy Le\u00f3n",
@@ -3009,8 +3009,8 @@
     "703492": {
       "name": "Nick Morabito",
       "team": "New York Mets",
-      "pa": 28,
-      "xr": 0.0392
+      "pa": 32,
+      "xr": 0.0782
     },
     "686611": {
       "name": "Dylan Crews",
@@ -3249,8 +3249,8 @@
     "645305": {
       "name": "Ali S\u00e1nchez",
       "team": "New York Yankees",
-      "pa": 73,
-      "xr": -2.1229
+      "pa": 74,
+      "xr": -1.9491
     },
     "694203": {
       "name": "Denzer Guzman",
@@ -3693,8 +3693,8 @@
     "806146": {
       "name": "George Lombard Jr.",
       "team": "New York Yankees",
-      "pa": 115,
-      "xr": -6.8524
+      "pa": 119,
+      "xr": -7.009
     },
     "666163": {
       "name": "Ben Rortvedt",
@@ -4013,8 +4013,8 @@
     "668964": {
       "name": "Tobias Myers",
       "team": "New York Mets",
-      "bf": 198,
-      "xr_allowed": 4.1782
+      "bf": 206,
+      "xr_allowed": 3.7299
     },
     "664875": {
       "name": "Justin Lawrence",
@@ -4643,8 +4643,8 @@
     "657612": {
       "name": "Tim Hill",
       "team": "New York Yankees",
-      "bf": 216,
-      "xr_allowed": 2.2868
+      "bf": 222,
+      "xr_allowed": 3.1817
     },
     "676254": {
       "name": "Ryan Walker",
@@ -6341,8 +6341,8 @@
     "642232": {
       "name": "Ryan Yarbrough",
       "team": "New York Yankees",
-      "bf": 233,
-      "xr_allowed": -4.2497
+      "bf": 240,
+      "xr_allowed": -5.4415
     },
     "685801": {
       "name": "Hunter Bigge",
@@ -7619,8 +7619,8 @@
     "804267": {
       "name": "Zac Thornton",
       "team": "New York Mets",
-      "bf": 268,
-      "xr_allowed": 5.3449
+      "bf": 294,
+      "xr_allowed": 6.2189
     },
     "672442": {
       "name": "Yovanny Cruz",
@@ -7637,8 +7637,8 @@
     "543037": {
       "name": "Gerrit Cole",
       "team": "New York Yankees",
-      "bf": 453,
-      "xr_allowed": -5.0875
+      "bf": 475,
+      "xr_allowed": -3.3232
     },
     "594027": {
       "name": "Tyron Guerrero",
@@ -8723,8 +8723,8 @@
     "690440": {
       "name": "Bradley Hanner",
       "team": "New York Yankees",
-      "bf": 18,
-      "xr_allowed": 0.7916
+      "bf": 26,
+      "xr_allowed": 1.7498
     },
     "694357": {
       "name": "Ricky Tiedemann",
@@ -11205,6 +11205,7 @@
     823012,
     824954,
     825036,
-    823173
+    823173,
+    823496
   ]
 }
