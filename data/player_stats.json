@@ -909,26 +909,26 @@
     "665487": {
       "name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
-      "pa": 644,
-      "xr": 34.7989
+      "pa": 649,
+      "xr": 34.5155
     },
     "593428": {
       "name": "Xander Bogaerts",
       "team": "San Diego Padres",
-      "pa": 560,
-      "xr": 10.6963
+      "pa": 564,
+      "xr": 11.6462
     },
     "592518": {
       "name": "Manny Machado",
       "team": "San Diego Padres",
-      "pa": 614,
-      "xr": 10.5153
+      "pa": 619,
+      "xr": 9.5707
     },
     "701538": {
       "name": "Jackson Merrill",
       "team": "San Diego Padres",
-      "pa": 608,
-      "xr": 19.7738
+      "pa": 613,
+      "xr": 19.3261
     },
     "609280": {
       "name": "Miguel Andujar",
@@ -957,8 +957,8 @@
     "630105": {
       "name": "Jake Cronenworth",
       "team": "San Diego Padres",
-      "pa": 383,
-      "xr": -8.2479
+      "pa": 388,
+      "xr": -8.1865
     },
     "592206": {
       "name": "Nick Castellanos",
@@ -1587,8 +1587,8 @@
     "664983": {
       "name": "Jake McCarthy",
       "team": "Colorado Rockies",
-      "pa": 543,
-      "xr": 9.4338
+      "pa": 547,
+      "xr": 9.5723
     },
     "696100": {
       "name": "Hunter Goodman",
@@ -1629,14 +1629,14 @@
     "681393": {
       "name": "Connor Norby",
       "team": "Colorado Rockies",
-      "pa": 337,
-      "xr": 4.2633
+      "pa": 341,
+      "xr": 4.5159
     },
     "678662": {
       "name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
-      "pa": 470,
-      "xr": -23.2376
+      "pa": 474,
+      "xr": -23.3825
     },
     "681198": {
       "name": "TJ Rumfield",
@@ -1647,8 +1647,8 @@
     "687597": {
       "name": "Jordan Beck",
       "team": "Colorado Rockies",
-      "pa": 152,
-      "xr": -9.0395
+      "pa": 156,
+      "xr": -8.6871
     },
     "681715": {
       "name": "Heriberto Hern\u00e1ndez",
@@ -1689,8 +1689,8 @@
     "691720": {
       "name": "Kyle Karros",
       "team": "Colorado Rockies",
-      "pa": 426,
-      "xr": 11.2032
+      "pa": 430,
+      "xr": 11.9186
     },
     "665052": {
       "name": "Griffin Conine",
@@ -1701,8 +1701,8 @@
     "690924": {
       "name": "Braxton Fulford",
       "team": "Colorado Rockies",
-      "pa": 79,
-      "xr": -6.8413
+      "pa": 83,
+      "xr": -7.339
     },
     "690022": {
       "name": "Ryan Ritter",
@@ -1845,8 +1845,8 @@
     "664034": {
       "name": "Ty France",
       "team": "San Diego Padres",
-      "pa": 446,
-      "xr": 11.6559
+      "pa": 451,
+      "xr": 11.15
     },
     "669134": {
       "name": "Luis Campusano",
@@ -2037,8 +2037,8 @@
     "687859": {
       "name": "Troy Johnston",
       "team": "Colorado Rockies",
-      "pa": 423,
-      "xr": 7.2472
+      "pa": 427,
+      "xr": 6.4832
     },
     "689414": {
       "name": "Liam Hicks",
@@ -2415,8 +2415,8 @@
     "687957": {
       "name": "Dustin Harris",
       "team": "San Diego Padres",
-      "pa": 103,
-      "xr": 0.3496
+      "pa": 108,
+      "xr": 1.7466
     },
     "663609": {
       "name": "Luken Baker",
@@ -2829,8 +2829,8 @@
     "823550": {
       "name": "Sung-Mun Song",
       "team": "San Diego Padres",
-      "pa": 137,
-      "xr": -5.8346
+      "pa": 138,
+      "xr": -5.9897
     },
     "693409": {
       "name": "C\u00e9sar Prieto",
@@ -3201,8 +3201,8 @@
     "669392": {
       "name": "Samad Taylor",
       "team": "San Diego Padres",
-      "pa": 139,
-      "xr": -2.0537
+      "pa": 143,
+      "xr": -0.0786
     },
     "683227": {
       "name": "Cody Freeman",
@@ -3279,8 +3279,8 @@
     "694249": {
       "name": "Cole Carrigg",
       "team": "Colorado Rockies",
-      "pa": 328,
-      "xr": 4.2784
+      "pa": 332,
+      "xr": 3.7143
     },
     "695238": {
       "name": "Will Wagner",
@@ -3807,8 +3807,8 @@
     "691182": {
       "name": "Adael Amador",
       "team": "Colorado Rockies",
-      "pa": 63,
-      "xr": -1.0332
+      "pa": 67,
+      "xr": -1.6034
     },
     "663662": {
       "name": "Daz Cameron",
@@ -3897,8 +3897,8 @@
     "806956": {
       "name": "Ethan Salas",
       "team": "San Diego Padres",
-      "pa": 17,
-      "xr": -3.0008
+      "pa": 21,
+      "xr": -2.8868
     },
     "699115": {
       "name": "Carlos Jorge",
@@ -4373,8 +4373,8 @@
     "688158": {
       "name": "David Morgan",
       "team": "San Diego Padres",
-      "bf": 132,
-      "xr_allowed": 0.8926
+      "bf": 139,
+      "xr_allowed": 0.5348
     },
     "663947": {
       "name": "Tyler Holton",
@@ -4637,8 +4637,8 @@
     "592662": {
       "name": "Robbie Ray",
       "team": "San Diego Padres",
-      "bf": 642,
-      "xr_allowed": 11.6856
+      "bf": 666,
+      "xr_allowed": 10.8052
     },
     "693645": {
       "name": "Cam Schlittler",
@@ -4757,8 +4757,8 @@
     "623474": {
       "name": "Jimmy Herget",
       "team": "Colorado Rockies",
-      "bf": 210,
-      "xr_allowed": 4.757
+      "bf": 217,
+      "xr_allowed": 4.5502
     },
     "657514": {
       "name": "Brennan Bernardino",
@@ -4769,8 +4769,8 @@
     "675848": {
       "name": "Juan Mejia",
       "team": "Colorado Rockies",
-      "bf": 297,
-      "xr_allowed": 10.8563
+      "bf": 300,
+      "xr_allowed": 10.3786
     },
     "677053": {
       "name": "Andrew Nardi",
@@ -7451,8 +7451,8 @@
     "673513": {
       "name": "Yuki Matsui",
       "team": "San Diego Padres",
-      "bf": 230,
-      "xr_allowed": -17.0996
+      "bf": 235,
+      "xr_allowed": -16.9434
     },
     "682445": {
       "name": "Domingo Gonzalez",
@@ -8621,8 +8621,8 @@
     "693308": {
       "name": "Nick Frasso",
       "team": "Colorado Rockies",
-      "bf": 73,
-      "xr_allowed": 2.2516
+      "bf": 82,
+      "xr_allowed": 2.7793
     },
     "674003": {
       "name": "Cody Bradford",
@@ -8891,8 +8891,8 @@
     "690279": {
       "name": "Mason Adams",
       "team": "Colorado Rockies",
-      "bf": 78,
-      "xr_allowed": 1.2613
+      "bf": 102,
+      "xr_allowed": 3.5788
     },
     "691384": {
       "name": "Luis Perales",
@@ -11320,6 +11320,7 @@
     823576,
     824626,
     822846,
-    824140
+    824140,
+    824306
   ]
 }
