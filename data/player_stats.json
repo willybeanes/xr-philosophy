@@ -249,8 +249,8 @@
     "661388": {
       "name": "William Contreras",
       "team": "Milwaukee Brewers",
-      "pa": 599,
-      "xr": 13.4917
+      "pa": 603,
+      "xr": 14.1023
     },
     "592885": {
       "name": "Christian Yelich",
@@ -261,8 +261,8 @@
     "683734": {
       "name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
-      "pa": 321,
-      "xr": 4.4311
+      "pa": 324,
+      "xr": 4.7953
     },
     "669720": {
       "name": "Austin Hays",
@@ -303,20 +303,20 @@
     "666152": {
       "name": "David Hamilton",
       "team": "Milwaukee Brewers",
-      "pa": 364,
-      "xr": -10.9706
+      "pa": 367,
+      "xr": -11.4646
     },
     "669003": {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 492,
-      "xr": 13.0242
+      "pa": 496,
+      "xr": 13.1078
     },
     "687401": {
       "name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
-      "pa": 389,
-      "xr": -6.4242
+      "pa": 392,
+      "xr": -6.8285
     },
     "682668": {
       "name": "Luisangel Acu\u00f1a",
@@ -513,14 +513,14 @@
     "683002": {
       "name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
-      "pa": 663,
-      "xr": 9.5694
+      "pa": 667,
+      "xr": 9.6754
     },
     "624413": {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 657,
-      "xr": 54.2835
+      "pa": 661,
+      "xr": 54.6139
     },
     "680777": {
       "name": "Ryan Jeffers",
@@ -567,8 +567,8 @@
     "694212": {
       "name": "Samuel Basallo",
       "team": "Baltimore Orioles",
-      "pa": 376,
-      "xr": 9.095
+      "pa": 379,
+      "xr": 8.6924
     },
     "641933": {
       "name": "Tyler O'Neill",
@@ -585,8 +585,8 @@
     "691723": {
       "name": "Coby Mayo",
       "team": "Baltimore Orioles",
-      "pa": 416,
-      "xr": 7.1935
+      "pa": 420,
+      "xr": 7.906
     },
     "677942": {
       "name": "Blaze Alexander",
@@ -1947,8 +1947,8 @@
     "669236": {
       "name": "Jeremiah Jackson",
       "team": "Baltimore Orioles",
-      "pa": 258,
-      "xr": -3.5227
+      "pa": 262,
+      "xr": -3.7678
     },
     "663624": {
       "name": "Ryan Mountcastle",
@@ -1959,8 +1959,8 @@
     "665750": {
       "name": "Leody Taveras",
       "team": "Baltimore Orioles",
-      "pa": 455,
-      "xr": -12.0644
+      "pa": 458,
+      "xr": -11.3047
     },
     "681546": {
       "name": "James Outman",
@@ -2223,8 +2223,8 @@
     "596142": {
       "name": "Gary S\u00e1nchez",
       "team": "Milwaukee Brewers",
-      "pa": 253,
-      "xr": 7.9966
+      "pa": 256,
+      "xr": 7.8039
     },
     "691620": {
       "name": "Jeferson Quero",
@@ -2535,8 +2535,8 @@
     "677956": {
       "name": "Rece Hinds",
       "team": "Baltimore Orioles",
-      "pa": 59,
-      "xr": -8.239
+      "pa": 63,
+      "xr": -7.432
     },
     "671655": {
       "name": "George Valera",
@@ -2793,8 +2793,8 @@
     "694192": {
       "name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
-      "pa": 532,
-      "xr": 15.0718
+      "pa": 536,
+      "xr": 14.565
     },
     "805904": {
       "name": "Zach Cole",
@@ -3369,8 +3369,8 @@
     "806198": {
       "name": "Cooper Pratt",
       "team": "Milwaukee Brewers",
-      "pa": 242,
-      "xr": -0.9702
+      "pa": 245,
+      "xr": -1.4049
     },
     "669242": {
       "name": "Tommy Edman",
@@ -3543,8 +3543,8 @@
     "800325": {
       "name": "Luis Lara",
       "team": "Milwaukee Brewers",
-      "pa": 193,
-      "xr": -3.8552
+      "pa": 196,
+      "xr": -4.3925
     },
     "687394": {
       "name": "Jack Brannigan",
@@ -3609,8 +3609,8 @@
     "687952": {
       "name": "Christian Encarnacion-Strand",
       "team": "Baltimore Orioles",
-      "pa": 193,
-      "xr": 3.9699
+      "pa": 197,
+      "xr": 3.3444
     },
     "681190": {
       "name": "Randy V\u00e1squez",
@@ -3681,8 +3681,8 @@
     "681047": {
       "name": "Christian Franklin",
       "team": "Baltimore Orioles",
-      "pa": 43,
-      "xr": 0.4077
+      "pa": 46,
+      "xr": -0.2151
     },
     "699302": {
       "name": "H\u00e9ctor Rodr\u00edguez",
@@ -4091,8 +4091,8 @@
     "676879": {
       "name": "Aaron Ashby",
       "team": "Milwaukee Brewers",
-      "bf": 356,
-      "xr_allowed": -7.5722
+      "bf": 359,
+      "xr_allowed": -7.5218
     },
     "663855": {
       "name": "Jordan Hicks",
@@ -4187,8 +4187,8 @@
     "669432": {
       "name": "Trevor Rogers",
       "team": "Baltimore Orioles",
-      "bf": 656,
-      "xr_allowed": -1.9012
+      "bf": 683,
+      "xr_allowed": -3.2009
     },
     "657746": {
       "name": "Joe Ryan",
@@ -5447,8 +5447,8 @@
     "682842": {
       "name": "Abner Uribe",
       "team": "Milwaukee Brewers",
-      "bf": 218,
-      "xr_allowed": -14.5072
+      "bf": 222,
+      "xr_allowed": -15.0764
     },
     "622554": {
       "name": "Seranthony Dom\u00ednguez",
@@ -7145,8 +7145,8 @@
     "695380": {
       "name": "Alex Hoppe",
       "team": "Baltimore Orioles",
-      "bf": 176,
-      "xr_allowed": -2.67
+      "bf": 179,
+      "xr_allowed": -2.8817
     },
     "820862": {
       "name": "Jos\u00e9 Fermin",
@@ -7541,8 +7541,8 @@
     "688107": {
       "name": "Robert Gasser",
       "team": "Milwaukee Brewers",
-      "bf": 416,
-      "xr_allowed": -1.6648
+      "bf": 442,
+      "xr_allowed": -0.3264
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -11366,6 +11366,7 @@
     823252,
     825032,
     823898,
-    824545
+    824545,
+    824788
   ]
 }
