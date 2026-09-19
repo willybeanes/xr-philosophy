@@ -219,26 +219,26 @@
     "805367": {
       "name": "Chase Meidroth",
       "team": "Chicago White Sox",
-      "pa": 613,
-      "xr": -6.5518
+      "pa": 616,
+      "xr": -6.554
     },
     "695657": {
       "name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "pa": 596,
-      "xr": -17.1669
+      "pa": 599,
+      "xr": -17.587
     },
     "678246": {
       "name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "pa": 658,
-      "xr": 41.4253
+      "pa": 662,
+      "xr": 42.1323
     },
     "643217": {
       "name": "Andrew Benintendi",
       "team": "Chicago White Sox",
-      "pa": 444,
-      "xr": 6.1355
+      "pa": 447,
+      "xr": 5.3999
     },
     "668930": {
       "name": "Brice Turang",
@@ -273,8 +273,8 @@
     "808959": {
       "name": "Munetaka Murakami",
       "team": "Chicago White Sox",
-      "pa": 504,
-      "xr": 20.3568
+      "pa": 508,
+      "xr": 19.8704
     },
     "677592": {
       "name": "Everson Pereira",
@@ -867,32 +867,32 @@
     "690993": {
       "name": "Colt Keith",
       "team": "Detroit Tigers",
-      "pa": 412,
-      "xr": 14.1796
+      "pa": 415,
+      "xr": 13.6341
     },
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 550,
-      "xr": 23.3496
+      "pa": 554,
+      "xr": 23.8618
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 571,
-      "xr": -3.7061
+      "pa": 573,
+      "xr": -4.0939
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 664,
-      "xr": 31.2198
+      "pa": 669,
+      "xr": 30.403
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 573,
-      "xr": 17.6026
+      "pa": 577,
+      "xr": 18.5144
     },
     "678009": {
       "name": "Parker Meadows",
@@ -1677,8 +1677,8 @@
     "686668": {
       "name": "Brenton Doyle",
       "team": "Chicago White Sox",
-      "pa": 196,
-      "xr": -14.5841
+      "pa": 199,
+      "xr": -13.9961
     },
     "666397": {
       "name": "Edouard Julien",
@@ -2577,8 +2577,8 @@
     "803011": {
       "name": "Sam Antonacci",
       "team": "Chicago White Sox",
-      "pa": 515,
-      "xr": 17.3371
+      "pa": 519,
+      "xr": 16.7492
     },
     "669004": {
       "name": "MJ Melendez",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu Lee",
       "team": "Detroit Tigers",
-      "pa": 321,
-      "xr": -1.6627
+      "pa": 326,
+      "xr": -2.2026
     },
     "694025": {
       "name": "Felix Reyes",
@@ -3273,8 +3273,8 @@
     "695731": {
       "name": "Braden Montgomery",
       "team": "Chicago White Sox",
-      "pa": 337,
-      "xr": -2.2623
+      "pa": 340,
+      "xr": -2.2795
     },
     "694249": {
       "name": "Cole Carrigg",
@@ -3435,8 +3435,8 @@
     "691019": {
       "name": "Kyle Teel",
       "team": "Chicago White Sox",
-      "pa": 113,
-      "xr": 1.6297
+      "pa": 117,
+      "xr": 1.1677
     },
     "649966": {
       "name": "Luis Ur\u00edas",
@@ -3447,8 +3447,8 @@
     "701162": {
       "name": "Ben Malgeri",
       "team": "Detroit Tigers",
-      "pa": 120,
-      "xr": 0.5751
+      "pa": 124,
+      "xr": 0.4815
     },
     "640459": {
       "name": "Brian Navarreto",
@@ -3561,8 +3561,8 @@
     "680664": {
       "name": "Eduardo Valencia",
       "team": "Detroit Tigers",
-      "pa": 110,
-      "xr": 2.5438
+      "pa": 111,
+      "xr": 2.1169
     },
     "687529": {
       "name": "Grant McCray",
@@ -3657,8 +3657,8 @@
     "703601": {
       "name": "Max Clark",
       "team": "Detroit Tigers",
-      "pa": 176,
-      "xr": -1.7338
+      "pa": 180,
+      "xr": -1.3299
     },
     "680716": {
       "name": "Jonathan Ornelas",
@@ -3819,8 +3819,8 @@
     "814430": {
       "name": "Brett Callahan",
       "team": "Detroit Tigers",
-      "pa": 63,
-      "xr": -2.5967
+      "pa": 66,
+      "xr": -2.6175
     },
     "677943": {
       "name": "Will Banfield",
@@ -3867,8 +3867,8 @@
     "807726": {
       "name": "John Peck",
       "team": "Detroit Tigers",
-      "pa": 54,
-      "xr": 3.5069
+      "pa": 58,
+      "xr": 3.6808
     },
     "805346": {
       "name": "Ben Ross",
@@ -5417,8 +5417,8 @@
     "680732": {
       "name": "Sean Burke",
       "team": "Chicago White Sox",
-      "bf": 652,
-      "xr_allowed": -13.917
+      "bf": 678,
+      "xr_allowed": -13.2616
     },
     "669684": {
       "name": "Chris Murphy",
@@ -5429,8 +5429,8 @@
     "691799": {
       "name": "Grant Taylor",
       "team": "Chicago White Sox",
-      "bf": 318,
-      "xr_allowed": -11.8134
+      "bf": 323,
+      "xr_allowed": -12.4797
     },
     "672582": {
       "name": "Angel Zerpa",
@@ -6797,8 +6797,8 @@
     "702273": {
       "name": "Noah Schultz",
       "team": "Chicago White Sox",
-      "bf": 298,
-      "xr_allowed": 16.2393
+      "bf": 306,
+      "xr_allowed": 15.4207
     },
     "676467": {
       "name": "Colton Gordon",
@@ -8027,8 +8027,8 @@
     "621097": {
       "name": "Jacob Waguespack",
       "team": "Detroit Tigers",
-      "bf": 163,
-      "xr_allowed": -5.1932
+      "bf": 170,
+      "xr_allowed": -5.6122
     },
     "621074": {
       "name": "Michael Rucker",
@@ -8669,8 +8669,8 @@
     "695549": {
       "name": "Jackson Jobe",
       "team": "Detroit Tigers",
-      "bf": 149,
-      "xr_allowed": 1.6567
+      "bf": 173,
+      "xr_allowed": 0.6593
     },
     "805345": {
       "name": "Trent Harris",
@@ -11365,6 +11365,7 @@
     823977,
     823252,
     825032,
-    823898
+    823898,
+    824545
   ]
 }
