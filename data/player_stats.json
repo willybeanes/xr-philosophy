@@ -561,8 +561,8 @@
     "668939": {
       "name": "Adley Rutschman",
       "team": "Boston Red Sox",
-      "pa": 370,
-      "xr": 4.4386
+      "pa": 374,
+      "xr": 3.873
     },
     "694212": {
       "name": "Samuel Basallo",
@@ -609,20 +609,20 @@
     "701350": {
       "name": "Roman Anthony",
       "team": "Boston Red Sox",
-      "pa": 216,
-      "xr": 11.2992
+      "pa": 220,
+      "xr": 11.4823
     },
     "596115": {
       "name": "Trevor Story",
       "team": "Boston Red Sox",
-      "pa": 232,
-      "xr": -8.2835
+      "pa": 236,
+      "xr": -8.7715
     },
     "680776": {
       "name": "Jarren Duran",
       "team": "Boston Red Sox",
-      "pa": 576,
-      "xr": -8.0915
+      "pa": 580,
+      "xr": -6.9278
     },
     "575929": {
       "name": "Willson Contreras",
@@ -633,8 +633,8 @@
     "702332": {
       "name": "Caleb Durbin",
       "team": "Boston Red Sox",
-      "pa": 551,
-      "xr": -3.7174
+      "pa": 555,
+      "xr": -4.4119
     },
     "670770": {
       "name": "TJ Friedl",
@@ -657,14 +657,14 @@
     "677800": {
       "name": "Wilyer Abreu",
       "team": "Boston Red Sox",
-      "pa": 643,
-      "xr": 22.8473
+      "pa": 647,
+      "xr": 22.7914
     },
     "643396": {
       "name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
-      "pa": 163,
-      "xr": -2.2991
+      "pa": 167,
+      "xr": -3.3324
     },
     "665966": {
       "name": "Carlos Narv\u00e1ez",
@@ -981,14 +981,14 @@
     "666018": {
       "name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
-      "pa": 634,
-      "xr": 24.7398
+      "pa": 638,
+      "xr": 24.6768
     },
     "691406": {
       "name": "Junior Caminero",
       "team": "Tampa Bay Rays",
-      "pa": 660,
-      "xr": 28.0497
+      "pa": 664,
+      "xr": 28.0822
     },
     "810938": {
       "name": "Ben Williamson",
@@ -1029,8 +1029,8 @@
     "676356": {
       "name": "Jonny DeLuca",
       "team": "Tampa Bay Rays",
-      "pa": 324,
-      "xr": -18.5447
+      "pa": 325,
+      "xr": -18.8371
     },
     "663743": {
       "name": "Nick Fortes",
@@ -1041,8 +1041,8 @@
     "656775": {
       "name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
-      "pa": 476,
-      "xr": -24.831
+      "pa": 479,
+      "xr": -25.4314
     },
     "700246": {
       "name": "Carson Williams",
@@ -1077,20 +1077,20 @@
     "802415": {
       "name": "Chandler Simpson",
       "team": "Tampa Bay Rays",
-      "pa": 584,
-      "xr": -23.1188
+      "pa": 588,
+      "xr": -22.258
     },
     "680700": {
       "name": "Richie Palacios",
       "team": "Tampa Bay Rays",
-      "pa": 378,
-      "xr": 1.5619
+      "pa": 382,
+      "xr": 1.7032
     },
     "641584": {
       "name": "Jake Fraley",
       "team": "Tampa Bay Rays",
-      "pa": 93,
-      "xr": -4.6068
+      "pa": 97,
+      "xr": -5.2458
     },
     "676439": {
       "name": "Hunter Feduccia",
@@ -2043,8 +2043,8 @@
     "689414": {
       "name": "Liam Hicks",
       "team": "Tampa Bay Rays",
-      "pa": 517,
-      "xr": 8.4437
+      "pa": 520,
+      "xr": 9.0545
     },
     "688363": {
       "name": "Graham Pauley",
@@ -2145,8 +2145,8 @@
     "622761": {
       "name": "Jorge Mateo",
       "team": "Tampa Bay Rays",
-      "pa": 197,
-      "xr": -7.5672
+      "pa": 199,
+      "xr": -8.203
     },
     "571657": {
       "name": "Kyle Farmer",
@@ -2397,8 +2397,8 @@
     "670764": {
       "name": "Taylor Walls",
       "team": "Tampa Bay Rays",
-      "pa": 408,
-      "xr": -21.3502
+      "pa": 409,
+      "xr": -21.499
     },
     "808975": {
       "name": "Hyeseong Kim",
@@ -2889,8 +2889,8 @@
     "681508": {
       "name": "Mickey Gasper",
       "team": "Boston Red Sox",
-      "pa": 207,
-      "xr": 9.2013
+      "pa": 211,
+      "xr": 8.3649
     },
     "673490": {
       "name": "Ha-Seong Kim",
@@ -2973,8 +2973,8 @@
     "686765": {
       "name": "Nick Sogard",
       "team": "Boston Red Sox",
-      "pa": 247,
-      "xr": -1.075
+      "pa": 251,
+      "xr": -0.6907
     },
     "675961": {
       "name": "Alika Williams",
@@ -3105,8 +3105,8 @@
     "683748": {
       "name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
-      "pa": 234,
-      "xr": -1.8703
+      "pa": 238,
+      "xr": -2.9715
     },
     "686554": {
       "name": "Oliver Dunn",
@@ -4007,8 +4007,8 @@
     "642547": {
       "name": "Freddy Peralta",
       "team": "Tampa Bay Rays",
-      "bf": 685,
-      "xr_allowed": -12.523
+      "bf": 708,
+      "xr_allowed": -13.9407
     },
     "694973": {
       "name": "Paul Skenes",
@@ -4265,8 +4265,8 @@
     "676477": {
       "name": "Garrett Whitlock",
       "team": "Boston Red Sox",
-      "bf": 186,
-      "xr_allowed": -6.4599
+      "bf": 191,
+      "xr_allowed": -6.1674
     },
     "683175": {
       "name": "Connor Phillips",
@@ -5027,14 +5027,14 @@
     "642121": {
       "name": "Cole Sulser",
       "team": "Tampa Bay Rays",
-      "bf": 212,
-      "xr_allowed": 6.8089
+      "bf": 216,
+      "xr_allowed": 6.2447
     },
     "641329": {
       "name": "Bryan Baker",
       "team": "Tampa Bay Rays",
-      "bf": 227,
-      "xr_allowed": -5.726
+      "bf": 231,
+      "xr_allowed": -5.271
     },
     "690990": {
       "name": "Cade Horton",
@@ -5831,8 +5831,8 @@
     "687330": {
       "name": "Kevin Kelly",
       "team": "Tampa Bay Rays",
-      "bf": 261,
-      "xr_allowed": -2.8714
+      "bf": 265,
+      "xr_allowed": -3.2751
     },
     "666277": {
       "name": "George Soriano",
@@ -6269,8 +6269,8 @@
     "678394": {
       "name": "Brayan Bello",
       "team": "Boston Red Sox",
-      "bf": 459,
-      "xr_allowed": 11.6429
+      "bf": 488,
+      "xr_allowed": 9.5152
     },
     "675989": {
       "name": "Cody Bolton",
@@ -7871,8 +7871,8 @@
     "592155": {
       "name": "Cam Booser",
       "team": "Tampa Bay Rays",
-      "bf": 143,
-      "xr_allowed": -8.9206
+      "bf": 144,
+      "xr_allowed": -8.9326
     },
     "669298": {
       "name": "TJ Shook",
@@ -11367,6 +11367,7 @@
     825032,
     823898,
     824545,
-    824788
+    824788,
+    822921
   ]
 }
