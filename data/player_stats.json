@@ -141,20 +141,20 @@
     "596019": {
       "name": "Francisco Lindor",
       "team": "New York Mets",
-      "pa": 459,
-      "xr": 9.8686
+      "pa": 464,
+      "xr": 9.2976
     },
     "665742": {
       "name": "Juan Soto",
       "team": "New York Mets",
-      "pa": 460,
-      "xr": 47.2172
+      "pa": 465,
+      "xr": 47.4814
     },
     "666182": {
       "name": "Bo Bichette",
       "team": "New York Mets",
-      "pa": 675,
-      "xr": 14.4308
+      "pa": 680,
+      "xr": 15.3562
     },
     "593871": {
       "name": "Jorge Polanco",
@@ -171,8 +171,8 @@
     "683146": {
       "name": "Brett Baty",
       "team": "New York Mets",
-      "pa": 457,
-      "xr": 9.7343
+      "pa": 461,
+      "xr": 9.4677
     },
     "543760": {
       "name": "Marcus Semien",
@@ -183,14 +183,14 @@
     "701807": {
       "name": "Carson Benge",
       "team": "New York Mets",
-      "pa": 633,
-      "xr": 9.3161
+      "pa": 638,
+      "xr": 9.6663
     },
     "682626": {
       "name": "Francisco Alvarez",
       "team": "New York Mets",
-      "pa": 409,
-      "xr": 6.1084
+      "pa": 413,
+      "xr": 5.8098
     },
     "669707": {
       "name": "Jared Triolo",
@@ -369,8 +369,8 @@
     "695578": {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 603,
-      "xr": 46.2971
+      "pa": 607,
+      "xr": 46.9602
     },
     "665953": {
       "name": "Andr\u00e9s Chaparro",
@@ -381,8 +381,8 @@
     "691781": {
       "name": "Brady House",
       "team": "Washington Nationals",
-      "pa": 337,
-      "xr": 14.0552
+      "pa": 340,
+      "xr": 13.8986
     },
     "683737": {
       "name": "Michael Busch",
@@ -411,8 +411,8 @@
     "695734": {
       "name": "Daylen Lile",
       "team": "Washington Nationals",
-      "pa": 638,
-      "xr": 8.2023
+      "pa": 642,
+      "xr": 7.4196
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -423,14 +423,14 @@
     "682928": {
       "name": "CJ Abrams",
       "team": "Washington Nationals",
-      "pa": 635,
-      "xr": 14.8836
+      "pa": 639,
+      "xr": 13.7501
     },
     "683083": {
       "name": "Nasim Nu\u00f1ez",
       "team": "Washington Nationals",
-      "pa": 477,
-      "xr": -22.9953
+      "pa": 479,
+      "xr": -22.8424
     },
     "663538": {
       "name": "Nico Hoerner",
@@ -453,8 +453,8 @@
     "660688": {
       "name": "Keibert Ruiz",
       "team": "Washington Nationals",
-      "pa": 350,
-      "xr": -5.6665
+      "pa": 353,
+      "xr": -5.3354
     },
     "696285": {
       "name": "Jacob Young",
@@ -1899,8 +1899,8 @@
     "678391": {
       "name": "Jorbit Vivas",
       "team": "Washington Nationals",
-      "pa": 361,
-      "xr": -5.8481
+      "pa": 362,
+      "xr": -6.0732
     },
     "665804": {
       "name": "Miguel Amaya",
@@ -1911,8 +1911,8 @@
     "677588": {
       "name": "Jos\u00e9 Tena",
       "team": "Washington Nationals",
-      "pa": 283,
-      "xr": -8.5808
+      "pa": 284,
+      "xr": -8.8546
     },
     "676914": {
       "name": "Davis Schneider",
@@ -2025,8 +2025,8 @@
     "668901": {
       "name": "Mark Vientos",
       "team": "New York Mets",
-      "pa": 278,
-      "xr": 0.3626
+      "pa": 283,
+      "xr": -1.2199
     },
     "620443": {
       "name": "Luis Torrens",
@@ -2427,8 +2427,8 @@
     "677595": {
       "name": "Ronny Mauricio",
       "team": "New York Mets",
-      "pa": 55,
-      "xr": -3.7153
+      "pa": 59,
+      "xr": -2.2879
     },
     "666931": {
       "name": "Jared Oliva",
@@ -2907,8 +2907,8 @@
     "805999": {
       "name": "A.J. Ewing",
       "team": "New York Mets",
-      "pa": 486,
-      "xr": -3.8058
+      "pa": 490,
+      "xr": -1.3486
     },
     "683011": {
       "name": "Anthony Volpe",
@@ -3015,8 +3015,8 @@
     "686611": {
       "name": "Dylan Crews",
       "team": "Washington Nationals",
-      "pa": 436,
-      "xr": 2.2138
+      "pa": 440,
+      "xr": 1.3272
     },
     "606115": {
       "name": "Orlando Arcia",
@@ -3573,8 +3573,8 @@
     "694673": {
       "name": "Abimelec Ortiz",
       "team": "Washington Nationals",
-      "pa": 133,
-      "xr": -3.2779
+      "pa": 137,
+      "xr": -3.7844
     },
     "676551": {
       "name": "Brewer Hicklen",
@@ -3855,8 +3855,8 @@
     "691002": {
       "name": "Yohandy Morales",
       "team": "Washington Nationals",
-      "pa": 44,
-      "xr": 1.6944
+      "pa": 47,
+      "xr": 1.1708
     },
     "691858": {
       "name": "Jared Serna",
@@ -4055,8 +4055,8 @@
     "668964": {
       "name": "Tobias Myers",
       "team": "New York Mets",
-      "bf": 219,
-      "xr_allowed": 3.2862
+      "bf": 223,
+      "xr_allowed": 2.6908
     },
     "664875": {
       "name": "Justin Lawrence",
@@ -5345,8 +5345,8 @@
     "642207": {
       "name": "Devin Williams",
       "team": "New York Mets",
-      "bf": 180,
-      "xr_allowed": -4.7562
+      "bf": 183,
+      "xr_allowed": -5.1965
     },
     "682995": {
       "name": "Hunter Barco",
@@ -5357,8 +5357,8 @@
     "663992": {
       "name": "Richard Lovelady",
       "team": "Washington Nationals",
-      "bf": 158,
-      "xr_allowed": 2.5014
+      "bf": 165,
+      "xr_allowed": 3.8201
     },
     "691587": {
       "name": "Eury P\u00e9rez",
@@ -5722,9 +5722,9 @@
     },
     "813349": {
       "name": "Connelly Early",
-      "team": "Boston Red Sox",
-      "bf": 364,
-      "xr_allowed": 3.1035
+      "team": "Washington Nationals",
+      "bf": 374,
+      "xr_allowed": 1.996
     },
     "663558": {
       "name": "Jovani Mor\u00e1n",
@@ -5879,8 +5879,8 @@
     "663623": {
       "name": "Jake Irvin",
       "team": "Washington Nationals",
-      "bf": 446,
-      "xr_allowed": 14.9045
+      "bf": 470,
+      "xr_allowed": 17.399
     },
     "681402": {
       "name": "Gus Varland",
@@ -7673,8 +7673,8 @@
     "804636": {
       "name": "Jonah Tong",
       "team": "New York Mets",
-      "bf": 114,
-      "xr_allowed": 2.4029
+      "bf": 134,
+      "xr_allowed": 0.8021
     },
     "543037": {
       "name": "Gerrit Cole",
@@ -8627,8 +8627,8 @@
     "681320": {
       "name": "Nate Lavender",
       "team": "New York Mets",
-      "bf": 76,
-      "xr_allowed": -5.3573
+      "bf": 79,
+      "xr_allowed": -5.5844
     },
     "656786": {
       "name": "Parker Mushinski",
@@ -8663,8 +8663,8 @@
     "673380": {
       "name": "Dedniel N\u00fa\u00f1ez",
       "team": "New York Mets",
-      "bf": 69,
-      "xr_allowed": 0.2395
+      "bf": 72,
+      "xr_allowed": -0.2382
     },
     "645302": {
       "name": "Victor Robles",
@@ -11524,6 +11524,7 @@
     823167,
     824947,
     823248,
-    823085
+    823085,
+    822678
   ]
 }
