@@ -645,14 +645,14 @@
     "680574": {
       "name": "Matt McLain",
       "team": "Cincinnati Reds",
-      "pa": 480,
-      "xr": -7.0492
+      "pa": 485,
+      "xr": -7.3611
     },
     "682829": {
       "name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
-      "pa": 616,
-      "xr": 32.4511
+      "pa": 621,
+      "xr": 32.7952
     },
     "677800": {
       "name": "Wilyer Abreu",
@@ -681,14 +681,14 @@
     "701398": {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 681,
-      "xr": 23.6948
+      "pa": 686,
+      "xr": 23.4677
     },
     "553993": {
       "name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
-      "pa": 494,
-      "xr": -8.289
+      "pa": 498,
+      "xr": -7.5687
     },
     "668715": {
       "name": "Spencer Steer",
@@ -699,8 +699,8 @@
     "663886": {
       "name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
-      "pa": 460,
-      "xr": 9.0922
+      "pa": 464,
+      "xr": 8.9024
     },
     "682622": {
       "name": "Noelvi Marte",
@@ -1173,8 +1173,8 @@
     "669701": {
       "name": "Josh Smith",
       "team": "Toronto Blue Jays",
-      "pa": 239,
-      "xr": -8.0595
+      "pa": 243,
+      "xr": -8.0522
     },
     "643376": {
       "name": "Danny Jansen",
@@ -1497,14 +1497,14 @@
     "664770": {
       "name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
-      "pa": 447,
-      "xr": 1.1301
+      "pa": 451,
+      "xr": 1.4978
     },
     "665489": {
       "name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
-      "pa": 593,
-      "xr": 17.8123
+      "pa": 597,
+      "xr": 16.5614
     },
     "680718": {
       "name": "Addison Barger",
@@ -1533,8 +1533,8 @@
     "672386": {
       "name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
-      "pa": 309,
-      "xr": 9.4174
+      "pa": 313,
+      "xr": 9.339
     },
     "662139": {
       "name": "Daulton Varsho",
@@ -1545,8 +1545,8 @@
     "672960": {
       "name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
-      "pa": 618,
-      "xr": 2.6096
+      "pa": 622,
+      "xr": 2.4166
     },
     "691777": {
       "name": "Max Muncy",
@@ -1569,14 +1569,14 @@
     "676391": {
       "name": "Ernie Clement",
       "team": "Toronto Blue Jays",
-      "pa": 603,
-      "xr": -28.5219
+      "pa": 606,
+      "xr": -29.1925
     },
     "665926": {
       "name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
-      "pa": 492,
-      "xr": -20.3646
+      "pa": 495,
+      "xr": -20.3925
     },
     "666126": {
       "name": "Carlos Cortes",
@@ -2409,8 +2409,8 @@
     "682877": {
       "name": "Juan Brito",
       "team": "Cincinnati Reds",
-      "pa": 107,
-      "xr": -3.3052
+      "pa": 111,
+      "xr": -3.5793
     },
     "687957": {
       "name": "Dustin Harris",
@@ -2709,8 +2709,8 @@
     "668709": {
       "name": "JJ Bleday",
       "team": "Cincinnati Reds",
-      "pa": 527,
-      "xr": 6.8765
+      "pa": 531,
+      "xr": 6.7279
     },
     "691176": {
       "name": "Jasson Dom\u00ednguez",
@@ -3483,8 +3483,8 @@
     "815873": {
       "name": "Sean Keys",
       "team": "Toronto Blue Jays",
-      "pa": 61,
-      "xr": -1.6932
+      "pa": 65,
+      "xr": -1.5411
     },
     "663853": {
       "name": "Romy Gonzalez",
@@ -3687,8 +3687,8 @@
     "699302": {
       "name": "H\u00e9ctor Rodr\u00edguez",
       "team": "Cincinnati Reds",
-      "pa": 144,
-      "xr": -8.2138
+      "pa": 148,
+      "xr": -8.4295
     },
     "806146": {
       "name": "George Lombard Jr.",
@@ -3747,8 +3747,8 @@
     "703520": {
       "name": "Brett Bateman",
       "team": "Toronto Blue Jays",
-      "pa": 174,
-      "xr": -3.6339
+      "pa": 178,
+      "xr": -2.8273
     },
     "678225": {
       "name": "Jihwan Bae",
@@ -3903,8 +3903,8 @@
     "699115": {
       "name": "Carlos Jorge",
       "team": "Cincinnati Reds",
-      "pa": 41,
-      "xr": -2.1724
+      "pa": 46,
+      "xr": -1.8131
     },
     "677347": {
       "name": "Kyren Paris",
@@ -4277,8 +4277,8 @@
     "668933": {
       "name": "Graham Ashcraft",
       "team": "Cincinnati Reds",
-      "bf": 142,
-      "xr_allowed": -1.0224
+      "bf": 146,
+      "xr_allowed": -1.1034
     },
     "676477": {
       "name": "Garrett Whitlock",
@@ -4289,8 +4289,8 @@
     "683175": {
       "name": "Connor Phillips",
       "team": "Cincinnati Reds",
-      "bf": 140,
-      "xr_allowed": 7.093
+      "bf": 145,
+      "xr_allowed": 6.6964
     },
     "656271": {
       "name": "Brock Burke",
@@ -5111,8 +5111,8 @@
     "680755": {
       "name": "Braydon Fisher",
       "team": "Toronto Blue Jays",
-      "bf": 304,
-      "xr_allowed": 1.9203
+      "bf": 309,
+      "xr_allowed": 1.4654
     },
     "643410": {
       "name": "Mark Leiter Jr.",
@@ -5129,8 +5129,8 @@
     "663893": {
       "name": "Brendon Little",
       "team": "Toronto Blue Jays",
-      "bf": 131,
-      "xr_allowed": 0.9512
+      "bf": 134,
+      "xr_allowed": 0.597
     },
     "667297": {
       "name": "Tommy Nance",
@@ -5153,8 +5153,8 @@
     "693686": {
       "name": "Spencer Miles",
       "team": "Toronto Blue Jays",
-      "bf": 372,
-      "xr_allowed": -12.924
+      "bf": 379,
+      "xr_allowed": -11.2582
     },
     "665622": {
       "name": "Luis Medina",
@@ -5717,8 +5717,8 @@
     "695076": {
       "name": "Rhett Lowder",
       "team": "Cincinnati Reds",
-      "bf": 581,
-      "xr_allowed": 21.4909
+      "bf": 603,
+      "xr_allowed": 21.5266
     },
     "813349": {
       "name": "Connelly Early",
@@ -7175,8 +7175,8 @@
     "702056": {
       "name": "Trey Yesavage",
       "team": "Toronto Blue Jays",
-      "bf": 376,
-      "xr_allowed": -8.2451
+      "bf": 385,
+      "xr_allowed": -8.7327
     },
     "695684": {
       "name": "Elmer Rodr\u00edguez",
@@ -7270,9 +7270,9 @@
     },
     "804619": {
       "name": "John Klein",
-      "team": "Minnesota Twins",
-      "bf": 19,
-      "xr_allowed": 0.8436
+      "team": "Toronto Blue Jays",
+      "bf": 35,
+      "xr_allowed": 0.531
     },
     "666619": {
       "name": "Gregory Santos",
@@ -7403,8 +7403,8 @@
     "622088": {
       "name": "Tejay Antone",
       "team": "Cincinnati Reds",
-      "bf": 227,
-      "xr_allowed": -9.7844
+      "bf": 230,
+      "xr_allowed": -10.2296
     },
     "663423": {
       "name": "Trent Thornton",
@@ -11526,6 +11526,7 @@
     823248,
     823085,
     822678,
-    824219
+    824219,
+    822759
   ]
 }
