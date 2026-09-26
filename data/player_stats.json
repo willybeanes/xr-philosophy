@@ -111,20 +111,20 @@
     "665833": {
       "name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
-      "pa": 399,
-      "xr": 10.1881
+      "pa": 400,
+      "xr": 9.963
     },
     "664040": {
       "name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
-      "pa": 633,
-      "xr": 10.9167
+      "pa": 637,
+      "xr": 11.1046
     },
     "668804": {
       "name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
-      "pa": 681,
-      "xr": 26.9283
+      "pa": 685,
+      "xr": 27.6629
     },
     "542303": {
       "name": "Marcell Ozuna",
@@ -135,8 +135,8 @@
     "656811": {
       "name": "Ryan O'Hearn",
       "team": "Pittsburgh Pirates",
-      "pa": 430,
-      "xr": 3.0083
+      "pa": 434,
+      "xr": 2.7614
     },
     "596019": {
       "name": "Francisco Lindor",
@@ -195,14 +195,14 @@
     "669707": {
       "name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
-      "pa": 350,
-      "xr": -7.8153
+      "pa": 352,
+      "xr": -8.1729
     },
     "687462": {
       "name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
-      "pa": 428,
-      "xr": 0.0955
+      "pa": 432,
+      "xr": -0.0251
     },
     "693304": {
       "name": "Nick Gonzales",
@@ -213,8 +213,8 @@
     "680779": {
       "name": "Henry Davis",
       "team": "Pittsburgh Pirates",
-      "pa": 292,
-      "xr": -7.3609
+      "pa": 295,
+      "xr": -7.078
     },
     "805367": {
       "name": "Chase Meidroth",
@@ -873,26 +873,26 @@
     "682985": {
       "name": "Riley Greene",
       "team": "Detroit Tigers",
-      "pa": 572,
-      "xr": 24.6677
+      "pa": 576,
+      "xr": 24.3146
     },
     "679529": {
       "name": "Spencer Torkelson",
       "team": "Detroit Tigers",
-      "pa": 593,
-      "xr": -4.798
+      "pa": 597,
+      "xr": -5.1775
     },
     "805808": {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 689,
-      "xr": 29.782
+      "pa": 694,
+      "xr": 28.5273
     },
     "693307": {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 590,
-      "xr": 20.9652
+      "pa": 594,
+      "xr": 20.725
     },
     "678009": {
       "name": "Parker Meadows",
@@ -903,8 +903,8 @@
     "595879": {
       "name": "Javier B\u00e1ez",
       "team": "Detroit Tigers",
-      "pa": 192,
-      "xr": -10.0759
+      "pa": 196,
+      "xr": -7.9512
     },
     "665487": {
       "name": "Fernando Tatis Jr.",
@@ -1839,8 +1839,8 @@
     "656716": {
       "name": "Zach McKinstry",
       "team": "Detroit Tigers",
-      "pa": 412,
-      "xr": -12.9231
+      "pa": 414,
+      "xr": -12.4345
     },
     "664034": {
       "name": "Ty France",
@@ -2019,8 +2019,8 @@
     "663968": {
       "name": "Jake Mangum",
       "team": "Pittsburgh Pirates",
-      "pa": 473,
-      "xr": -9.5475
+      "pa": 476,
+      "xr": -9.8622
     },
     "668901": {
       "name": "Mark Vientos",
@@ -2349,8 +2349,8 @@
     "804606": {
       "name": "Konnor Griffin",
       "team": "Pittsburgh Pirates",
-      "pa": 313,
-      "xr": -3.8399
+      "pa": 317,
+      "xr": -3.0934
     },
     "641487": {
       "name": "J.P. Crawford",
@@ -2469,8 +2469,8 @@
     "695257": {
       "name": "Billy Cook",
       "team": "Pittsburgh Pirates",
-      "pa": 45,
-      "xr": -4.3831
+      "pa": 46,
+      "xr": -4.9695
     },
     "672761": {
       "name": "Wenceel P\u00e9rez",
@@ -2595,8 +2595,8 @@
     "701678": {
       "name": "Hao-Yu Lee",
       "team": "Detroit Tigers",
-      "pa": 350,
-      "xr": -3.9146
+      "pa": 355,
+      "xr": -3.1607
     },
     "694025": {
       "name": "Felix Reyes",
@@ -3171,8 +3171,8 @@
     "694378": {
       "name": "Jacob Gonzalez",
       "team": "Pittsburgh Pirates",
-      "pa": 221,
-      "xr": -1.3534
+      "pa": 223,
+      "xr": -0.8096
     },
     "813841": {
       "name": "Jonah Cox",
@@ -3447,8 +3447,8 @@
     "701162": {
       "name": "Ben Malgeri",
       "team": "Detroit Tigers",
-      "pa": 137,
-      "xr": 1.0556
+      "pa": 139,
+      "xr": 1.5835
     },
     "640459": {
       "name": "Brian Navarreto",
@@ -3561,8 +3561,8 @@
     "680664": {
       "name": "Eduardo Valencia",
       "team": "Detroit Tigers",
-      "pa": 129,
-      "xr": 5.4455
+      "pa": 134,
+      "xr": 4.8548
     },
     "687529": {
       "name": "Grant McCray",
@@ -3657,8 +3657,8 @@
     "703601": {
       "name": "Max Clark",
       "team": "Detroit Tigers",
-      "pa": 197,
-      "xr": -1.1358
+      "pa": 202,
+      "xr": -2.7408
     },
     "680716": {
       "name": "Jonathan Ornelas",
@@ -3723,8 +3723,8 @@
     "682927": {
       "name": "Ronny Simon",
       "team": "Pittsburgh Pirates",
-      "pa": 63,
-      "xr": -2.0224
+      "pa": 66,
+      "xr": -2.5292
     },
     "665506": {
       "name": "Cristian Pache",
@@ -4037,14 +4037,14 @@
     "670990": {
       "name": "Yohan Ram\u00edrez",
       "team": "Pittsburgh Pirates",
-      "bf": 344,
-      "xr_allowed": -10.8205
+      "bf": 351,
+      "xr_allowed": -10.9435
     },
     "682254": {
       "name": "Mason Montgomery",
       "team": "Pittsburgh Pirates",
-      "bf": 261,
-      "xr_allowed": -18.228
+      "bf": 266,
+      "xr_allowed": -18.573
     },
     "676755": {
       "name": "Isaac Mattson",
@@ -4067,8 +4067,8 @@
     "642397": {
       "name": "Gregory Soto",
       "team": "Pittsburgh Pirates",
-      "bf": 275,
-      "xr_allowed": -11.251
+      "bf": 278,
+      "xr_allowed": -11.2787
     },
     "642701": {
       "name": "Dennis Santana",
@@ -4847,8 +4847,8 @@
     "641755": {
       "name": "Tyler Kinley",
       "team": "Detroit Tigers",
-      "bf": 225,
-      "xr_allowed": -6.0165
+      "bf": 228,
+      "xr_allowed": -5.7915
     },
     "681347": {
       "name": "Mike Burrows",
@@ -5333,8 +5333,8 @@
     "596133": {
       "name": "Luke Weaver",
       "team": "Pittsburgh Pirates",
-      "bf": 229,
-      "xr_allowed": -4.7863
+      "bf": 232,
+      "xr_allowed": -4.669
     },
     "548384": {
       "name": "Brooks Raley",
@@ -5549,8 +5549,8 @@
     "676428": {
       "name": "Brant Hurter",
       "team": "Detroit Tigers",
-      "bf": 125,
-      "xr_allowed": -2.1202
+      "bf": 131,
+      "xr_allowed": -2.1405
     },
     "657756": {
       "name": "Connor Seabold",
@@ -5741,8 +5741,8 @@
     "669387": {
       "name": "Carmen Mlodzinski",
       "team": "Pittsburgh Pirates",
-      "bf": 503,
-      "xr_allowed": 18.6669
+      "bf": 515,
+      "xr_allowed": 17.8463
     },
     "640455": {
       "name": "Sean Manaea",
@@ -6149,8 +6149,8 @@
     "434378": {
       "name": "Justin Verlander",
       "team": "Detroit Tigers",
-      "bf": 19,
-      "xr_allowed": 3.0302
+      "bf": 39,
+      "xr_allowed": 2.9111
     },
     "808963": {
       "name": "Roki Sasaki",
@@ -6731,8 +6731,8 @@
     "681895": {
       "name": "Evan Sisk",
       "team": "Pittsburgh Pirates",
-      "bf": 188,
-      "xr_allowed": -3.3835
+      "bf": 192,
+      "xr_allowed": -2.977
     },
     "686894": {
       "name": "Joey Wiemer",
@@ -7433,8 +7433,8 @@
     "489446": {
       "name": "Kirby Yates",
       "team": "Pittsburgh Pirates",
-      "bf": 168,
-      "xr_allowed": -1.2155
+      "bf": 174,
+      "xr_allowed": -0.9511
     },
     "666201": {
       "name": "Alek Manoah",
@@ -8045,8 +8045,8 @@
     "621097": {
       "name": "Jacob Waguespack",
       "team": "Detroit Tigers",
-      "bf": 177,
-      "xr_allowed": -6.4062
+      "bf": 183,
+      "xr_allowed": -6.3542
     },
     "621074": {
       "name": "Michael Rucker",
@@ -11525,6 +11525,7 @@
     824947,
     823248,
     823085,
-    822678
+    822678,
+    824219
   ]
 }
