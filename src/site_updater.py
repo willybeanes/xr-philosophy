@@ -80,120 +80,125 @@ CONTRAST_AWAY = "#2563eb"
 CONTRAST_HOME = "#2563eb"
 
 
-def _generate_chart_svg(g: dict) -> str:
+def _num(v):
+    """Round to 2dp and drop a trailing .0 so the JSON payload stays small."""
+    v = round(v, 2)
+    return int(v) if v == int(v) else v
+
+
+def _chart_payload(g: dict) -> list | None:
+    """Compact per-game chart data, drawn client-side by renderChart() in CHART_JS.
+
+    Layout: [away_abbr, home_abbr, away_color, home_color, halves, a_xr, h_xr, a_r, h_r]
+    where each list has one entry per PA (PA number is index + 1) and halves[i] is
+    inning * 2 + (0 for top, 1 for bottom).
+    """
     cd = g.get("chart_data")
     if not cd:
-        return ""
+        return None
 
-    away_abbr = _get_abbr(g, "away")
-    home_abbr = _get_abbr(g, "home")
     away_color = _get_color(g["away_team"], "#2563eb")
     home_color = _get_color(g["home_team"], "#dc2626")
-
     if _colors_too_similar(away_color, home_color):
         away_color = CONTRAST_AWAY
 
-    points = [{"pa": 0, "a_xr": 0, "h_xr": 0, "a_r": 0, "h_r": 0, "inn": 1, "top": True}]
-    for p in cd:
-        points.append({
-            "pa": p["pa"], "a_xr": p["a_xr"], "h_xr": p["h_xr"],
-            "a_r": p["a_r"], "h_r": p["h_r"], "inn": p["inn"],
-            "top": p.get("top", True),
-        })
-
-    inning_starts = {}
-    for p in cd:
-        if p["inn"] not in inning_starts:
-            inning_starts[p["inn"]] = p["pa"]
-
-    # Find half-inning boundaries (where top/bottom switches = 3rd out made)
-    half_inning_breaks = []
-    for i in range(1, len(cd)):
-        prev_half = (cd[i-1]["inn"], cd[i-1].get("top", True))
-        curr_half = (cd[i]["inn"], cd[i].get("top", True))
-        if prev_half != curr_half:
-            half_inning_breaks.append(cd[i]["pa"])
-
-    W = 720; H = 340
-    PL = 42; PR = 40; PT = 14; PB = 36
-    PW = W - PL - PR; PH = H - PT - PB
-
-    max_pa = max(p["pa"] for p in points) or 1
-    max_y = max(
-        max((p["a_xr"] for p in points), default=1),
-        max((p["h_xr"] for p in points), default=1),
-        max((p["a_r"] for p in points), default=1),
-        max((p["h_r"] for p in points), default=1),
-        1
-    ) * 1.15
-
-    def sx(pa): return PL + (pa / max_pa) * PW
-    def sy(val): return PT + PH - (val / max_y) * PH
-
-    def step_path(pts, key):
-        parts = []
-        for i, p in enumerate(pts):
-            x = sx(p["pa"]); y = sy(p[key])
-            parts.append(f"M {x:.1f} {y:.1f}" if i == 0 else f"H {x:.1f} V {y:.1f}")
-        return " ".join(parts)
-
-    step = 2 if max_y > 6 else 1
-    y_grid = ""
-    for v in range(0, int(max_y) + 1, step):
-        y = sy(v)
-        y_grid += f'<line x1="{PL}" y1="{y:.0f}" x2="{W-PR}" y2="{y:.0f}" stroke="#e5e7eb" stroke-width="0.5"/>'
-        y_grid += f'<text x="{PL-6}" y="{y+4:.0f}" text-anchor="end" fill="#9ca3af" font-size="10">{v}</text>'
-
-    inn_svg = ""
-    # Half-inning break lines (3rd out)
-    for pa_break in half_inning_breaks:
-        x = sx(pa_break)
-        inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/>'
-    # Inning start lines and labels
-    for inn, pa_start in inning_starts.items():
-        x = sx(pa_start)
-        inn_svg += f'<line x1="{x:.0f}" y1="{PT}" x2="{x:.0f}" y2="{PT+PH}" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/>'
-        next_start = inning_starts.get(inn + 1, max_pa)
-        mid = sx((pa_start + next_start) / 2)
-        inn_svg += f'<text x="{mid:.0f}" y="{PT+PH+14}" text-anchor="middle" fill="#9ca3af" font-size="10">{inn}</text>'
-
-    last = points[-1]
-    positions = [
-        ("a_xr", away_color, f'{last["a_xr"]:.1f}', "1"),
-        ("a_r", away_color, f'{last["a_r"]}', "0.6"),
-        ("h_xr", home_color, f'{last["h_xr"]:.1f}', "1"),
-        ("h_r", home_color, f'{last["h_r"]}', "0.6"),
+    return [
+        _get_abbr(g, "away"), _get_abbr(g, "home"), away_color, home_color,
+        [p["inn"] * 2 + (0 if p.get("top", True) else 1) for p in cd],
+        [_num(p["a_xr"]) for p in cd],
+        [_num(p["h_xr"]) for p in cd],
+        [_num(p["a_r"]) for p in cd],
+        [_num(p["h_r"]) for p in cd],
     ]
-    labels = ""
-    used_y = []
-    for key, color, text, opacity in positions:
-        y = sy(last[key])
-        for uy in used_y:
-            if abs(y - uy) < 12:
-                y = uy - 12 if y < uy else uy + 12
-        used_y.append(y)
-        labels += f'<text x="{W-PR+4}" y="{y+4:.0f}" fill="{color}" font-size="10" font-weight="600" opacity="{opacity}">{text}</text>'
 
-    FONT = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
 
-    return f"""<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:{W}px;font-family:{FONT}">
-{y_grid}{inn_svg}
-<path d="{step_path(points, 'a_r')}" fill="none" stroke="{away_color}" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
-<path d="{step_path(points, 'h_r')}" fill="none" stroke="{home_color}" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.65"/>
-<path d="{step_path(points, 'a_xr')}" fill="none" stroke="{away_color}" stroke-width="2.5"/>
-<path d="{step_path(points, 'h_xr')}" fill="none" stroke="{home_color}" stroke-width="2.5"/>
-{labels}
-<line x1="{PL}" y1="{PT}" x2="{PL}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
-<line x1="{PL}" y1="{PT+PH}" x2="{W-PR}" y2="{PT+PH}" stroke="#d1d5db" stroke-width="1"/>
-<line x1="{PL+6}" y1="{PT+7}" x2="{PL+22}" y2="{PT+7}" stroke="{away_color}" stroke-width="2.5"/>
-<text x="{PL+25}" y="{PT+10}" fill="{away_color}" font-size="10" font-weight="600">{away_abbr} xR</text>
-<line x1="{PL+72}" y1="{PT+7}" x2="{PL+88}" y2="{PT+7}" stroke="{away_color}" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+91}" y="{PT+10}" fill="{away_color}" font-size="10" opacity="0.5">{away_abbr} actual</text>
-<line x1="{PL+160}" y1="{PT+7}" x2="{PL+176}" y2="{PT+7}" stroke="{home_color}" stroke-width="2.5"/>
-<text x="{PL+179}" y="{PT+10}" fill="{home_color}" font-size="10" font-weight="600">{home_abbr} xR</text>
-<line x1="{PL+226}" y1="{PT+7}" x2="{PL+242}" y2="{PT+7}" stroke="{home_color}" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"/>
-<text x="{PL+245}" y="{PT+10}" fill="{home_color}" font-size="10" opacity="0.5">{home_abbr} actual</text>
-</svg>"""
+# Client-side port of the cumulative xR chart. Charts are drawn on first expand
+# rather than embedded as ~2,400 inline SVGs (which made the page ~27 MB).
+CHART_JS = r"""
+var CHART_DATA = null;
+function renderChart(gpk) {
+  if (!CHART_DATA) CHART_DATA = JSON.parse(document.getElementById('chart-data').textContent);
+  var d = CHART_DATA[gpk];
+  if (!d) return '';
+  var awayAbbr = d[0], homeAbbr = d[1], awayColor = d[2], homeColor = d[3], halves = d[4];
+  var n = halves.length;
+  var pts = [{pa: 0, a_xr: 0, h_xr: 0, a_r: 0, h_r: 0}];
+  for (var i = 0; i < n; i++) pts.push({pa: i + 1, a_xr: d[5][i], h_xr: d[6][i], a_r: d[7][i], h_r: d[8][i]});
+
+  var innOrder = [], innStart = {}, halfBreaks = [];
+  for (var i = 0; i < n; i++) {
+    var inn = halves[i] >> 1;
+    if (!(inn in innStart)) { innStart[inn] = i + 1; innOrder.push(inn); }
+    if (i > 0 && halves[i] !== halves[i - 1]) halfBreaks.push(i + 1);
+  }
+
+  var W = 720, H = 340, PL = 42, PR = 40, PT = 14, PB = 36;
+  var PW = W - PL - PR, PH = H - PT - PB;
+  var maxPa = n || 1;
+  var maxY = 1;
+  pts.forEach(function(p) { maxY = Math.max(maxY, p.a_xr, p.h_xr, p.a_r, p.h_r); });
+  maxY *= 1.15;
+  function sx(pa) { return PL + (pa / maxPa) * PW; }
+  function sy(v) { return PT + PH - (v / maxY) * PH; }
+  function stepPath(key) {
+    return pts.map(function(p, i) {
+      var x = sx(p.pa).toFixed(1), y = sy(p[key]).toFixed(1);
+      return i === 0 ? 'M ' + x + ' ' + y : 'H ' + x + ' V ' + y;
+    }).join(' ');
+  }
+
+  var out = '';
+  var step = maxY > 6 ? 2 : 1;
+  for (var v = 0; v <= Math.floor(maxY); v += step) {
+    var y = sy(v);
+    out += '<line x1="' + PL + '" y1="' + y.toFixed(0) + '" x2="' + (W - PR) + '" y2="' + y.toFixed(0) + '" stroke="#e5e7eb" stroke-width="0.5"/>';
+    out += '<text x="' + (PL - 6) + '" y="' + (y + 4).toFixed(0) + '" text-anchor="end" fill="#9ca3af" font-size="10">' + v + '</text>';
+  }
+  halfBreaks.forEach(function(pa) {
+    var x = sx(pa).toFixed(0);
+    out += '<line x1="' + x + '" y1="' + PT + '" x2="' + x + '" y2="' + (PT + PH) + '" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="2,3"/>';
+  });
+  innOrder.forEach(function(inn) {
+    var start = innStart[inn], x = sx(start).toFixed(0);
+    var next = (inn + 1) in innStart ? innStart[inn + 1] : maxPa;
+    out += '<line x1="' + x + '" y1="' + PT + '" x2="' + x + '" y2="' + (PT + PH) + '" stroke="#e5e7eb" stroke-width="0.5" stroke-dasharray="3,3"/>';
+    out += '<text x="' + sx((start + next) / 2).toFixed(0) + '" y="' + (PT + PH + 14) + '" text-anchor="middle" fill="#9ca3af" font-size="10">' + inn + '</text>';
+  });
+
+  function series(key, color, width, dashed) {
+    return '<path d="' + stepPath(key) + '" fill="none" stroke="' + color + '" stroke-width="' + width + '"' +
+      (dashed ? ' stroke-dasharray="6,4" opacity="0.65"' : '') + '/>';
+  }
+  out += series('a_r', awayColor, 1.5, true) + series('h_r', homeColor, 1.5, true);
+  out += series('a_xr', awayColor, 2.5, false) + series('h_xr', homeColor, 2.5, false);
+
+  var last = pts[n], usedY = [];
+  [['a_xr', awayColor, last.a_xr.toFixed(1), '1'], ['a_r', awayColor, String(last.a_r), '0.6'],
+   ['h_xr', homeColor, last.h_xr.toFixed(1), '1'], ['h_r', homeColor, String(last.h_r), '0.6']].forEach(function(l) {
+    var y = sy(last[l[0]]);
+    usedY.forEach(function(uy) { if (Math.abs(y - uy) < 12) y = y < uy ? uy - 12 : uy + 12; });
+    usedY.push(y);
+    out += '<text x="' + (W - PR + 4) + '" y="' + (y + 4).toFixed(0) + '" fill="' + l[1] + '" font-size="10" font-weight="600" opacity="' + l[3] + '">' + l[2] + '</text>';
+  });
+
+  out += '<line x1="' + PL + '" y1="' + PT + '" x2="' + PL + '" y2="' + (PT + PH) + '" stroke="#d1d5db" stroke-width="1"/>';
+  out += '<line x1="' + PL + '" y1="' + (PT + PH) + '" x2="' + (W - PR) + '" y2="' + (PT + PH) + '" stroke="#d1d5db" stroke-width="1"/>';
+  function legend(x, color, label, dashed) {
+    return '<line x1="' + (PL + x) + '" y1="' + (PT + 7) + '" x2="' + (PL + x + 16) + '" y2="' + (PT + 7) + '" stroke="' + color + '"' +
+      (dashed ? ' stroke-width="1.5" stroke-dasharray="4,3" opacity="0.65"' : ' stroke-width="2.5"') + '/>' +
+      '<text x="' + (PL + x + 19) + '" y="' + (PT + 10) + '" fill="' + color + '" font-size="10"' +
+      (dashed ? ' opacity="0.5"' : ' font-weight="600"') + '>' + label + '</text>';
+  }
+  out += legend(6, awayColor, awayAbbr + ' xR', false) + legend(72, awayColor, awayAbbr + ' actual', true);
+  out += legend(160, homeColor, homeAbbr + ' xR', false) + legend(226, homeColor, homeAbbr + ' actual', true);
+
+  return '<svg viewBox="0 0 ' + W + ' ' + H + '" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:' + W +
+    'px;font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif">' + out + '</svg>';
+}
+function ensureChart(el, gpk) {
+  if (!el.dataset.rendered) { el.innerHTML = renderChart(gpk); el.dataset.rendered = '1'; }
+}
+"""
 
 
 def _is_mismatch(g: dict) -> bool:
@@ -341,14 +346,13 @@ def _build_backwards_callout(game: dict) -> str:
 
     gpk = game["gamePk"]
     has_chart = "chart_data" in game and game["chart_data"]
-    chart_svg = _generate_chart_svg(game) if has_chart else ""
     toggle_js = f'toggleBackwards()' if has_chart else ''
     click_attr = f' onclick="{toggle_js}"' if has_chart else ''
     arrow = ' <span class="bw-arrow" id="bw-arrow">&#9656;</span>' if has_chart else ''
 
     chart_html = ""
-    if chart_svg:
-        chart_html = f'<div class="bw-chart" id="bw-chart" style="display:none">{chart_svg}</div>'
+    if has_chart:
+        chart_html = f'<div class="bw-chart" id="bw-chart" data-gpk="{gpk}" style="display:none"></div>'
 
     return f"""<div class="backwards-callout"{click_attr}>
   <div class="bw-label">Most Backwards Game{arrow}</div>
@@ -540,11 +544,15 @@ def regenerate_site() -> None:
                 f"</tr>\n"
             )
             if has_chart:
-                svg = _generate_chart_svg(g)
                 games_rows += (
                     f'<tr class="chart-row date-group date-{date_id}" id="chart-{gpk}" style="display:none">'
-                    f'<td colspan="5" class="chart-cell">{svg}</td></tr>\n'
+                    f'<td colspan="5" class="chart-cell"></td></tr>\n'
                 )
+
+    chart_json = json.dumps(
+        {g["gamePk"]: _chart_payload(g) for g in scores if g.get("chart_data")},
+        separators=(",", ":"),
+    ).replace("</", "<\\/")
 
     # ── Teams tab rows ──
     teams_rows = _build_teams_table(scores)
@@ -859,12 +867,15 @@ footer strong {{ color: var(--text); }}
   <p style="margin-top:0.5rem">Data from MLB Stats API &amp; Statcast. Updated automatically.</p>
 </footer>
 
+<script id="chart-data" type="application/json">{chart_json}</script>
+<script>{CHART_JS}</script>
 <script>
 function toggleBackwards() {{
   var chart = document.getElementById('bw-chart');
   var arrow = document.getElementById('bw-arrow');
   if (!chart) return;
   if (chart.style.display === 'none') {{
+    ensureChart(chart, chart.dataset.gpk);
     chart.style.display = ''; arrow.classList.add('expanded');
   }} else {{
     chart.style.display = 'none'; arrow.classList.remove('expanded');
@@ -874,6 +885,7 @@ function toggle(gpk) {{
   var chart = document.getElementById('chart-' + gpk);
   var row = document.querySelector('tr[data-gpk="' + gpk + '"]');
   if (chart.style.display === 'none') {{
+    ensureChart(chart.firstElementChild, gpk);
     chart.style.display = ''; row.classList.add('expanded');
   }} else {{
     chart.style.display = 'none'; row.classList.remove('expanded');
