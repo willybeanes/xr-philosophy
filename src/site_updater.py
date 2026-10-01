@@ -8,6 +8,20 @@ from datetime import date, datetime, timezone, timedelta
 from src.bluesky_poster import TEAM_ABBR, TEAM_COLORS, TEAM_IDS
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
+
+REDIRECT_HTML = """<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=https://baseballhopper.com/xr">
+  <link rel="canonical" href="https://baseballhopper.com/xr">
+  <title>xR Philosophy — Baseball Hopper</title>
+</head>
+<body>
+  <p>Redirecting to <a href="https://baseballhopper.com/xr">Baseball Hopper</a>…</p>
+</body>
+</html>
+"""
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
 PLAYER_STATS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "player_stats.json")
 
@@ -954,7 +968,11 @@ function sortPlayerTable(tableId, col) {{
 </body>
 </html>"""
 
+    # Full page lives at app.html (Baseball Hopper proxies it at /xr);
+    # index.html is a fixed redirect so the old GitHub Pages URL lands on the hopper.
     os.makedirs(DOCS_DIR, exist_ok=True)
-    with open(os.path.join(DOCS_DIR, "index.html"), "w") as f:
+    with open(os.path.join(DOCS_DIR, "app.html"), "w") as f:
         f.write(html)
-    print(f"  Site regenerated: docs/index.html ({total_games} games, {mismatch_count} mismatches)")
+    with open(os.path.join(DOCS_DIR, "index.html"), "w") as f:
+        f.write(REDIRECT_HTML)
+    print(f"  Site regenerated: docs/app.html ({total_games} games, {mismatch_count} mismatches)")

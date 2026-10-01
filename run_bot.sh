@@ -20,7 +20,7 @@ git config user.email "xrbot@users.noreply.github.com"
 python main.py
 
 # Commit and push results
-git add data/posted_games.json data/scores.json data/player_stats.json docs/index.html
+git add data/posted_games.json data/scores.json data/player_stats.json docs/index.html docs/app.html
 if git diff --staged --quiet; then
     echo "No changes to commit"
 else
