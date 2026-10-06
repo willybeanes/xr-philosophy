@@ -28,7 +28,7 @@ services:
     branch: main
     plan: starter
     autoDeploy: false  # bot commits data back to main every run — don't rebuild on those pushes
-    schedule: "0 13 * * 1"  # Monday 9 AM ET = 13:00 UTC
+    schedule: "0 13 * 3-9 1"  # Monday 9 AM ET = 13:00 UTC, regular season only (Mar-Sep)
     buildCommand: |
       apt-get update && apt-get install -y libcairo2
       pip install -r requirements.txt
