@@ -7,7 +7,7 @@ services:
     branch: main
     plan: starter
     autoDeploy: false  # bot commits data back to main every run — don't rebuild on those pushes
-    schedule: "*/10 15-23,0-7 * 4-10 *"  # Every 10 min, 11 AM–3 AM ET (UTC)
+    schedule: "*/10 15-23,0-7 * 4-11 *"  # Every 10 min, 11 AM–3 AM ET (UTC)
     buildCommand: pip install -r requirements.txt
     startCommand: bash run_bot.sh
     envVars:

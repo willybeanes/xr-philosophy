@@ -27,14 +27,14 @@ def _get(url: str) -> dict:
 
 
 def get_todays_games(game_date: date | None = None) -> list[dict]:
-    """Fetch today's final regular-season games.
+    """Fetch today's final regular-season and postseason games.
 
     Returns a list of game dicts with keys:
         gamePk, away_team, home_team, away_abbr, home_abbr,
         away_score, home_score, status
     """
     d = game_date or date.today()
-    url = f"{BASE_URL}/v1/schedule?sportId=1&date={d.isoformat()}&gameType=R&hydrate=linescore"
+    url = f"{BASE_URL}/v1/schedule?sportId=1&date={d.isoformat()}&gameType=R,F,D,L,W&hydrate=linescore"
     data = _get(url)
 
     games = []
@@ -53,6 +53,7 @@ def get_todays_games(game_date: date | None = None) -> list[dict]:
 
             games.append({
                 "gamePk": game["gamePk"],
+                "game_type": game.get("gameType", "R"),
                 "game_date": game_date_entry.get("date", d.isoformat()),
                 "away_team": teams["away"]["team"]["name"],
                 "home_team": teams["home"]["team"]["name"],

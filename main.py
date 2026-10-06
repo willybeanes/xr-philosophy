@@ -161,7 +161,8 @@ def main():
 
             # Save score, update player stats, and mark as posted
             save_score(game, away_xr, home_xr, chart_data=xr.get("cumulative"))
-            update_player_stats(game, plays, player_stats)
+            if game.get("game_type", "R") == "R":
+                update_player_stats(game, plays, player_stats)
             posted.add(str(gpk))
             save_posted(posted)
 

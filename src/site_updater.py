@@ -23,19 +23,23 @@ REDIRECT_HTML = """<!DOCTYPE html>
 </html>
 """
 SCORES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "scores.json")
+# Postseason games are posted and listed on the Games tab but kept out of
+# scores.json so they never touch team totals, graphs or weekly tiers.
+POSTSEASON_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "postseason.json")
 PLAYER_STATS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "player_stats.json")
 
 
-def load_scores() -> list[dict]:
-    if not os.path.exists(SCORES_PATH):
+def load_scores(path: str = SCORES_PATH) -> list[dict]:
+    if not os.path.exists(path):
         return []
-    with open(SCORES_PATH) as f:
+    with open(path) as f:
         return json.load(f)
 
 
 def save_score(game: dict, away_xr: float, home_xr: float,
                chart_data: list | None = None) -> None:
-    scores = load_scores()
+    path = SCORES_PATH if game.get("game_type", "R") == "R" else POSTSEASON_PATH
+    scores = load_scores(path)
     existing_pks = {s["gamePk"] for s in scores}
     if game["gamePk"] in existing_pks:
         return
@@ -54,8 +58,8 @@ def save_score(game: dict, away_xr: float, home_xr: float,
     if chart_data is not None:
         entry["chart_data"] = chart_data
     scores.append(entry)
-    os.makedirs(os.path.dirname(SCORES_PATH), exist_ok=True)
-    with open(SCORES_PATH, "w") as f:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w") as f:
         json.dump(scores, f, indent=2)
 
 
@@ -498,8 +502,10 @@ def _build_scatter_svg(scores: list, x_key: str, y_key: str,
 def regenerate_site() -> None:
     scores = load_scores()
 
+    postseason = load_scores(POSTSEASON_PATH)
+
     by_date: dict[str, list] = {}
-    for s in scores:
+    for s in scores + postseason:
         by_date.setdefault(s["date"], []).append(s)
 
     total_games = len(scores)
@@ -550,7 +556,7 @@ def regenerate_site() -> None:
                 )
 
     chart_json = json.dumps(
-        {g["gamePk"]: _chart_payload(g) for g in scores if g.get("chart_data")},
+        {g["gamePk"]: _chart_payload(g) for g in scores + postseason if g.get("chart_data")},
         separators=(",", ":"),
     ).replace("</", "<\\/")
 
