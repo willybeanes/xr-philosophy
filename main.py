@@ -78,18 +78,19 @@ def update_player_stats(game: dict, plays: list, player_stats: dict) -> None:
     player_stats["processed_games"].append(game["gamePk"])
 
 
-def stage_postseason() -> None:
-    """Stage postseason.json so the cron's commit step picks it up.
+def stage_outputs() -> None:
+    """Stage postseason.json and docs/app.html so the cron's commit step picks them up.
 
     Render runs run_bot.sh from its build-time copy, which only `git add`s a
-    fixed file list; staging here keeps postseason games from being dropped
-    even when that copy is stale.
+    fixed file list (pre-October: no app.html, no postseason.json); staging
+    here keeps new games and the regenerated page from being dropped even
+    when that copy is stale.
     """
     try:
-        subprocess.run(["git", "add", "data/postseason.json"],
+        subprocess.run(["git", "add", "data/postseason.json", "docs/app.html"],
                        cwd=os.path.dirname(__file__), check=True)
     except Exception as e:
-        print(f"  WARNING: could not stage postseason.json: {e}")
+        print(f"  WARNING: could not stage bot outputs: {e}")
 
 
 def main():
@@ -189,7 +190,7 @@ def main():
 
     save_player_stats(player_stats)
     regenerate_site()
-    stage_postseason()
+    stage_outputs()
 
     if errors:
         print(f"\nCompleted with {errors} error(s)")
